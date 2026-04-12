@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/move_page.xlf">
+    <header/>
+    <body>
+      <trans-unit id="headline">
+        <source>Move page "%1$s" [%2$d]</source>
+        <target>Seite "%1$s" [%2$d] umziehen, Alter</target>
+      </trans-unit>
+      <trans-unit id="currentPath">
+        <source>Current path</source>
+        <target>Aktueller Pfad</target>
+      </trans-unit>
+      <trans-unit id="makeCopy">
+        <source>Copy page instead of moving page</source>
+        <target>Seite kopieren statt umziehen</target>
+      </trans-unit>
+      <trans-unit id="samePageConflict">
+        <source>The page "%1$s" [%2$d] cannot get moved into itself.</source>
+        <target>Die Seite "%1$s" [%2$d] kann nicht in sich selbst verschoben werden, Digga. Das waere ein Paradoxon.</target>
+      </trans-unit>
+      <trans-unit id="action.pasteAbove">
+        <source>Paste above</source>
+        <target>Drueber pasten</target>
+      </trans-unit>
+      <trans-unit id="action.pasteBelow">
+        <source>Paste below</source>
+        <target>Drunter pasten</target>
+      </trans-unit>
+      <trans-unit id="action.pasteInto">
+        <source>Paste into</source>
+        <target>Reinpasten</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.title">
+        <source>Page successfully moved</source>
+        <target>Seite erfolgreich verschoben, slay!</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.message">
+        <source>The page "%s" has been successfully moved.</source>
+        <target>Die Seite "%s" wurde erfolgreich verschoben.</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.title">
+        <source>Page successfully copied</source>
+        <target>Seite erfolgreich kopiert!</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.message">
+        <source>The page "%s" has been successfully copied.</source>
+        <target>Die Seite "%s" wurde erfolgreich kopiert.</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.dismiss">
+        <source>Dismiss</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.open">
+        <source>Open "%s"</source>
+        <target>"%s" oeffnen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

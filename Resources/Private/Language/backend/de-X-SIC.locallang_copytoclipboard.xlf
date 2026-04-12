@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_copytoclipboard.xlf">
+    <header/>
+    <body>
+      <trans-unit id="copyToClipboard.title">
+        <source>Copy %s to clipboard</source>
+        <target>%s in die Zwischenablage kopieren</target>
+      </trans-unit>
+      <trans-unit id="copyToClipboard.success">
+        <source>Copied to clipboard</source>
+        <target>In die Zwischenablage kopiert, easy!</target>
+      </trans-unit>
+      <trans-unit id="copyToClipboard.error">
+        <source>Could not be copied to clipboard</source>
+        <target>Konnte nicht in die Zwischenablage kopiert werden, oof</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

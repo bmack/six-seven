@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_settingseditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="settingseditor.mode.minimal">
+        <source>Minimal</source>
+        <target>Minimal (nur das Noetigste)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.mode.basic">
+        <source>Basic</source>
+        <target>Mid (Standard-Vibe)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.mode.advanced">
+        <source>Advanced</source>
+        <target>Advanced (Sigma-Modus)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.resetSetting">
+        <source>Reset setting</source>
+        <target>Einstellung resetten</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.copySettingsIdentifier">
+        <source>Copy identifier</source>
+        <target>Identifier kopieren</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.copyAsYaml">
+        <source>Copy as YAML</source>
+        <target>Als YAML kopieren</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.searchTermVisuallyHiddenLabel">
+        <source>Search settings</source>
+        <target>Settings durchsuchen</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.searchTermPlaceholder">
+        <source>Search settings</source>
+        <target>Settings durchsuchen...</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsTitle">
+        <source>No settings were found.</source>
+        <target>Keine Settings gefunden, Aura -500.</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsMessage">
+        <source>The search filters by setting value, label, description or identifier.</source>
+        <target>Die Suche filtert nach Setting-Wert, Label, Beschreibung oder Identifier.</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsResetButtonLabel">
+        <source>Reset filter</source>
+        <target>Filter resetten, Bro</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.type.page.button">
+        <source>Select page</source>
+        <target>Seite picken</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

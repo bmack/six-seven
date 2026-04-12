@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/label.xlf">
+    <header/>
+    <body>
+      <trans-unit id="delete_group">
+        <source>Delete task group</source>
+        <target>Side-Quest-Squad yeeten</target>
+      </trans-unit>
+      <trans-unit id="delete_task">
+        <source>Delete task</source>
+        <target>Side Quest yeeten</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

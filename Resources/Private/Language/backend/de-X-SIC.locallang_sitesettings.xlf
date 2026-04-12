@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_sitesettings.xlf">
+    <header/>
+    <body>
+      <trans-unit id="overview.title">
+        <source>Site Settings Overview</source>
+        <target>Site-Settings Ueberblick</target>
+      </trans-unit>
+      <trans-unit id="overview.setSummary">
+        <source>Sets (%d)</source>
+        <target>Sets (%d)</target>
+      </trans-unit>
+      <trans-unit id="overview.customSettingsSummary">
+        <source>Custom Settings (%d)</source>
+        <target>Custom Settings (%d)</target>
+      </trans-unit>
+      <trans-unit id="overview.editSettings">
+        <source>Edit Settings</source>
+        <target>Settings flexen</target>
+      </trans-unit>
+      <trans-unit id="overview.message.notEditable">
+        <source>The sets of this site do not provide any configurable settings.</source>
+        <target>Die Sets dieser Site haben keine konfigurierbaren Settings, nada.</target>
+      </trans-unit>
+      <trans-unit id="overview.noSiteSettingsExists.title">
+        <source>No configurable Site Settings found</source>
+        <target>Keine konfigurierbaren Site-Settings gefunden</target>
+      </trans-unit>
+      <trans-unit id="overview.noSiteSettingsExists.message">
+        <source>See the documentation for instructions on defining settings via site sets.</source>
+        <target>Schau in die Doku fuer Anleitungen zum Definieren von Settings ueber Site-Sets.</target>
+      </trans-unit>
+      <trans-unit id="overview.noSiteSettingsExists.button-documentation-label">
+        <source>Open the documentation</source>
+        <target>Doku aufmachen, Bro</target>
+      </trans-unit>
+      <trans-unit id="edit.headline">
+        <source>Site Settings for "%s"</source>
+        <target>Site-Settings fuer "%s"</target>
+      </trans-unit>
+      <trans-unit id="edit.noSettings.title">
+        <source>No settings available</source>
+        <target>Keine Settings vorhanden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="edit.noSettings.message">
+        <source>The site '%s' does not provide configurable settings.</source>
+        <target>Die Site '%s' hat keine konfigurierbaren Settings am Start.</target>
+      </trans-unit>
+      <trans-unit id="edit.yamlExport">
+        <source>YAML export</source>
+        <target>YAML-Export</target>
+      </trans-unit>
+      <trans-unit id="edit.editSiteConfiguration">
+        <source>Edit site configuration</source>
+        <target>Site-Konfig flexen</target>
+      </trans-unit>
+      <trans-unit id="save.message.updated">
+        <source>Settings updated.</source>
+        <target>Settings geupdatet, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="categories.other">
+        <source>Other</source>
+        <target>Der Rest, Alter</target>
+      </trans-unit>
+      <trans-unit id="labels.edit">
+        <source>Edit Site Settings "%s"</source>
+        <target>Site-Settings "%s" flexen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

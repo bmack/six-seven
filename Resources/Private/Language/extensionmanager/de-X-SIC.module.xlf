@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:extensionmanager/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>TYPO3 Extension Manager</source>
+        <target>TYPO3 Extension Dealer, sheesh</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manages TYPO3 extensions from a central repository. TYPO3 extensions include plugins, modules, class extensions, configuration code, etc.</source>
+        <target>Managt TYPO3 Extensions aus einem zentralen Repo. Extensions beinhalten Plugins, Module, Klassen-Erweiterungen, Konfigurations-Code und so weiter, Digga.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Extensions</source>
+        <target>Extensions, Homie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_formManager_javascript.xlf">
+    <header/>
+    <body>
+      <trans-unit id="formManager.form_name">
+        <source>Name</source>
+        <target>Name, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_name_description">
+        <source>Enter a meaningful and descriptive name for the form. The name is displayed only in the TYPO3 backend.</source>
+        <target>Gib dem Formular nen sinnvollen Namen, Digga. Wird nur im TYPO3-Backend angezeigt.</target>
+      </trans-unit>
+      <trans-unit id="formManager.new_form_name">
+        <source>New form name</source>
+        <target>Neuer Formular-Name, Digga</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_save_path" x-unused-since="14.2">
+        <source>Storage</source>
+        <target>Speicherort, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_save_path_description" x-unused-since="14.2">
+        <source>Select the storage where your form definition will be saved.</source>
+        <target>Waehl den Speicherort fuer deine Formular-Definition, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_storageLocation">
+        <source>Location</source>
+        <target>Standort, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_storageLocation_description">
+        <source>Select the location where the form will be saved.</source>
+        <target>Waehl den Ort wo das Formular gesaved wird.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_prototype">
+        <source>Form prototype</source>
+        <target>Formular-Prototyp, Alter</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_template">
+        <source>Template</source>
+        <target>Template, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_template_description">
+        <source>Select a template for building your new form.</source>
+        <target>Such dir ein Template fuer dein neues Formular aus, Digga.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_headline_general">
+        <source>General</source>
+        <target>Allgemein, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_copied">
+        <source>Copied form</source>
+        <target>Kopiertes Formular, sheesh</target>
+      </trans-unit>
+      <trans-unit id="formManager.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form">
+        <source>Delete</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form_title">
+        <source>Confirm deletion</source>
+        <target>Yeet-Bestaetigung</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form_message">
+        <source>Permanently delete form "{0}"? You cannot undo this action.</source>
+        <target>Formular "{0}" permanent yeeten? Kein Zurueck, Digga, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.title">
+        <source>Create new form</source>
+        <target>Neues Formular droppen</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.modes.summary.title">
+        <source>Mode</source>
+        <target>Modus, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.progressLabel">
+        <source>Choose</source>
+        <target>Auswaehlen, Digga</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.noStorages">
+        <source>You do not have permission to create forms. Please contact your administrator.</source>
+        <target>Du hast keine Berechtigung Formulare zu erstellen, Brudi. Frag deinen Admin.</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step2.title">
+        <source>Settings</source>
+        <target>Settings, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.title">
+        <source>Ready?</source>
+        <target>Ready, Digga?</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.progressLabel">
+        <source>Check</source>
+        <target>Check, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.message">
+        <source>Just check and confirm the settings you have entered. Done? Then you are ready to go.</source>
+        <target>Check nochmal deine Einstellungen und bestatige. Alles klar? Dann lets go, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.check">
+        <source>Check and confirm</source>
+        <target>Checken und bestaetigen, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step4.errorTitle">
+        <source>Create</source>
+        <target>Droppen</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step4.errorMessage">
+        <source>The form could not be saved</source>
+        <target>Formular konnte nicht gesaved werden, cringe</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.title">
+        <source>Storage location</source>
+        <target>Speicherort, Alter</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.description">
+        <source>Choose how the form should be saved:</source>
+        <target>Waehl aus wie das Formular gesaved werden soll:</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.progressLabel">
+        <source>Storage</source>
+        <target>Speicher, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.summary.title">
+        <source>Storage</source>
+        <target>Speicher, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step1.title">
+        <source>Duplicate form "{0}"</source>
+        <target>Formular "{0}" klonen</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.title">
+        <source>Ready?</source>
+        <target>Ready, Brudi?</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.progressLabel">
+        <source>Check</source>
+        <target>Check, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.check">
+        <source>Check and confirm</source>
+        <target>Checken und bestaetigen, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.message">
+        <source>Just check and confirm the settings you have entered. Done? Then you are ready to go.</source>
+        <target>Check nochmal deine Einstellungen. Fertig? Dann ab dafuer, Alter!</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step3.errorTitle">
+        <source>Duplicate</source>
+        <target>Klonen, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step3.errorMessage">
+        <source>The form could not be saved</source>
+        <target>Formular konnte nicht gesaved werden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="formManager.no_references">
+        <source>There are no references yet.</source>
+        <target>Noch keine Referenzen am Start, Digga.</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.control">
+        <source>Control</source>
+        <target>Steuerung, Digga</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.uid">
+        <source>Uid</source>
+        <target>UID, Alter</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.title">
+        <source>Title</source>
+        <target>Titel, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.btn.edit.title">
+        <source>Edit</source>
+        <target>Flexen</target>
+      </trans-unit>
+      <trans-unit id="formManager.references.title">
+        <source>Form: {0}</source>
+        <target>Formular: {0}, Digga</target>
+      </trans-unit>
+      <trans-unit id="formManager.references.headline">
+        <source>References to this item</source>
+        <target>Referenzen auf dieses Ding, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.label">
+        <source>Blank form</source>
+        <target>Leeres Formular, Bro</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.subtitle">
+        <source>Start fresh</source>
+        <target>Fresh starten, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.description">
+        <source>Create a new form from scratch.</source>
+        <target>Neues Formular from Scratch bauen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.label">
+        <source>Predefined form</source>
+        <target>Vordefiniertes Formular, Alter</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.subtitle">
+        <source>Use a form template</source>
+        <target>Template nutzen, Bre</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.description">
+        <source>Create a new form and use an existing form template for it.</source>
+        <target>Neues Formular erstellen und ein bestehendes Template dafuer nutzen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="formManager.finisher.redirect.success.title">
+        <source>Form created</source>
+        <target>Formular erstellt, slay!</target>
+      </trans-unit>
+      <trans-unit id="formManager.finisher.redirect.success.description">
+        <source>The form has been successfully created. Click "Finish" to be redirected to the newly created form.</source>
+        <target>Formular erfolgreich erstellt, sheesh! Klick "Fertig" um zum neuen Formular weitergeleitet zu werden.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

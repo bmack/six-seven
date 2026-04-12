@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:fluid/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="widget.pagination.previous">
+        <source>previous</source>
+        <target>zurueck, Digga</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.next">
+        <source>next</source>
+        <target>weiter, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.first">
+        <source>first</source>
+        <target>Anfang, Alter</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.last">
+        <source>last</source>
+        <target>Ende, Bro</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.records">
+        <source>Records</source>
+        <target>Datensaetze, Bre</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.page">
+        <source>Page</source>
+        <target>Seite, Homie</target>
+      </trans-unit>
+      <trans-unit id="widget.pagination.refresh">
+        <source>Refresh</source>
+        <target>Auffrischen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="viewhelper.format.bytes.units">
+        <source>B,KB,MB,GB,TB,PB,EB,ZB,YB</source>
+        <target>B,KB,MB,GB,TB,PB,EB,ZB,YB</target>
+      </trans-unit>
+      <trans-unit id="fluidNamespaces">
+        <source>Fluid: Global ViewHelper Namespaces</source>
+        <target>Fluid: Globale ViewHelper Namespaces, Digga</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

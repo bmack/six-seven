@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_debug.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>Debug</source>
+        <target>Debug</target>
+      </trans-unit>
+      <trans-unit id="module.shortinfoErrorsAndSQL">
+        <source>(%1$u Errors/Warnings, SQL: %2$ux / %3$u ms)</source>
+        <target>(%1$u Fails/Yo, Achtungen, SQL: %2$ux / %3$u ms)</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.label">
+        <source>Log</source>
+        <target>Log</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.message">
+        <source>Log Message</source>
+        <target>Log-Nachricht, Alter</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.component">
+        <source>Component</source>
+        <target>Komponente, Brudi</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.level">
+        <source>Level</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.groupByComponent">
+        <source>Group by Component</source>
+        <target>Nach Komponente gruppieren, fr fr</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.groupByLevel">
+        <source>Group by Level</source>
+        <target>Nach Level gruppieren, Brudi</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.startLevel">
+        <source>Display only levels equal or higher to</source>
+        <target>Nur Level gleich oder höher als zeig mal</target>
+      </trans-unit>
+      <trans-unit id="submodule.log.noEntries">
+        <source>No log entries.</source>
+        <target>Keine Log-Einträge. Alles clean, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="submodule.events.label">
+        <source>Events</source>
+        <target>Events, Digga</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.label">
+        <source>Query Information</source>
+        <target>Query-Infos, Digga</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.query">
+        <source>Query</source>
+        <target>Query</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.queries">
+        <source>Queries</source>
+        <target>Queries, Brudi</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.backtrace">
+        <source>Backtrace</source>
+        <target>Backtrace, Bro</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.doctrineDebug">
+        <source>SQL Debug</source>
+        <target>SQL Debug, Bro</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.sqlQuery">
+        <source>SQL Query</source>
+        <target>SQL-Query, fr fr</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.queryCount">
+        <source>Count</source>
+        <target>Anzahl, Digga</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.queryTime">
+        <source>Total Time [ms]</source>
+        <target>Gesamtzeit [ms], fr fr</target>
+      </trans-unit>
+      <trans-unit id="submodule.queryInformation.total">
+        <source>Total</source>
+        <target>Gesamt, Bro</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.label">
+        <source>Page title</source>
+        <target>Pagestitel, fr fr</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.usedProvider">
+        <source>Used provider</source>
+        <target>Verwendeter Provider, sheesh</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.provider">
+        <source>Provider</source>
+        <target>Provider, Bro</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.skippedProviders">
+        <source>Skipped providers (provided no title)</source>
+        <target>Übersprungene Provider (hatten keinen Titel am Start)</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.allProviders">
+        <source>All providers checked in order</source>
+        <target>Alle Provider in Reihenfolge gecheckt</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.cacheEnabled">
+        <source>It's not possible to retrieve the page title (providers) information when the page is cached.</source>
+        <target>Wenn die Seite gecacht ist, können die Seitentitel-Provider-Infos nicht abgerufen werden, Digga.</target>
+      </trans-unit>
+      <trans-unit id="submodule.pageTitle.cacheEnabled.extraInfo">
+        <source>Visit this page uncached, or disable the cache through this admin panel.</source>
+        <target>Besuch die Page ohne Cache oder deaktiviere den Cache über dieses Admin-Panel, no cap.</target>
+      </trans-unit>
+      <trans-unit id="submodule.events.eventClassName">
+        <source>Event class name</source>
+        <target>Event-Klassenname, Bre</target>
+      </trans-unit>
+      <trans-unit id="submodule.events.count">
+        <source>Dispatch count (%1d)</source>
+        <target>Dispatch-Anzahl (%1d), Digga</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

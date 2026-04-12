@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/data_handler.xlf">
+    <header/>
+    <body>
+      <trans-unit id="error_during_saving">
+        <source>This action could not be completed; please contact your administrator. Technical details: %s</source>
+        <target>Diese Aktion hat gefailt, Digga. Kontaktiere deinen Admin. Technische Details: %s</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/Modules/user.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Your personal tasks, overview and setup</source>
+        <target>Deine persoenlichen Tasks, Uebersicht und Settings</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>User Tools</source>
+        <target>Deine Tools</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source/>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

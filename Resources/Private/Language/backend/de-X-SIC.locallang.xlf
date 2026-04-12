@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="onlineDocumentation">
+        <source>TYPO3 Online Documentation</source>
+        <target>TYPO3 Online-Doku, Digga</target>
+      </trans-unit>
+      <trans-unit id="opensInANewWindow">
+        <source>opens in a new window</source>
+        <target>poppt in neuem Fenster auf</target>
+      </trans-unit>
+      <trans-unit id="no_modules_registered">
+        <source>No modules have been registered. Please contact your system administrator.</source>
+        <target>Sheesh, null Module am Start. Frag mal deinen Admin-Brudi.</target>
+      </trans-unit>
+      <trans-unit id="show_references">
+        <source>Show references</source>
+        <target>Referenzen zeigen, no cap</target>
+      </trans-unit>
+      <trans-unit id="config.loginLogo">
+        <source>Logo: Replace the TYPO3 logo above the login form (e.g. fileadmin/images/login-logo.png, EXT:my_theme/Resources/Public/Images/login-logo.png, or //domain.tld/login-logo.png).</source>
+        <target>Logo: Tausch das TYPO3-Logo ueber dem Login-Formular gegen dein eigenes Drip aus (z.B. fileadmin/images/login-logo.png, EXT:my_theme/Resources/Public/Images/login-logo.png, oder //domain.tld/login-logo.png).</target>
+      </trans-unit>
+      <trans-unit id="config.loginLogoAlt">
+        <source>Logo Alt-Text: Define the alternative text used as the alt attribute for the custom login logo image.</source>
+        <target>Logo Alt-Text: Pack hier den Alternativtext fuer dein Custom-Login-Logo rein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="config.loginHighlightColor">
+        <source>Highlight Color: Define the accent color used for highlights on the login screen.</source>
+        <target>Highlight-Farbe: Bestimm die Akzentfarbe fuer den Drip auf dem Loginscreen.</target>
+      </trans-unit>
+      <trans-unit id="config.loginBackgroundImage">
+        <source>Background Image: Set the image used as the background for the login screen (e.g. fileadmin/images/my-background.jpg, EXT:my_theme/Resources/Public/Images/my-background.jpg, or //domain.tld/my-background.png).</source>
+        <target>Hintergrundbild: Setz das Wallpaper fuer deinen Loginscreen (z.B. fileadmin/images/my-background.jpg, EXT:my_theme/Resources/Public/Images/my-background.jpg, oder //domain.tld/my-background.png).</target>
+      </trans-unit>
+      <trans-unit id="config.loginFootnote">
+        <source>Footnote: Enter the text displayed on the login screen, for example to provide copyright information for the background image (e.g. background image © 2017 by John Doe) or a short description.</source>
+        <target>Fussnote: Schreib hier den Text rein, der auf dem Loginscreen steht, z.B. Copyright fuers Wallpaper (Hintergrundbild © 2017 by John Doe) oder ne kurze Beschreibung.</target>
+      </trans-unit>
+      <trans-unit id="config.backendLogo">
+        <source>Logo: Set the logo used in the top-left corner of the TYPO3 backend instead of the TYPO3 logo (e.g. fileadmin/images/backend-logo.png or EXT:my_theme/Resources/Public/Images/backend-logo.png).</source>
+        <target>Logo: Flex dein eigenes Logo oben links im Backend statt dem TYPO3-Logo (z.B. fileadmin/images/backend-logo.png oder EXT:my_theme/Resources/Public/Images/backend-logo.png).</target>
+      </trans-unit>
+      <trans-unit id="config.backendFavicon">
+        <source>Favicon: Set the favicon used instead of the TYPO3 default (e.g. EXT:my_theme/Resources/Public/Images/favicon.ico).</source>
+        <target>Favicon: Setz dein eigenes Favicon statt dem TYPO3-Standard (z.B. EXT:my_theme/Resources/Public/Images/favicon.ico).</target>
+      </trans-unit>
+      <trans-unit id="foldertreeview.noFolders.title">
+        <source>No folders available</source>
+        <target>Keine Ordner am Start, Alter</target>
+      </trans-unit>
+      <trans-unit id="foldertreeview.noFolders.message">
+        <source>You do not have access to any folder. Please ask your administrator to fix access permissions for your account.</source>
+        <target>Du hast null Zugriff auf irgendnen Ordner. Sag deinem Admin-Brudi er soll dir Rechte geben, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="login.header">
+        <source>Login</source>
+        <target>Einloggen, Digga</target>
+      </trans-unit>
+      <trans-unit id="login.region.footnote">
+        <source>Footnote</source>
+        <target>Fussnote</target>
+      </trans-unit>
+      <trans-unit id="login.link">
+        <source>Login with username and password</source>
+        <target>Reinsliden mit Username und Passwort</target>
+      </trans-unit>
+      <trans-unit id="login.username">
+        <source>Username</source>
+        <target>Dein Gamertag</target>
+      </trans-unit>
+      <trans-unit id="login.password">
+        <source>Password</source>
+        <target>Geheimcode</target>
+      </trans-unit>
+      <trans-unit id="login.togglePassword">
+        <source>Toggle password visibility</source>
+        <target>Passwort zeigen oder ghosten</target>
+      </trans-unit>
+      <trans-unit id="login.password_forget">
+        <source>Forgot your password?</source>
+        <target>Passwort verkackt, Brudi?</target>
+      </trans-unit>
+      <trans-unit id="login.error.capslock">
+        <source>Attention: Caps lock enabled</source>
+        <target>Ey Alter: CAPS LOCK IS AN, WARUM SCHREIST DU?!</target>
+      </trans-unit>
+      <trans-unit id="login.error.capslockStatus">
+        <source>Caps lock enabled</source>
+        <target>CAPS LOCK AN, DIGGA!</target>
+      </trans-unit>
+      <trans-unit id="login.warning.whitespace-around-password">
+        <source>The password you just pasted has leading and / or trailing whitespace.</source>
+        <target>Brudi, dein Passwort hat Leerzeichen vorne und/oder hinten. Sus.</target>
+      </trans-unit>
+      <trans-unit id="login.warning.whitespace-around-password.action-link">
+        <source>Remove whitespace</source>
+        <target>Leerzeichen yeeten</target>
+      </trans-unit>
+      <trans-unit id="login.news.header">
+        <source>System News</source>
+        <target>System-Tea (hier wird Tea verschuettet)</target>
+      </trans-unit>
+      <trans-unit id="login.news.date">
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit id="login.news.previous">
+        <source>Previous</source>
+        <target>Zurueck</target>
+      </trans-unit>
+      <trans-unit id="login.news.next">
+        <source>Next</source>
+        <target>Weiter</target>
+      </trans-unit>
+      <trans-unit id="login.navigation.loginProvider">
+        <source>Login Provider</source>
+        <target>Login-Anbieter</target>
+      </trans-unit>
+      <trans-unit id="login.navigation.typo3">
+        <source>Further information about TYPO3</source>
+        <target>Mehr Infos ueber TYPO3, wenn du Bock hast</target>
+      </trans-unit>
+      <trans-unit id="login.error.message">
+        <source>Your login attempt did not succeed</source>
+        <target>Red Flag: Login hat nicht geklappt, Aura -500 Digga</target>
+      </trans-unit>
+      <trans-unit id="login.error.description">
+        <source>Make sure to spell your username and password correctly, including upper/lowercase characters.</source>
+        <target>Check mal ob du Username und Passwort richtig geschrieben hast, auch Gross- und Kleinschreibung. No cap.</target>
+      </trans-unit>
+      <trans-unit id="login.error.javascript">
+        <source>Please activate JavaScript</source>
+        <target>Mach JavaScript an, Alter!</target>
+      </trans-unit>
+      <trans-unit id="login.error.cookies">
+        <source>Please activate Cookies</source>
+        <target>Cookies aktivieren, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="login.error.referrer">
+        <source>TYPO3 relies on HTTP referrers for security reasons in the backend. It looks like your browser was not able to send this information, which may be due to privacy or security settings.</source>
+        <target>TYPO3 braucht HTTP-Referrer aus Sicherheitsgruenden im Backend. Dein Browser hat die Info lowkey nicht gesendet, vielleicht wegen deinen Privacy-Settings.</target>
+      </trans-unit>
+      <trans-unit id="login.process">
+        <source>Verifying Login Data ...</source>
+        <target>Checke deine Daten, chill mal ...</target>
+      </trans-unit>
+      <trans-unit id="login.submit">
+        <source>Login</source>
+        <target>Reinsliden</target>
+      </trans-unit>
+      <trans-unit id="login.copyrightLink">
+        <source>More about TYPO3</source>
+        <target>Mehr ueber TYPO3</target>
+      </trans-unit>
+      <trans-unit id="login.typo3Logo">
+        <source>TYPO3 logo</source>
+        <target>TYPO3-Logo</target>
+      </trans-unit>
+      <trans-unit id="login.donate">
+        <source>Donate</source>
+        <target>Spendier mal was</target>
+      </trans-unit>
+      <trans-unit id="formEngine.databaseRecordErrorInlineChildChild">
+        <source>The record with uid %2$s from table %1$s could not be retrieved from the database. This data inconsistency can occur if
+					a base record has been deleted but the intermediate record from table %3$s with uid %4$s still points to it. To fix
+					this situation, either delete the intermediate record, or recover the deleted record using the recycler module.
+					</source>
+        <target>Sheesh, der Datensatz mit UID %2$s aus Tabelle %1$s ist nicht in der Datenbank. Diese Daten-Inkonsistenz passiert, wenn
+					ein Basis-Datensatz geyeeted wurde, aber der Zwischen-Datensatz aus Tabelle %3$s mit UID %4$s noch drauf zeigt. Fix das,
+					indem du entweder den Zwischen-Datensatz yeetest oder den geloeschten ueber den Papierkorb zurueckholst.
+					</target>
+      </trans-unit>
+      <trans-unit id="modulemenu.label">
+        <source>Module Menu</source>
+        <target>Modul-Menue, Bre</target>
+      </trans-unit>
+      <trans-unit id="module.noAccess.title">
+        <source>No module access</source>
+        <target>Zugang gegatekeeper, Aura -500</target>
+      </trans-unit>
+      <trans-unit id="module.noAccess.message">
+        <source>You've been redirected to the "%s" module, because you currently can't access the "%s" module. You either don't have the necessary permissions or access is temporarily not possible, e.g. due to workspace restrictions.</source>
+        <target>Digga, du wurdest zum "%s"-Modul umgeleitet, weil du gerade keinen Zugang zum "%s"-Modul hast. Dir fehlen entweder die Rechte oder der Zugang ist gerade geblockt, z.B. wegen Workspace-Restrictions.</target>
+      </trans-unit>
+      <trans-unit id="clearcache.title">
+        <source>Page cache</source>
+        <target>Seiten-Cache, Digga</target>
+      </trans-unit>
+      <trans-unit id="clearcache.message.success">
+        <source>Successfully cleared page cache</source>
+        <target>Ong, Seiten-Cache wurde geyeetet! Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="clearcache.message.error">
+        <source>Page cache could not be cleared</source>
+        <target>Goofy Fehler: Cache yeeten hat nicht geklappt, Aura -500</target>
+      </trans-unit>
+      <trans-unit id="error.linkHandlerTitleMissing">
+        <source>[title missing]</source>
+        <target>[Titel fehlt, Digga]</target>
+      </trans-unit>
+      <trans-unit id="create_folder.title">
+        <source>Create new folder</source>
+        <target>Neuen Ordner manifesten</target>
+      </trans-unit>
+      <trans-unit id="create_folder.placeholder">
+        <source>Your new folder name</source>
+        <target>Name fuer deinen neuen Ordner, Brudi</target>
+      </trans-unit>
+      <trans-unit id="create_folder.submit">
+        <source>Create folder</source>
+        <target>Ordner manifesten</target>
+      </trans-unit>
+      <trans-unit id="row.deletePlaceholder.title">
+        <source>The live pendant of this record will be deleted when this workspace record is published.</source>
+        <target>Das Live-Gegenstueck von diesem Datensatz wird geyeetet, sobald der Workspace-Datensatz gepublisht wird.</target>
+      </trans-unit>
+      <trans-unit id="shortcut.title">
+        <source>%s%s on page "%s" [%d]</source>
+        <target>%s%s auf Seite "%s" [%d]</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.databaseRecordProvider.filterLabel">
+        <source>Database records</source>
+        <target>Datenbank-Datensaetze, Bro</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.databaseRecordProvider.typeLabel">
+        <source>Database record</source>
+        <target>Datenbank-Datensatz</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.pageRecordProvider.filterLabel">
+        <source>Pages</source>
+        <target>Pages</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.pageRecordProvider.typeLabel">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.backendModuleProvider.filterLabel">
+        <source>Backend modules</source>
+        <target>Backend-Module</target>
+      </trans-unit>
+      <trans-unit id="liveSearch.backendModuleProvider.typeLabel">
+        <source>Backend module</source>
+        <target>Backend-Modul</target>
+      </trans-unit>
+      <trans-unit id="resultItem.backendModuleProvider.openModule">
+        <source>Open module</source>
+        <target>Modul aufmachen</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.label">
+        <source>Module action</source>
+        <target>Modul-Aktion, Alter</target>
+      </trans-unit>
+      <trans-unit id="pagelayout.moduleMenu.dropdown.label">
+        <source>Display mode</source>
+        <target>Display-Modus, Homie</target>
+      </trans-unit>
+      <trans-unit id="editdocument.moduleMenu.dropdown.label">
+        <source>Record language</source>
+        <target>Datensatz-Sprache, Bre</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.overview">
+        <source>Module overview</source>
+        <target>Modul-Ueberblick, fr fr</target>
+      </trans-unit>
+      <trans-unit id="submoduleOverview.openModule">
+        <source>Open module</source>
+        <target>Modul oeffnen, Digga</target>
+      </trans-unit>
+      <trans-unit id="submoduleOverview.openModuleWithTitle">
+        <source>Open %1s module</source>
+        <target>%1s Modul aufmachen</target>
+      </trans-unit>
+      <trans-unit id="submoduleOverview.noAccess.title">
+        <source>No modules available</source>
+        <target>Keine Module am Start</target>
+      </trans-unit>
+      <trans-unit id="submoduleOverview.noAccess.message">
+        <source>There are no submodules available or you do not have access to any of them. Please contact your administrator if you believe this is an error.</source>
+        <target>Null Submodule da oder du wirst gegatekeeper. No front, aber wenn das sus ist, frag deinen Admin.</target>
+      </trans-unit>
+      <trans-unit id="theme">
+        <source>Theme</source>
+        <target>Aesthetic</target>
+      </trans-unit>
+      <trans-unit id="theme.classic">
+        <source>Classic</source>
+        <target>Retro-Vibe</target>
+      </trans-unit>
+      <trans-unit id="theme.modern">
+        <source>Modern</source>
+        <target>Slay-Modus</target>
+      </trans-unit>
+      <trans-unit id="theme.fresh">
+        <source>Fresh</source>
+        <target>Frisch wie Drip</target>
+      </trans-unit>
+      <trans-unit id="colorScheme">
+        <source>Color scheme</source>
+        <target>Farbschema-Vibe</target>
+      </trans-unit>
+      <trans-unit id="toggleColorScheme">
+        <source>Toggle color scheme between light and dark mode</source>
+        <target>Zwischen hellem und dunklem Modus switchen</target>
+      </trans-unit>
+      <trans-unit id="colorSchemeToggleDisabled">
+        <source>Due to your current accessibility settings, the color scheme cannot be changed.</source>
+        <target>Wegen deiner Barrierefreiheits-Settings kann das Farbschema nicht geaendert werden, sorry Brudi.</target>
+      </trans-unit>
+      <trans-unit id="colorScheme.auto">
+        <source>Auto detect</source>
+        <target>Auto-Detect (lass das System entscheiden)</target>
+      </trans-unit>
+      <trans-unit id="colorScheme.light">
+        <source>Light mode</source>
+        <target>Light Mode (clean aesthetic)</target>
+      </trans-unit>
+      <trans-unit id="colorScheme.dark">
+        <source>Dark mode</source>
+        <target>Dark Mode (it's giving Sigma-Aesthetic)</target>
+      </trans-unit>
+      <trans-unit id="userSettings.requestBackendLanguageRefresh.title">
+        <source>Language changed</source>
+        <target>Sprache gewechselt, ong!</target>
+      </trans-unit>
+      <trans-unit id="userSettings.requestBackendLanguageRefresh.message">
+        <source>A reload is required for the changed to take effect.</source>
+        <target>Musst einmal reloaden damit das zieht, Digga.</target>
+      </trans-unit>
+      <trans-unit id="userSettings.requestBackendLanguageRefresh.buttonReload">
+        <source>Reload</source>
+        <target>Neuladen, Digga</target>
+      </trans-unit>
+      <trans-unit id="userSettings.requestBackendLanguageRefresh.buttonCancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="pageTree.found_translation">
+        <source>Found translation</source>
+        <target>Uebersetzung am Start</target>
+      </trans-unit>
+      <trans-unit id="pageTree.found_in_translation">
+        <source>Found in translation: %s</source>
+        <target>In Uebersetzung gefunden: %s</target>
+      </trans-unit>
+      <trans-unit id="pageTree.found_in_multiple_translations">
+        <source>Found in multiple translations</source>
+        <target>In mehreren Uebersetzungen gefunden, lit</target>
+      </trans-unit>
+      <trans-unit id="pageTree.searchResult">
+        <source>Search result</source>
+        <target>Suchergebnis, Bro</target>
+      </trans-unit>
+      <trans-unit id="pageTree.found_in_frontend_uri">
+        <source>Found by URI</source>
+        <target>Per URI gefunden</target>
+      </trans-unit>
+      <trans-unit id="viewport.navigation">
+        <source>Navigation</source>
+        <target>Navigation</target>
+      </trans-unit>
+      <trans-unit id="viewport.navigation.show">
+        <source>Show navigation</source>
+        <target>Navigation zeig mal</target>
+      </trans-unit>
+      <trans-unit id="viewport.navigation.hide">
+        <source>Hide navigation</source>
+        <target>Navigation ghosten (Lurker-Modus)</target>
+      </trans-unit>
+      <trans-unit id="collapse_state_search.numberOfSearchMatches">
+        <source>{count, plural, =0 {no matches} =1 {one match} other {# matches}}</source>
+        <target>{count, plural, =0 {nix gefunden} =1 {ein Treffer} other {# Treffer}}</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="close">
+        <source>Close</source>
+        <target>Zumachen, Digga</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Dashboard</source>
+        <target>Dashboard, Bro</target>
+      </trans-unit>
+      <trans-unit id="widget.add">
+        <source>Add widget</source>
+        <target>Widget mit Main Character Energy draufpacken, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard">
+        <source>Add widget to "%s"</source>
+        <target>Widget auf "%s" draufpacken, Digga</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.searchLabel">
+        <source>Search for dashboard widgets</source>
+        <target>Dashboard-Widgets searchn, Homie</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.searchNotFound">
+        <source>Unfortunately no dashboard widget matches your query, please try a different one.</source>
+        <target>Leider passt kein Dashboard-Widget zu deiner Suche, probier was anderes, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.userNotAllowed">
+        <source>No widgets are available with your current permissions.</source>
+        <target>Keine Widgets am Start mit deinen aktuellen Berechtigungen. Deine Aura reicht nicht, F.</target>
+      </trans-unit>
+      <trans-unit id="widget.add.button.close">
+        <source>Close</source>
+        <target>Zumachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widget.add.button.ok">
+        <source>Add widget</source>
+        <target>Widget draufpacken, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widget.refresh">
+        <source>Refresh Widget</source>
+        <target>Widget auffrischen, Bro</target>
+      </trans-unit>
+      <trans-unit id="widget.settings">
+        <source>Widget Settings</source>
+        <target>Widget Side Quest Settings, Bre</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.button.close">
+        <source>Close</source>
+        <target>Zumachen, Bre</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.button.save">
+        <source>Save</source>
+        <target>Saven</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.unchanged">
+        <source>Settings unchanged</source>
+        <target>Settings unverändert, Bre</target>
+      </trans-unit>
+      <trans-unit id="widget.move">
+        <source>Move Widget</source>
+        <target>Widget moven, no cap</target>
+      </trans-unit>
+      <trans-unit id="widget.remove">
+        <source>Remove Widget</source>
+        <target>Widget yeeten</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.button.close">
+        <source>Close</source>
+        <target>Zumachen, Bro</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.button.ok">
+        <source>Remove</source>
+        <target>Yeeten, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.confirm.title">
+        <source>Remove widget</source>
+        <target>Widget yeeten</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.confirm.message">
+        <source>Are you sure you want to remove this widget?</source>
+        <target>Willst du dieses Widget wirklich yeeten, Digga?</target>
+      </trans-unit>
+      <trans-unit id="widget.error">
+        <source>An error occurred while retrieving information for this widget. Please try again, and if the problem persists, contact your administrator.</source>
+        <target>Beim Laden der Widget-Infos ist ein goofy Fehler aufgetreten, Aura -500. Versuch's nochmal und wenn's weiter nicht geht, frag deinen Sigma-Admin.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.headline">
+        <source>Dashboard "%s"</source>
+        <target>Dashboard "%s", Alter</target>
+      </trans-unit>
+      <trans-unit id="dashboard.default">
+        <source>My dashboard</source>
+        <target>Mein Dashboard, no cap</target>
+      </trans-unit>
+      <trans-unit id="dashboard.default.description">
+        <source>Create a new dashboard with some general TYPO3 widgets on it</source>
+        <target>Ein neues Dashboard mit ein paar allgemeinen TYPO3-Widgets droppen</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty">
+        <source>Empty dashboard</source>
+        <target>Leeres Dashboard, Bro</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.description">
+        <source>Your dashboard will be created without any widget on it.</source>
+        <target>Dein Dashboard wird ohne Widgets gedroppt, komplett blank.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add">
+        <source>Add dashboard</source>
+        <target>Dashboard adden, no cap</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add.button.close">
+        <source>Close</source>
+        <target>Zumachen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add.button.ok">
+        <source>Add Dashboard</source>
+        <target>Dashboard droppen</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure">
+        <source>Configure dashboard</source>
+        <target>Dashboard configgen, Bro</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure.button.close">
+        <source>Close</source>
+        <target>Zumachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure.button.ok">
+        <source>Save Dashboard</source>
+        <target>Dashboard saven</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete">
+        <source>Delete dashboard</source>
+        <target>Dashboard yeeten</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.sure">
+        <source>Are you sure you want to delete this dashboard?</source>
+        <target>Willst du dieses Dashboard wirklich yeeten, Alter?</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.ok">
+        <source>Yes, delete it</source>
+        <target>Ja, yeet es, Brudi</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dashboard.title">
+        <source>Title of dashboard</source>
+        <target>Dashboard-Titel, Homie</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.title">
+        <source>Getting Started with TYPO3</source>
+        <target>TYPO3 fuer Anfaenger, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.description">
+        <source>Add a shortcut to the TYPO3 Getting Started Tutorial.</source>
+        <target>Shortcut zum TYPO3 Getting Started Tutorial adden, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.text">
+        <source>New to TYPO3? In our Getting Started Tutorial you will learn the basics how to use TYPO3.</source>
+        <target>Neu bei TYPO3? Im Getting Started Tutorial lernst du die Basics, no cap.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.content.label">
+        <source>Getting Started Tutorial</source>
+        <target>Getting Started Tutorial, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.title">
+        <source>TypoScript Template Reference</source>
+        <target>TypoScript Template Referenz</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.description">
+        <source>Add a shortcut to the TYPO3 TypoScript Template Reference.</source>
+        <target>Shortcut zur TYPO3 TypoScript Template Referenz hinzufuegen.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.text">
+        <source>This document is a reference, used to lookup TypoScript templating.</source>
+        <target>Dieses Dokument ist eine Referenz zum Nachschlagen von TypoScript Templating.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.content.label">
+        <source>TypoScript Template Reference</source>
+        <target>TypoScript Template Referenz</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.title">
+        <source>TSconfig Reference</source>
+        <target>TSconfig Referenz, Digga</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.description">
+        <source>Add a shortcut to the TYPO3 TSconfig Reference.</source>
+        <target>Shortcut zur TYPO3 TSconfig Referenz adden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.text">
+        <source>This document describes TSconfig and its options.</source>
+        <target>Dieses Dokument beschreibt TSconfig und seine Optionen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.content.label">
+        <source>TSconfig Reference</source>
+        <target>TSconfig Referenz, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.title">
+        <source>TYPO3 news</source>
+        <target>TYPO3 News, Homie</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.description">
+        <source>Add a list of news items from the TYPO3 project</source>
+        <target>News-Items vom TYPO3-Projekt zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.moreItems">
+        <source>More TYPO3 news</source>
+        <target>Mehr TYPO3 News, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.title">
+        <source>About TYPO3</source>
+        <target>Ueber TYPO3, Bro</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.description">
+        <source>Some general information about TYPO3 and the version used</source>
+        <target>Generale Infos ueber TYPO3 und die verwendete Version, Bro</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.text">
+        <source><![CDATA[TYPO3 CMS is an enterprise-class, Open Source Content Management System, used internationally to build and manage websites of all types, from small sites for non-profits to multilingual enterprise solutions for large corporations.<br /><br />For further information visit <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>freely available</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You are using version %s - Copyright %s %s]]></source>
+        <target><![CDATA[TYPO3 CMS ist ein Enterprise-Level, Open Source Content Management System, das weltweit genutzt wird um Websites aller Art zu bauen - von kleinen Seiten bis zu mehrsprachigen Enterprise-Loesungen, sheesh.<br /><br />Fuer mehr Infos check <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS ist <b>kostenlos am Start</b> unter der <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-Lizenz (GNU/GPL)</a>.<br /><br />Du nutzt Version %s - Copyright %s %s]]></target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.logo">
+        <source>TYPO3 CMS logo</source>
+        <target>TYPO3 CMS Logo, Bro</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.title">
+        <source>Number of errors in system log</source>
+        <target>Anzahl Uff im System-Log</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.description">
+        <source>Shows the number of errors in the sys log of the last month, grouped by date</source>
+        <target>Zeigt die Anzahl der Uff im System-Log des letzten Monats, gruppiert nach Datum</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.buttonText">
+        <source>Show all errors in log</source>
+        <target>Alle Uff im Log zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogUsers.buttonText">
+        <source>Show all user logins</source>
+        <target>Alle User-Logins zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.chart.dataSet.0">
+        <source>Number of errors</source>
+        <target>Anzahl der Fails, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.title">
+        <source>Type of backend users</source>
+        <target>Typ der Backend-User, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.description">
+        <source>Shows the amount of normal- and admin-users</source>
+        <target>Zeigt die Anzahl von Normal- und Admin-Usern, Alter</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.normalUsers">
+        <source>Normal users</source>
+        <target>Normale User (NPCs), sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.adminUsers">
+        <source>Admin users</source>
+        <target>Sigma-Admin-User (Main Characters), Alter</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.title">
+        <source>Failed backend logins</source>
+        <target>Gescheiterte Backend-Logins, goofy Versuche</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.subtitle">
+        <source>In last 24 hours</source>
+        <target>In den letzten 24 Stunden, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.description">
+        <source>Information about the number of failed logins during the last 24 hours.</source>
+        <target>Infos ueber die Anzahl gescheiterter Logins in den letzten 24 Stunden, Bro.</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.title">
+        <source>TYPO3 security advisories</source>
+        <target>TYPO3 Sicherheits-Yo, Achtungen</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.description">
+        <source>Add a list of security advisories from the TYPO3 project</source>
+        <target>Sicherheits-Yo, Achtungen vom TYPO3-Projekt zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.moreItems">
+        <source>More TYPO3 security advisories</source>
+        <target>Mehr TYPO3 Sicherheits-Yo, Achtungen</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.title">
+        <source>Latest changed pages</source>
+        <target>Zuletzt geaenderte Pages, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.title.restrictToCurrentUser">
+        <source>My latest changed pages</source>
+        <target>Meine zuletzt geaenderten Pages, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.description">
+        <source>Show a list of pages where the latest changes were made</source>
+        <target>Liste der Seiten mit den neuesten Aenderungen zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.empty">
+        <source>No history found</source>
+        <target>Keine History gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.settings.restrictToCurrentUser">
+        <source>Only show my changes</source>
+        <target>Nur meine Aenderungen zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.change">
+        <source>Change</source>
+        <target>Aenderung, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.user">
+        <source>User</source>
+        <target>User</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.user.userNotFound">
+        <source>Not Found</source>
+        <target>Nicht gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page.workspace">
+        <source>Changes in current selected workspace</source>
+        <target>Aenderungen im current gepickten Workspace</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page.pagetree">
+        <source>Position in pagetree</source>
+        <target>Position im Pagetree, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control">
+        <source>Control</source>
+        <target>Steuerung, Digga</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.recordHistory">
+        <source>Show history</source>
+        <target>History zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.viewWebpage">
+        <source>View webpage</source>
+        <target>Webseite anschauen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.editPageContent">
+        <source>Edit page content</source>
+        <target>Seiteninhalt flexen</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.editPage">
+        <source>Edit page properties</source>
+        <target>Seiteneigenschaften flexen</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.table.tt_content">
+        <source>Content</source>
+        <target>Inhalt, Digga</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.table.pages">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.title">
+        <source>Latest backend logins</source>
+        <target>Letzte Backend-Logins, Brudi</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.description">
+        <source>Shows the latest backend user logins.</source>
+        <target>Zeigt die letzten Backend-User Logins, Bro.</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.empty">
+        <source>No backend login history found</source>
+        <target>Keine Backend-Login History gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.time">
+        <source>Time</source>
+        <target>Zeit</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user">
+        <source>User</source>
+        <target>User</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user.notFound">
+        <source>Not found</source>
+        <target>Nicht gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user.edit">
+        <source>Edit user</source>
+        <target>User flexen</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.settings.limit">
+        <source>Number of logins to display</source>
+        <target>Anzahl der angezeigten Logins, Alter</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.settings.limit.description">
+        <source>Maximum number of backend user logins to show in the widget</source>
+        <target>Maximale Anzahl der Backend-User Logins im Widget, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widget_group.general">
+        <source>General</source>
+        <target>General, no cap</target>
+      </trans-unit>
+      <trans-unit id="widget_group.typo3">
+        <source>TYPO3 community</source>
+        <target>TYPO3 Community, no cap</target>
+      </trans-unit>
+      <trans-unit id="widget_group.news">
+        <source>News</source>
+        <target>News</target>
+      </trans-unit>
+      <trans-unit id="widget_group.documentation">
+        <source>Documentation</source>
+        <target>Doku</target>
+      </trans-unit>
+      <trans-unit id="widget_group.system">
+        <source>System Information</source>
+        <target>System-Infos, Bro</target>
+      </trans-unit>
+      <trans-unit id="widget_group.content">
+        <source>Content</source>
+        <target>Inhalt, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.title">
+        <source>No widgets</source>
+        <target>Keine Widgets, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.description">
+        <source>There are no widgets on this dashboard yet. You can add widgets now by clicking on the button below.</source>
+        <target>Auf diesem Dashboard sind noch keine Widgets, Digga. Null Main Character Energy hier. Klick auf den Button unten um welche zu manifesten.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.button">
+        <source>Add a widget</source>
+        <target>Widget draufpacken, Digga</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

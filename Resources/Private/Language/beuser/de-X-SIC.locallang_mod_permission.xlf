@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:beuser/Resources/Private/Language/locallang_mod_permission.xlf">
+    <header/>
+    <body>
+      <trans-unit id="permissions">
+        <source>Permissions</source>
+        <target>Permissions, sheesh</target>
+      </trans-unit>
+      <trans-unit id="ch_permissions">
+        <source>Change permissions</source>
+        <target>Gatekeeping umfrickeln</target>
+      </trans-unit>
+      <trans-unit id="Legend">
+        <source>Legend</source>
+        <target>Legende, Bro</target>
+      </trans-unit>
+      <trans-unit id="Owner">
+        <source>Owner</source>
+        <target>Besitzer, fr fr</target>
+      </trans-unit>
+      <trans-unit id="Group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="Everybody">
+        <source>Everybody</source>
+        <target>Jeder Digga</target>
+      </trans-unit>
+      <trans-unit id="EditLock_descr">
+        <source>Disable the »Admin-only« edit lock for this page. Currently this page and all content is locked for editing by all non-Admin users.</source>
+        <target>Deaktiviere die Admin-Only-Sperre für diese Seite. Gerade ist die Seite und der ganze Content für alle Nicht-Admins gesperrt, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="EditLock_descr2">
+        <source>Enable the »Admin-only« edit lock for this page</source>
+        <target>Admin-Only-Sperre für diese Page anmachen, Bro</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Saven</target>
+      </trans-unit>
+      <trans-unit id="Abort">
+        <source>Abort</source>
+        <target>Lass stecken, Bre</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>EDIT</source>
+        <target>FLEXEN, sheesh</target>
+      </trans-unit>
+      <trans-unit id="recursive">
+        <source>Set recursively</source>
+        <target>Rekursiv durchdrücken, Homie</target>
+      </trans-unit>
+      <trans-unit id="page_affected">
+        <source>page affected</source>
+        <target>Page betroffen, no cap</target>
+      </trans-unit>
+      <trans-unit id="pages_affected">
+        <source>pages affected</source>
+        <target>Pages betroffen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="user_overview">
+        <source>User overview</source>
+        <target>User-Überblick</target>
+      </trans-unit>
+      <trans-unit id="Mode">
+        <source>Mode</source>
+        <target>Modus</target>
+      </trans-unit>
+      <trans-unit id="Depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="level">
+        <source>level</source>
+        <target>Ebene</target>
+      </trans-unit>
+      <trans-unit id="levels">
+        <source>levels</source>
+        <target>Ebenen, no cap</target>
+      </trans-unit>
+      <trans-unit id="User">
+        <source>User</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="changeOwner">
+        <source>Change owner</source>
+        <target>Besitzer ändern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="changeGroup">
+        <source>Change group</source>
+        <target>Squad ändern</target>
+      </trans-unit>
+      <trans-unit id="def">
+        <source>Definition: 'content' is records from all tables on a page - except from records from the table 'pages' (Pages).</source>
+        <target>Definition: 'Content' sind Datensätze aus allen Tabellen auf ner Seite - außer aus der Tabelle 'pages' (Seiten), Digga.</target>
+      </trans-unit>
+      <trans-unit id="A_Granted">
+        <source>Access Granted</source>
+        <target>Zugang gewährt, Aura +100, Green Flag!</target>
+      </trans-unit>
+      <trans-unit id="A_Denied">
+        <source>Access Denied</source>
+        <target>Zugang denied, Aura -500, Red Flag!</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Show page</source>
+        <target>Page zeigen, Bro</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Edit content</source>
+        <target>Content flexen</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Edit page</source>
+        <target>Seite flexen</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Delete page</source>
+        <target>Seite yeeten</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>New pages</source>
+        <target>Neue Pages, Brudi</target>
+      </trans-unit>
+      <trans-unit id="1_t">
+        <source>Show/Copy page and content.</source>
+        <target>Page und Content zeigen/copypasta, Homie.</target>
+      </trans-unit>
+      <trans-unit id="16_t">
+        <source>Change/Add/Delete/Move content.</source>
+        <target>Content ändern/adden/yeeten/verschieben.</target>
+      </trans-unit>
+      <trans-unit id="2_t">
+        <source>Change page eg. change pagetitle etc.</source>
+        <target>Page ändern, z.B. Pagestitel usw, Digga.</target>
+      </trans-unit>
+      <trans-unit id="4_t">
+        <source>Delete/Move page and content.</source>
+        <target>Seite und Content yeeten/verschieben.</target>
+      </trans-unit>
+      <trans-unit id="8_t">
+        <source>Create new pages under this page.</source>
+        <target>Neue Pages unter dieser Page spawnen, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Page editing permissions</source>
+        <target>Pages-Bearbeitungsrechte, Bro</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>Setting of page permissions is vital for controlling backend user access to pages. You can assign a user and a group as owners of a page and set access permissions for each.</source>
+        <target>Seitenberechtigungen sind mega wichtig, um zu kontrollieren wer auf Seiten zugreifen kann. Du kannst nen User und nen Squad als Besitzer festlegen und für jeden die Rechte einstellen.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Permissions</source>
+        <target>Permissions, Bro</target>
+      </trans-unit>
+      <trans-unit id="WorkspaceWarning">
+        <source>Workspace Warning</source>
+        <target>Workspace-Yo, Achtung, Alter!</target>
+      </trans-unit>
+      <trans-unit id="WorkspaceWarningText">
+        <source>Permissions set in a workspace take effect only after the related elements are published. To apply permissions immediately, configure them in the Live workspace. (Permissions are always evaluated based on the Live workspace record or the placeholder of a draft version)</source>
+        <target>Berechtigungen in nem Workspace greifen erst nach dem Veröffentlichen. Wenn du willst dass es sofort klappt, stell die im Live-Workspace ein, Digga. (Berechtigungen werden immer anhand des Live-Workspace-Datensatzes gecheckt)</target>
+      </trans-unit>
+      <trans-unit id="notSet">
+        <source>not set</source>
+        <target>nicht gesetzt</target>
+      </trans-unit>
+      <trans-unit id="deleted">
+        <source>deleted</source>
+        <target>geyeetet</target>
+      </trans-unit>
+      <trans-unit id="noGroups">
+        <source>No user groups exist.</source>
+        <target>Keine Squads vorhanden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="selectNone">
+        <source>   - none -   </source>
+        <target>   - nix -   </target>
+      </trans-unit>
+      <trans-unit id="selectUnchanged">
+        <source>   - leave unchanged -   </source>
+        <target>   - so lassen -   </target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

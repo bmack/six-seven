@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:workspaces/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_workspace"><source>Workspace</source><target>Workspace</target></trans-unit>
+      <trans-unit id="sys_workspace.custom_stages"><source>Custom stages</source><target>Custom Stages</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.responsible_persons"><source>Responsible persons</source><target>Verantwortliche Homies</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.default_mailcomment"><source>Default mail comment</source><target>Standard-Mail-Kommentar, Bre</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.parentid"><source>UID of parent record</source><target>UID des Eltern-Records</target></trans-unit>
+      <trans-unit id="sys_workspace_stage"><source>Workspace Stage</source><target>Workspace-Stage</target></trans-unit>
+      <trans-unit id="tabs.notification_settings"><source>Notification settings</source><target>Benachrichtigungs-Settings</target></trans-unit>
+      <trans-unit id="tabs.general"><source>General</source><target>Allgemein, Digga</target></trans-unit>
+      <trans-unit id="tabs.internal_stages"><source>Internal Stages</source><target>Interne Stages</target></trans-unit>
+      <trans-unit id="tabs.custom_stages"><source>Custom Stages</source><target>Custom Stages</target></trans-unit>
+      <trans-unit id="tabs.publish_access"><source>Publishing / Access</source><target>Publishing / Zugriff</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.notification_defaults"><source>Default notification recipients</source><target>Standard-Notification-Empfaenger, Homie</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.allow_notificaton_settings"><source>Allow notification settings during stage change</source><target>Notification-Settings bei Stage-Wechsel erlauben, Alter</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.edit"><source>Stage "editing"</source><target>Stage "Am Flexen"</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.publish"><source>Stage "ready to publish"</source><target>Stage "ready to publish"</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.execute"><source>Stage "publishing execute"</source><target>Stage "Publishing ausfuehren"</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog"><source>Notification dialog settings</source><target>Notification-Dialog-Settings, Bre</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog.showDialog"><source>Show Dialog</source><target>Dialog zeig mal</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog.changeablePreselection"><source>Allow to change pre-selection of recipients</source><target>Vorauswahl der Empfaenger aenderbar machen, Bro</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection"><source>Pre-select recipients</source><target>Empfaenger vorauswaehlen, Digga</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.owners"><source>Owners</source><target>Besitzer</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.members"><source>Members</source><target>Mitglieder</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.editors"><source>Unused, no functionality attached</source><target>Nicht am Start, null Funktion</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.responsiblePersons"><source>Responsible Persons</source><target>Verantwortliche Homies</target></trans-unit>
+      <trans-unit id="sys_workspace.adminusers"><source>Owners</source><target>Besitzer</target></trans-unit>
+      <trans-unit id="sys_workspace.members"><source>Members</source><target>Mitglieder</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_time"><source>Auto-publish changes on (requires scheduler task)</source><target>Aenderungen auto-publishen am (braucht Scheduler-Task)</target></trans-unit>
+      <trans-unit id="sys_workspace.unpublish_time"><source>Un-Publish changes on (requires scheduler task)</source><target>Aenderungen un-publishen am (braucht Scheduler-Task)</target></trans-unit>
+      <trans-unit id="sys_workspace.live_edit"><source>Allow "live" editing of records from tables without versioning</source><target>"Live"-Editing von Records aus Tabellen ohne Versionierung erlauben</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access"><source>Publish access</source><target>Publish-Zugriff</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.1"><source>Publish only content in publish stage</source><target>Nur Content in der Publish-Stage publishen</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.2"><source>Restrict publishing to workspace owners</source><target>Publishing auf Workspace-Besitzer beschraenken</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.3"><source>Hide "Entire workspace" action drop down</source><target>&quot;Ganzer Workspace&quot;-Aktion im Dropdown ghosten, sheesh</target></trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification"><source>Send notifications upon state changes</source><target>Notifications bei Status-Aenderungen raushauen</target></trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification.description"><source>This workspace-level setting determines if notifications are triggered when records transition to other stages or are published. Individual stages can have their own notification preferences.</source><target>Yo, diese Workspace-Level-Einstellung bestimmt ob Notifications getriggert werden wenn Records in andere Stages sliden oder gepublisht werden. Einzelne Stages koennen eigene Notification-Settings haben.</target></trans-unit>
+      <trans-unit id="sys_workspace.previewlink_lifetime"><source>Lifetime in hours on how long a preview link will be valid</source><target>Lebenszeit in Stunden wie lange ein Vorschau-Link gueltig ist</target></trans-unit>
+      <trans-unit id="tabs.users"><source>Users</source><target>User</target></trans-unit>
+      <trans-unit id="tabs.mountpoints"><source>Mountpoints</source><target>Mountpoints</target></trans-unit>
+    </body>
+  </file>
+</xliff>

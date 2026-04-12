@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/localization.xlf">
+    <header/>
+    <body>
+      <trans-unit id="localization_wizard.modal.title">
+        <source>Localization</source>
+        <target>Lokalisierung (Sprach-Flex)</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.modal.title.record_prefix">
+        <source>Localize:</source>
+        <target>Lokalisieren, Bro:</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.buttons.localize">
+        <source>Localize</source>
+        <target>Lokalisieren</target>
+      </trans-unit>
+      <trans-unit id="wizard.error.message">
+        <source>Failed to load wizard configuration. Please try again.</source>
+        <target>Wizard-Konfiguration konnte nicht geladen werden. Versuch's nochmal, Digga.</target>
+      </trans-unit>
+      <trans-unit id="wizard.error.title">
+        <source>Configuration error</source>
+        <target>Konfig-Fehler, uff</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.no_steps_available.message">
+        <source>No localization steps are available for this record type.</source>
+        <target>Keine Lokalisierungsschritte fuer diesen Datensatztyp verfuegbar.</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.no_steps_available.title">
+        <source>Warning</source>
+        <target>Yo, Achtung</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.no_data.message">
+        <source>No finisher data available. Cannot complete the localization process.</source>
+        <target>Keine Finisher-Daten vorhanden. Lokalisierungsprozess kann nicht abgeschlossen werden, rip.</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.redirect.success.title">
+        <source>Localization completed</source>
+        <target>Lokalisierung abgeschlossen, slay!</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.redirect.success.description">
+        <source>The content has been successfully localized. Click "Finish" to be redirected to the new language version.</source>
+        <target>Der Content wurde erfolgreich lokalisiert. Klick "Fertig" um zur neuen Sprachversion weitergeleitet zu werden.</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.reload.success.title">
+        <source>Localization completed</source>
+        <target>Lokalisierung fertig, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.reload.success.description">
+        <source>The content has been successfully localized. Click "Finish" to reload the page and view the updated content.</source>
+        <target>Der Content wurde erfolgreich lokalisiert. Klick "Fertig" um die Seite neu zu laden und den aktualisierten Content zu sehen.</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.noop.success.title">
+        <source>No operation required</source>
+        <target>Nix zu tun, chill</target>
+      </trans-unit>
+      <trans-unit id="localization_wizard.finisher.noop.success.description">
+        <source>No records were selected that need processing. Click "Finish" to reload the page.</source>
+        <target>Keine Datensaetze ausgewaehlt die verarbeitet werden muessen. Klick "Fertig" um die Seite neu zu laden.</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.title">
+        <source>Content selection</source>
+        <target>Content picken</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.headline">
+        <source>Select records to localize</source>
+        <target>Datensaetze zum Lokalisieren auswaehlen</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.description">
+        <source>Choose which content elements you would like to translate:</source>
+        <target>Waehle welche Content-Elemente du uebersetzen willst, Brudi:</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.summary.title">
+        <source>Content Element(s)</source>
+        <target>Content-Element(e)</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.summary.amount">
+        <source>%s Element(s)</source>
+        <target>%s Element(e)</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.error.message">
+        <source>Failed to load records for selection</source>
+        <target>Datensaetze fuer die Auswahl konnten nicht geladen werden, oof</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.button.select_all">
+        <source>Select all</source>
+        <target>Alles nehmen</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.button.deselect_all">
+        <source>Deselect all</source>
+        <target>Nix nehmen</target>
+      </trans-unit>
+      <trans-unit id="step.content_selection.no_content.message">
+        <source>This page does not contain any content elements.</source>
+        <target>Diese Seite hat keine Content-Elemente, nada.</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.title">
+        <source>Handler</source>
+        <target>Handler</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.headline">
+        <source>Select localization handler</source>
+        <target>Lokalisierungs-Handler auswaehlen</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.description">
+        <source>Choose how you would like to localize this record:</source>
+        <target>Waehle wie du diesen Datensatz lokalisieren willst:</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.summary_label">
+        <source>Handler</source>
+        <target>Handler</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.error">
+        <source>Failed to load localization handlers.</source>
+        <target>Lokalisierungs-Handler konnten nicht geladen werden, rip.</target>
+      </trans-unit>
+      <trans-unit id="step.handler_selection.no_handlers">
+        <source>No localization handlers available.</source>
+        <target>Keine Lokalisierungs-Handler verfuegbar.</target>
+      </trans-unit>
+      <trans-unit id="step.modes.title">
+        <source>Mode</source>
+        <target>Modus</target>
+      </trans-unit>
+      <trans-unit id="step.modes.headline">
+        <source>Select localization mode</source>
+        <target>Lokalisierungsmodus auswaehlen</target>
+      </trans-unit>
+      <trans-unit id="step.modes.description">
+        <source>Choose how content should be localized:</source>
+        <target>Waehle wie der Content lokalisiert werden soll:</target>
+      </trans-unit>
+      <trans-unit id="step.modes.summary.title">
+        <source>Mode</source>
+        <target>Modus</target>
+      </trans-unit>
+      <trans-unit id="step.modes.error.message">
+        <source>Failed to load localization modes.</source>
+        <target>Lokalisierungsmodi konnten nicht geladen werden.</target>
+      </trans-unit>
+      <trans-unit id="step.modes.none_available">
+        <source>No localization modes available.</source>
+        <target>Keine Lokalisierungsmodi verfuegbar.</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.title">
+        <source>Source language</source>
+        <target>Quellsprache</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.headline">
+        <source>Select source language</source>
+        <target>Quellsprache auswaehlen</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.description">
+        <source>Choose the language from which you would like to translate content:</source>
+        <target>Waehle die Sprache aus der du Content uebersetzen willst:</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.summary.title">
+        <source>Source language</source>
+        <target>Quellsprache</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.error.message">
+        <source>Failed to load source languages.</source>
+        <target>Quellsprachen konnten nicht geladen werden.</target>
+      </trans-unit>
+      <trans-unit id="step.source_language.none_available">
+        <source>No source languages available.</source>
+        <target>Keine Quellsprachen verfuegbar.</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.title">
+        <source>Target language</source>
+        <target>Zielsprache</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.headline">
+        <source>Select target language</source>
+        <target>Zielsprache auswaehlen</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.description">
+        <source>Select the language into which you would like to translate the content:</source>
+        <target>Waehle die Sprache in die du den Content uebersetzen willst:</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.summary.title">
+        <source>Target language</source>
+        <target>Zielsprache</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.error.message">
+        <source>Failed to load target languages.</source>
+        <target>Zielsprachen konnten nicht geladen werden.</target>
+      </trans-unit>
+      <trans-unit id="step.target_language.none_available">
+        <source>No target languages available.</source>
+        <target>Keine Zielsprachen verfuegbar.</target>
+      </trans-unit>
+      <trans-unit id="handler.manual.label">
+        <source>Manual Translation</source>
+        <target>Manuelle Uebersetzung (DIY-Style)</target>
+      </trans-unit>
+      <trans-unit id="handler.manual.description">
+        <source>Prepares the language version. Edit and translate the content yourself afterwards.</source>
+        <target>Bereitet die Sprachversion vor. Danach flexst du den Content selber und uebersetzt ihn.</target>
+      </trans-unit>
+      <trans-unit id="error.recordNotFound">
+        <source>Record with uid "%s" of type "%s" does not exist or is not accessible.</source>
+        <target>Datensatz mit uid "%s" vom Typ "%s" existiert nicht oder ist nicht zugaenglich, geghostet.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

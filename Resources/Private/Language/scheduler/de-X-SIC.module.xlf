@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>TYPO3 Scheduler</source>
+        <target>TYPO3 Scheduler</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Scheduler administration module. Check all registered tasks. Add, modify or delete tasks.</source>
+        <target>Scheduler-Verwaltung. Check alle Side Quests, manifeste neue, flex sie oder yeet sie. Grinde deine wiederkehrenden Jobs, Digga.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Scheduler</source>
+        <target>Scheduler</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

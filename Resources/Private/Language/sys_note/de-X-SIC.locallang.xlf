@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:sys_note/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="internal_note"><source>Internal notes</source><target>Interne Notizen</target></trans-unit>
+      <trans-unit id="new_internal_note"><source>Create internal note for this page</source><target>Interne Notiz fuer diese Seite droppen</target></trans-unit>
+      <trans-unit id="author"><source>Author</source><target>Autor</target></trans-unit>
+      <trans-unit id="date"><source>Date</source><target>Datum</target></trans-unit>
+      <trans-unit id="edit_note"><source>Edit note record</source><target>Notiz-Record flexen</target></trans-unit>
+      <trans-unit id="personal"><source>Personal</source><target>Persoenlich</target></trans-unit>
+      <trans-unit id="category.1"><source>Instructions</source><target>Anweisungen</target></trans-unit>
+      <trans-unit id="category.2"><source>Template</source><target>Template</target></trans-unit>
+      <trans-unit id="category.3"><source>Notes</source><target>Notizen</target></trans-unit>
+      <trans-unit id="category.4"><source>To-do</source><target>To-do</target></trans-unit>
+      <trans-unit id="yes"><source>Yes</source><target>Ja</target></trans-unit>
+      <trans-unit id="author_deleted"><source>Unknown author</source><target>Unbekannter Autor, ghosted</target></trans-unit>
+      <trans-unit id="widget_group.sys_note_widget.title"><source>System Notes</source><target>System-Notizen</target></trans-unit>
+      <trans-unit id="delete"><source>Delete internal note</source><target>Interne Notiz yeeten</target></trans-unit>
+      <trans-unit id="delete_note"><source>Delete this note? You can restore it in the module "Recycler".</source><target>Diese Notiz yeeten? Kannst sie im "Recycler"-Modul wiederherstellen.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

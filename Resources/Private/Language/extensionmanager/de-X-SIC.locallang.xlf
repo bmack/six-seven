@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:extensionmanager/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="extensionManager">
+        <source>Extension Manager</source>
+        <target>Extension Dealer, Digga</target>
+      </trans-unit>
+      <trans-unit id="manageExtensions">
+        <source>Manage Extensions</source>
+        <target>Extensions managen wie ein Boss, fr fr</target>
+      </trans-unit>
+      <trans-unit id="installExtension">
+        <source>Install Extension</source>
+        <target>Extension draufballern, fr fr</target>
+      </trans-unit>
+      <trans-unit id="composerMode.title">
+        <source>Composer mode</source>
+        <target>Composer Modus (fancy, sheesh)</target>
+      </trans-unit>
+      <trans-unit id="composerStrictMode.message">
+        <source>The system is set to composer mode. Please notice that this list is for informational purpose only. To modify which extensions are part of the system, use Composer. To set extensions up, use the TYPO3 cli (extension:setup)</source>
+        <target>Digga, das System laeuft im Composer Modus. Die Liste hier ist nur zum Angucken, no cap. Wenn du Extensions aendern willst, benutz Composer. Zum Einrichten nimm die TYPO3 CLI (extension:setup), fr fr</target>
+      </trans-unit>
+      <trans-unit id="installedExtensions">
+        <source>Installed Extensions</source>
+        <target>Draufgeballerte Extensions, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus">
+        <source>Composer Support of Extensions</source>
+        <target>Composer Vibe-Check der Extensions, Digga</target>
+      </trans-unit>
+      <trans-unit id="getExtensions">
+        <source>Get Extensions</source>
+        <target>Extensions abgreifen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="showAllVersions">
+        <source>Show all versions of</source>
+        <target>Alle Versionen flexen von</target>
+      </trans-unit>
+      <trans-unit id="extConfTemplate.backToList">
+        <source>Back to list</source>
+        <target>Zurueck zur Liste, Brudi</target>
+      </trans-unit>
+      <trans-unit id="button.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken, Brudi</target>
+      </trans-unit>
+      <trans-unit id="button.details">
+        <source>Show Details</source>
+        <target>Details checken</target>
+      </trans-unit>
+      <trans-unit id="button.remove">
+        <source>Remove extension</source>
+        <target>Extension yeeten</target>
+      </trans-unit>
+      <trans-unit id="button.reimport">
+        <source>Re-import data</source>
+        <target>Daten nochmal reinziehen, Alter</target>
+      </trans-unit>
+      <trans-unit id="button.updateExtension">
+        <source>Update extension</source>
+        <target>Extension upgraden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="button.resolveDependencies">
+        <source>Resolve dependencies</source>
+        <target>Abhaengigkeiten klaeren, Digga</target>
+      </trans-unit>
+      <trans-unit id="label.resolveDependenciesEnableButton">
+        <source>I understand what this means and I'm able to investigate on possibly occurring issues by myself.</source>
+        <target>Ich check was das bedeutet und kann Probleme selber fixen, no cap.</target>
+      </trans-unit>
+      <trans-unit id="button.resolveDependenciesIgnore">
+        <source>Continue anyway</source>
+        <target>YOLO, weiter so, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.downloadsql">
+        <source>Download SQL Dump</source>
+        <target>SQL Dump saugen, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.remove">
+        <source>Remove</source>
+        <target>Yeeten, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.update">
+        <source>Update</source>
+        <target>Upgraden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateToVersion">
+        <source>Update to version %s</source>
+        <target>Auf Version %s upgraden, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateDisabled">
+        <source>An update is available but this operation is currently disabled</source>
+        <target>Es gibt ein Update, aber der Move ist gerade geblockt, Alter, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.deactivate">
+        <source>Deactivate</source>
+        <target>Ghosten, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.activate">
+        <source>Activate</source>
+        <target>Zum Leben erwecken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.toggleStateConfirmation.reloadMessage">
+        <source>Please note that the backend will be fully reloaded after proceeding.</source>
+        <target>Achtung Brudi, das Backend wird komplett neu geladen danach, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.downloadzip">
+        <source>Download as zip</source>
+        <target>Als ZIP saugen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.uploadExtension">
+        <source>Upload Extension</source>
+        <target>Extension hochflexxen, Homie</target>
+      </trans-unit>
+      <trans-unit id="extensionList.overwriteExtension">
+        <source>Overwrite</source>
+        <target>Drueberbuegeln, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.composerStatus.information">
+        <source>Future TYPO3 versions will require all extensions in your TYPO3 installation to contain a composer.json file in their extension directory.</source>
+        <target>Kuenftige TYPO3 Versionen wollen, dass alle Extensions eine composer.json im Ordner haben, no cap. Das braucht man um den Composer-Packagenamen, den Extension Key und die Abhaengigkeiten richtig zu erkennen. Unten siehst du Extensions die das noch nicht am Start haben und gefixt werden muessen.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.composerStatus.thirdParty">
+        <source>For third-party extensions that were fetched from TER, it is helpful to update to their latest version from TER which probably already contains a valid composer.json file.</source>
+        <target>Bei Third-Party Extensions aus dem TER hilft es, auf die neueste Version zu updaten - die hat wahrscheinlich schon eine valide composer.json am Start, Digga.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.composerStatus.missingManifest">
+        <source>Missing composer.json file</source>
+        <target>composer.json fehlt, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.composerStatus.terRequest">
+        <source>To support you creating a valid composer.json file for your extensions, TYPO3 will send your ext_emconf.php contents to TYPO3.org (TER).</source>
+        <target>Um dir beim Droppen einer validen composer.json zu helfen, schickt TYPO3 deine ext_emconf.php an TYPO3.org (TER). Die loesen dann deine Abhaengigkeiten auf und schicken einen composer.json Vorschlag zurueck, den du in den Extension-Ordner kopieren kannst. Besonders nuetzlich fuer Custom Extensions, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.composerStatus.additionalInformation">
+        <source>For more information regarding the migration and the upcoming changes, please have a look at</source>
+        <target>Fuer mehr Infos zur Migration und den kommenden Changes, check mal, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showComposerProposal">
+        <source>Show composer.json proposal</source>
+        <target>composer.json Vorschlag zeigen</target>
+      </trans-unit>
+      <trans-unit id="extensionList.fetchComposerProposal">
+        <source>Check TYPO3.org for composer.json proposal</source>
+        <target>TYPO3.org nach composer.json Vorschlag abchecken</target>
+      </trans-unit>
+      <trans-unit id="extensionList.fetchComposerProposal.details">
+        <source>Send this extensions' ext_emconf.php contents to TYPO3.org for a valid and resolved composer.json proposal</source>
+        <target>ext_emconf.php dieser Extension an TYPO3.org schicken fuer einen validen composer.json Vorschlag</target>
+      </trans-unit>
+      <trans-unit id="extensionList.overwritingDisabled">
+        <source>Extension is already available and overwriting was not enabled</source>
+        <target>Extension gibt's schon und Ueberschreiben ist nicht aktiviert, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.loading">
+        <source>Loading form...</source>
+        <target>Chill mal, Formular laedt.., Homie.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.update">
+        <source>Upd.</source>
+        <target>Upd.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.title.update">
+        <source>Update</source>
+        <target>Upgrade, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.activate">
+        <source>A/D</source>
+        <target>An/Aus, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.title.activate">
+        <source>Activate / Deactivate</source>
+        <target>Anmachen / Ghosten, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionName">
+        <source>Extension</source>
+        <target>Extension, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.version">
+        <source>Version</source>
+        <target>Version, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionKey">
+        <source>Key</source>
+        <target>Key</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionVersion">
+        <source>Version</source>
+        <target>Version, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionActions">
+        <source>Actions</source>
+        <target>Moves</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionState">
+        <source>State</source>
+        <target>Zustand, Homie</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionDeficit">
+        <source>Deficit</source>
+        <target>Mangel, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.extensionType">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.uploadComment">
+        <source>Upload Comment</source>
+        <target>Upload Kommentar, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.lastUpdate">
+        <source>Last Updated</source>
+        <target>Letztes Update, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.description">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.author">
+        <source>Author</source>
+        <target>Ersteller, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.header.manual">
+        <source>Manual</source>
+        <target>Anleitung, Brudi</target>
+      </trans-unit>
+      <trans-unit id="searchTemplate.searchExtensions">
+        <source>Search extensions</source>
+        <target>Extensions stalken, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.search">
+        <source>Search term</source>
+        <target>Suchbegriff, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.filter.showAll">
+        <source>All</source>
+        <target>Alles</target>
+      </trans-unit>
+      <trans-unit id="extensionList.filter.showSystemExtensions">
+        <source>System</source>
+        <target>System, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.filter.showLocalExtensions">
+        <source>Local</source>
+        <target>Lokal</target>
+      </trans-unit>
+      <trans-unit id="searchTemplate.submitButton">
+        <source>Go</source>
+        <target>Los</target>
+      </trans-unit>
+      <trans-unit id="searchTemplate.resetSearchButton">
+        <source>Reset Search</source>
+        <target>Search resetten, Bre</target>
+      </trans-unit>
+      <trans-unit id="searchTemplate.yourSearch">
+        <source>Your search</source>
+        <target>Deine Search, Alter</target>
+      </trans-unit>
+      <trans-unit id="searchTemplate.searchAgain">
+        <source>Search again</source>
+        <target>Nochmal stalken, Homie</target>
+      </trans-unit>
+      <trans-unit id="uploadTemplate.uploadButton">
+        <source>Upload</source>
+        <target>Uploaden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="uploadTemplate.extensionLabel">
+        <source>Extension</source>
+        <target>Extension, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.removalConfirmation.title">
+        <source>Extension Removal</source>
+        <target>Extension wird geyeetet</target>
+      </trans-unit>
+      <trans-unit id="extensionList.removalConfirmation.message">
+        <source>The extension is currently installed. Uninstall extension?</source>
+        <target>Die Extension ist noch aktiv, Digga. Deinstallieren?</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateConfirmation.title">
+        <source>Update?</source>
+        <target>Upgrade, Digga?</target>
+      </trans-unit>
+      <trans-unit id="extensionList.databaseImport">
+        <source>The static database data has changed. You should re-import the data.</source>
+        <target>Die statischen Datenbank-Daten haben sich geaendert. Du solltest die nochmal importieren, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.databaseReload">
+        <source>Nothing has changed since last import. You might want to reload static database data.</source>
+        <target>Nix hat sich geaendert seit dem letzten Import. Aber du kannst die statischen Daten nochmal laden wenn du willst, Homie.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.databaseReload.title">
+        <source>Re-import of static database data</source>
+        <target>Statische DB-Daten nochmal reinziehen, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.databaseReload.message">
+        <source>This re-import will overwrite any existing static data in the database.</source>
+        <target>Der Re-Import buegelt alle bestehenden statischen Daten in der Datenbank drueber, no cap.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateConfirmation.questionVersionComments">
+        <source>Version Comments</source>
+        <target>Versions-Kommentare, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFlashMessage.title">
+        <source>Extension Update</source>
+        <target>Extension Upgrade, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFlashMessage.body">
+        <source>%s was updated</source>
+        <target>%s wurde geupgradet, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.removalConfirmation.question">
+        <source>Removing the extension deletes its source files but the related database tables and data will remain unchanged. Please perform a database update to ensure integrity.</source>
+        <target>Wenn du die Extension yeetest, werden die Quelldateien geloescht aber die Datenbank-Tabellen bleiben. Mach danach ein Datenbank-Update damit alles sauber bleibt, Digga.</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.unresolvedDependencies.title">
+        <source>Please read this carefully before proceeding</source>
+        <target>Lies das aufmerksam bevor du weitermachst, Brudi</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.unresolvedDependencies.message">
+        <source><![CDATA[
+          <p>If you continue activating the extension, all dependency checks will be turned off.</p>
+          <ul>
+            <li>Required extensions are tried to be fetched from TER (if they do not yet exist in the system)</li>
+            <li>Version dependency checks are skipped</li>
+          </ul>
+          <strong>
+            Be aware that activating an extension without dependency checks may turn your TYPO3 installation unusable. In such a case manual intervention is required.
+          </strong>
+				]]></source>
+        <target><![CDATA[
+          <p>Wenn du die Extension trotzdem aktivierst, werden alle Abhaengigkeits-Checks abgeschaltet, sheesh.</p>
+          <ul>
+            <li>Benoetigte Extensions werden aus dem TER gezogen (wenn sie noch nicht da sind)</li>
+            <li>Versions-Checks werden uebersprungen</li>
+          </ul>
+          <strong>
+            Achtung Digga: Ohne Abhaengigkeits-Checks kann deine TYPO3-Installation komplett kaputt gehen. Dann musst du manuell ran. Real talk.
+          </strong>
+				]]></target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.unresolvedDependencies.question" x-unused-since="14.0">
+        <source>Are you sure you want to proceed?</source>
+        <target>Bist du dir sicher, Digga?</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.unresolvedDependencies.proceed">
+        <source>Activate the extension</source>
+        <target>Extension anmachen, YOLO, fr fr</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.headline">
+        <source>The following errors were found while trying to activate "%s"</source>
+        <target>Beim Anmachen von "%s" sind folgende Fails aufgetreten, Bre</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.requiredExtension">
+        <source>Required extension "%s"</source>
+        <target>Benoetigte Extension "%s", fr fr</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.headline">
+        <source>The following dependencies have to be resolved before installation:</source>
+        <target>Folgende Abhaengigkeiten muessen erst geklaert werden bevor's losgeht, Digga:</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.extensionWithVersion">
+        <source>%1$s (new version %2$s)</source>
+        <target>%1$s (neue Version %2$s)</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.typeHeadline">
+        <source>&lt;h3&gt;Extensions marked for %s:&lt;/h3&gt;%s</source>
+        <target>&lt;h3&gt;Extensions markiert fuer %s:&lt;/h3&gt;%s</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.resolveAutomatically">
+        <source>Shall these dependencies be resolved automatically?</source>
+        <target>Sollen die Abhaengigkeiten automatisch gefixt werden?, fr fr</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.errorTitle" x-unused-since="14.0">
+        <source>Dependencies could not be resolved</source>
+        <target>Abhaengigkeiten konnten nicht geklaert werden, cringe</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.modalTitle.activate">
+        <source>Activate Extension "%s"</source>
+        <target>Extension "%s" anmachen, Bre</target>
+      </trans-unit>
+      <trans-unit id="dependencyCheck.modalTitle.deactivate">
+        <source>Deactivate Extension "%s"</source>
+        <target>Extension "%s" ghosten, Brudi</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencies.errorMessage">
+        <source>The dependencies of the following Extensions could not be resolved</source>
+        <target>Die Abhaengigkeiten folgender Extensions konnten nicht geloest werden, F, Alter</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencyType.download">
+        <source>download</source>
+        <target>runterladen</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencyType.install">
+        <source>install</source>
+        <target>installieren</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.dependencyType.update">
+        <source>update</source>
+        <target>upgraden</target>
+      </trans-unit>
+      <trans-unit id="downloadExtension.updateExtension.error">
+        <source>Error while updating extension</source>
+        <target>Fail beim Extension-Upgrade, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveDownloadError.title">
+        <source>Download Error</source>
+        <target>Download-Fail, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveInstallError.title">
+        <source>Activation Error</source>
+        <target>Aktivierungs-Fail, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveInstallError.message">
+        <source>Activation failed while resolving dependencies.</source>
+        <target>Aktivierung ist beim Abhaengigkeiten-Klaeren abgekackt, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveDownloadSuccess.message">
+        <source>Your installation of {0} was successful.</source>
+        <target>Installation von {0} war ein voller W!, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveDownloadSuccess.message.downloadOnly">
+        <source>Your download of {0} was successful.</source>
+        <target>Download von {0} hat geklappt, lit, Alter!</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveDownloadSuccess.header">
+        <source>Log</source>
+        <target>Protokoll, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveDownloadSuccess.item">
+        <source>Extensions</source>
+        <target>Extensions, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveFlashMessage.title">
+        <source>{0} installed.</source>
+        <target>{0} installiert, slay!</target>
+      </trans-unit>
+      <trans-unit id="extensionList.dependenciesResolveFlashMessage.title.downloadOnly">
+        <source>{0} downloaded.</source>
+        <target>{0} runtergesaugt.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.uploadFlashMessage.title">
+        <source>Extension Upload</source>
+        <target>Extension Upload, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.uploadFlashMessage.message">
+        <source>%s was uploaded</source>
+        <target>%s wurde hochgeladen, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.installedFlashMessage.message">
+        <source>%s was installed</source>
+        <target>%s wurde draufgeballert</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTerFlashMessage.title">
+        <source>Update Extension List</source>
+        <target>Extension-Liste auffrischen, Homie</target>
+      </trans-unit>
+      <trans-unit id="extensionList.downloadViewHelper.submit">
+        <source>Import and Install</source>
+        <target>Importieren und Draufballern, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionList.downloadViewHelper.submit.downloadOnly">
+        <source>Import</source>
+        <target>Importieren, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.label">
+        <source>Show all versions</source>
+        <target>Alle Versionen zeig mal</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.extensionKey">
+        <source>Extension key</source>
+        <target>Extension Key, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.version">
+        <source>Version</source>
+        <target>Version, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.lastUploaded">
+        <source>Last uploaded</source>
+        <target>Zuletzt hochgeladen, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.downloads">
+        <source>Downloads</source>
+        <target>Downloads, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.category">
+        <source>Category</source>
+        <target>Kategorie, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.manual">
+        <source>Manual</source>
+        <target>Anleitung, sheesh</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.author">
+        <source>Author</source>
+        <target>Ersteller, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.readOnline">
+        <source>Read online</source>
+        <target>Online lesen, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.depends">
+        <source>Depends</source>
+        <target>Braucht, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.conflicts">
+        <source>Conflicts</source>
+        <target>Beef mit, Homie</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.suggests">
+        <source>Suggests</source>
+        <target>Schlaegt vor, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showAllVersions.notCompatibleVersion">
+        <source>Not compatible with your version</source>
+        <target>Passt nicht zu deiner Version, cringe</target>
+      </trans-unit>
+      <trans-unit id="extensionList.remove.message">
+        <source>Extension "%s" was removed successfully</source>
+        <target>Extension "%s" wurde erfolgreich geyeetet</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.key">
+        <source>Key</source>
+        <target>Key</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.author">
+        <source>Author</source>
+        <target>Ersteller, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.version">
+        <source>Version</source>
+        <target>Version, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.downloads">
+        <source>Downloads</source>
+        <target>Downloads, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionList.distribution.lastUpdated">
+        <source>Last Update</source>
+        <target>Letztes Upgrade, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.showUnsuitableDistributions">
+        <source>Show also distributions that are not suitable for this TYPO3 version</source>
+        <target>Auch Distributionen zeig mal die nicht zu dieser TYPO3 Version passen (sus)</target>
+      </trans-unit>
+      <trans-unit id="extensionList.officialDistribution">
+        <source>Official distribution</source>
+        <target>Offizielle Distribution, based, sheesh</target>
+      </trans-unit>
+      <trans-unit id="distributions">
+        <source>Get preconfigured distribution</source>
+        <target>Fertige Distribution abgreifen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.installDistribution" x-unused-since="14.2">
+        <source>Install</source>
+        <target>Draufballern, Digga</target>
+      </trans-unit>
+      <trans-unit id="extensionList.installImpexp">
+        <source>Please install the Import/Export (impexp) extension to enable distribution support.</source>
+        <target>Bitte die Import/Export (impexp) Extension installieren damit Distributionen laufen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="distribution.installImpexp">
+        <source>Install impexp</source>
+        <target>impexp draufballern</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.label">
+        <source>Retrieving extension list from TYPO3 Extension Repository (TER)...</source>
+        <target>Extension-Liste wird aus dem TER gezogen, chill mal.., Brudi.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.buttonLabel">
+        <source>Update now</source>
+        <target>Jetzt updaten, Brudi</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.label">
+        <source>Last update</source>
+        <target>Letztes Update, Alter</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.timeSinceLastUpdateLabel">
+        <source>Time since last update</source>
+        <target>Zeit seit dem letzten Update, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.noInfo">
+        <source>unknown</source>
+        <target>keine Ahnung</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.fullTimeFormat">
+        <source>Y-m-d H:i:s</source>
+        <target>d.m.Y H:i:s</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.timeOfLastUpdate">
+        <source>Time of last update: </source>
+        <target>Zeitpunkt des letzten Updates, Digga:</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.lastUpdate.noTimeOfLastUpdate">
+        <source>No last update time known.</source>
+        <target>Kein Zeitpunkt vom letzten Update bekannt, Alter, Homie.</target>
+      </trans-unit>
+      <trans-unit id="extensionList.updateFromTer.never">
+        <source>Never</source>
+        <target>Noch nie, fr fr</target>
+      </trans-unit>
+      <trans-unit id="extensionList.uninstall.dependencyError">
+        <source>Cannot deactivate extension '%s' - The extension(s) '%s' depend on it.</source>
+        <target>Kann Extension '%s' nicht ghosten - Extension(s) '%s' brauchen die noch, Digga.</target>
+      </trans-unit>
+      <trans-unit id="distribution.error.headline">
+        <source>Could not install distribution '%s'</source>
+        <target>Konnte Distribution '%s' nicht draufballern, F, Alter</target>
+      </trans-unit>
+      <trans-unit id="distribution.welcome.headline">
+        <source>Congratulations...</source>
+        <target>Sheesh, Glueckwunsch.., sheesh.</target>
+      </trans-unit>
+      <trans-unit id="distribution.welcome.message">
+        <source>You successfully installed the distribution '%s'</source>
+        <target>Du hast die Distribution '%s' erfolgreich installiert, slay!</target>
+      </trans-unit>
+      <trans-unit id="distribution.welcome.nextSteps">
+        <source>Now you can</source>
+        <target>Jetzt kannst du, Alter</target>
+      </trans-unit>
+      <trans-unit id="distribution.welcome.openViewModule">
+        <source>View your website</source>
+        <target>Deine Website anschauen, Digga</target>
+      </trans-unit>
+      <trans-unit id="distribution.welcome.openPageModule">
+        <source>Start editing your website</source>
+        <target>Deine Website flexen</target>
+      </trans-unit>
+      <trans-unit id="distribution.dependency.headline">
+        <source>Dependencies, conflicts and suggestions</source>
+        <target>Abhaengigkeiten, Beef und Vorschlaege, Bre</target>
+      </trans-unit>
+      <trans-unit id="distribution.dependency.identifier">
+        <source>Identifier</source>
+        <target>Kennung, Homie</target>
+      </trans-unit>
+      <trans-unit id="distribution.dependency.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="distribution.dependency.version">
+        <source>Version</source>
+        <target>Version, Digga</target>
+      </trans-unit>
+      <trans-unit id="task.updateExtensionListTask.name">
+        <source>Update extension list</source>
+        <target>Extension-Liste updaten, Homie</target>
+      </trans-unit>
+      <trans-unit id="task.updateExtensionListTask.description">
+        <source>Update TER extension list on a regular basis. Once a day is a good interval.</source>
+        <target>TER Extension-Liste regelmaessig updaten. Einmal am Tag reicht, no cap.</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.title">
+        <source>Update status of typo3.org main repository extension list</source>
+        <target>Update-Status der typo3.org Main-Repository Extension-Liste, Bro</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.notFound.value">
+        <source>Error</source>
+        <target>Fail</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.notFound.message">
+        <source>The typo3.org extension repository was not found. Please import the main typo3.org extension repository in the install tool wizard.</source>
+        <target>Das typo3.org Extension-Repository wurde nicht gefunden. Bitte importier das im Install Tool Wizard, Digga.</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.notUpToDate.value">
+        <source>Extension list is not up to date</source>
+        <target>Extension-Liste ist nicht aktuell, sus</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.notUpToDate.message">
+        <source>The Main Repository extension list is older than 7 days. Please update it in the Extension manager or Scheduler.</source>
+        <target>Die Main-Repository Extension-Liste ist aelter als 7 Tage. Bitte update die im Extension Manager oder Scheduler, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="report.status.mainRepository.upToDate.value">
+        <source>OK</source>
+        <target>Alles lit, Bro</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedExtensions.title">
+        <source>Security status of loaded extensions</source>
+        <target>Sicherheits-Vibe der geladenen Extensions, Brudi</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedExtensions.noInsecureExtensionLoaded.value">
+        <source>OK</source>
+        <target>Alles safe, Homie</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedExtensions.insecureExtensionLoaded.value">
+        <source>%s insecure extension(s) found</source>
+        <target>%s unsichere Extension(s) gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedExtensions.insecureExtensionLoaded.message">
+        <source>The following extensions are insecure and usage might damage your system. Please update these extensions as soon as possible or remove them from your system:&lt;br&gt;&lt;br&gt;%s</source>
+        <target>Folgende Extensions sind unsicher und koennten dein System zerstoeren. Bitte update oder yeet sie so schnell wie moeglich:&lt;br&gt;&lt;br&gt;%s, fr fr</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedExtensions.insecureExtensionLoaded.message.extension">
+        <source>&lt;strong&gt;%1$s&lt;/strong&gt; (version %2$s)&lt;br&gt;</source>
+        <target>&lt;strong&gt;%1$s&lt;/strong&gt; (Version %2$s)&lt;br&gt;</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingExtensions.title">
+        <source>Security status of existing, but not loaded extensions</source>
+        <target>Sicherheits-Check von vorhandenen aber nicht geladenen Extensions, sheesh</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingExtensions.noInsecureExtensionExists.value">
+        <source>OK</source>
+        <target>Alles safe, Alter</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingExtensions.insecureExtensionExists.value">
+        <source>%s insecure extension(s) found</source>
+        <target>%s unsichere Extension(s) entdeckt, sus</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingExtensions.insecureExtensionExists.message">
+        <source>The following extensions were found on your system, but are currently not installed. Please delete the extensions using the extension manager:&lt;br&gt;&lt;br&gt;%s</source>
+        <target>Folgende Extensions wurden auf deinem System gefunden, sheesh, sind aber nicht installiert. Bitte loesch die ueber den Extension Manager:&lt;br&gt;&lt;br&gt;%s</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingExtensions.insecureExtensionExists.message.extension">
+        <source>&lt;strong&gt;%1$s&lt;/strong&gt; (version %2$s)&lt;br&gt;</source>
+        <target>&lt;strong&gt;%1$s&lt;/strong&gt; (Version %2$s)&lt;br&gt;</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedOutdatedExtensions.title">
+        <source>Outdated status of loaded extensions</source>
+        <target>Veraltungs-Status der geladenen Extensions, Bro</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedOutdatedExtensions.noOutdatedExtensionLoaded.value">
+        <source>OK</source>
+        <target>Alles fresh, Alter</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedOutdatedExtensions.outdatedExtensionLoaded.value">
+        <source>%s outdated extension(s) found</source>
+        <target>%s veraltete Extension(s) gefunden, cringe</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedOutdatedExtensions.outdatedExtensionLoaded.message">
+        <source>The following extensions are outdated and may not be compatible with your installation. Please make sure these extensions are compatible and ask the extension author to publish updates:&lt;br&gt;&lt;br&gt;%s</source>
+        <target>Folgende Extensions sind veraltet und passen vielleicht nicht mehr zu deiner Installation. Check ob die noch kompatibel sind und frag den Ersteller nach Updates:&lt;br&gt;&lt;br&gt;%s, Alter</target>
+      </trans-unit>
+      <trans-unit id="report.status.loadedOutdatedExtensions.outdatedExtensionLoaded.message.extension">
+        <source>&lt;strong&gt;%1$s&lt;/strong&gt; (version %2$s)&lt;br&gt;</source>
+        <target>&lt;strong&gt;%1$s&lt;/strong&gt; (Version %2$s)&lt;br&gt;</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingOutdatedExtensions.title">
+        <source>Outdated status of existing, but not loaded extensions</source>
+        <target>Veraltungs-Status von vorhandenen aber nicht geladenen Extensions, sheesh</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingOutdatedExtensions.noOutdatedExtensionExists.value">
+        <source>OK</source>
+        <target>Alles fresh, Digga</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingOutdatedExtensions.outdatedExtensionExists.value">
+        <source>%s outdated extension(s) found</source>
+        <target>%s veraltete Extension(s) gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingOutdatedExtensions.outdatedExtensionExists.message">
+        <source>The following extensions were found on your system, but are currently not installed. Please make sure they are compatible with your system before installing them:&lt;br&gt;&lt;br&gt;%s</source>
+        <target>Folgende Extensions liegen auf deinem System, sind aber nicht installiert. Check ob die kompatibel sind bevor du die installierst:&lt;br&gt;&lt;br&gt;%s, Alter</target>
+      </trans-unit>
+      <trans-unit id="report.status.existingOutdatedExtensions.outdatedExtensionExists.message.extension">
+        <source>&lt;strong&gt;%1$s&lt;/strong&gt; (version %2$s)&lt;br&gt;</source>
+        <target>&lt;strong&gt;%1$s&lt;/strong&gt; (Version %2$s)&lt;br&gt;</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.extensionKeyMissing">
+        <source>Extensions missing extension-key in composer.json</source>
+        <target>Extensions ohne Extension-Key in der composer.json, Homie</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.composerJsonMissing">
+        <source>Extensions missing composer.json</source>
+        <target>Extensions ohne composer.json, sheesh</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.extensionTitleMissing">
+        <source>Extension title not set correctly in composer.json</source>
+        <target>Extension-Titel in composer.json falsch gesetzt, Bro</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.extensionKeyMissing.message">
+        <source>%d extension(s) do not have an extension-key set in their composer.json file.</source>
+        <target>%d Extension(s) haben keinen Extension-Key in ihrer composer.json, Digga.</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.composerJsonMissing.message">
+        <source>%d extension(s) do not provide a composer.json file.</source>
+        <target>%d Extension(s) haben keine composer.json am Start.</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.extensionTitleMissing.message">
+        <source>%d extension(s) do not have the extension title set in composer.json file according to their ext_emconf.php file.</source>
+        <target>%d Extension(s) haben den Titel in der composer.json nicht passend zur ext_emconf.php gesetzt.</target>
+      </trans-unit>
+      <trans-unit id="report.status.composerManifest.update">
+        <source>Update extensions</source>
+        <target>Extensions updaten, Bre</target>
+      </trans-unit>
+      <trans-unit id="fileHandling.couldNotRemoveDirectory">
+        <source>ERROR: Could not remove extension directory "%s". Reasons</source>
+        <target>FAIL: Konnte Extension-Verzeichnis "%s" nicht yeeten. Gruende</target>
+      </trans-unit>
+      <trans-unit id="fileHandling.couldNotCreateDirectory">
+        <source>ERROR: Could not create extension directory "%s"</source>
+        <target>FAIL: Konnte Extension-Verzeichnis "%s" nicht droppen</target>
+      </trans-unit>
+      <trans-unit id="fileHandling.installPathWasNoDirectory">
+        <source>ERROR: The extension install path "%s" was no directory</source>
+        <target>FAIL: Der Extension-Installationspfad "%s" ist kein Folder, Alter</target>
+      </trans-unit>
+      <trans-unit id="config.automaticInstallation">
+        <source>Install extensions automatically after download from TER or file upload</source>
+        <target>Extensions automatisch installieren nach TER-Download oder Datei-Upload, Brudi</target>
+      </trans-unit>
+      <trans-unit id="config.offlineMode">
+        <source>Disable TER connection and hide menu items</source>
+        <target>TER-Verbindung kappen und Menue-Eintraege ghosten, sheesh</target>
+      </trans-unit>
+      <trans-unit id="pagination.previous">
+        <source>previous</source>
+        <target>zurueck</target>
+      </trans-unit>
+      <trans-unit id="pagination.next">
+        <source>next</source>
+        <target>weiter</target>
+      </trans-unit>
+      <trans-unit id="pagination.first">
+        <source>first</source>
+        <target>Anfang, Digga</target>
+      </trans-unit>
+      <trans-unit id="pagination.last">
+        <source>last</source>
+        <target>Ende</target>
+      </trans-unit>
+      <trans-unit id="pagination.records">
+        <source>Extensions</source>
+        <target>Extensions, no cap</target>
+      </trans-unit>
+      <trans-unit id="pagination.page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="pagination.refresh">
+        <source>Refresh</source>
+        <target>Auffrischen, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.nothingToUpdate.title">
+        <source>Everything up to date.</source>
+        <target>Alles auf dem neuesten Stand, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.nothingToUpdate.message.single">
+        <source>Extension %s does not need to be updated.</source>
+        <target>Extension %s braucht kein Update, alles fresh, Bro.</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.nothingToUpdate.message.multiple">
+        <source>There are no extensions which need to be updated.</source>
+        <target>Keine Extensions die ein Update brauchen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.title">
+        <source>Update composer.json of %s</source>
+        <target>composer.json von %s updaten</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.1">
+        <source>%s does not contain a composer.json</source>
+        <target>%s hat keine composer.json, cringe</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.1.short">
+        <source>composer.json missing</source>
+        <target>composer.json fehlt</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.2">
+        <source>%s is missing the extension-key property in the composer.json</source>
+        <target>%s hat keinen Extension-Key in der composer.json</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.2.short">
+        <source>Extension Key missing</source>
+        <target>Extension Key fehlt, no cap</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.4">
+        <source>%s has missing or inconsistent extension title in the composer.json</source>
+        <target>%s hat fehlenden oder inkonsistenten Extension-Titel in der composer.json</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.4.short">
+        <source>Extension Title missing</source>
+        <target>Extension-Titel fehlt, Homie</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.deficit.information">
+        <source>In future versions of TYPO3, it will be mandatory for extensions to provide a composer.json file.</source>
+        <target>In kuenftigen TYPO3-Versionen wird die composer.json Pflicht, no cap. Die wird gebraucht um Extensions zu identifizieren und ersetzt die ext_emconf.php. Deshalb muss auch der Extension-Key unter "extra &gt; typo3/cms &gt; extension-key" drin stehen. Nutz den automatisch generierten Vorschlag unten und pack ihn in die composer.json.</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.manifest.title">
+        <source>Auto-generated composer.json</source>
+        <target>Automatisch generierte composer.json, Bre</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.manifest.description">
+        <source>Please verify its contents, adjust it to your needs and and put it into typo3conf/ext/%s/composer.json.</source>
+        <target>Check den Inhalt, pass ihn an deine Beduerfnisse an und pack ihn in typo3conf/ext/%s/composer.json, Bro.</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.manifest.error">
+        <source>Auto-generation of a composer.json proposal failed</source>
+        <target>Automatische composer.json-Generierung hat gefailt, Bro</target>
+      </trans-unit>
+      <trans-unit id="extensionComposerStatus.manifest.error.message">
+        <source>TYPO3 could not create a composer.json proposal.</source>
+        <target>TYPO3 konnte keinen composer.json-Vorschlag droppen. Liegt vielleicht an einer kaputten composer.json oder Netzwerk-Problemen beim TER-API-Aufruf. Check ob schon eine ungueltige composer.json existiert oder probier's spaeter nochmal, Digga.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

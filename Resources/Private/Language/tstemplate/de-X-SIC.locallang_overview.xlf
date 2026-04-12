@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_overview.xlf">
+    <header/>
+    <body>
+      <trans-unit id="typoscriptRecords.title"><source>TypoScript Overview</source><target>TypoScript-Ueberblick</target></trans-unit>
+      <trans-unit id="typoscriptRecords.description"><source>Global overview of all pages with active TypoScript definitions (database records and site sets).</source><target>Globaler Ueberblick aller Seiten mit aktiven TypoScript-Definitionen (DB-Records und Site-Sets).</target></trans-unit>
+      <trans-unit id="typoscriptRecords.noRecordsFound"><source>No TypoScript definitions found.</source><target>Nix am Start, keine TypoScript-Definitionen gefunden.</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.pageTitle"><source>Page title</source><target>Seitentitel</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.typoscriptRecords"><source>TypoScript definitions</source><target>TypoScript-Definitionen</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.site"><source>Site set</source><target>Site-Set</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.root"><source>Marked as root</source><target>Als Root markiert</target></trans-unit>
+    </body>
+  </file>
+</xliff>

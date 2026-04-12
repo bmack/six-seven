@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mod_file.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_file_storage.isOffline">
+        <source>offline</source>
+        <target>offline</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_basePath">
+        <source>Base path</source>
+        <target>Basispfad, Bre</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_basePath_placeholder">
+        <source>Add storage path here. For example: myPath/folder/</source>
+        <target>Speicherpfad hier rein. Beispiel: myPath/folder/</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_baseUri">
+        <source>Base URI</source>
+        <target>Basis-URI</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_baseUri_placeholder">
+        <source>Use this URI to build the public URL of files, instead of deriving the URI from base path</source>
+        <target>Diese URI fuer die oeffentliche URL von Dateien nutzen, statt sie aus dem Basispfad abzuleiten</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType">
+        <source>Path type</source>
+        <target>Pfad-Typ</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType_relative">
+        <source>relative</source>
+        <target>relativ</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType_absolute">
+        <source>absolute</source>
+        <target>absolut</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_caseSensitive">
+        <source>Uses case sensitive identifiers</source>
+        <target>Nutzt Gross-/Kleinschreibung-sensitive Kennungen</target>
+      </trans-unit>
+      <trans-unit id="role_folder_temporary">
+        <source>Temporary files</source>
+        <target>Temporaere Dateien</target>
+      </trans-unit>
+      <trans-unit id="role_folder_recycler">
+        <source>Recycler</source>
+        <target>Muell-Ecke</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_wizards.xlf">
+    <header/>
+    <body>
+      <trans-unit id="table_smallFields">
+        <source>Small fields</source>
+        <target>Kleine Felder</target>
+      </trans-unit>
+      <trans-unit id="table_addColumn">
+        <source>Add column to the right</source>
+        <target>Spalte rechts dazupacken</target>
+      </trans-unit>
+      <trans-unit id="table_removeColumn">
+        <source>Remove column</source>
+        <target>Spalte yeeten</target>
+      </trans-unit>
+      <trans-unit id="table_addRow">
+        <source>Add row below</source>
+        <target>Zeile drunter dazupacken</target>
+      </trans-unit>
+      <trans-unit id="table_removeRow">
+        <source>Remove row</source>
+        <target>Zeile yeeten</target>
+      </trans-unit>
+      <trans-unit id="table_left">
+        <source>Move left</source>
+        <target>Nach links schieben</target>
+      </trans-unit>
+      <trans-unit id="table_right">
+        <source>Move right</source>
+        <target>Nach rechts schieben</target>
+      </trans-unit>
+      <trans-unit id="table_up">
+        <source>Move up</source>
+        <target>Nach oben schieben</target>
+      </trans-unit>
+      <trans-unit id="table_down">
+        <source>Move down</source>
+        <target>Nach unten schieben</target>
+      </trans-unit>
+      <trans-unit id="table_top">
+        <source>Move to top</source>
+        <target>Ganz nach oben</target>
+      </trans-unit>
+      <trans-unit id="table_bottom">
+        <source>Move to bottom</source>
+        <target>Ganz nach unten</target>
+      </trans-unit>
+      <trans-unit id="table_start">
+        <source>Move to first column</source>
+        <target>In die erste Spalte schieben</target>
+      </trans-unit>
+      <trans-unit id="table_end">
+        <source>Move to last column</source>
+        <target>In die letzte Spalte schieben</target>
+      </trans-unit>
+      <trans-unit id="table_setCount">
+        <source>Set row and column count</source>
+        <target>Zeilen- und Spaltenanzahl setzen</target>
+      </trans-unit>
+      <trans-unit id="table_colCount">
+        <source>Column count</source>
+        <target>Spaltenanzahl</target>
+      </trans-unit>
+      <trans-unit id="table_rowCount">
+        <source>Row count</source>
+        <target>Zeilenanzahl</target>
+      </trans-unit>
+      <trans-unit id="table_setCountHeadline">
+        <source>Change table size</source>
+        <target>Tabellengroesse aendern</target>
+      </trans-unit>
+      <trans-unit id="table_buttonUpdate">
+        <source>Update</source>
+        <target>Aktualisieren</target>
+      </trans-unit>
+      <trans-unit id="table_showCode">
+        <source>Show table code</source>
+        <target>Tabellen-Code anzeigen</target>
+      </trans-unit>
+      <trans-unit id="table_showCodeHeadline">
+        <source>Table code</source>
+        <target>Tabellen-Code</target>
+      </trans-unit>
+      <trans-unit id="table_showCodeLabel">
+        <source>Raw value</source>
+        <target>Rohwert</target>
+      </trans-unit>
+      <trans-unit id="grid_windowTitle">
+        <source>Set cell name and column number</source>
+        <target>Zellenname und Spaltennummer setzen</target>
+      </trans-unit>
+      <trans-unit id="grid_addColumn">
+        <source>Add column</source>
+        <target>Spalte dazupacken</target>
+      </trans-unit>
+      <trans-unit id="grid_removeColumn">
+        <source>Remove column</source>
+        <target>Spalte yeeten</target>
+      </trans-unit>
+      <trans-unit id="grid_addRow">
+        <source>Add row</source>
+        <target>Zeile dazupacken</target>
+      </trans-unit>
+      <trans-unit id="grid_removeRow">
+        <source>Remove row</source>
+        <target>Zeile yeeten</target>
+      </trans-unit>
+      <trans-unit id="grid_editCell">
+        <source>Edit cell</source>
+        <target>Zelle flexen</target>
+      </trans-unit>
+      <trans-unit id="grid_cell_merge_right">
+        <source>Merge Right</source>
+        <target>Nach rechts mergen</target>
+      </trans-unit>
+      <trans-unit id="grid_cell_merge_down">
+        <source>Merge Down</source>
+        <target>Nach unten mergen</target>
+      </trans-unit>
+      <trans-unit id="grid_cell_split_horizontal">
+        <source>Split Horizontally</source>
+        <target>Horizontal splitten</target>
+      </trans-unit>
+      <trans-unit id="grid_cell_split_vertical">
+        <source>Split Vertically</source>
+        <target>Vertikal splitten</target>
+      </trans-unit>
+      <trans-unit id="grid_name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="grid_column">
+        <source>Column number</source>
+        <target>Spaltennummer</target>
+      </trans-unit>
+      <trans-unit id="grid_identifier">
+        <source>Identifier</source>
+        <target>Kennung</target>
+      </trans-unit>
+      <trans-unit id="grid_slideMode">
+        <source>Slide mode</source>
+        <target>Slide-Modus</target>
+      </trans-unit>
+      <trans-unit id="grid_notSet">
+        <source>not set</source>
+        <target>nicht gesetzt, it's giving nix</target>
+      </trans-unit>
+      <trans-unit id="grid_nameHelp">
+        <source>Enter a name for the cell.</source>
+        <target>Gib der Zelle einen Namen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="grid_columnHelp">
+        <source>The column position defines in which area the content is rendered in the frontend.</source>
+        <target>Die Spaltenposition bestimmt wo der Content im Frontend gerendert wird.</target>
+      </trans-unit>
+      <trans-unit id="grid_identifierHelp">
+        <source>The identifier is a human-readable unique label, used to access the items in this column.</source>
+        <target>Die Kennung ist ein lesbares eindeutiges Label um auf die Elemente in dieser Spalte zuzugreifen.</target>
+      </trans-unit>
+      <trans-unit id="grid_slideModeHelp">
+        <source>The slide mode defines which elements should be fetched for the column in the frontend.</source>
+        <target>Der Slide-Modus legt fest welche Elemente fuer die Spalte im Frontend geholt werden.</target>
+      </trans-unit>
+      <trans-unit id="imwizard.open-editor">
+        <source>Open Editor</source>
+        <target>Editor oeffnen</target>
+      </trans-unit>
+      <trans-unit id="imwizard.supported-types-message">
+        <source>Image manipulation is only available for supported types</source>
+        <target>Bildbearbeitung gibt's nur fuer unterstuetzte Typen</target>
+      </trans-unit>
+      <trans-unit id="imwizard.no-image-dimensions">
+        <source>No image dimensions could be determined.</source>
+        <target>Goofy Fehler: Bildmasse konnten nicht ermittelt werden, Aura -500.</target>
+      </trans-unit>
+      <trans-unit id="imwizard.no-image-dimensions-message">
+        <source>Unable to provide image manipulation, because original dimensions of the image are unknown.</source>
+        <target>Bildbearbeitung nicht moeglich weil die Originalgroesse unbekannt ist, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="imwizard.image-manipulation">
+        <source>Image manipulation</source>
+        <target>Bildbearbeitung</target>
+      </trans-unit>
+      <trans-unit id="imwizard.reset">
+        <source>Reset</source>
+        <target>Zuruecksetzen</target>
+      </trans-unit>
+      <trans-unit id="imwizard.accept">
+        <source>Accept</source>
+        <target>Bet, passt so</target>
+      </trans-unit>
+      <trans-unit id="imwizard.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="imwizard.preview">
+        <source>Preview</source>
+        <target>Vorschau</target>
+      </trans-unit>
+      <trans-unit id="imwizard.aspect-ratio">
+        <source>Aspect ratio</source>
+        <target>Seitenverhaeltnis</target>
+      </trans-unit>
+      <trans-unit id="imwizard.set-aspect-ratio">
+        <source>Set Aspect Ratio</source>
+        <target>Seitenverhaeltnis setzen</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.16_9" translate="no">
+        <source>16:9</source>
+        <target>16:9</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.3_2" translate="no">
+        <source>3:2</source>
+        <target>3:2</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.4_3" translate="no">
+        <source>4:3</source>
+        <target>4:3</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.1_1" translate="no">
+        <source>1:1</source>
+        <target>1:1</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.191_1" translate="no">
+        <source>1.91:1</source>
+        <target>1.91:1</target>
+      </trans-unit>
+      <trans-unit id="imwizard.ratio.free">
+        <source>Free</source>
+        <target>Frei (unhinged)</target>
+      </trans-unit>
+      <trans-unit id="imwizard.crop_variant.default">
+        <source>Default</source>
+        <target>Mid (Standard)</target>
+      </trans-unit>
+      <trans-unit id="imwizard.crop_variant.social">
+        <source>Social media</source>
+        <target>Social Media</target>
+      </trans-unit>
+      <trans-unit id="imwizard.sync-crop-variants">
+        <source>Apply changes to all crop variants</source>
+        <target>Aenderungen auf alle Crop-Varianten anwenden</target>
+      </trans-unit>
+      <trans-unit id="imwizard.selection">
+        <source>Selected Size</source>
+        <target>Ausgewaehlte Groesse</target>
+      </trans-unit>
+      <trans-unit id="localizationStateSelector.header">
+        <source>Translation behavior</source>
+        <target>Uebersetzungs-Verhalten</target>
+      </trans-unit>
+      <trans-unit id="localizationStateSelector.customValue">
+        <source>Custom value</source>
+        <target>Eigener Wert (Sigma-Move)</target>
+      </trans-unit>
+      <trans-unit id="localizationStateSelector.defaultLanguageValue">
+        <source>Value of default language</source>
+        <target>Wert der mid Standardsprache</target>
+      </trans-unit>
+      <trans-unit id="localizationStateSelector.sourceLanguageValue">
+        <source>Value of %1s language</source>
+        <target>Wert der %1s Sprache</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

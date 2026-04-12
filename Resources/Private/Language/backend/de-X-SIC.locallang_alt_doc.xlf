@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_alt_doc.xlf">
+    <header/>
+    <body>
+      <trans-unit id="deleteItem">
+        <source>Delete</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="deleteWarning">
+        <source>Are you sure you want to delete this record?</source>
+        <target>Willst du diesen Datensatz wirklich yeeten, Digga?</target>
+      </trans-unit>
+      <trans-unit id="undoLastChange">
+        <source>Undo/Redo last change (%s ago)</source>
+        <target>Letzten Flex rueckgaengig/wiederholen (vor %s)</target>
+      </trans-unit>
+      <trans-unit id="recordHistory">
+        <source>View record change history</source>
+        <target>Tea verschuetten: Datensatz-History angucken</target>
+      </trans-unit>
+      <trans-unit id="editWholeRecord">
+        <source>Edit whole record</source>
+        <target>Ganzen Datensatz flexen</target>
+      </trans-unit>
+      <trans-unit id="openDocs">
+        <source>OPEN DOCUMENTS</source>
+        <target>OFFENE DOCS, BRE</target>
+      </trans-unit>
+      <trans-unit id="noDocuments">
+        <source>No open documents</source>
+        <target>Nix am Start, keine offenen Docs</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg">
+        <source>There are no open documents available to edit.</source>
+        <target>Null offene Dokumente zum Flexen da, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg2">
+        <source>You can go to %s to find the page or the record you wish to edit.</source>
+        <target>Geh zu %s um die Seite oder den Datensatz zu finden, den du flexen willst.</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg3">
+        <source>You can select one of your most recently edited records from this list</source>
+        <target>Du kannst einen deiner zuletzt geflexten Datensaetze aus dieser Liste waehlen</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_pagemodule">
+        <source>the Web&gt;Page module</source>
+        <target>das Web&gt;Seiten-Modul</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_OR">
+        <source>or</source>
+        <target>oder</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_listmodule">
+        <source>the Web&gt;List module</source>
+        <target>das Web&gt;Listen-Modul</target>
+      </trans-unit>
+      <trans-unit id="noEditForm">
+        <source>Edit form could not be loaded</source>
+        <target>Unhinged: Formular konnte nicht geladen werden, oof</target>
+      </trans-unit>
+      <trans-unit id="noEditForm.message">
+        <source>The edit form could not be loaded for the requested records. This might be due to insufficient permissions.</source>
+        <target>Das Formular konnte fuer die angeforderten Datensaetze nicht geladen werden. Dir fehlen vielleicht die Rechte, Digga.</target>
+      </trans-unit>
+      <trans-unit id="noFieldsEditForm">
+        <source>No fields to edit</source>
+        <target>Nix zum Flexen da</target>
+      </trans-unit>
+      <trans-unit id="noFieldsEditForm.message">
+        <source>There are no editable fields available for the requested record. This might be due to insufficient permissions or a configuration mismatch.</source>
+        <target>Keine editierbaren Felder fuer diesen Datensatz. Zugang wird gegatekeeper - liegt vielleicht an fehlenden Rechten oder falscher Konfiguration. Sus.</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.duplicate_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="button.confirm.duplicate_record_changed.no">
+        <source>No, just duplicate the original</source>
+        <target>Nah, einfach das Original duplizieren</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.duplicate_record_changed.yes">
+        <source>Yes, save and duplicate this record</source>
+        <target>Ja, speichern und duplizieren, Digga</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.close_without_save.yes">
+        <source>Discard changes</source>
+        <target>Aenderungen yeeten</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.close_without_save.no">
+        <source>Keep editing</source>
+        <target>Weiterflexen</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.save_and_close">
+        <source>Save and close</source>
+        <target>Speichern und tschuess</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.duplicate_record_changed.title">
+        <source>Do you want to save before duplicating this record?</source>
+        <target>Willst du vor dem Duplizieren speichern, Brudi?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.duplicate_record_changed.content">
+        <source>You currently have unsaved changes. Do you want to save your changes before duplicating this record?</source>
+        <target>Du hast ungespeicherte Aenderungen. Willst du die speichern bevor du den Datensatz duplizierst?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.new_record_changed.title">
+        <source>Do you want to save before adding?</source>
+        <target>Willst du vorher speichern, Alter?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.new_record_changed.content">
+        <source>You need to save your changes before creating a new record. Do you want to save and create now?</source>
+        <target>Du musst erst speichern bevor du was Neues erstellst. Speichern und erstellen, ja?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.no">
+        <source>No, just add</source>
+        <target>Nah, einfach hinzufuegen</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.yes">
+        <source>Yes, save and create now</source>
+        <target>Ja, speichern und erstellen, los!</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.title">
+        <source>Do you want to save before viewing?</source>
+        <target>Vorher speichern, Digga?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.content">
+        <source>You currently have unsaved changes. You can either discard these changes or save and view them.</source>
+        <target>Du hast ungespeicherte Aenderungen. Du kannst sie yeeten oder speichern und angucken.</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.invalid_form">
+        <source>The form appears to be invalid, therefore "Save changes and view" is not available.</source>
+        <target>Voll delulu, das Formular ist ungueltig, daher geht "Speichern und Ansehen" nicht. Fix das erst, Alter.</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.content.is-new-page">
+        <source>You need to save your changes before viewing the page. Do you want to save and view them now?</source>
+        <target>Du musst erst speichern bevor du die Seite angucken kannst. Speichern und anschauen, ja?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.no-save">
+        <source>View without changes</source>
+        <target>Ohne Aenderungen angucken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.save">
+        <source>Save changes and view</source>
+        <target>Speichern und angucken</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.close_without_save.title">
+        <source>Unsaved changes</source>
+        <target>Ungespeicherte Aenderungen, Alter!</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.close_without_save.content">
+        <source>You currently have unsaved changes which will be discarded if you close without saving.</source>
+        <target>Du hast ungespeicherte Aenderungen die geyeetet werden wenn du ohne Speichern schliessen tust. No cap.</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_file.no">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_file.yes">
+        <source>Yes, delete this file</source>
+        <target>Ja, Datei yeeten!</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_folder.yes">
+        <source>Yes, delete this folder</source>
+        <target>Ja, Ordner yeeten!</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_record.no">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_record.yes">
+        <source>Delete</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.delete_record.title">
+        <source>Delete this record?</source>
+        <target>Diesen Datensatz yeeten?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.delete_record.content">
+        <source>Are you sure you want to delete the record '%s'?</source>
+        <target>Bist du sicher, dass du den Datensatz '%s' yeeten willst? Fr fr?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_elements.no">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_elements.yes">
+        <source>Yes, delete these elements</source>
+        <target>Ja, diese Elemente yeeten!</target>
+      </trans-unit>
+      <trans-unit id="label.alert.save_with_error.title">
+        <source>You have errors in your form!</source>
+        <target>Red Flag! Goofy Fehler im Formular!</target>
+      </trans-unit>
+      <trans-unit id="label.alert.save_with_error.content">
+        <source>Please check the form, there is at least one error in your form.</source>
+        <target>Check mal das Formular, da ist mindestens ein Fehler drin, Digga.</target>
+      </trans-unit>
+      <trans-unit id="buttons.alert.save_with_error.ok">
+        <source>OK</source>
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="buttons.reviewFailedValidationFields">
+        <source>Review fields with failed validations</source>
+        <target>Delulu Felder checken - Validierung gefailed</target>
+      </trans-unit>
+      <trans-unit id="buttons.pageTsConfig">
+        <source>PageTS Config</source>
+        <target>PageTS Config</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.title.singular">
+        <source>Record saved</source>
+        <target>Ong, gesaved! Datensatz snatched, Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.title.plural">
+        <source>Records saved</source>
+        <target>Ong, alle gesaved! Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.message">
+        <source>Record "%s" has been successfully saved.</source>
+        <target>Datensatz "%s" wurde erfolgreich gespeichert. Slay!</target>
+      </trans-unit>
+      <trans-unit id="notification.mass_saving.message">
+        <source>%s records have been successfully saved.</source>
+        <target>%s Datensaetze erfolgreich gespeichert. Sheesh!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_updated.title">
+        <source>Record updated</source>
+        <target>Datensatz geupdated, W!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_updated.message">
+        <source>Record "%s" has been updated. The view is being refreshed.</source>
+        <target>Datensatz "%s" wurde geupdated. Ansicht wird refreshed.</target>
+      </trans-unit>
+      <trans-unit id="openFullEditView">
+        <source>Open full editing view</source>
+        <target>Volle Flex-Ansicht oeffnen</target>
+      </trans-unit>
+      <trans-unit id="search.find_record">
+        <source>Find records</source>
+        <target>Datensaetze finden, Homie</target>
+      </trans-unit>
+      <trans-unit id="search.no_records_found">
+        <source>No records found</source>
+        <target>Nix gefunden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="flexform.section.delete.title">
+        <source>Delete this container?</source>
+        <target>Diesen Container yeeten?</target>
+      </trans-unit>
+      <trans-unit id="flexform.section.delete.message">
+        <source>Are you sure you want to delete this container?</source>
+        <target>Willst du diesen Container wirklich yeeten, Digga?</target>
+      </trans-unit>
+      <trans-unit id="tcatree.findItem">
+        <source>Filter by item</source>
+        <target>Nach Element filtern, Bre</target>
+      </trans-unit>
+      <trans-unit id="tcatree.expandAll">
+        <source>Expand all</source>
+        <target>Alles aufklappen, Alter</target>
+      </trans-unit>
+      <trans-unit id="tcatree.collapseAll">
+        <source>Collapse all</source>
+        <target>Alles zuklappen, Bro</target>
+      </trans-unit>
+      <trans-unit id="tcatree.toggleHideUnchecked">
+        <source>Toggle hide unchecked</source>
+        <target>Nicht-gecheckte ghosten/zeigen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

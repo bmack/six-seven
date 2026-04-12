@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_form_editor_javascript.xlf">
+    <header/>
+    <body>
+      <trans-unit id="formEditor.insert_elements">
+        <source>Insert elements</source>
+        <target>Elemente reinpacken, Bestie</target>
+      </trans-unit>
+      <trans-unit id="formEditor.stage.toolbar.new_element">
+        <source>Create new element</source>
+        <target>Neues Element droppen</target>
+      </trans-unit>
+      <trans-unit id="formEditor.stage.toolbar.new_element.after">
+        <source>Create new element after</source>
+        <target>Neues Element danach droppen</target>
+      </trans-unit>
+      <trans-unit id="formEditor.stage.toolbar.new_element.before">
+        <source>Create new element before</source>
+        <target>Neues Element davor droppen</target>
+      </trans-unit>
+      <trans-unit id="formEditor.stage.toolbar.new_element.inside" x-unused-since="14.2">
+        <source>Create new element inside</source>
+        <target>Neues Element reinpacken, Digga</target>
+      </trans-unit>
+      <trans-unit id="formEditor.stage.toolbar.remove">
+        <source>Remove</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="formEditor.step.name.empty">
+        <source>Step name is not set</source>
+        <target>Step-Name fehlt, Digga</target>
+      </trans-unit>
+      <trans-unit id="formEditor.validation.hasError">
+        <source>Has validation errors</source>
+        <target>Hat Validierungsfehler, cringe</target>
+      </trans-unit>
+      <trans-unit id="formEditor.validation.childHasError">
+        <source>Contains elements with validation errors</source>
+        <target>Enthaelt Elemente mit Validierungsfehlern, sus</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

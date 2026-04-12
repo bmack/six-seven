@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:lowlevel/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.configuration.title">
+        <source>Configuration</source>
+        <target>Config, Bre</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.shortDescription">
+        <source>View configuration from localconf.php and tables.php</source>
+        <target>Config von localconf.php und tables.php angucken</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.description">
+        <source>Allows you to browse the values of the $TCA array (table configuration) and $TYPO3_CONF_VARS. You cannot set any values, only browse them.</source>
+        <target>Hier kannst du die Werte vom $TCA-Array und $TYPO3_CONF_VARS durchscrollen. Nur gucken, nicht anfassen, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.numberOfSearchMatches">
+        <source>%s search match(es)</source>
+        <target>%s Suchtreffer</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.label">
+        <source>Configuration to show</source>
+        <target>Welche Config willst du sehen, Bro</target>
+      </trans-unit>
+      <trans-unit id="configuration.headline">
+        <source>Configuration of "%1s"</source>
+        <target>Config von "%1s", sheesh</target>
+      </trans-unit>
+      <trans-unit id="typo3ConfVars">
+        <source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+        <target>$GLOBALS['TYPO3_CONF_VARS'] (Globale Config)</target>
+      </trans-unit>
+      <trans-unit id="tca">
+        <source>$GLOBALS['TCA'] (Table configuration array)</source>
+        <target>$GLOBALS['TCA'] (Tabellen-Config-Array)</target>
+      </trans-unit>
+      <trans-unit id="beUserTsConfig">
+        <source>$GLOBALS['BE_USER']-&gt;getTSConfig() (User TSconfig)</source>
+        <target>$GLOBALS['BE_USER']-&gt;getTSConfig() (User TSconfig)</target>
+      </trans-unit>
+      <trans-unit id="beUser">
+        <source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+        <target>$GLOBALS['BE_USER']-&gt;uc (User-Settings, Digga)</target>
+      </trans-unit>
+      <trans-unit id="usersettings">
+        <source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+        <target>$GLOBALS['TYPO3_USER_SETTINGS'] (User-Settings-Config)</target>
+      </trans-unit>
+      <trans-unit id="routes">
+        <source>Backend Routes</source>
+        <target>Backend-Routen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="httpMiddlewareStacks">
+        <source>HTTP Middlewares (PSR-15)</source>
+        <target>HTTP Middlewares (PSR-15), fr fr</target>
+      </trans-unit>
+      <trans-unit id="contentSecurityPolicyMutations">
+        <source>Content Security Policy Mutations</source>
+        <target>Content Security Policy Mutations, Bro</target>
+      </trans-unit>
+      <trans-unit id="sitesTcaConfiguration">
+        <source>Sites: TCA configuration</source>
+        <target>Sites: TCA-Config, Alter</target>
+      </trans-unit>
+      <trans-unit id="sitesYamlConfiguration">
+        <source>Sites: YAML configuration</source>
+        <target>Sites: YAML-Config, Bre</target>
+      </trans-unit>
+      <trans-unit id="eventListeners">
+        <source>Event Listeners (PSR-14)</source>
+        <target>Event Listeners (PSR-14), Alter</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders">
+        <source>MFA providers</source>
+        <target>MFA-Provider, Brudi</target>
+      </trans-unit>
+      <trans-unit id="softReferenceParsers">
+        <source>Soft Reference Parsers</source>
+        <target>Soft Reference Parsers, Digga</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems">
+        <source>Backend Toolbar Items</source>
+        <target>Backend-Toolbar-Items, Alter</target>
+      </trans-unit>
+      <trans-unit id="symfonyExpressionLanguage">
+        <source>Symfony Expression Language Providers</source>
+        <target>Symfony Expression Language Providers, Bre</target>
+      </trans-unit>
+      <trans-unit id="translationDomainList">
+        <source>Translation Domain List</source>
+        <target>Übersetzungs-Domain-Liste, Bre</target>
+      </trans-unit>
+      <trans-unit id="doctrineDbalDriverMiddlewares">
+        <source>Doctrine DBAL Driver Middlewares</source>
+        <target>Doctrine DBAL Driver Middlewares, no cap</target>
+      </trans-unit>
+      <trans-unit id="formYamlConfiguration">
+        <source>Form: YAML Configuration</source>
+        <target>Form: YAML-Config, Brudi</target>
+      </trans-unit>
+      <trans-unit id="t3services">
+        <source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+        <target>$GLOBALS['T3_SERVICES'] (Registrierte Services)</target>
+      </trans-unit>
+      <trans-unit id="backendModules">
+        <source>Backend Modules</source>
+        <target>Backend-Module, no cap</target>
+      </trans-unit>
+      <trans-unit id="pagesTypes">
+        <source>Table permissions per page type</source>
+        <target>Tabellen-Permissions pro Pagestyp, Bre</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.title">
+        <source>DB Check</source>
+        <target>DB-Check, sheesh</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.shortDescription">
+        <source>Database integrity check</source>
+        <target>DB-Integritäts-Check, Bre</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.description">
+        <source>Here you can check the integrity of the database tables configured by the $TCA. For instance all records must belong to a page record. You can also get a view of the total pagetree including deleted pages. Finally you've got access to a global database search facility.</source>
+        <target>Hier checkst du die Integrität der Datenbank-Tabellen aus dem $TCA. Z.B. müssen alle Datensätze zu ner Seite gehören. Du kriegst auch nen Blick auf den kompletten Seitenbaum inkl. geyeeteter Seiten. Plus ne globale DB-Suche, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="search.submit">
+        <source>Search All Records</source>
+        <target>Alle Records durchsearchn, fr fr</target>
+      </trans-unit>
+      <trans-unit id="search">
+        <source>Search</source>
+        <target>Searchn, fr fr</target>
+      </trans-unit>
+      <trans-unit id="totalPageTree">
+        <source>Total Page Tree</source>
+        <target>Kompletter Pagetree, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch">
+        <source>Full search</source>
+        <target>Vollsuche, no cap</target>
+      </trans-unit>
+      <trans-unit id="findFilename">
+        <source>Find filename</source>
+        <target>Dateiname finden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="rawSearch">
+        <source>Raw search in all fields</source>
+        <target>Raw-Search in allen Feldern, Digga</target>
+      </trans-unit>
+      <trans-unit id="advancedQuery">
+        <source>Advanced query</source>
+        <target>Advanced Query, sheesh</target>
+      </trans-unit>
+      <trans-unit id="selectRecords">
+        <source>Select records</source>
+        <target>Records picken</target>
+      </trans-unit>
+      <trans-unit id="countResults">
+        <source>Count results</source>
+        <target>Results zählen, Homie</target>
+      </trans-unit>
+      <trans-unit id="explainQuery">
+        <source>Explain query</source>
+        <target>Query erklären, Bre</target>
+      </trans-unit>
+      <trans-unit id="csvExport">
+        <source>CSV Export</source>
+        <target>CSV-Export, Digga</target>
+      </trans-unit>
+      <trans-unit id="xmlExport">
+        <source>XML Export</source>
+        <target>XML-Export, Brudi</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.flashMessage.noResultsFoundMessage">
+        <source>The query returned no results.</source>
+        <target>Die Query hat nix zurückgegeben, Digga.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.queryOptions">
+        <source>Query options</source>
+        <target>Query-Optionen, Bro</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySQL">
+        <source>Full SQL query</source>
+        <target>Volle SQL-Query, Digga</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySQL.error">
+        <source>SQL error</source>
+        <target>SQL-Uff</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySettings">
+        <source>Query compilation</source>
+        <target>Query-Kompilierung, Bre</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.queryStorage">
+        <source>Load/save query</source>
+        <target>Query laden/saven</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.result">
+        <source>Result</source>
+        <target>Result, Digga</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.type.count.resultsFound">
+        <source>records found.</source>
+        <target>Records gefunden, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.type.all.noResultsFound">
+        <source>No records found.</source>
+        <target>Nix gefunden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.delete.label">
+        <source>Delete</source>
+        <target>Yeeten, Alter</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.load.label">
+        <source>Load</source>
+        <target>Laden</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.save.label">
+        <source>Save</source>
+        <target>Saven</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.groupBy.label">
+        <source>Group by</source>
+        <target>Gruppieren nach, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.limit.label">
+        <source>Limit</source>
+        <target>Limit</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.makeQuery.label">
+        <source>Result type</source>
+        <target>Result-Typ, fr fr</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.orderBy.label">
+        <source>Order by</source>
+        <target>Sortieren nach, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.orderBy.descending">
+        <source>Descending</source>
+        <target>Absteigend, Bre</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.searchType.label">
+        <source>Search type</source>
+        <target>Such-Typ, Alter</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.query.label">
+        <source>Query</source>
+        <target>Query</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryFields.label">
+        <source>Fields</source>
+        <target>Felder, sheesh</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryTable.label">
+        <source>Table</source>
+        <target>Tabelle, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.storage.label">
+        <source>Saved queries</source>
+        <target>Gesavede Queries, Brudi</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.storage.0">
+        <source>[New]</source>
+        <target>[Neu]</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.title.label">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryConfig.comparison.negate">
+        <source>Negate</source>
+        <target>Negieren, no cap</target>
+      </trans-unit>
+      <trans-unit id="showSQL">
+        <source>Show SQL parts</source>
+        <target>SQL-Teile zeigen, Homie</target>
+      </trans-unit>
+      <trans-unit id="useFormattedStrings">
+        <source>Use formatted strings, labels and dates instead of original values for results</source>
+        <target>Formatierte Strings, Labels und Daten statt Originalwerte für Results benutzen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dontUseOrigValues">
+        <source>Don't use original values in brackets as prefix for labeled results</source>
+        <target>Keine Originalwerte in Klammern als Prefix für gelabelte Results, Homie</target>
+      </trans-unit>
+      <trans-unit id="sortOptions">
+        <source>Sort selectbox-options for relations by label and not by value</source>
+        <target>Selectbox-Optionen für Relationen nach Label statt nach Wert sortieren, Homie</target>
+      </trans-unit>
+      <trans-unit id="showDeleted">
+        <source>Show even deleted entries (with undelete buttons)</source>
+        <target>Auch geyeetete Einträge zeigen (mit Wiederhdroppen-Buttons)</target>
+      </trans-unit>
+      <trans-unit id="result">
+        <source>Result</source>
+        <target>Result, Brudi</target>
+      </trans-unit>
+      <trans-unit id="no_results">
+        <source>No results found for "%s".</source>
+        <target>Nix gefunden für "%s", Digga.</target>
+      </trans-unit>
+      <trans-unit id="no_sword">
+        <source>Enter a search term to search for records</source>
+        <target>Gib nen Suchbegriff ein um Records zu finden, Alter</target>
+      </trans-unit>
+      <trans-unit id="tables">
+        <source>Tables</source>
+        <target>Tabellen, Homie</target>
+      </trans-unit>
+      <trans-unit id="references">
+        <source>references</source>
+        <target>Referenzen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="isMissing">
+        <source>is missing!</source>
+        <target>fehlt!</target>
+      </trans-unit>
+      <trans-unit id="referencedFrom">
+        <source>Referenced from</source>
+        <target>Referenziert von, no cap</target>
+      </trans-unit>
+      <trans-unit id="enterRegexPattern">
+        <source>Enter regex pattern</source>
+        <target>Regex-Pattern eingeben, Bre</target>
+      </trans-unit>
+      <trans-unit id="searchButton">
+        <source>Search</source>
+        <target>Searchn, sheesh</target>
+      </trans-unit>
+      <trans-unit id="pattern">
+        <source>Pattern</source>
+        <target>Pattern, fr fr</target>
+      </trans-unit>
+      <trans-unit id="beingChecked">
+        <source>being checked...</source>
+        <target>wird gecheckt...</target>
+      </trans-unit>
+      <trans-unit id="directories">
+        <source>Dirs</source>
+        <target>Ordner, Digga</target>
+      </trans-unit>
+      <trans-unit id="directoriesTooDeep">
+        <source>ERROR: Directories deeper than the following number of levels</source>
+        <target>FEHLER: Ordner tiefer als die folgende Anzahl an Ebenen, no cap</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>Files</source>
+        <target>Dateien, Brudi</target>
+      </trans-unit>
+      <trans-unit id="matchingFiles">
+        <source>Matching files</source>
+        <target>Passende Dateien, Homie</target>
+      </trans-unit>
+      <trans-unit id="notChecked">
+        <source>not checked.</source>
+        <target>nicht gecheckt.</target>
+      </trans-unit>
+      <trans-unit id="searchingForFilenames">
+        <source>Searching for filenames</source>
+        <target>Search nach Dateinamen, Bre</target>
+      </trans-unit>
+      <trans-unit id="fixLostRecord">
+        <source>Click to move this lost record to rootlevel (pid=0)</source>
+        <target>Klick um den verlorenen Datensatz auf Rootlevel (pid=0) zu verschieben</target>
+      </trans-unit>
+      <trans-unit id="doktype">
+        <source>Document types</source>
+        <target>Dokumenttypen, Homie</target>
+      </trans-unit>
+      <trans-unit id="doktype_value">
+        <source>Document types (value)</source>
+        <target>Dokumenttypen (Wert), Brudi</target>
+      </trans-unit>
+      <trans-unit id="pages">
+        <source>Pages</source>
+        <target>Pages</target>
+      </trans-unit>
+      <trans-unit id="total_pages">
+        <source>Total number of default language pages</source>
+        <target>Gesamtanzahl der Standardsprache-Pages, sheesh</target>
+      </trans-unit>
+      <trans-unit id="translated_pages">
+        <source>Total number of translated pages</source>
+        <target>Gesamtanzahl der übersetzten Pages, fr fr</target>
+      </trans-unit>
+      <trans-unit id="deleted_pages">
+        <source>Marked-deleted pages</source>
+        <target>Geyeetete Pages, Digga</target>
+      </trans-unit>
+      <trans-unit id="hidden_pages">
+        <source>Hidden pages</source>
+        <target>Geghostete Pages, fr fr</target>
+      </trans-unit>
+      <trans-unit id="count">
+        <source>Count</source>
+        <target>Anzahl, no cap</target>
+      </trans-unit>
+      <trans-unit id="label">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="tablename">
+        <source>Table name</source>
+        <target>Tabellenname, sheesh</target>
+      </trans-unit>
+      <trans-unit id="total_lost">
+        <source>Records total / lost</source>
+        <target>Records gesamt / verloren, Digga</target>
+      </trans-unit>
+      <trans-unit id="tree">
+        <source>The Page Tree</source>
+        <target>Der Pagetree, Bro</target>
+      </trans-unit>
+      <trans-unit id="tree_description">
+        <source>This shows all pages in the system in one large tree. Beware that this will probably result in a very long document which will also take some time for the server to compute!</source>
+        <target>Das zeigt alle Seiten im System als einen riesigen Baum. Vorsicht, das wird wahrscheinlich ein mega langes Dokument und der Server braucht auch ne Weile dafür, Digga!</target>
+      </trans-unit>
+      <trans-unit id="search_whole_database">
+        <source>Search whole Database</source>
+        <target>Komplette DB durchsearchn, fr fr</target>
+      </trans-unit>
+      <trans-unit id="search_description">
+        <source>This searches through all database tables and records for a text string.</source>
+        <target>Durchsucht alle DB-Tabellen und Records nach einem Text-String, Homie.</target>
+      </trans-unit>
+      <trans-unit id="refindex">
+        <source>Check and update global reference index</source>
+        <target>Globalen Referenz-Index checken und updaten</target>
+      </trans-unit>
+      <trans-unit id="refindex_description">
+        <source>Allows you to maintain the reference index kept by TYPO3.</source>
+        <target>Hier kannst du den Referenz-Index von TYPO3 pflegen, Brudi.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

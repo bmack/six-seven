@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:impexp/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="import">
+        <source>Import</source>
+        <target>Reinziehen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="export">
+        <source>Export</source>
+        <target>Raushauen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Import / Export</source>
+        <target>Reinziehen / Raushauen, Homie</target>
+      </trans-unit>
+      <trans-unit id="title_import">
+        <source>Import</source>
+        <target>Reinziehen, Digga</target>
+      </trans-unit>
+      <trans-unit id="title_export">
+        <source>Export</source>
+        <target>Raushauen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tableselec_configuration">
+        <source>Configuration</source>
+        <target>Config, Bre</target>
+      </trans-unit>
+      <trans-unit id="exportdata_savedFile">
+        <source>SAVED FILE</source>
+        <target>DATEI GESPEICHERT, Alter</target>
+      </trans-unit>
+      <trans-unit id="exportdata_savedInSBytes">
+        <source>Saved in "%s", bytes %s</source>
+        <target>Gesaved in "%s", Bytes %s, Bre</target>
+      </trans-unit>
+      <trans-unit id="exportdata_problemsSavingFile">
+        <source>Problems saving file</source>
+        <target>Probleme beim Saven der Datei, Digga</target>
+      </trans-unit>
+      <trans-unit id="exportdata_badPathS">
+        <source>Bad path: "%s"</source>
+        <target>Kaputter Pfad: "%s", Brudi</target>
+      </trans-unit>
+      <trans-unit id="exportdata_filePreset">
+        <source>File &amp; Preset</source>
+        <target>Datei &amp; Preset, sheesh</target>
+      </trans-unit>
+      <trans-unit id="exportdata_advancedOptions">
+        <source>Advanced Options</source>
+        <target>Pro-Optionen, Homie</target>
+      </trans-unit>
+      <trans-unit id="exportdata_messages">
+        <source>Messages</source>
+        <target>Nachrichten, Homie</target>
+      </trans-unit>
+      <trans-unit id="execlistqu_structureToBeExported">
+        <source>Structure to be exported</source>
+        <target>Struktur zum Raushauen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_toggle_all_disabled_records">
+        <source>Toggle disabled records</source>
+        <target>Ause Records umschalten, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_exportPagetreeConfiguration">
+        <source>Export pagetree configuration</source>
+        <target>Pagetree-Config raushauen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_pageId">
+        <source>Page ID</source>
+        <target>Pages-ID, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_tree">
+        <source>Tree</source>
+        <target>Baum</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_noTreeExportedOnly">
+        <source>No tree exported - only tables on the page.</source>
+        <target>Kein Baum exportiert - nur Tabellen auf der Page, Bro.</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_tablesOnThisPage">
+        <source>Tables on this page</source>
+        <target>Tabellen auf dieser Page, Bre</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_levels">
+        <source>Levels</source>
+        <target>Ebenen, Digga</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_includeTables">
+        <source>Include tables</source>
+        <target>Tabellen einzumachen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_exportSingleRecord">
+        <source>Export single record</source>
+        <target>Einzelnen Record raushauen, Digga</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_record">
+        <source>Record</source>
+        <target>Record, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_exportTablesFromPages">
+        <source>Export tables from pages</source>
+        <target>Tabellen von Pages exportieren, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_tablePids">
+        <source>Table/Pids</source>
+        <target>Tabelle/PIDs, Bro</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_tableListEntry">
+        <source>Table "%s" from %s</source>
+        <target>Tabelle "%s" von %s, Homie</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_relationsAndExclusions">
+        <source>Relations and Exclusions</source>
+        <target>Beziehungen und Ausschluesse, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_includeRelationsToTables">
+        <source>Include relations to tables</source>
+        <target>Beziehungen zu Tabellen einzumachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_useStaticRelationsFor">
+        <source>Use static relations for tables</source>
+        <target>Statische Beziehungen fuer Tabellen nutzen, Homie</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_showStaticRelations">
+        <source>Show static relations</source>
+        <target>Statische Beziehungen zeig mal</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_excludeElements">
+        <source>Exclude elements</source>
+        <target>Elemente auszumachen, Homie</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_clearAllManualExclusions">
+        <source>Clear all manual exclusions</source>
+        <target>Alle manuellen Ausschluesse yeeten</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_noManuallyExcludedElementsYet">
+        <source>No manually excluded elements yet. Exclude by setting checkboxes below in the element display.</source>
+        <target>Noch keine manuell ausgeschlossenen Elemente. Ausschliessen durch Checkboxen unten in der Element-Anzeige, Digga.</target>
+      </trans-unit>
+      <trans-unit id="makeconfig_excludeDisabledElements">
+        <source>Exclude disabled elements</source>
+        <target>Ause Elemente auszumachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_update">
+        <source>Update</source>
+        <target>Freshen, Bre</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_files">
+        <source>Files</source>
+        <target>Dateien, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_saveFilesOutsideExportFile">
+        <source>Save files in extra folder beside the export file</source>
+        <target>Dateien in Extra-Ordner neben der Export-Datei saven</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_saveFilesOutsideExportFile_limit">
+        <source>(supported for "Save to filename" only)</source>
+        <target>(nur bei "In Dateiname saven" moeglich)</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_siteConfigurations">
+        <source>Site configurations</source>
+        <target>Site-Configen, Bre</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_includeSiteConfigurations">
+        <source>Include site configurations for exported root pages (admin only)</source>
+        <target>Site-Configen fuer exportierte Root-Pages einzumachen (nur Admins), sheesh</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_extensionDependencies">
+        <source>Extension dependencies</source>
+        <target>Extension-Abhaengigkeiten, Homie</target>
+      </trans-unit>
+      <trans-unit id="makeadvanc_selectExtensionsThatThe">
+        <source>Select extensions that the exported content depends on</source>
+        <target>Extensions picken von denen der exportierte Content abhaengt</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_update">
+        <source>Update</source>
+        <target>Freshen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_presets">
+        <source>Presets</source>
+        <target>Presets, Bre</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_selectPreset">
+        <source>Select preset</source>
+        <target>Preset picken</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_load">
+        <source>Load</source>
+        <target>Laden</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_save">
+        <source>Save</source>
+        <target>Saven</target>
+      </trans-unit>
+      <trans-unit id="pleaseConfirm">
+        <source>Please confirm</source>
+        <target>Bitte bestaetigen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_areYouSure">
+        <source>Are you sure?</source>
+        <target>Bist du sicher, Digga?</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_delete">
+        <source>Delete</source>
+        <target>Yeeten, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_merge">
+        <source>Merge</source>
+        <target>Zusammenfuehren, Alter</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_titleOfNewPreset">
+        <source>Title of new preset</source>
+        <target>Titel des neuen Presets, Bro</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_public">
+        <source>Public</source>
+        <target>Oeffentlich, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_outputOptions">
+        <source>Output options</source>
+        <target>Ausgabe-Optionen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_description">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_notes">
+        <source>Notes</source>
+        <target>Notizen, Alter</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_t3d_compressed">
+        <source>T3D file / compressed</source>
+        <target>T3D-Datei / komprimiert, Bre</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_t3d">
+        <source>T3D file</source>
+        <target>T3D-Datei, sheesh</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_xml">
+        <source>XML</source>
+        <target>XML</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_fileFormat">
+        <source>File format</source>
+        <target>Dateiformat, fr fr</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_filenameSavedInS">
+        <source>Filename (saved in "%s")</source>
+        <target>Dateiname (gesaved in "%s")</target>
+      </trans-unit>
+      <trans-unit id="makesavefo_downloadExport">
+        <source>Download export</source>
+        <target>Export runterladen, Digga</target>
+      </trans-unit>
+      <trans-unit id="importdata_saveToFilename">
+        <source>Save to filename</source>
+        <target>In Dateiname saven</target>
+      </trans-unit>
+      <trans-unit id="importdata_selectFileToImport">
+        <source>Select file to import</source>
+        <target>Datei zum Importieren waehlen, Bre</target>
+      </trans-unit>
+      <trans-unit id="importdata_file">
+        <source>File</source>
+        <target>Datei</target>
+      </trans-unit>
+      <trans-unit id="importdata_fromPathS">
+        <source>From path: %s</source>
+        <target>Aus Pfad: %s, Bre</target>
+      </trans-unit>
+      <trans-unit id="importdata_noteNoDecompressorAvailable">
+        <source>NOTE: No decompressor available for compressed files!</source>
+        <target>ACHTUNG: Kein Decompressor fuer komprimierte Dateien am Start!</target>
+      </trans-unit>
+      <trans-unit id="importdata_importOptions">
+        <source>Import Options</source>
+        <target>Import-Optionen, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_update">
+        <source>Update</source>
+        <target>Freshen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="importdata_updateRecords">
+        <source>Update records</source>
+        <target>Records freshen, Homie</target>
+      </trans-unit>
+      <trans-unit id="importdata_thisOptionRequiresThat">
+        <source>This option requires that the structure you import already exists on this server and only needs to be updated with new content!</source>
+        <target>Diese Option setzt voraus, dass die zu importierende Struktur schon auf dem Server existiert und nur mit neuem Content gefresht werden muss!</target>
+      </trans-unit>
+      <trans-unit id="importdata_ignorePidDifferencesGlobally">
+        <source>Ignore PID differences globally</source>
+        <target>PID-Unterschiede global ignorieren, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_ifYouSetThis">
+        <source>The position of updated elements will not be updated to match the structure of the input file.</source>
+        <target>Die Position gefreshter Elemente wird nicht an die Struktur der Input-Datei angepasst.</target>
+      </trans-unit>
+      <trans-unit id="importdata_force_all_UIDS">
+        <source>Force ALL UIDs values</source>
+        <target>ALLE UID-Werte erzwingen, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_force_all_UIDS_descr">
+        <source>BE VERY CAREFUL WITH THIS: the original UID value of all imported records will be forced to be the same (Admin Only).</source>
+        <target>VORSICHT DIGGA: Die Original-UID aller importierten Records wird erzwungen (nur Admins), no cap.</target>
+      </trans-unit>
+      <trans-unit id="importdata_options">
+        <source>Options</source>
+        <target>Optionen, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_doNotShowDifferences">
+        <source>Do not show differences in records</source>
+        <target>Unterschiede in Datensaetzen nicht zeig mal</target>
+      </trans-unit>
+      <trans-unit id="importdata_greenValuesAreFrom">
+        <source>Hides the resulting differences for each field of every imported records in the preview table.</source>
+        <target>Ghostet die Unterschiede fuer jedes Feld aller importierten Records in der Sneak Peek-Tabelle, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="importdata_action">
+        <source>Action</source>
+        <target>Aktion, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_preview">
+        <source>Preview</source>
+        <target>Sneak Peek, Alter</target>
+      </trans-unit>
+      <trans-unit id="importdata_import">
+        <source>Import</source>
+        <target>Importieren, Brudi</target>
+      </trans-unit>
+      <trans-unit id="importdata_newImport">
+        <source>New import</source>
+        <target>Neuer Import, Bre</target>
+      </trans-unit>
+      <trans-unit id="importdata_enableLogging">
+        <source>Enable logging</source>
+        <target>Logging anmachen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="importdata_writeIndividualDbActions">
+        <source>Write individual database actions during import to the log</source>
+        <target>Einzelne DB-Aktionen waehrend des Imports ins Log schreiben, Homie</target>
+      </trans-unit>
+      <trans-unit id="importdata_thisIsDisabledBy">
+        <source>This is disabled by default since there might be hundred of entries generated.</source>
+        <target>Das ist standardmaessig deaktiviert weil hunderte Eintraege entstehen koennten, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="importdata_uploadFileFromLocal">
+        <source>Upload file from local computer</source>
+        <target>Datei vom lokalen Rechner uploaden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="importdata_browse">
+        <source>Browse</source>
+        <target>Durchsearchn, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_uploadStatus">
+        <source>Upload status</source>
+        <target>Upload-Status, Bre</target>
+      </trans-unit>
+      <trans-unit id="importdata_success">
+        <source>Success</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="importdata_failureNoFileUploaded">
+        <source>Failure: No file uploaded - was it too big? Check system log.</source>
+        <target>Fail: Keine Datei hochgeladen - war die zu gross? Check das System-Log, Digga.</target>
+      </trans-unit>
+      <trans-unit id="importdata_upload">
+        <source>Upload</source>
+        <target>Uploaden, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_upload_error">
+        <source>Upload error</source>
+        <target>Upload-Fail, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_upload_nodata">
+        <source>The import module hasn't received any data.</source>
+        <target>Das Import-Modul hat keine Daten bekommen. Passiert vielleicht bei zu grossen Dateien. Check die Dateigroesse gegen post_max_size und upload_max_filesize in der Server-Konfiguration, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="importdata_metaData">
+        <source>Meta data</source>
+        <target>Metadaten, Alter</target>
+      </trans-unit>
+      <trans-unit id="importdata_title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="importdata_description">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="importdata_notes">
+        <source>Notes</source>
+        <target>Notizen, Digga</target>
+      </trans-unit>
+      <trans-unit id="importdata_packager">
+        <source>Packager</source>
+        <target>Packer, Digga</target>
+      </trans-unit>
+      <trans-unit id="importdata_email">
+        <source>Email</source>
+        <target>E-Mail, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_metaData_1387">
+        <source>Meta data</source>
+        <target>Metadaten, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteConfigurations">
+        <source>Site Configurations</source>
+        <target>Site-Configen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteConfigurationsAdminOnly">
+        <source>This import contains site configurations that will not be imported because importing site configurations requires administrator privileges.</source>
+        <target>Dieser Import enthaelt Site-Konfigurationen die nicht importiert werden, weil dafuer Admin-Rechte noetig sind, Digga.</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteIdentifier">
+        <source>Identifier</source>
+        <target>Kennung, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteWebsiteTitle">
+        <source>Website Title</source>
+        <target>Website-Titel, sheesh</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteBase">
+        <source>Base</source>
+        <target>Basis</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteRootPage">
+        <source>Root Page</source>
+        <target>Root-Page, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteLanguages">
+        <source>Languages</source>
+        <target>Sprachen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteLanguageId">
+        <source>ID</source>
+        <target>ID</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteLanguageLocale">
+        <source>Locale</source>
+        <target>Locale, no cap</target>
+      </trans-unit>
+      <trans-unit id="importdata_siteDependencies">
+        <source>Dependencies</source>
+        <target>Abhaengigkeiten, sheesh</target>
+      </trans-unit>
+      <trans-unit id="importdata_messages">
+        <source>Messages</source>
+        <target>Nachrichten, Bro</target>
+      </trans-unit>
+      <trans-unit id="importdata_structureHasBeenImported">
+        <source>Structure has been imported, here is the result</source>
+        <target>Struktur wurde importiert, hier ist das Ergebnis, slay!</target>
+      </trans-unit>
+      <trans-unit id="importdata_structureNotImported">
+        <source>The Import has failed, refer to the messages tab to view errors</source>
+        <target>Der Import hat gefailt, check den Nachrichten-Tab fuer die Uff, F</target>
+      </trans-unit>
+      <trans-unit id="importdata_no_default_upload_folder">
+        <source>No default upload folder</source>
+        <target>Kein Standard-Upload-Ordner vorhanden, Alter</target>
+      </trans-unit>
+      <trans-unit id="filterpage_structureToBeImported">
+        <source>Structure to be imported</source>
+        <target>Struktur zum Importieren, Digga</target>
+      </trans-unit>
+      <trans-unit id="ALL_tables">
+        <source>[ ALL tables ]</source>
+        <target>[ ALLE Tabellen ]</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_controls">
+        <source>Controls</source>
+        <target>Steuerung, Brudi</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_message">
+        <source>Message</source>
+        <target>Nachricht, sheesh</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_updateMode">
+        <source>Update Mode</source>
+        <target>Aktualisierungs-Modus, Bro</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_currentPath">
+        <source>Current Path</source>
+        <target>Currenter Pfad, Alter</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_result">
+        <source>Result</source>
+        <target>Result, fr fr</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_displaycon_insidePagetree">
+        <source>Inside pagetree</source>
+        <target>Im Pagetree, no cap</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_outsidePagetree">
+        <source>Outside pagetree</source>
+        <target>Ausserhalb des Pagetrees, Digga</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_softReferencesFiles">
+        <source>Soft References Files</source>
+        <target>Soft-Referenzen Dateien, fr fr</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_update">
+        <source>Update</source>
+        <target>Freshen, Bro</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_insert">
+        <source>Insert</source>
+        <target>Einfuegen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_importAsNew">
+        <source>Import as new</source>
+        <target>Als neu importieren, no cap</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_ignorePid">
+        <source>Ignore PID</source>
+        <target>PID ignorieren, Alter</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_respectPid">
+        <source>Respect PID</source>
+        <target>PID respektieren, no cap</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_forceUidSAdmin">
+        <source>Force UID [%s] (Admin)</source>
+        <target>UID [%s] erzwingen (Admin), fr fr</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_exclude">
+        <source>Exclude</source>
+        <target>Auszumachen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_descr">
+        <source>Descr</source>
+        <target>Beschr, Homie</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_singlereco_value">
+        <source>Value</source>
+        <target>Wert</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_softrefsel_record">
+        <source>Record</source>
+        <target>Record, no cap</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_softrefsel_editable">
+        <source>Editable</source>
+        <target>Bearbeitbar, fr fr</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_softrefsel_exclude">
+        <source>Exclude</source>
+        <target>Auszumachen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="impexpcore_printerror_description">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

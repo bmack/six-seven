@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_reports.xlf">
+    <header/>
+    <body>
+      <trans-unit id="statusProvider">
+        <source>Redirects</source>
+        <target>Redirects</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects">
+        <source>Conflicting Redirects</source>
+        <target>Beef unter den Redirects</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.none">
+        <source>None</source>
+        <target>Keine</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.count">
+        <source>%1$s conflicting redirects</source>
+        <target>%1$s Redirects die sich beissen</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.message">
+        <source>These redirects cause a conflict as there are pages that are still accessible with the same URL.</source>
+        <target>Diese Redirects verursachen Beef weil es noch Seiten mit der gleichen URL gibt. Red Flag, no front!</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState">
+        <source>Redirects integrity check</source>
+        <target>Redirect-Integritaetscheck</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState.title">
+        <source>List of conflicting redirects may not be up to date</source>
+        <target>Liste der streitenden Redirects ist vielleicht nicht aktuell</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState.message">
+        <source>Regularly run the console command redirects:checkintegrity.</source>
+        <target>Fuehr regelmaessig den Konsolenbefehl redirects:checkintegrity aus, Brudi.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

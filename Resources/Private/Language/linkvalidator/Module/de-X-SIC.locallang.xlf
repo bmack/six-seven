@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:linkvalidator/Resources/Private/Language/Module/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="linkvalidator">
+        <source>LinkValidator</source>
+        <target>LinkChecker, Bro</target>
+      </trans-unit>
+      <trans-unit id="overview.headline">
+        <source>Link check</source>
+        <target>Link-Check, Homie</target>
+      </trans-unit>
+      <trans-unit id="overview.headlineWithPageTitle">
+        <source>Link check of page "%s"</source>
+        <target>Link-Check von Page "%s", Brudi</target>
+      </trans-unit>
+      <trans-unit id="hooks.db">
+        <source>Internal Links</source>
+        <target>Interne Links, fr fr</target>
+      </trans-unit>
+      <trans-unit id="hooks.file">
+        <source>File Links</source>
+        <target>Datei-Links, Alter</target>
+      </trans-unit>
+      <trans-unit id="hooks.external">
+        <source>External Links</source>
+        <target>Externe Links, Bro</target>
+      </trans-unit>
+      <trans-unit id="filter.depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="label_refresh">
+        <source>Refresh display</source>
+        <target>Anzeige freshen, Bro</target>
+      </trans-unit>
+      <trans-unit id="label_update">
+        <source>Check links</source>
+        <target>Links checken</target>
+      </trans-unit>
+      <trans-unit id="list.check.headline">
+        <source>Configuration</source>
+        <target>Config, no cap</target>
+      </trans-unit>
+      <trans-unit id="list.header">
+        <source>Listing of broken links</source>
+        <target>Liste der kaputten Links, Bre</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.errorMessage">
+        <source>Error message</source>
+        <target>Uffmeldung</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.field">
+        <source>Field</source>
+        <target>Feld</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.lastCheck">
+        <source>Last check</source>
+        <target>Letzter Check, fr fr</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkTarget">
+        <source>Link target</source>
+        <target>Link-Ziel, Bre</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkText">
+        <source>Link text</source>
+        <target>Link-Text, Brudi</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkType">
+        <source>Link type</source>
+        <target>Link-Typ, Bro</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.page">
+        <source>Located on page / folder</source>
+        <target>Auf Page / Ordner, Bre</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.parentPage">
+        <source>Parent page / folder</source>
+        <target>Übergeordnete Page / Ordner, Bro</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.record">
+        <source>Record</source>
+        <target>Record, Homie</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.table">
+        <source>Table</source>
+        <target>Tabelle, Alter</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.uid">
+        <source>Uid</source>
+        <target>Uid</target>
+      </trans-unit>
+      <trans-unit id="list.tableFoot.record">
+        <source>Records</source>
+        <target>Records, Bre</target>
+      </trans-unit>
+      <trans-unit id="list.tableFoot.records">
+        <source>Records</source>
+        <target>Records, Digga</target>
+      </trans-unit>
+      <trans-unit id="list.edit">
+        <source>Edit record containing this broken link</source>
+        <target>Datensatz mit dem kaputten Link flexen</target>
+      </trans-unit>
+      <trans-unit id="list.editField">
+        <source>Edit only the field containing this broken link</source>
+        <target>Nur das Feld mit dem kaputten Link flexen</target>
+      </trans-unit>
+      <trans-unit id="list.report.btn.info.title">
+        <source>Display information</source>
+        <target>Infos zeig mal</target>
+      </trans-unit>
+      <trans-unit id="list.report.linkText.noValue">
+        <source>[No value]</source>
+        <target>[Kein Wert]</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagedeleted">
+        <source>Page '###title###' (id=###uid###) is deleted.</source>
+        <target>Seite '###title###' (id=###uid###) wurde geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotvisible">
+        <source>Page '###title###' (id=###uid###) is not visible.</source>
+        <target>Seite '###title###' (id=###uid###) ist geghostet (nicht sichtbar).</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotexisting">
+        <source>Page (id=###uid###) does not exist.</source>
+        <target>Seite (id=###uid###) gibt's gar nicht, Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentmoved">
+        <source>Record '###title###' (id=###uid###) is not located on page ###wrongpage###, but on page ###rightpage###.</source>
+        <target>Record '###title###' (id=###uid###) ist nicht auf Page ###wrongpage###, sondern auf Page ###rightpage###. Sus, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentdeleted">
+        <source>Record '###title###' (id=###uid###) is deleted.</source>
+        <target>Datensatz '###title###' (id=###uid###) wurde geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentnotvisible">
+        <source>Record '###title###' (id=###uid###) is not visible.</source>
+        <target>Datensatz '###title###' (id=###uid###) ist geghostet.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentnotexisting">
+        <source>Record (id=###uid###) does not exist.</source>
+        <target>Record (id=###uid###) existiert nicht, Alter.</target>
+      </trans-unit>
+      <trans-unit id="list.report.noinformation">
+        <source>No information about the error is available.</source>
+        <target>Keine Infos über den Uff am Start, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="list.report.redirectloop">
+        <source>A redirect loop occurred. (%s: %s)</source>
+        <target>Redirect-Loop detected! Dreht sich im Kreis. (%s: %s), Bre</target>
+      </trans-unit>
+      <trans-unit id="list.report.tooManyRedirects">
+        <source>Too many redirects.</source>
+        <target>Zu viele Redirects, Alter, Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.filenotexisting">
+        <source>File doesn't exist.</source>
+        <target>Datei gibt's nicht. Ghosted, Digga!</target>
+      </trans-unit>
+      <trans-unit id="linkcheck.error.external.generic">
+        <source>External link is broken.</source>
+        <target>Externer Link ist kaputt, Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.couldnotresolvehost">
+        <source>Could not resolve host. The given remote host was not resolved.</source>
+        <target>Host konnte nicht aufgelöst werden. Der Server ghostet uns, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="list.report.errornetworkdata">
+        <source>Failure with receiving network data.</source>
+        <target>Netzwerkdaten empfangen ist gefailed.</target>
+      </trans-unit>
+      <trans-unit id="list.report.otherhttpcode">
+        <source>An error occurred (%s): "%s".</source>
+        <target>Uff aufgetreten (%s): "%s".</target>
+      </trans-unit>
+      <trans-unit id="list.report.httpexception">
+        <source>Exception: %s</source>
+        <target>Exception: %s, Bre</target>
+      </trans-unit>
+      <trans-unit id="list.report.networkexception">
+        <source>Network error / invalid domain</source>
+        <target>Netzwerkfehler / ungültige Domain, Alter</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.httpstatuscode.300">
+        <source>Multiple Choices (300).</source>
+        <target>Multiple Choices (300). Kann sich nicht entscheiden, no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.httpstatuscode.305">
+        <source>Use proxy (305).</source>
+        <target>Proxy benutzen (305), Brudi.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.redirectPermanently">
+        <source>URL permanently redirects to another URL (%d).</source>
+        <target>URL leitet permanent auf ne andere URL weiter (%d), Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.redirectTemporary">
+        <source>URL temporarily redirects to another URL (%d).</source>
+        <target>URL leitet temporär auf ne andere URL weiter (%d), Bre.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pageforbidden403">
+        <source>Accessing this address is not allowed (403).</source>
+        <target>Zugriff auf diese Adresse denied (403), no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotfound404">
+        <source>The requested URL was not found (404).</source>
+        <target>URL nicht gefunden - 404, Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.internalerror500">
+        <source>Internal Server Error (500)</source>
+        <target>Interner Server Error (500) - der Server hat sich zerlegt, no cap</target>
+      </trans-unit>
+      <trans-unit id="list.report.externalerror">
+        <source>External Link returned HTTP error code (%s).</source>
+        <target>Externer Link gibt HTTP-Uffcode zurück (%s).</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.1">
+        <source>Unsupported protocol.</source>
+        <target>Protokoll wird nicht supported, no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.2">
+        <source>Initialization failed.</source>
+        <target>Initialisierung gefailed.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.3">
+        <source>The URL was not properly formatted.</source>
+        <target>Die URL ist nicht richtig formatiert, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.4">
+        <source>Feature not supported.</source>
+        <target>Feature wird nicht supported, Homie.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.5">
+        <source>Couldn't resolve proxy.</source>
+        <target>Proxy konnte nicht aufgelöst werden, Alter.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.6">
+        <source>Couldn't resolve host.</source>
+        <target>Host konnte nicht aufgelöst werden, Digga.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.7">
+        <source>Failed to connect to host or proxy.</source>
+        <target>Verbindung zu Host oder Proxy gefailed.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.8">
+        <source>The remote server sent data that could not be parsed.</source>
+        <target>Der Server hat Daten geschickt die nicht geparst werden konnten.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.9">
+        <source>Access denied.</source>
+        <target>Zugang denied, Bre.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.16">
+        <source>Generic HTTP/2 error.</source>
+        <target>Generischer HTTP/2-Uff.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.18">
+        <source>A file transfer was shorter or larger than expected.</source>
+        <target>Dateitransfer war kürzer oder größer als erwartet. Sus, no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.28">
+        <source>Timeout: The remote server possibly took too long to answer.</source>
+        <target>Timeout: Der Server hat zu lange gebraucht zum Antworten. Chill mal, Server, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.35">
+        <source>Problem with SSl / TLS handshake.</source>
+        <target>Problem beim SSL/TLS-Handshake. Kein Rizz, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.47">
+        <source>Too many redirects.</source>
+        <target>Zu viele Redirects, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.55">
+        <source>General network error. Send failed.</source>
+        <target>Allgemeiner Netzwerkfehler. Senden gefailed.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.56">
+        <source>General network error. Receive failed.</source>
+        <target>Allgemeiner Netzwerkfehler. Empfangen gefailed.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.60">
+        <source>The remote server's SSL certificate was deemed not OK.</source>
+        <target>Das SSL-Zertifikat vom Server ist nicht OK. Lowkey sus.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.63">
+        <source>Maximum file size exceeded.</source>
+        <target>Maximale Dateigröße überschritten. Zu thicc!</target>
+      </trans-unit>
+      <trans-unit id="list.msg.ok">
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit id="list.msg.lastRun">
+        <source>%1$s %2$s</source>
+        <target>%1$s %2$s</target>
+      </trans-unit>
+      <trans-unit id="list.no.broken.links.title">
+        <source>No broken links found</source>
+        <target>Keine kaputten Links gefunden, slay!</target>
+      </trans-unit>
+      <trans-unit id="list.no.broken.links">
+        <source>There are no broken links for the selected link type restriction.</source>
+        <target>Keine kaputten Links für den gewählten Linktyp-Filter. Alles clean, no cap!</target>
+      </trans-unit>
+      <trans-unit id="no.access.title">
+        <source>No access</source>
+        <target>Kein Zugang, Brudi</target>
+      </trans-unit>
+      <trans-unit id="no.access">
+        <source>You do not have access to these listings.</source>
+        <target>Du hast keinen Zugriff auf diese Listen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="label_update-link-list">
+        <source>Checking links, please stand by.</source>
+        <target>Links werden gecheckt, chill mal kurz.</target>
+      </trans-unit>
+      <trans-unit id="label_refresh-link-list">
+        <source>Refreshing link list, please stand by.</source>
+        <target>Linkliste wird gefresht, chill mal.</target>
+      </trans-unit>
+      <trans-unit id="needs-recheck">
+        <source>Needs recheck</source>
+        <target>Muss nochmal gecheckt werden</target>
+      </trans-unit>
+      <trans-unit id="info.noPageSelected.message">
+        <source>Please select a page in the page tree.</source>
+        <target>Wähl erstmal ne Page im Pagetree aus, Alter, Digga.</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.title">
+        <source>Broken link</source>
+        <target>Kaputter Link, Alter</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.title.withLinkText">
+        <source>Broken link: "%s"</source>
+        <target>Kaputter Link: "%s", Alter</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.headline.link">
+        <source>Link properties</source>
+        <target>Link-Properties, Bre</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.headline.record">
+        <source>Record information</source>
+        <target>Record-Infos, Brudi</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

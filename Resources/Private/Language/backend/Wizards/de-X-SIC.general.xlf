@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/general.xlf">
+    <header/>
+    <body>
+      <trans-unit id="wizard.loading">
+        <source>Loading...</source>
+        <target>Laedt... chill mal</target>
+      </trans-unit>
+      <trans-unit id="wizard.buttons.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="wizard.buttons.next">
+        <source>Next</source>
+        <target>Weiter, Digga</target>
+      </trans-unit>
+      <trans-unit id="wizard.buttons.previous">
+        <source>Previous</source>
+        <target>Zurueck, Homie</target>
+      </trans-unit>
+      <trans-unit id="wizard.buttons.finish">
+        <source>Finish</source>
+        <target>Fertig, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="wizard.loading_configuration">
+        <source>Loading wizard configuration...</source>
+        <target>Wizard-Konfiguration laedt... chill mal</target>
+      </trans-unit>
+      <trans-unit id="wizard.loading_steps">
+        <source>Loading step modules...</source>
+        <target>Step-Module werden geladen...</target>
+      </trans-unit>
+      <trans-unit id="wizard.loading_finisher">
+        <source>Loading finisher...</source>
+        <target>Finisher laedt...</target>
+      </trans-unit>
+      <trans-unit id="wizard.status.pending.message">
+        <source>Processing data...</source>
+        <target>Daten werden verarbeitet... chill mal</target>
+      </trans-unit>
+      <trans-unit id="wizard.status.error.title">
+        <source>Error</source>
+        <target>Fehler (aua)</target>
+      </trans-unit>
+      <trans-unit id="wizard.status.error.message">
+        <source>Failed to process data:</source>
+        <target>Datenverarbeitung fehlgeschlagen, rip:</target>
+      </trans-unit>
+      <trans-unit id="wizard.finisher.load_error.message">
+        <source>Failed to load finisher module:</source>
+        <target>Finisher-Modul konnte nicht geladen werden:</target>
+      </trans-unit>
+      <trans-unit id="wizard.step.error.title">
+        <source>Error</source>
+        <target>Uff</target>
+      </trans-unit>
+      <trans-unit id="step.confirmation.title">
+        <source>Confirmation</source>
+        <target>Bestaetigung, fr fr</target>
+      </trans-unit>
+      <trans-unit id="step.confirmation.headline">
+        <source>Confirm</source>
+        <target>Bestätigen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="step.confirmation.description">
+        <source>Please review the following settings before proceeding:</source>
+        <target>Check die folgenden Einstellungen bevor du weitermachst, Brudi:</target>
+      </trans-unit>
+      <trans-unit id="step.finisher.title">
+        <source>Finish</source>
+        <target>Finale, Bro</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

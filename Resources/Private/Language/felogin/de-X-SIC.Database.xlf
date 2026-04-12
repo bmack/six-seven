@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:felogin/Resources/Private/Language/Database.xlf">
+    <header/>
+    <body>
+      <trans-unit id="tt_content.CType_pi1">
+        <source>Website User Login</source>
+        <target>Website User Einlass, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.felogin_login.title">
+        <source>Login Form</source>
+        <target>Login Formular, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.felogin_login.description">
+        <source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+        <target>Login/Logout Formular zum Schutz von Seiten - nur autorisierte User und Gruppen kommen rein, no cap.</target>
+      </trans-unit>
+      <trans-unit id="felogin_redirectPid">
+        <source>Redirect at Login to Page (felogin)</source>
+        <target>Weiterleitung beim Login zur Seite (felogin), Homie</target>
+      </trans-unit>
+      <trans-unit id="felogin_forgotHash">
+        <source>Forgot hash</source>
+        <target>Vergessen-Hash, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_header">
+        <source>General Header</source>
+        <target>Genereller Header, Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_message">
+        <source>General Message</source>
+        <target>Generelle Nachricht, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_header">
+        <source>Redirect Header</source>
+        <target>Weiterleitungs-Header, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_message">
+        <source>Redirect Message</source>
+        <target>Weiterleitungs-Nachricht, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_header">
+        <source>Welcome Header</source>
+        <target>Willkommens-Header, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_message">
+        <source>Welcome Message</source>
+        <target>Willkommens-Nachricht, Homie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_header">
+        <source>Login Success Header</source>
+        <target>Login-Erfolgs-Header, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_message">
+        <source>Login Success Message</source>
+        <target>Login-Erfolgs-Nachricht, Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_header">
+        <source>Login Error Header</source>
+        <target>Login-Fail Header, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_message">
+        <source>Login Error Message</source>
+        <target>Login-Fail Nachricht, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_header">
+        <source>Status Display Header</source>
+        <target>Status-Anzeige Header, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_message">
+        <source>Status Display Message</source>
+        <target>Status-Anzeige Nachricht, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_header">
+        <source>Logout Header</source>
+        <target>Logout Header, Homie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_message">
+        <source>Logout Message</source>
+        <target>Logout Nachricht, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_header">
+        <source>Forgot Password Header</source>
+        <target>Passwort-Vergessen Header, Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_message">
+        <source>Forgot Password Message</source>
+        <target>Passwort-Vergessen Nachricht, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_general">
+        <source>General</source>
+        <target>Allgemein, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_redirect">
+        <source>Redirects</source>
+        <target>Weiterleitungen, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_messages">
+        <source>Messages</source>
+        <target>Nachrichten, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_forgot_password">
+        <source>Display Password Recovery Link</source>
+        <target>Passwort-Recovery Link anzeigen, Homie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_permalogin">
+        <source>Display Remember Login Option</source>
+        <target>Eingeloggt-Bleiben Option anzeigen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_logoutFormAfterLogin">
+        <source>Disable redirect after successful login, but display logout-form</source>
+        <target>Weiterleitung nach Login deaktivieren, aber Logout-Formular anzeigen, Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode">
+        <source>FE group select mode:</source>
+        <target>FE-Gruppen Auswahlmodus, Brudi:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showAll">
+        <source>Show all</source>
+        <target>Alle anzeigen, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected">
+        <source>Show selected</source>
+        <target>Ausgewaehlte zeigen, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected">
+        <source>Don't show selected</source>
+        <target>Ausgewaehlte ghosten</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS">
+        <source>(from Typoscript)</source>
+        <target>(aus TypoScript), Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection">
+        <source>FE group selection:</source>
+        <target>FE-Gruppen Auswahl, Homie:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection_noGroup">
+        <source>no group</source>
+        <target>keine Gruppe, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_manualOrder">
+        <source>Using fieldlists below:</source>
+        <target>Nutze Feldlisten unten, Digga:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderList">
+        <source>User Fields/list:</source>
+        <target>User-Felder/Liste, Brudi:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderDetails">
+        <source>User Fields/details:</source>
+        <target>User-Felder/Details, Alter:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode">
+        <source>Redirect Mode</source>
+        <target>Weiterleitungs-Modus, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.0">
+        <source>Defined by Usergroup Record</source>
+        <target>Definiert durch Benutzergruppen-Datensatz, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.1">
+        <source>Defined by User Record</source>
+        <target>Definiert durch User-Datensatz, Homie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.2">
+        <source>After Login (TS or Flexform)</source>
+        <target>Nach Login (TS oder Flexform), Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.3">
+        <source>After Logout (TS or Flexform)</source>
+        <target>Nach Logout (TS oder Flexform), Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.4">
+        <source>After Login Error (TS or Flexform)</source>
+        <target>Nach Login-Fail (TS oder Flexform), Brudi</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.5">
+        <source>Defined by GET/POST Parameters</source>
+        <target>Definiert durch GET/POST Parameter, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.6">
+        <source>Defined by Referrer</source>
+        <target>Definiert durch Referrer, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.7">
+        <source>Defined by Domain Entries</source>
+        <target>Definiert durch Domain-Eintraege, Bre</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectFirstMethod">
+        <source>Use First Supported Mode from Selection</source>
+        <target>Ersten unterstuetzten Modus aus der Auswahl nehmen, Homie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectDisable">
+        <source>Disable Redirect</source>
+        <target>Weiterleitung deaktivieren, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogin">
+        <source>After Successful Login Redirect to Page</source>
+        <target>Nach erfolgreichem Login weiterleiten zu Seite, Digga</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLoginError">
+        <source>After Failed Login Redirect to Page</source>
+        <target>Nach Login-Fail weiterleiten zu Seite, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogout">
+        <source>After Logout Redirect to Page</source>
+        <target>Nach Logout weiterleiten zu Seite, Alter</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.template_file">
+        <source>Template File</source>
+        <target>Template-Datei, Bro</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.user_storage">
+        <source>User Storage Page</source>
+        <target>User-Speicher Seite, Bre</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/qrcode.xlf">
+    <header/>
+    <body>
+      <trans-unit id="qrcode.format.png">
+        <source>PNG</source>
+        <target>PNG</target>
+      </trans-unit>
+      <trans-unit id="qrcode.format.svg">
+        <source>SVG</source>
+        <target>SVG</target>
+      </trans-unit>
+      <trans-unit id="qrcode.format">
+        <source>Format</source>
+        <target>Format</target>
+      </trans-unit>
+      <trans-unit id="qrcode.size">
+        <source>Size</source>
+        <target>Groesse</target>
+      </trans-unit>
+      <trans-unit id="qrcode.size.small">
+        <source>small</source>
+        <target>smol</target>
+      </trans-unit>
+      <trans-unit id="qrcode.size.medium">
+        <source>medium</source>
+        <target>mittel</target>
+      </trans-unit>
+      <trans-unit id="qrcode.size.large">
+        <source>large</source>
+        <target>thicc</target>
+      </trans-unit>
+      <trans-unit id="qrcode.download">
+        <source>Download</source>
+        <target>Runterladen</target>
+      </trans-unit>
+      <trans-unit id="qrcode.url">
+        <source>URL</source>
+        <target>URL</target>
+      </trans-unit>
+      <trans-unit id="qrcode.copyUrl">
+        <source>Copy URL</source>
+        <target>URL kopieren</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:opendocs/Resources/Private/Language/locallang_widget_recentdocuments.xlf">
+    <header/>
+    <body>
+      <trans-unit id="widget.title"><source>Recently opened documents</source><target>Kuerzlich aufgemachte Docs, Bre</target></trans-unit>
+      <trans-unit id="widget.description"><source>Displays recently opened documents in the system.</source><target>Zeigt kuerzlich aufgemachte Docs im System, Homie.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

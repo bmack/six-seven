@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_common.xlf">
+    <header/>
+    <body>
+      <trans-unit id="about">
+        <source>About</source>
+        <target>Was geht hier ab</target>
+      </trans-unit>
+      <trans-unit id="and">
+        <source>and</source>
+        <target>und so</target>
+      </trans-unit>
+      <trans-unit id="ascending">
+        <source>Ascending</source>
+        <target>Von unten nach oben, Digga</target>
+      </trans-unit>
+      <trans-unit id="back">
+        <source>Back</source>
+        <target>Zurück, Brudi</target>
+      </trans-unit>
+      <trans-unit id="byteSizeUnits">
+        <source> B| KB| MB| GB</source>
+        <target> B| KB| MB| GB</target>
+      </trans-unit>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="category">
+        <source>Category</source>
+        <target>Schublade</target>
+      </trans-unit>
+      <trans-unit id="close">
+        <source>Close</source>
+        <target>Tschüssikowski</target>
+      </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete</source>
+        <target>Yeet das weg</target>
+      </trans-unit>
+      <trans-unit id="descending">
+        <source>Descending</source>
+        <target>Von oben nach unten, Digga</target>
+      </trans-unit>
+      <trans-unit id="details">
+        <source>Details</source>
+        <target>Deets</target>
+      </trans-unit>
+      <trans-unit id="disable">
+        <source>Disable</source>
+        <target>Ghosten</target>
+      </trans-unit>
+      <trans-unit id="disabled">
+        <source>Disabled</source>
+        <target>Geghostet</target>
+      </trans-unit>
+      <trans-unit id="down">
+        <source>Down</source>
+        <target>Runter</target>
+      </trans-unit>
+      <trans-unit id="download">
+        <source>Download</source>
+        <target>Saugen</target>
+      </trans-unit>
+      <trans-unit id="edit">
+        <source>Edit</source>
+        <target>Flexen</target>
+      </trans-unit>
+      <trans-unit id="editField">
+        <source>Edit field</source>
+        <target>Feld flexen</target>
+      </trans-unit>
+      <trans-unit id="editFile">
+        <source>Edit file</source>
+        <target>Datei flexen</target>
+      </trans-unit>
+      <trans-unit id="enable">
+        <source>Enable</source>
+        <target>Anmachen</target>
+      </trans-unit>
+      <trans-unit id="enabled">
+        <source>Enabled</source>
+        <target>Läuft bei dir</target>
+      </trans-unit>
+      <trans-unit id="file">
+        <source>File</source>
+        <target>File</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>Files</source>
+        <target>Files</target>
+      </trans-unit>
+      <trans-unit id="folder">
+        <source>Folder</source>
+        <target>Folder</target>
+      </trans-unit>
+      <trans-unit id="first">
+        <source>First</source>
+        <target>Erster, Digga</target>
+      </trans-unit>
+      <trans-unit id="from">
+        <source>From</source>
+        <target>Von</target>
+      </trans-unit>
+      <trans-unit id="go">
+        <source>Go</source>
+        <target>Los jetzt</target>
+      </trans-unit>
+      <trans-unit id="goTo">
+        <source>Go to</source>
+        <target>Slide rüber zu</target>
+      </trans-unit>
+      <trans-unit id="help">
+        <source>Help</source>
+        <target>Hilfe, Alter</target>
+      </trans-unit>
+      <trans-unit id="item">
+        <source>Item</source>
+        <target>Ding</target>
+      </trans-unit>
+      <trans-unit id="items">
+        <source>Items</source>
+        <target>Dinger</target>
+      </trans-unit>
+      <trans-unit id="last">
+        <source>Last</source>
+        <target>Letzter, Brudi</target>
+      </trans-unit>
+      <trans-unit id="left">
+        <source>Left</source>
+        <target>Links</target>
+      </trans-unit>
+      <trans-unit id="login">
+        <source>Login</source>
+        <target>Reinsliden</target>
+      </trans-unit>
+      <trans-unit id="logout">
+        <source>Logout</source>
+        <target>Tschüssikowski</target>
+      </trans-unit>
+      <trans-unit id="more">
+        <source>More</source>
+        <target>Gönn dir mehr</target>
+      </trans-unit>
+      <trans-unit id="move">
+        <source>Move</source>
+        <target>Schieben</target>
+      </trans-unit>
+      <trans-unit id="new">
+        <source>New</source>
+        <target>Frisch manifested</target>
+      </trans-unit>
+      <trans-unit id="next">
+        <source>Next</source>
+        <target>Weiter, Digga</target>
+      </trans-unit>
+      <trans-unit id="no">
+        <source>No</source>
+        <target>Nö, kein Bock</target>
+      </trans-unit>
+      <trans-unit id="ok">
+        <source>OK</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="open">
+        <source>Open</source>
+        <target>Aufmachen</target>
+      </trans-unit>
+      <trans-unit id="page">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="pages">
+        <source>Pages</source>
+        <target>Seiten</target>
+      </trans-unit>
+      <trans-unit id="previous">
+        <source>Previous</source>
+        <target>Eins zurück</target>
+      </trans-unit>
+      <trans-unit id="print">
+        <source>Print</source>
+        <target>Auf Papier ballern</target>
+      </trans-unit>
+      <trans-unit id="reload">
+        <source>Reload</source>
+        <target>Nochmal laden, Alter</target>
+      </trans-unit>
+      <trans-unit id="right">
+        <source>Right</source>
+        <target>Rechts</target>
+      </trans-unit>
+      <trans-unit id="save">
+        <source>Save</source>
+        <target>Ong, safe speichern</target>
+      </trans-unit>
+      <trans-unit id="saveAndClose">
+        <source>Save and close</source>
+        <target>Safe speichern und Tschüssikowski</target>
+      </trans-unit>
+      <trans-unit id="saveAndCloseDoc">
+        <source>Save and close document</source>
+        <target>Dokument safe speichern und Tschüssikowski</target>
+      </trans-unit>
+      <trans-unit id="saveAndCreateNewDoc">
+        <source>Save and create new document</source>
+        <target>Safe speichern und frisches Dokument droppen</target>
+      </trans-unit>
+      <trans-unit id="saveAndViewPage">
+        <source>Save and view page</source>
+        <target>Safe speichern und Seite checken</target>
+      </trans-unit>
+      <trans-unit id="search">
+        <source>Search</source>
+        <target>Stalken</target>
+      </trans-unit>
+      <trans-unit id="send">
+        <source>Send</source>
+        <target>Rausballern</target>
+      </trans-unit>
+      <trans-unit id="start">
+        <source>Start</source>
+        <target>Let's gooo</target>
+      </trans-unit>
+      <trans-unit id="stop">
+        <source>Stop</source>
+        <target>Stopp mal</target>
+      </trans-unit>
+      <trans-unit id="submit">
+        <source>Submit</source>
+        <target>Abschicken, Digga</target>
+      </trans-unit>
+      <trans-unit id="to">
+        <source>To</source>
+        <target>Bis</target>
+      </trans-unit>
+      <trans-unit id="tsRef">
+        <source>TSref reference</source>
+        <target>TSref Nachschlagewerk für Boomer</target>
+      </trans-unit>
+      <trans-unit id="undefined">
+        <source>Undefined</source>
+        <target>Delulu - keiner weiß was das ist</target>
+      </trans-unit>
+      <trans-unit id="up">
+        <source>Up</source>
+        <target>Hoch</target>
+      </trans-unit>
+      <trans-unit id="upload">
+        <source>Upload</source>
+        <target>Hochladen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="user">
+        <source>User</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="users">
+        <source>Users</source>
+        <target>Die Crew</target>
+      </trans-unit>
+      <trans-unit id="view">
+        <source>View</source>
+        <target>Snacken</target>
+      </trans-unit>
+      <trans-unit id="yes">
+        <source>Yes</source>
+        <target>Bet, Digga!</target>
+      </trans-unit>
+      <trans-unit id="notAvailableAbbreviation">
+        <source>N/A</source>
+        <target>Nix da</target>
+      </trans-unit>
+      <trans-unit id="pleaseConfirm">
+        <source>Please confirm</source>
+        <target>No front, aber sag mal fr fr ob du das willst</target>
+      </trans-unit>
+      <trans-unit id="color">
+        <source>Color</source>
+        <target>Farbe, Digga</target>
+      </trans-unit>
+      <trans-unit id="color.red">
+        <source>Red</source>
+        <target>Red Flag rot</target>
+      </trans-unit>
+      <trans-unit id="color.orange">
+        <source>Orange</source>
+        <target>Orange</target>
+      </trans-unit>
+      <trans-unit id="color.yellow">
+        <source>Yellow</source>
+        <target>Gelb wie Pikachu</target>
+      </trans-unit>
+      <trans-unit id="color.lime">
+        <source>Lime</source>
+        <target>Limette</target>
+      </trans-unit>
+      <trans-unit id="color.green">
+        <source>Green</source>
+        <target>Green Flag grün</target>
+      </trans-unit>
+      <trans-unit id="color.teal">
+        <source>Teal</source>
+        <target>Türkis</target>
+      </trans-unit>
+      <trans-unit id="color.blue">
+        <source>Blue</source>
+        <target>Blau wie nach der Party</target>
+      </trans-unit>
+      <trans-unit id="color.indigo">
+        <source>Indigo</source>
+        <target>Indigo</target>
+      </trans-unit>
+      <trans-unit id="color.purple">
+        <source>Purple</source>
+        <target>Lila wie Lean</target>
+      </trans-unit>
+      <trans-unit id="color.magenta">
+        <source>Magenta</source>
+        <target>Magenta</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

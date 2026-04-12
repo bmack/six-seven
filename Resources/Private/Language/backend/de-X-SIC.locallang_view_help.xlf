@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_view_help.xlf">
+    <header/>
+    <body>
+      <trans-unit id="details">
+        <source>Details</source>
+        <target>Die Deets</target>
+      </trans-unit>
+      <trans-unit id="syntax">
+        <source>Syntax</source>
+        <target>Syntax</target>
+      </trans-unit>
+      <trans-unit id="seeAlso">
+        <source>See also</source>
+        <target>Schau auch mal hier</target>
+      </trans-unit>
+      <trans-unit id="goBack">
+        <source>Go back</source>
+        <target>Zurueck, Digga</target>
+      </trans-unit>
+      <trans-unit id="fullDescription">
+        <source>See full description of table</source>
+        <target>Volle Tabellen-Beschreibung lurken</target>
+      </trans-unit>
+      <trans-unit id="fullDescription_module">
+        <source>See full description of module</source>
+        <target>Volle Modul-Beschreibung lurken</target>
+      </trans-unit>
+      <trans-unit id="goToToc">
+        <source>&lt;&lt; go to Manual Index</source>
+        <target>&lt;&lt; zum Manual-Index</target>
+      </trans-unit>
+      <trans-unit id="to_top">
+        <source>To top</source>
+        <target>Ab nach oben</target>
+      </trans-unit>
+      <trans-unit id="TOC">
+        <source>Table Of Contents</source>
+        <target>Inhaltsverzeichnis (Table of Content, Bre)</target>
+      </trans-unit>
+      <trans-unit id="TOC_core">
+        <source>TYPO3 Core Features</source>
+        <target>TYPO3 Core Features</target>
+      </trans-unit>
+      <trans-unit id="TOC_modules">
+        <source>Backend Modules</source>
+        <target>Backend Module</target>
+      </trans-unit>
+      <trans-unit id="TOC_tables">
+        <source>Database Tables</source>
+        <target>Datenbank-Tabellen</target>
+      </trans-unit>
+      <trans-unit id="TOC_extensions">
+        <source>Extensions</source>
+        <target>Extensions (Plugins halt)</target>
+      </trans-unit>
+      <trans-unit id="TOC_glossary">
+        <source>Glossary</source>
+        <target>Glossar (Woerterbuch fuer Nerds)</target>
+      </trans-unit>
+      <trans-unit id="TOC_other">
+        <source>Other</source>
+        <target>Der ganze Rest</target>
+      </trans-unit>
+      <trans-unit id="close">
+        <source>Close</source>
+        <target>Mach zu</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>TYPO3 Inline Help</source>
+        <target>TYPO3 Inline-Hilfe</target>
+      </trans-unit>
+      <trans-unit id="manual_title">
+        <source>TYPO3 Inline User Manual</source>
+        <target>TYPO3 Inline User Manual</target>
+      </trans-unit>
+      <trans-unit id="introduction">
+        <source>Introduction</source>
+        <target>Intro (was geht ab)</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you will find a general description of the TYPO3 Core modules, installation specific Backend Modules and Database Tables that are available based on your login credentials.</source>
+        <target>Das TYPO3 Inline User Manual setzt sich aus der verfuegbaren Hilfe dieser TYPO3-Installation zusammen (kontextsensitive Hilfe). Hier findest du ne allgemeine Beschreibung der TYPO3 Core-Module, installationsspezifische Backend-Module und Datenbank-Tabellen die basierend auf deinen Login-Credentials verfuegbar sind.</target>
+      </trans-unit>
+      <trans-unit id="full_manual">
+        <source>Full Manual (in one page)</source>
+        <target>Ganzes Manual (alles auf einer Seite, yolo)</target>
+      </trans-unit>
+      <trans-unit id="full_manual_chapters">
+        <source>Manual Chapters</source>
+        <target>Manual-Kapitel</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

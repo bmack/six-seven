@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pages_new.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Create multiple pages</source>
+        <target>Mehrere Seiten auf einmal droppen</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.title">
+        <source>Insufficient permissions</source>
+        <target>Nicht genug Rechte, Digga</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.message">
+        <source>Sorry, you are not allowed to create new subpages to this page due to access restrictions.</source>
+        <target>Sorry Brudi, du darfst hier keine neuen Unterseiten erstellen wegen Zugriffsrechten. Kein Rizz hier.</target>
+      </trans-unit>
+      <trans-unit id="newPage">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="addMoreLines">
+        <source>Add more lines</source>
+        <target>Mehr Zeilen adden, Homie</target>
+      </trans-unit>
+      <trans-unit id="listEnd">
+        <source>Place new pages after the existing subpages</source>
+        <target>Neue Seiten nach den bestehenden Unterseiten droppen</target>
+      </trans-unit>
+      <trans-unit id="hidePages">
+        <source>Hide new pages</source>
+        <target>Neue Seiten ghosten</target>
+      </trans-unit>
+      <trans-unit id="hidePagesInMenus">
+        <source>Hide new pages in menus</source>
+        <target>Neue Seiten in Menues ghosten</target>
+      </trans-unit>
+      <trans-unit id="create">
+        <source>Create pages</source>
+        <target>Seiten erstellen (los geht's!)</target>
+      </trans-unit>
+      <trans-unit id="reset">
+        <source>Clear fields</source>
+        <target>Felder leeren, Alter</target>
+      </trans-unit>
+      <trans-unit id="newSubPages">
+        <source>New page structure</source>
+        <target>Neue Seitenstruktur (dein Blueprint)</target>
+      </trans-unit>
+      <trans-unit id="newSubPages.pageTitle">
+        <source>Page title</source>
+        <target>Seitentitel</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.title">
+        <source>No pages added</source>
+        <target>Keine Seiten erstellt, oof</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.message">
+        <source>No pages were created.</source>
+        <target>Es wurden keine Seiten erstellt, rip.</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.title">
+        <source>Pages added</source>
+        <target>Seiten gedroppt, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.message">
+        <source>The pages were created successfully.</source>
+        <target>Die Seiten wurden erfolgreich erstellt, slay!</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.title">
+        <source>Creation of multiple is disabled because of field requirements</source>
+        <target>Mehrfach-Erstellung deaktiviert wegen Pflichtfelder</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.message">
+        <source>Please use the page creation wizard instead.</source>
+        <target>Benutz stattdessen den Seiten-Wizard, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.buttonLabel">
+        <source>Create single page</source>
+        <target>Einzelne Seite droppen</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.title">
+        <source>Some page types have been filtered because of field requirements</source>
+        <target>Einige Seitentypen wurden wegen Pflichtfelder rausgefiltert</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.message">
+        <source>The following page types need to be created using the page creation wizard:</source>
+        <target>Die folgenden Seitentypen muessen ueber den Seiten-Wizard erstellt werden:</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.buttonLabel">
+        <source>Create single page</source>
+        <target>Einzelne Seite droppen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

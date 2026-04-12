@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="index_config">
+        <source>Indexing Configuration</source>
+        <target>Indexierungs-Config, Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="index_config.description">
+        <source>Description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.0" translate="no">
+        <source>-</source>
+        <target>-</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.1">
+        <source>Database Records</source>
+        <target>DB-Records, Bro</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.2">
+        <source>Filepath on server</source>
+        <target>Dateipfad auf dem Server, no cap</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.3">
+        <source>External URL</source>
+        <target>Externe URL, Bre</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.4">
+        <source>Page tree</source>
+        <target>Pagetree, Homie</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.5">
+        <source>Meta configuration</source>
+        <target>Meta-Config, Alter</target>
+      </trans-unit>
+      <trans-unit id="index_config.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="index_config.depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="index_config.table2index">
+        <source>Table to index</source>
+        <target>Zu indexierende Tabelle, Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.table2index.I.0" translate="no">
+        <source>-</source>
+        <target>-</target>
+      </trans-unit>
+      <trans-unit id="index_config.alternative_source_pid">
+        <source>Alternative Source Page</source>
+        <target>Alternative Quellseite, Alter</target>
+      </trans-unit>
+      <trans-unit id="index_config.get_params">
+        <source>GET parameter string (with ###UID### substitution)</source>
+        <target>GET-Parameter-String (mit ###UID###-Ersetzung), Bre</target>
+      </trans-unit>
+      <trans-unit id="index_config.fields">
+        <source>Fields (first is title)</source>
+        <target>Felder (erstes ist der Titel), Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.externalUrl">
+        <source>External URL (eg. "http://www.domain.org/")</source>
+        <target>Externe URL (z.B. "http://www.domain.org/"), Digga</target>
+      </trans-unit>
+      <trans-unit id="index_config.filepath">
+        <source>Filepath</source>
+        <target>Dateipfad, Bre</target>
+      </trans-unit>
+      <trans-unit id="index_config.extensions">
+        <source>Limit to extensions (commalist)</source>
+        <target>Auf Endungen beschränken (Kommaliste), sheesh</target>
+      </trans-unit>
+      <trans-unit id="index_config.url_deny">
+        <source>Enter sub-URLs in which not to decend</source>
+        <target>Sub-URLs eingeben, in die nicht reingecrawlt werden soll, sheesh</target>
+      </trans-unit>
+      <trans-unit id="index_config.records_indexonchange">
+        <source>Index Records immediately when saved?</source>
+        <target>Records sofort beim Saven indexieren?, Bro</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_next_indexing">
+        <source>Next indexing is scheduled (if empty, then immediately)</source>
+        <target>Nächste Indexierung geplant (wenn leer, dann sofort), Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_offset">
+        <source>Timing offset from midnight</source>
+        <target>Zeitversatz ab Mitternacht, Bro</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency">
+        <source>How often would you like a re-index?</source>
+        <target>Wie oft willst du ne Neu-Indexierung, Digga?</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.0">
+        <source>Every hour</source>
+        <target>Jede Stunde, Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.1">
+        <source>Every day (24 hours)</source>
+        <target>Jeden Tag (24 Stunden), Bre</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.2">
+        <source>Every week</source>
+        <target>Jede Woche, Brudi</target>
+      </trans-unit>
+      <trans-unit id="index_config.recordsbatch">
+        <source>How many records to index a minute (default is 100)</source>
+        <target>Wie viele Records pro Minute indexieren (Standard: 100), Digga</target>
+      </trans-unit>
+      <trans-unit id="index_config.set_id">
+        <source>Session ID (if &gt; zero, then indexing job is running)</source>
+        <target>Session-ID (wenn &gt; 0, dann läuft der Indexierungs-Job), Homie</target>
+      </trans-unit>
+      <trans-unit id="index_config.indexcfgs">
+        <source>Indexing configurations</source>
+        <target>Indexierungs-Configen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="index_config.parameterCfgs">
+        <source>Parameter combination configuration ([tablename]:&amp;[param]=###UID###)</source>
+        <target>Parameter-Kombinations-Config ([tabellenname]:&amp;[param]=###UID###), sheesh</target>
+      </trans-unit>
+      <trans-unit id="index_config.rootpage">
+        <source>Root page</source>
+        <target>Root-Page, Homie</target>
+      </trans-unit>
+      <trans-unit id="plugin_title">
+        <source>Indexed Search</source>
+        <target>Indexierte Search, Brudi</target>
+      </trans-unit>
+      <trans-unit id="plugin_description">
+        <source>Search based on a database stored index.</source>
+        <target>Search basierend auf nem in der DB gesaveden Index.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

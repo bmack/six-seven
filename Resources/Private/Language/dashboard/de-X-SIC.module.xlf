@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Dashboard</source>
+        <target>Dashboard, Digga</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>A dashboard that can show widgets of all kind of extensions</source>
+        <target>Ein Dashboard mit Main Character Energy das Widgets von allen moeglichen Extensions zeig mal kann, lit</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Dashboard</source>
+        <target>Dashboard, no cap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

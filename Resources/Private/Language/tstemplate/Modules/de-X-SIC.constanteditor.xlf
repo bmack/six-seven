@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/Modules/constanteditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Constant Editor</source><target>Konstanten-Editor</target></trans-unit>
+      <trans-unit id="short_description"><source/><target/></trans-unit>
+      <trans-unit id="description"><source/><target/></trans-unit>
+    </body>
+  </file>
+</xliff>

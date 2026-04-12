@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:beuser/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="userName">
+        <source>Username</source>
+        <target>Username, Homie</target>
+      </trans-unit>
+      <trans-unit id="avatar">
+        <source>Avatar</source>
+        <target>Profilpic, Bro</target>
+      </trans-unit>
+      <trans-unit id="realName">
+        <source>Real name</source>
+        <target>IRL-Name, Alter</target>
+      </trans-unit>
+      <trans-unit id="name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="email">
+        <source>Email</source>
+        <target>E-Mail, fr fr</target>
+      </trans-unit>
+      <trans-unit id="admin">
+        <source>Admin</source>
+        <target>Sigma-Admin</target>
+      </trans-unit>
+      <trans-unit id="users">
+        <source>Users</source>
+        <target>Leute</target>
+      </trans-unit>
+      <trans-unit id="user">
+        <source>User</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="yes">
+        <source>Yes</source>
+        <target>Safe</target>
+      </trans-unit>
+      <trans-unit id="no">
+        <source>No</source>
+        <target>Nope</target>
+      </trans-unit>
+      <trans-unit id="never">
+        <source>Never</source>
+        <target>Nie, fr fr</target>
+      </trans-unit>
+      <trans-unit id="disable">
+        <source>Enabled</source>
+        <target>Am Start</target>
+      </trans-unit>
+      <trans-unit id="startDateAndTime">
+        <source>Start</source>
+        <target>Start</target>
+      </trans-unit>
+      <trans-unit id="endDateAndTime">
+        <source>Stop</source>
+        <target>Schluss, no cap</target>
+      </trans-unit>
+      <trans-unit id="lastLogin">
+        <source>Last login</source>
+        <target>Letztes Reinsliden</target>
+      </trans-unit>
+      <trans-unit id="allowedLanguages">
+        <source>Limit to languages</source>
+        <target>Nur bestimmte Sprachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="pageTreeEntryPoints">
+        <source>Page Tree Entry Points</source>
+        <target>Pagetree-Einstiegspunkte, Digga</target>
+      </trans-unit>
+      <trans-unit id="fileMounts">
+        <source>File mountpoints</source>
+        <target>Datei-Mountpoints, Brudi</target>
+      </trans-unit>
+      <trans-unit id="groups">
+        <source>Groups</source>
+        <target>Squads</target>
+      </trans-unit>
+      <trans-unit id="inheritance">
+        <source>Inheritance</source>
+        <target>Vererbung, Alter</target>
+      </trans-unit>
+      <trans-unit id="group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="languages">
+        <source>Languages</source>
+        <target>Sprachen, Alter</target>
+      </trans-unit>
+      <trans-unit id="categories">
+        <source>Categories</source>
+        <target>Kategorien, sheesh</target>
+      </trans-unit>
+      <trans-unit id="permissions">
+        <source>Permissions</source>
+        <target>Gatekeeping-Permissions, Brudi</target>
+      </trans-unit>
+      <trans-unit id="modules">
+        <source>Modules</source>
+        <target>Module, sheesh</target>
+      </trans-unit>
+      <trans-unit id="tableModes.read">
+        <source>Read</source>
+        <target>Lurken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="tableModes.write">
+        <source>Read &amp; Write</source>
+        <target>Lurken &amp; Flexen, no cap</target>
+      </trans-unit>
+      <trans-unit id="mountsWorkspaces">
+        <source>Mounts and workspaces</source>
+        <target>Mounts und Workspaces, fr fr</target>
+      </trans-unit>
+      <trans-unit id="options">
+        <source>Options</source>
+        <target>Optionen, Bre</target>
+      </trans-unit>
+      <trans-unit id="allowedPageContentTypes">
+        <source>Allowed page content types</source>
+        <target>Erlaubte Inhaltstypen auf Pages, fr fr</target>
+      </trans-unit>
+      <trans-unit id="generalPermissions">
+        <source>General permissions</source>
+        <target>Generelle Gatekeeping-Permissions, Digga</target>
+      </trans-unit>
+      <trans-unit id="compare.tables">
+        <source>Table permissions</source>
+        <target>Tabellen-Permissions, Brudi</target>
+      </trans-unit>
+      <trans-unit id="compare.direct.inherit">
+        <source>Inherit</source>
+        <target>Geerbt, fr fr</target>
+      </trans-unit>
+      <trans-unit id="compare.direct.direct">
+        <source>Direct</source>
+        <target>Direkt, Bre</target>
+      </trans-unit>
+      <trans-unit id="information.defaultLanguage">
+        <source>Default</source>
+        <target>Standard, Homie</target>
+      </trans-unit>
+      <trans-unit id="information.defaultWorkspace">
+        <source>Default</source>
+        <target>Standard, Brudi</target>
+      </trans-unit>
+      <trans-unit id="information.groups.table.column.groupTitle">
+        <source>Group title</source>
+        <target>Squad-Name</target>
+      </trans-unit>
+      <trans-unit id="backendUser">
+        <source>Backend User</source>
+        <target>Backend-Typ, Bre</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup">
+        <source>Backend User Group</source>
+        <target>Backend-Squad</target>
+      </trans-unit>
+      <trans-unit id="backendUsers">
+        <source>Backend users</source>
+        <target>Backend-Leute</target>
+      </trans-unit>
+      <trans-unit id="backendUserDetails">
+        <source>Backend user details</source>
+        <target>Backend-Typ Details, sheesh</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroupsMenu">
+        <source>Backend user groups</source>
+        <target>Backend-Squads</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroupDetails">
+        <source>Backend user group details</source>
+        <target>Backend-Squad Details</target>
+      </trans-unit>
+      <trans-unit id="compareBackendUsers">
+        <source>Compare backend users</source>
+        <target>Backend-Leute vergleichen</target>
+      </trans-unit>
+      <trans-unit id="compareBackendUsersGroups">
+        <source>Compare backend user groups</source>
+        <target>Backend-Squads vergleichen</target>
+      </trans-unit>
+      <trans-unit id="onlineUsers">
+        <source>Online users</source>
+        <target>Wer ist am Start</target>
+      </trans-unit>
+      <trans-unit id="btn.addToCompareList">
+        <source>Add to compare list</source>
+        <target>Zur Vergleichsliste packen, Alter</target>
+      </trans-unit>
+      <trans-unit id="btn.backendUser.create">
+        <source>Create new backend user</source>
+        <target>Neuen Backend-Typ droppen</target>
+      </trans-unit>
+      <trans-unit id="btn.editor.create">
+        <source>Create editor</source>
+        <target>Editor droppen</target>
+      </trans-unit>
+      <trans-unit id="btn.admin.create">
+        <source>Create admin</source>
+        <target>Sigma-Admin manifesten, no cap</target>
+      </trans-unit>
+      <trans-unit id="btn.backendUserGroup.create">
+        <source>Create new backend user group</source>
+        <target>Neuen Backend-Squad gründen</target>
+      </trans-unit>
+      <trans-unit id="btn.clearCompareList">
+        <source>Clear compare list</source>
+        <target>Vergleichsliste clearen</target>
+      </trans-unit>
+      <trans-unit id="btn.compare">
+        <source>Compare</source>
+        <target>Vergleichen, Digga</target>
+      </trans-unit>
+      <trans-unit id="btn.delete">
+        <source>Delete</source>
+        <target>Yeeten, Bre</target>
+      </trans-unit>
+      <trans-unit id="btn.details">
+        <source>Show details</source>
+        <target>Details zeigen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="btn.disable">
+        <source>Disable</source>
+        <target>Ausmachen, Alter</target>
+      </trans-unit>
+      <trans-unit id="btn.edit">
+        <source>Edit</source>
+        <target>Flexen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="btn.enable">
+        <source>Enable</source>
+        <target>Anmachen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="btn.info">
+        <source>Info</source>
+        <target>Info</target>
+      </trans-unit>
+      <trans-unit id="btn.removeFromCompareList">
+        <source>Remove from compare list</source>
+        <target>Aus Vergleichsliste yeeten</target>
+      </trans-unit>
+      <trans-unit id="filter">
+        <source>Filter</source>
+        <target>Filter, Bre</target>
+      </trans-unit>
+      <trans-unit id="reset">
+        <source>Reset</source>
+        <target>Nochmal von vorne, fr fr</target>
+      </trans-unit>
+      <trans-unit id="pagination.previous">
+        <source>previous</source>
+        <target>zurück</target>
+      </trans-unit>
+      <trans-unit id="pagination.next">
+        <source>next</source>
+        <target>weiter</target>
+      </trans-unit>
+      <trans-unit id="pagination.first">
+        <source>first</source>
+        <target>ganz vorne</target>
+      </trans-unit>
+      <trans-unit id="pagination.last">
+        <source>last</source>
+        <target>ganz hinten</target>
+      </trans-unit>
+      <trans-unit id="pagination.records">
+        <source>Records</source>
+        <target>Records, Bro</target>
+      </trans-unit>
+      <trans-unit id="pagination.page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="pagination.refresh">
+        <source>Refresh</source>
+        <target>Freshen, Alter</target>
+      </trans-unit>
+      <trans-unit id="switchBackMode">
+        <source>Switch to user</source>
+        <target>In User reinsliden, Homie</target>
+      </trans-unit>
+      <trans-unit id="lockedMfaProviders">
+        <source>Locked MFA providers</source>
+        <target>Gesperrte MFA-Provider, Alter</target>
+      </trans-unit>
+      <trans-unit id="mfaEnabled">
+        <source>MFA enabled</source>
+        <target>MFA am Start</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.title">
+        <source>Backend users</source>
+        <target>Backend-Leute</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.section.compare">
+        <source>Backend users to compare</source>
+        <target>Backend-Leute zum Vergleichen</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.section.allUsers">
+        <source>Backend users in the system</source>
+        <target>Alle Backend-Leute im System</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.btn.compareList">
+        <source>Compare selected backend users</source>
+        <target>Ausgewählte Backend-Leute vergleichen</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.table.column.group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.loginState">
+        <source>Login state</source>
+        <target>Login-Status, fr fr</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.loginState.all">
+        <source>All</source>
+        <target>Alle</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.loginState.loginBefore">
+        <source>Logged in before</source>
+        <target>War schon mal drin, fr fr</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.loginState.never">
+        <source>Never logged in</source>
+        <target>Noch nie reingeslidet, Digga</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.loginState.loggedIn">
+        <source>Currently logged in</source>
+        <target>Gerade am Start</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.status">
+        <source>Status</source>
+        <target>Status, Homie</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.status.all">
+        <source>All</source>
+        <target>Alle</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.status.enabled">
+        <source>Enabled</source>
+        <target>Am Start</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.status.disabled">
+        <source>Disabled</source>
+        <target>Gecancelled, no cap</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.userType">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.userType.all">
+        <source>All</source>
+        <target>Alle</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.userType.admin">
+        <source>Admin</source>
+        <target>Sigma</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.filter.userType.normalUser">
+        <source>Normal user</source>
+        <target>NPC</target>
+      </trans-unit>
+      <trans-unit id="backendUser.list.label.online">
+        <source>online</source>
+        <target>am Start</target>
+      </trans-unit>
+      <trans-unit id="backendUser.confirmDelete">
+        <source>Are you sure you want to delete the backend user '%s'?</source>
+        <target>Willst du den Backend-Typ '%s' wirklich yeeten, Digga?</target>
+      </trans-unit>
+      <trans-unit id="backendUser.show.title">
+        <source>Configuration of backend user "%s"</source>
+        <target>Config vom Backend-Typ "%s", Digga</target>
+      </trans-unit>
+      <trans-unit id="backendUser.show.notConfigured">
+        <source>Not configured.</source>
+        <target>Nicht konfiguriert, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="backendUser.show.infobox.title">
+        <source>Compiled rights and settings</source>
+        <target>Zusammengerechnete Rechte und Settings, Brudi</target>
+      </trans-unit>
+      <trans-unit id="backendUser.show.infobox.message">
+        <source>This view displays all compiled rights and settings of the selected backend user. These can come from settings in the backend user record itself, as well as from settings that have been stored in backend user groups assigned to this backend user.</source>
+        <target>Hier siehst du alle zusammengerechneten Rechte und Settings vom ausgewählten Backend-Typ. Die kommen aus dem User-Datensatz selbst oder aus den Squads, die dem Typen zugeordnet sind.</target>
+      </trans-unit>
+      <trans-unit id="backendUser.compare.title">
+        <source>Compare backend users</source>
+        <target>Backend-Leute vergleichen</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.title">
+        <source>Online users</source>
+        <target>Wer ist am Start</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.table.column.ipAddress">
+        <source>IP address</source>
+        <target>IP-Adresse, Homie</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.table.column.lastAccess">
+        <source>Last access</source>
+        <target>Letzter Zugriff, Bre</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.activeSession">
+        <source>Active session</source>
+        <target>Aktive Session, Bro</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.flashMessage.terminateSessionSuccess">
+        <source>Session successfully terminated.</source>
+        <target>Session erfolgreich gekillt, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.reallyLogout">
+        <source>Really logout</source>
+        <target>Wirklich rauswerfen?, Digga</target>
+      </trans-unit>
+      <trans-unit id="backendUser.online.endSession">
+        <source>End session</source>
+        <target>Session beenden, Bro</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.title">
+        <source>Backend user groups</source>
+        <target>Backend-Squads</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.noGroupsFound.title">
+        <source>No backend user groups found</source>
+        <target>Keine Backend-Squads gefunden</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.noGroupsFound.message">
+        <source>There are currently no backend user groups found in the database.</source>
+        <target>Es gibt gerade null Backend-Squads in der Datenbank, Digga.</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.section.compare">
+        <source>Backend user groups to compare</source>
+        <target>Backend-Squads zum Vergleichen</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.section.allUserGroups">
+        <source>Backend user groups in the system</source>
+        <target>Alle Backend-Squads im System</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.btn.compareList">
+        <source>Compare selected backend user groups</source>
+        <target>Ausgewählte Backend-Squads vergleichen</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.filter.groupTitle">
+        <source>Group title or group ID</source>
+        <target>Squad-Name oder Squad-ID</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.table.column.groupTitle">
+        <source>Group title</source>
+        <target>Squad-Name</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.list.table.column.subgroup">
+        <source>Inherit settings from groups</source>
+        <target>Settings von anderen Squads erben</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.confirmDelete">
+        <source>Are you sure you want to delete the backend user group '%s'?</source>
+        <target>Willst du den Backend-Squad '%s' wirklich yeeten?</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.show.title">
+        <source>Configuration of backend user group "%s"</source>
+        <target>Config vom Backend-Squad "%s"</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.show.notConfigured">
+        <source>Not configured.</source>
+        <target>Nicht geconfigged, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.show.infobox.title">
+        <source>Compiled rights and settings</source>
+        <target>Zusammengerechnete Rechte und Settings, Brudi</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.show.infobox.message">
+        <source>This view displays all compiled rights and settings of the selected backend user group. These can come from settings in the backend user group record itself, as well as from settings that have been stored in backend user groups assigned to this backend user group.</source>
+        <target>Hier siehst du alle zusammengerechneten Rechte und Settings vom ausgewählten Backend-Squad. Die kommen aus dem Squad-Datensatz selbst oder aus anderen Squads, die dem Squad zugeordnet sind.</target>
+      </trans-unit>
+      <trans-unit id="backendUserGroup.compare.title">
+        <source>Compare backend user groups</source>
+        <target>Backend-Squads vergleichen</target>
+      </trans-unit>
+      <trans-unit id="filemounts">
+        <source>File mounts</source>
+        <target>Datei-Mounts, no cap</target>
+      </trans-unit>
+      <trans-unit id="filemount.list.title">
+        <source>File Mounts</source>
+        <target>Datei-Mounts, Brudi</target>
+      </trans-unit>
+      <trans-unit id="filemount.confirm.deletion">
+        <source>Are you sure, that you want to delete the file mount "%s"?</source>
+        <target>Willst du wirklich den Datei-Mount "%s" yeeten, Brudi?</target>
+      </trans-unit>
+      <trans-unit id="filemount.create">
+        <source>Create new file mount</source>
+        <target>Neuen Datei-Mount droppen</target>
+      </trans-unit>
+      <trans-unit id="filemount.infobox.noFilemountFound.title">
+        <source>No file mount found</source>
+        <target>Kein Datei-Mount gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="filemount.infobox.noFilemountFound.message">
+        <source>Please create a file mount and select its entry point.</source>
+        <target>Erstell erstmal nen Datei-Mount und wähl den Einstiegspunkt, Alter, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="filemount.link.openInFilelist">
+        <source>Open in file list</source>
+        <target>In der Dateiliste öffnen, Alter</target>
+      </trans-unit>
+      <trans-unit id="filemount.amount.multiple">
+        <source>File mounts</source>
+        <target>Datei-Mounts, Alter</target>
+      </trans-unit>
+      <trans-unit id="filemount.amount.singular">
+        <source>File mount</source>
+        <target>Datei-Mount, no cap</target>
+      </trans-unit>
+      <trans-unit id="flashMessage.resetPassword.error.title">
+        <source>Password reset not triggered</source>
+        <target>Passwort-Reset nicht ausgelöst, fr fr</target>
+      </trans-unit>
+      <trans-unit id="flashMessage.resetPassword.error.text">
+        <source>Sorry, the password of this user cannot be reset.</source>
+        <target>Sorry Brudi, das Passwort von dem Typ kann nicht zurückgesetzt werden.</target>
+      </trans-unit>
+      <trans-unit id="flashMessage.resetPassword.success.title">
+        <source>Password reset triggered</source>
+        <target>Passwort-Reset läuft, Alter!</target>
+      </trans-unit>
+      <trans-unit id="flashMessage.resetPassword.success.text">
+        <source>Password reset for email address %s initiated.</source>
+        <target>Passwort-Reset für %s wurde losgetreten, no cap.</target>
+      </trans-unit>
+      <trans-unit id="resetPassword.label">
+        <source>Reset Password</source>
+        <target>Passwort resetten, Bre</target>
+      </trans-unit>
+      <trans-unit id="resetPassword.confirmation.header">
+        <source>Reset Password</source>
+        <target>Passwort resetten, fr fr</target>
+      </trans-unit>
+      <trans-unit id="resetPassword.confirmation.text">
+        <source>Are you sure you want to reset the password for %s?</source>
+        <target>Willst du wirklich das Passwort für %s resetten, Digga?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

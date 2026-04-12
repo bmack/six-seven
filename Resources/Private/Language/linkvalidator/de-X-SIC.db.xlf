@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:linkvalidator/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mod_linkvalidator">
+        <source>LinkValidator</source>
+        <target>LinkChecker, Bro</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.name">
+        <source>LinkValidator</source>
+        <target>LinkChecker, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.description">
+        <source>Search for broken links and store the result into the temporary table tx_linkvalidator_link in order to ease up the backend module.</source>
+        <target>Sucht nach kaputten Links und speichert das Ergebnis in der Temp-Tabelle tx_linkvalidator_link, damit das Backend-Modul schneller läuft, Digga.</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.page">
+        <source>Start page (uid)</source>
+        <target>Startseite (uid), fr fr</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.languages">
+        <source>Languages to search for broken links (Leave empty for all languages).</source>
+        <target>Sprachen für die Link-Search (leer lassen für alle Sprachen), sheesh.</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.conf">
+        <source>Overwrite TSconfig</source>
+        <target>TSconfig überschreiben, Bro</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.email">
+        <source>Send email report to</source>
+        <target>E-Mail-Report senden an, fr fr</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.emailOnBrokenLinkOnly">
+        <source>Send email on new broken links only</source>
+        <target>E-Mail nur bei neuen kaputten Links senden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.emailTemplateName">
+        <source>Email template name (without the extension)</source>
+        <target>E-Mail-Template-Name (ohne Endung), no cap</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidEmail">
+        <source>Invalid email format</source>
+        <target>Ungültiges E-Mail-Format, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidPage">
+        <source>Invalid page uid, please enter a valid page uid</source>
+        <target>Ungültige Pages-UID, gib ne gültige ein, Alter, no cap</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidDepth">
+        <source>There is no depth set, please set it to one of the offered values</source>
+        <target>Keine Tiefe gesetzt, wähl einen der angebotenen Werte, Bre</target>
+      </trans-unit>
+      <trans-unit id="tasks.notice.useDefaultTemplate">
+        <source>
+						The templateName was automatically set to the default because either the field in the task
+						configuration is empty or no file is found for the given name. Please note that both a .html and
+						.txt file must exist under the configured templatePath.
+                </source>
+        <target>
+						Der Template-Name wurde automatisch auf Standard gesetzt, weil entweder das Feld leer ist
+						oder keine Datei mit dem Namen gefunden wurde. Es müssen sowohl .html als auch .txt Dateien
+						unter dem konfigurierten templatePath existieren, Digga.
+                </target>
+      </trans-unit>
+      <trans-unit id="tasks.error.emptyToEmail">
+        <source>There must be at least one recipient defined</source>
+        <target>Es muss mindestens ein Empfänger definiert sein, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidToEmail">
+        <source>Invalid format of one or more of the recipient email addresses</source>
+        <target>Ungültiges Format bei einer oder mehreren Empfänger-E-Mail-Adressen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidFromEmail">
+        <source>Invalid format of the email address in the from header</source>
+        <target>Ungültiges Format der Absender-E-Mail-Adresse, Bre</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidPageUid">
+        <source>The given page id %d is invalid</source>
+        <target>Die angegebene Pages-ID %d ist ungültig, Digga</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.title">
+        <source>TYPO3 LinkValidator report</source>
+        <target>TYPO3 LinkChecker-Report, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview">
+        <source>Overview of broken links</source>
+        <target>Überblick über kaputte Links</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.all">
+        <source>Total broken links: %s (last report: %s)</source>
+        <target>Kaputte Links insgesamt: %s (letzter Report: %s), Bro</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.internal">
+        <source>Internal links: %s (last report: %s)</source>
+        <target>Interne Links: %s (letzter Report: %s), Bro</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.external">
+        <source>External links: %s (last report: %s)</source>
+        <target>Externe Links: %s (letzter Report: %s), Bre</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.file">
+        <source>File / Media links: %s (last report: %s)</source>
+        <target>Datei-/Media-Links: %s (letzter Report: %s), Brudi</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing">
+        <source>Listing of broken links</source>
+        <target>Liste der kaputten Links, Alter</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.pageExplanation">
+        <source>If record type is "Page", the page id is the parent page.</source>
+        <target>Wenn der Recordtyp "Page" ist, ist die Pages-ID die übergeordnete Page, Bro.</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.hoverExpalantion">
+        <source>Hover over an element to see more information e.g. the record title.</source>
+        <target>Hover über ein Element um mehr Infos zu sehen, z.B. den Record-Titel, Alter.</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.explanation">
+        <source>Explanation: Record | Language | Page | Record type | Target | Link type</source>
+        <target>Erklärung: Record | Sprache | Page | Recordtyp | Ziel | Linktyp, fr fr</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.record">
+        <source>Record</source>
+        <target>Record, Brudi</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.language">
+        <source>Language</source>
+        <target>Sprache, Alter</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.recordType">
+        <source>Record type</source>
+        <target>Recordtyp, Digga</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.target">
+        <source>Target</source>
+        <target>Ziel</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.db">
+        <source>Internal</source>
+        <target>Intern, sheesh</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.external">
+        <source>External</source>
+        <target>Extern, no cap</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.file">
+        <source>File / Media</source>
+        <target>Datei / Media, no cap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

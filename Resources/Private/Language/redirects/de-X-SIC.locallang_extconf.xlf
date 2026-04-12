@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_extconf.xlf">
+    <header/>
+    <body>
+      <trans-unit id="showCheckintegrityInfoInReports.enable">
+        <source>Show report warning if checkintegrity has not been run.</source>
+        <target>Report-Warnung anzeigen wenn checkintegrity nicht gelaufen ist.</target>
+      </trans-unit>
+      <trans-unit id="showCheckintegrityInfoInReports.seconds">
+        <source>Set validity period (seconds) for the last checkintegrity report.</source>
+        <target>Gueltigkeitszeitraum (Sekunden) fuer den letzten checkintegrity-Report setzen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

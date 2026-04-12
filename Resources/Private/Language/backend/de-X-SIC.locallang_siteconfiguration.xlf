@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_siteconfiguration.xlf">
+    <header/>
+    <body>
+      <trans-unit id="overview.title">
+        <source>Setup</source>
+        <target>Setup (Lass uns das Ding aufsetzen)</target>
+      </trans-unit>
+      <trans-unit id="overview.site">
+        <source>Site</source>
+        <target>Site</target>
+      </trans-unit>
+      <trans-unit id="overview.siteIdentifier">
+        <source>Site identifier</source>
+        <target>Site-Tag (Erkennungszeichen)</target>
+      </trans-unit>
+      <trans-unit id="overview.noPages.title">
+        <source>No root pages available</source>
+        <target>Keine Root-Pages am Start, Alter</target>
+      </trans-unit>
+      <trans-unit id="overview.noPages.message">
+        <source>Please create at least one root page in the Layout module. A root page must be a content page at the top level (not a folder or separator) or have the "Root Page" flag enabled (Page Properties → Behavior tab).</source>
+        <target>Bau erstmal mindestens eine Root-Page im Layout-Modul, Digga. Eine Root-Page muss ne Content-Page auf Top-Level sein (kein Ordner oder Separator) oder das "Root Page"-Flag aktiviert haben (Seiteneigenschaften → Verhalten-Tab).</target>
+      </trans-unit>
+      <trans-unit id="overview.noPages.link.label">
+        <source>Open the documentation</source>
+        <target>Doku aufmachen (RTFM, Brudi)</target>
+      </trans-unit>
+      <trans-unit id="overview.noSiteConfiguration">
+        <source>This site does not have a configuration, yet.</source>
+        <target>Diese Site hat noch keine Konfig, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="overview.addSiteConfiguration">
+        <source>Add new site configuration for this site</source>
+        <target>Neue Site-Konfig fuer diese Site droppen</target>
+      </trans-unit>
+      <trans-unit id="overview.editSiteConfiguration">
+        <source>Edit site configuration</source>
+        <target>Site-Konfig flexen</target>
+      </trans-unit>
+      <trans-unit id="overview.editSiteSettings">
+        <source>Edit site settings</source>
+        <target>Site-Einstellungen flexen</target>
+      </trans-unit>
+      <trans-unit id="overview.editSiteSettingsUnavailable">
+        <source>This site provides no configurable settings</source>
+        <target>Diese Site hat null konfigurierbare Settings, oof</target>
+      </trans-unit>
+      <trans-unit id="overview.deleteSiteConfiguration">
+        <source>Delete site configuration</source>
+        <target>Site-Konfig yeeten</target>
+      </trans-unit>
+      <trans-unit id="overview.baseUrl">
+        <source>Base URL</source>
+        <target>Basis-URL, Bre</target>
+      </trans-unit>
+      <trans-unit id="overview.rootPagesWithoutSiteConfiguration.title">
+        <source>Pages without a site configuration</source>
+        <target>Seiten ohne Site-Konfig (lost ohne Config)</target>
+      </trans-unit>
+      <trans-unit id="overview.rootPagesWithoutSiteConfiguration.description">
+        <source>The following root pages have no site configuration:</source>
+        <target>Die folgenden Root-Pages haben keine Site-Konfig, lowkey cringe:</target>
+      </trans-unit>
+      <trans-unit id="overview.unassignedSites.title">
+        <source>Unassigned site configurations</source>
+        <target>Heimatlose Site-Konfigurationen</target>
+      </trans-unit>
+      <trans-unit id="overview.unassignedSites.description">
+        <source>The following site configurations don't belong to any page anymore and can be removed.</source>
+        <target>Die folgenden Site-Konfigurationen gehoeren zu keiner Seite mehr und koennen geyeetet werden.</target>
+      </trans-unit>
+      <trans-unit id="overview.invalidSets.title">
+        <source>Invalid site set configurations</source>
+        <target>Kaputte Site-Set-Konfigurationen (sus)</target>
+      </trans-unit>
+      <trans-unit id="overview.invalidSets.description">
+        <source>The following site sets contain errors and therefore could not be loaded.</source>
+        <target>Die folgenden Site-Sets haben Fehler und konnten deswegen nicht geladen werden, rip.</target>
+      </trans-unit>
+      <trans-unit id="overview.invalidSets.set">
+        <source>Set</source>
+        <target>Set</target>
+      </trans-unit>
+      <trans-unit id="overview.invalidSets.error">
+        <source>Error</source>
+        <target>Fehler (aua)</target>
+      </trans-unit>
+      <trans-unit id="overview.duplicatedEntryPoints">
+        <source>Duplicated Entrypoints</source>
+        <target>Doppelte Entrypoints (Duplikat-Alert)</target>
+      </trans-unit>
+      <trans-unit id="overview.duplicatedEntryPoints.listing">
+        <source>The following entry points are used more than once:</source>
+        <target>Die folgenden Entry Points werden mehrfach benutzt, lowkey sus:</target>
+      </trans-unit>
+      <trans-unit id="overview.duplicatedRootPage">
+        <source>Duplicated root pages</source>
+        <target>Doppelte Root-Pages</target>
+      </trans-unit>
+      <trans-unit id="overview.duplicatedRootPage.message">
+        <source>The page with ID "%1s" is used in the following site configurations:</source>
+        <target>Die Seite mit ID "%1s" wird in folgenden Site-Konfigurationen benutzt, Digga:</target>
+      </trans-unit>
+      <trans-unit id="overview.btn.details">
+        <source>View details</source>
+        <target>Deets checken</target>
+      </trans-unit>
+      <trans-unit id="overview.entry_point">
+        <source>Entry Point</source>
+        <target>Eingang</target>
+      </trans-unit>
+      <trans-unit id="overview.error_handling">
+        <source>Error handling</source>
+        <target>Fehler-Handling (Damage Control)</target>
+      </trans-unit>
+      <trans-unit id="overview.status.title">
+        <source>Status</source>
+        <target>Status (wie geht's?)</target>
+      </trans-unit>
+      <trans-unit id="overview.info.all_sites.multiple">
+        <source><![CDATA[The installation includes <strong>%s configured sites</strong>.]]></source>
+        <target><![CDATA[Die Installation hat <strong>%s konfigurierte Sites</strong>, sheesh.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.info.all_sites.single">
+        <source><![CDATA[The installation includes <strong>%s configured site</strong>.]]></source>
+        <target><![CDATA[Die Installation hat <strong>%s konfigurierte Site</strong>.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.info.root_pages_without_site_sonfiguration.multiple">
+        <source><![CDATA[<strong>%s root pages</strong> are lacking a site configuration.]]></source>
+        <target><![CDATA[<strong>%s Root-Pages</strong> haben keine Site-Konfig, das ist lowkey cringe.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.info.root_pages_without_site_sonfiguration.single">
+        <source><![CDATA[<strong>%s page</strong> is lacking a site configuration.]]></source>
+        <target><![CDATA[<strong>%s Seite</strong> hat keine Site-Konfig, oof.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.info.unassigned_sites.multiple">
+        <source><![CDATA[There are currently <strong>%s site configurations</strong> that are not assigned to any page.]]></source>
+        <target><![CDATA[Aktuell gibt es <strong>%s Site-Konfigurationen</strong> die keiner Seite zugewiesen sind, irgendwie sus.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.info.unassigned_sites.single">
+        <source><![CDATA[There is currently <strong>%s site configuration</strong> that is not assigned to any page.]]></source>
+        <target><![CDATA[Aktuell gibt es <strong>%s Site-Konfiguration</strong> die keiner Seite zugewiesen ist, sus.]]></target>
+      </trans-unit>
+      <trans-unit id="overview.languages">
+        <source>Languages</source>
+        <target>Sprachen (Multilingual-Flex)</target>
+      </trans-unit>
+      <trans-unit id="overview.languages.amount">
+        <source>and %s more</source>
+        <target>und %s mehr, fr fr</target>
+      </trans-unit>
+      <trans-unit id="overview.root_pages_without_site_configuration.title">
+        <source>Sites</source>
+        <target>Sites</target>
+      </trans-unit>
+      <trans-unit id="overview.site_sets">
+        <source>Dependencies to site sets</source>
+        <target>Abhaengigkeiten zu Site-Sets (das Squad)</target>
+      </trans-unit>
+      <trans-unit id="overview.site_sets.yes">
+        <source>Yes</source>
+        <target>Ja, safe</target>
+      </trans-unit>
+      <trans-unit id="overview.static_routes">
+        <source>Static routes</source>
+        <target>Statische Routen (feste Wege)</target>
+      </trans-unit>
+      <trans-unit id="overview.no_sites_with_site_configuration.title">
+        <source>No configured sites available</source>
+        <target>Keine konfigurierten Sites vorhanden, Digga</target>
+      </trans-unit>
+      <trans-unit id="overview.no_sites_with_site_configuration.message">
+        <source>At least one root page must have a site configuration.</source>
+        <target>Mindestens eine Root-Page muss ne Site-Konfig haben, no cap.</target>
+      </trans-unit>
+      <trans-unit id="overview.none">
+        <source>None</source>
+        <target>Nix am Start</target>
+      </trans-unit>
+      <trans-unit id="detail.headline_with_site_identifier">
+        <source>Setup of "%s"</source>
+        <target>Setup von "%s"</target>
+      </trans-unit>
+      <trans-unit id="detail.headline_with_page_title">
+        <source>Setup of site "%s"</source>
+        <target>Setup von Site "%s"</target>
+      </trans-unit>
+      <trans-unit id="detail.not_configured">
+        <source>Not configured.</source>
+        <target>Nicht konfiguriert, oof.</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.error_handling">
+        <source>Error handling</source>
+        <target>Fehler-Handling</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.headline">
+        <source>Site configuration</source>
+        <target>Site-Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.languages">
+        <source>Languages</source>
+        <target>Sprachen</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.languages.language">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.languages.language_url">
+        <source>Full URL prefix</source>
+        <target>Voller URL-Prefix</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.static_routes">
+        <source>Static routes</source>
+        <target>Statische Routen</target>
+      </trans-unit>
+      <trans-unit id="detail.site_configuration.route_enhancers">
+        <source>Route enhancers</source>
+        <target>Route Enhancers (URL-Pimper)</target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.active_settings.headline">
+        <source>Active settings</source>
+        <target>Aktive Settings</target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.active_settings.custom_site_settings">
+        <source>Settings within site configuration (e.g. via 'settings.yaml')</source>
+        <target>Settings in der Site-Konfig (z.B. ueber 'settings.yaml')</target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.dependencies.headline">
+        <source>Dependencies</source>
+        <target>Abhaengigkeiten (das Squad)</target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.dependencies.text">
+        <source><![CDATA[Settings can be stored directly via the site configuration, or indirectly by loading them as a dependency of another site set.<br>The following dependencies are stored in the site configuration:]]></source>
+        <target><![CDATA[Settings koennen direkt in der Site-Konfig gespeichert werden oder indirekt als Abhaengigkeit eines anderen Site-Sets geladen werden.<br>Die folgenden Abhaengigkeiten sind in der Site-Konfig gespeichert:]]></target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.headline">
+        <source>Site settings</source>
+        <target>Site-Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.no_settings_found.message">
+        <source><![CDATA[Settings are listed here as soon as they are either present in a <code>settings.yaml</code> file in the site folder or there is one or more dependencies on site sets in the site configuration.]]></source>
+        <target><![CDATA[Settings tauchen hier auf sobald sie entweder in ner <code>settings.yaml</code> im Site-Ordner sind oder es Abhaengigkeiten zu Site-Sets in der Site-Konfig gibt.]]></target>
+      </trans-unit>
+      <trans-unit id="detail.site_settings.no_settings_found.title">
+        <source>No site settings were found for this site</source>
+        <target>Null Site-Settings fuer diese Site gefunden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="edit.editSiteSettings">
+        <source>Edit site settings</source>
+        <target>Site-Settings flexen</target>
+      </trans-unit>
+      <trans-unit id="edit.site_configuration">
+        <source>Edit site configuration</source>
+        <target>Site-Konfig flexen</target>
+      </trans-unit>
+      <trans-unit id="edit.typeLabel">
+        <source>Site configuration</source>
+        <target>Site-Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="edit.createNewSite">
+        <source>Create new site</source>
+        <target>Neue Site droppen, Alter</target>
+      </trans-unit>
+      <trans-unit id="validation.identifierRenamed.title">
+        <source>Renamed identifier</source>
+        <target>Identifier umbenannt, Bro</target>
+      </trans-unit>
+      <trans-unit id="validation.identifierRenamed.message">
+        <source>Given site identifier "%1s" already exists. It has been renamed to "%2s". Maybe you want to edit the site again and give it a better name.</source>
+        <target>Site-Identifier "%1s" gibt's schon, Digga. Wurde zu "%2s" umbenannt. Vielleicht willst du nochmal ran und nen besseren Namen droppen.</target>
+      </trans-unit>
+      <trans-unit id="validation.identifierExists.title">
+        <source>Identifier not changed</source>
+        <target>Identifier bleibt so, Digga</target>
+      </trans-unit>
+      <trans-unit id="validation.identifierExists.message">
+        <source>Given site identifier "%1s" already exists and points to a different site. The existing identifier "%2s" for this site is kept.</source>
+        <target>Site-Identifier "%1s" existiert schon und zeigt auf ne andere Site, sus. Der bestehende Identifier "%2s" bleibt.</target>
+      </trans-unit>
+      <trans-unit id="validation.required.title">
+        <source>Site configuration not saved</source>
+        <target>Site-Konfig nicht gespeichert, rip</target>
+      </trans-unit>
+      <trans-unit id="validation.required.message">
+        <source>Field "%1s" is a required field, but no value has been provided.</source>
+        <target>Feld "%1s" ist ein Pflichtfeld, aber du hast nix reingeschrieben, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicateErrorCode.title">
+        <source>Duplicate error code removed</source>
+        <target>Doppelter Fehler-Code geyeetet</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicateErrorCode.message">
+        <source>Two error handler configurations for error code "%1s" found. This would be an invalid configuration, the dangling one has been removed.</source>
+        <target>Zwei Error-Handler-Konfigurationen fuer Fehler-Code "%1s" gefunden. Das waere ne ungueltige Konfig, die ueberfluessige wurde geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicateLanguageId.title">
+        <source>Duplicate language configuration removed</source>
+        <target>Doppelte Sprach-Konfig geyeetet</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicateLanguageId.message">
+        <source>Two language configurations for language "%1s" found. This would be an invalid configuration, the dangling one has been removed.</source>
+        <target>Zwei Sprach-Konfigurationen fuer Sprache "%1s" gefunden. Das waere ungueltig, die ueberfluessige wurde geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="labels.detail">
+        <source>View Site Configuration "%s"</source>
+        <target>Site-Konfig "%s" checken</target>
+      </trans-unit>
+      <trans-unit id="labels.edit">
+        <source>Edit Site Configuration "%s"</source>
+        <target>Site-Konfig "%s" flexen</target>
+      </trans-unit>
+      <trans-unit id="contextMenu.editSiteSettings">
+        <source>Edit Site Settings</source>
+        <target>Site-Settings flexen</target>
+      </trans-unit>
+      <trans-unit id="contextMenu.editSiteConfiguration">
+        <source>Edit Site</source>
+        <target>Site flexen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

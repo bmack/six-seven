@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/Modules/form_manager.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Form Manager</source>
+        <target>Formular-Boss, Bre</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manage and organize all forms. Create, edit, duplicate, and delete forms.</source>
+        <target>Alle Formulare managen und organisieren. Erstellen, flexen, klonen und yeeten, Digga.</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Manage forms</source>
+        <target>Formulare managen, Homie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

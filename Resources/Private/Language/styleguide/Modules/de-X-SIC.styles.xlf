@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:styleguide/Resources/Private/Language/Modules/styles.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Design Tokens and Styles</source><target>Design-Tokens und Styles, Bre</target></trans-unit>
+      <trans-unit id="description"><source>Explore design tokens, color schemes, typography, shadows, and other styling elements used in the TYPO3 backend.</source><target>Yo, Design-Tokens, Color-Schemes, Typo, Shadows und andere Styling-Elemente vom TYPO3-Backend erkunden.</target></trans-unit>
+      <trans-unit id="title"><source>Component Library: Styles</source><target>Component-Lib: Styles</target></trans-unit>
+    </body>
+  </file>
+</xliff>

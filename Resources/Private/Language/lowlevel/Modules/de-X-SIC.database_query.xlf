@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:lowlevel/Resources/Private/Language/Modules/database_query.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Advanced query</source>
+        <target>Advanced Query, Bre</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Database queries, allowing filtering and sorting</source>
+        <target>DB-Queries mit Filtern und Sortieren, no cap</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Build custom database queries using a configurable interface that supports filtering, sorting, and limiting results without requiring direct SQL.</source>
+        <target>Bau dir eigene Datenbank-Queries mit nem konfigurierbaren Interface zum Filtern, Sortieren und Limitieren - ganz ohne direktes SQL, Brudi.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

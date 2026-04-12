@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Indexing</source>
+        <target>Indexierung, no cap</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Search indexing control panel</source>
+        <target>Such-Indexierungs-Kontrollzentrum, Bro</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manage settings for the frontend search indexing engine and monitor statistics of indexed pages. Indexing must be enabled in TypoScript Setup.</source>
+        <target>Manage die Settings für die Frontend-Such-Indexierung und check die Stats der indexierten Seiten. Indexierung muss im TypoScript Setup aktiviert sein, Digga.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

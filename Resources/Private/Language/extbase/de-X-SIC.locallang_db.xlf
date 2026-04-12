@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:extbase/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="fe_users.tx_extbase_type">
+        <source>Record Type</source>
+        <target>Datensatz-Typ, Bre</target>
+      </trans-unit>
+      <trans-unit id="fe_users.tx_extbase_type.0">
+        <source>Website User</source>
+        <target>Website-User, Homie</target>
+      </trans-unit>
+      <trans-unit id="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">
+        <source>Website User (Extbase)</source>
+        <target>Website-User (Extbase), Bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

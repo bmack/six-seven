@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:styleguide/Resources/Private/Language/Modules/overview.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>The module offers the creation of a page tree either with TCA demo records or content elements.&lt;br /&gt;In addition, the most well-known backend components that come with the TYPO3 CMS are presented.</source><target>Ey, das Modul droppt dir nen Page-Tree mit TCA-Demo-Records oder Content-Elementen.&lt;br /&gt;Plus die krassesten Backend-Components vom TYPO3 CMS werden praesentiert.</target></trans-unit>
+      <trans-unit id="description"><source>Interactively explore TYPO3 backend UI components, design tokens, and example page trees for testing and demonstration.</source><target>Yo, interaktiv TYPO3-Backend-UI-Components, Design-Tokens und Beispiel-Page-Trees zum Testen und Flexen erkunden.</target></trans-unit>
+      <trans-unit id="title"><source>Styleguide</source><target>Styleguide</target></trans-unit>
+    </body>
+  </file>
+</xliff>

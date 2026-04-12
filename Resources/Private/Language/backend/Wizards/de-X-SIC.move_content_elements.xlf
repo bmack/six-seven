@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/move_content_elements.xlf">
+    <header/>
+    <body>
+      <trans-unit id="headline.move">
+        <source>Move element "%s" [%d]</source>
+        <target>Element "%s" [%d] umziehen, Digga</target>
+      </trans-unit>
+      <trans-unit id="headline.copy">
+        <source>Copy element "%s" [%d]</source>
+        <target>Element "%s" [%d] kopieren</target>
+      </trans-unit>
+      <trans-unit id="currentPath">
+        <source>Current path</source>
+        <target>Aktueller Pfad, Bre</target>
+      </trans-unit>
+      <trans-unit id="makeCopy">
+        <source>Copy element instead of moving</source>
+        <target>Element kopieren statt umziehen</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementMoved.title">
+        <source>Element successfully moved</source>
+        <target>Element erfolgreich verschoben, slay!</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementMoved.message">
+        <source>The element "%s" has been successfully moved.</source>
+        <target>Das Element "%s" wurde erfolgreich verschoben.</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementCopied.title">
+        <source>Element successfully copied</source>
+        <target>Element erfolgreich kopiert!</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementCopied.message">
+        <source>The element "%s" has been successfully copied.</source>
+        <target>Das Element "%s" wurde erfolgreich kopiert.</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementPasted.action.dismiss">
+        <source>Dismiss</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="moveElement.notification.elementPasted.action.open">
+        <source>Open "%s"</source>
+        <target>"%s" oeffnen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

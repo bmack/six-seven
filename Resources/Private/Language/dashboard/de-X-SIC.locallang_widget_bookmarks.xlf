@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/locallang_widget_bookmarks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="widget.bookmarks.title">
+        <source>Bookmarks</source>
+        <target>Lesezeichen, Digga</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.description">
+        <source>Display your bookmarks as a dashboard widget.</source>
+        <target>Zeig deine Lesezeichen als Dashboard-Widget an, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.groups.label">
+        <source>Bookmark groups</source>
+        <target>Lesezeichen-Gruppen, Bre</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.groups.description">
+        <source>Bookmark groups to be displayed.</source>
+        <target>Lesezeichen-Gruppen die angezeigt werden sollen, no cap.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.limit.label">
+        <source>Limit</source>
+        <target>Limit</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.limit.description">
+        <source>Maximum number of bookmarks to display.</source>
+        <target>Maximale Anzahl der angezeigten Lesezeichen, Bre.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.showAll">
+        <source>Show all bookmarks</source>
+        <target>Alle Lesezeichen zeig mal</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.manageBookmarks">
+        <source>Manage bookmarks</source>
+        <target>Lesezeichen managen, sheesh</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

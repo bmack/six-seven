@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:felogin/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="login_user_info">
+        <source>You are now logged in as '%s'</source>
+        <target>Du bist jetzt drin als '%s', slay!</target>
+      </trans-unit>
+      <trans-unit id="welcome_header">
+        <source>User login</source>
+        <target>Einlass, Digga</target>
+      </trans-unit>
+      <trans-unit id="welcome_message">
+        <source>Enter your username and password here in order to log in on the website</source>
+        <target>Gib deinen Usernamen und dein Passwort ein um auf die Website zu kommen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="logout_header">
+        <source>You have logged out.</source>
+        <target>Du hast dich abgemeldet, ciao, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="logout_message">
+        <source>You just logged out from your user session on this website. You can login again or as another user by the form below.</source>
+        <target>Du hast dich gerade ausgeloggt. Du kannst dich mit dem Formular unten wieder einloggen oder als jemand anderes reinkommen, Alter.</target>
+      </trans-unit>
+      <trans-unit id="error_header">
+        <source>Login failure</source>
+        <target>Login-Fail, Bro</target>
+      </trans-unit>
+      <trans-unit id="error_message" xml:space="preserve">
+        <source>An error occurred during login.</source>
+        <target>Beim Login ist was schiefgelaufen, Alter. Wahrscheinlich hast du Username oder Passwort falsch eingegeben.
+Achte darauf, dass Gross-/Kleinschreibung stimmt, fr fr.
+Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</target>
+      </trans-unit>
+      <trans-unit id="success_header">
+        <source>Login successful</source>
+        <target>Login erfolgreich, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="success_message">
+        <source>You are now logged in as '###USER###'</source>
+        <target>Du bist jetzt drin als '###USER###', willkommen Digga!</target>
+      </trans-unit>
+      <trans-unit id="status_header">
+        <source>Current status</source>
+        <target>Aktueller Vibe, Bre</target>
+      </trans-unit>
+      <trans-unit id="status_message">
+        <source>This is your current status</source>
+        <target>Das ist dein aktueller Vibe, Homie</target>
+      </trans-unit>
+      <trans-unit id="cookie_warning" x-unused-since="12.3">
+        <source>Warning: There is a possibility that cookies are not enabled in your web browser!</source>
+        <target>Achtung: Deine Cookies sind vielleicht deaktiviert im Browser, Digga! Wenn dein Login beim naechsten Klick weg ist, dann aktivier die Cookies sofort!</target>
+      </trans-unit>
+      <trans-unit id="username">
+        <source>Username</source>
+        <target>Username, Bestie</target>
+      </trans-unit>
+      <trans-unit id="password">
+        <source>Password</source>
+        <target>Passwort, Digga</target>
+      </trans-unit>
+      <trans-unit id="login">
+        <source>Login</source>
+        <target>Reinkommen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="permalogin">
+        <source>Stay logged in</source>
+        <target>Eingeloggt bleiben, Alter</target>
+      </trans-unit>
+      <trans-unit id="logout">
+        <source>Logout</source>
+        <target>Tschuess, Bro</target>
+      </trans-unit>
+      <trans-unit id="send_password">
+        <source>Send password</source>
+        <target>Passwort schicken, Bre</target>
+      </trans-unit>
+      <trans-unit id="reset_password">
+        <source>Reset Password</source>
+        <target>Passwort resetten, Homie</target>
+      </trans-unit>
+      <trans-unit id="change_password_header">
+        <source>Change your password</source>
+        <target>Aender dein Passwort, Brudi</target>
+      </trans-unit>
+      <trans-unit id="change_password_description">
+        <source>Please enter your new password twice.</source>
+        <target>Gib dein neues Passwort zweimal ein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="password_requirement">
+        <source>Ensure that your new password matches the following requirements:</source>
+        <target>Stell sicher, dass dein neues Passwort diese Anforderungen erfuellt, Bestie:</target>
+      </trans-unit>
+      <trans-unit id="change_password_nolinkprefix_message">
+        <source>Error: there is no prefix for the link.</source>
+        <target>Fail: Kein Prefix fuer den Link gesetzt. Setz eins davon in deinem TypoScript: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /, Digga</target>
+      </trans-unit>
+      <trans-unit id="change_password_notvalid_message">
+        <source>The link you clicked is not valid. Please repeat the forgot password procedure.</source>
+        <target>Der Link den du geklickt hast ist nicht mehr gueltig. Mach den Passwort-Vergessen Prozess nochmal, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="change_password_notequal_message">
+        <source>The passwords are not equal, please enter your new password twice. Password needs a minimum length of %s chars.</source>
+        <target>Die Passwoerter stimmen nicht ueberein, gib dein neues Passwort nochmal zweimal ein. Mindestens %s Zeichen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="change_password_tooshort_message">
+        <source>The password length is too short. Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+        <target>Das Passwort ist zu kurz, sheesh. Gib es nochmal zweimal ein. Mindestens %s Zeichen muessen es sein.</target>
+      </trans-unit>
+      <trans-unit id="change_password_done_message">
+        <source>Your password has been saved. You can now login with your new password.</source>
+        <target>Dein Passwort wurde gespeichert, slay! Du kannst dich jetzt mit dem neuen Passwort einloggen.</target>
+      </trans-unit>
+      <trans-unit id="change_password">
+        <source>Change your password</source>
+        <target>Passwort aendern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="newpassword_label1">
+        <source>Enter new password</source>
+        <target>Neues Passwort eingeben, Alter</target>
+      </trans-unit>
+      <trans-unit id="newpassword_label2">
+        <source>Repeat new password</source>
+        <target>Neues Passwort nochmal, Bro</target>
+      </trans-unit>
+      <trans-unit id="your_email">
+        <source>Your email</source>
+        <target>Deine E-Mail, Bre</target>
+      </trans-unit>
+      <trans-unit id="forgot_header">
+        <source>Forgot your password?</source>
+        <target>Passwort vergessen, Digga?</target>
+      </trans-unit>
+      <trans-unit id="forgot_email_password" xml:space="preserve">
+        <source>Your password
+Hi %s
+
+Your username is "%s"
+Your password is "%s"</source>
+        <target>Dein Passwort
+Hi %s
+
+Dein Username ist "%s"
+Dein Passwort ist "%s"</target>
+      </trans-unit>
+      <trans-unit id="forgot_email_nopassword" xml:space="preserve">
+        <source>Your password
+Hi %s
+
+We couldn't find a username for this email address and so cannot send the password to you.</source>
+        <target>Dein Passwort
+Hi %s
+
+Wir konnten keinen Username fuer diese E-Mail finden und koennen dir deshalb kein Passwort schicken. Vielleicht hast du dich vertippt oder bist noch gar nicht registriert?</target>
+      </trans-unit>
+      <trans-unit id="forgot_validate_reset_password" xml:space="preserve">
+        <source>Your new password
+Dear %s,
+
+This email was sent in response to your request to reset your password. Please click on the link below.
+%s
+
+For security reasons, this link is only active until %s. If you do not visit the link before then, you will need to repeat the password reset steps.</source>
+        <target>Dein neues Passwort
+Hey %s,
+
+Diese Mail wurde geschickt weil du dein Passwort zuruecksetzen willst. Klick auf den Link unten.
+%s
+
+Aus Sicherheitsgruenden ist der Link nur bis %s aktiv. Wenn du ihn vorher nicht nutzt, musst du den Prozess nochmal starten.</target>
+      </trans-unit>
+      <trans-unit id="forgot_message">
+        <source>Please enter the email address by which you registered your user account.</source>
+        <target>Gib die E-Mail-Adresse ein mit der du dich registriert hast. Dann klick auf "Passwort schicken" und dein Passwort wird dir sofort gemailt. Achte darauf, dass du die E-Mail richtig schreibst, Digga.</target>
+      </trans-unit>
+      <trans-unit id="forgot_message_emailSent">
+        <source>Your password has now been sent to the email address %s</source>
+        <target>Dein Passwort wurde an %s geschickt, Homie</target>
+      </trans-unit>
+      <trans-unit id="forgot_reset_message">
+        <source>Please enter your username or email address. Instructions for resetting the password will be immediately emailed to you.</source>
+        <target>Gib deinen Usernamen oder deine E-Mail ein. Die Anleitung zum Passwort-Reset wird dir sofort gemailt, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="forgot_reset_message_emailSent">
+        <source>An email has been sent to the address stored in your account and contains a link to reset your password. If you do not receive an email, your account or email address was not found.</source>
+        <target>Eine E-Mail mit einem Link zum Passwort-Reset wurde an die Adresse in deinem Account geschickt. Wenn keine Mail kommt, wurde dein Account oder deine E-Mail nicht gefunden, Alter.</target>
+      </trans-unit>
+      <trans-unit id="forgot_header_backToLogin">
+        <source>Return to login form</source>
+        <target>Zurueck zum Login, Bestie</target>
+      </trans-unit>
+      <trans-unit id="enter_your_data">
+        <source>Username or email address</source>
+        <target>Username oder E-Mail, Digga</target>
+      </trans-unit>
+      <trans-unit id="password_recovery_mail_header">
+        <source>Your new password</source>
+        <target>Dein neues Passwort, Brudi</target>
+      </trans-unit>
+      <trans-unit id="password_recovery_link">
+        <source>Password recovery link</source>
+        <target>Passwort-Rettungs-Link, Alter</target>
+      </trans-unit>
+      <trans-unit id="password_recovery_link_expired">
+        <source>Your password recovery link is expired.</source>
+        <target>Dein Passwort-Rettungs-Link ist abgelaufen, cringe.</target>
+      </trans-unit>
+      <trans-unit id="empty_password_and_password_repeat">
+        <source>New password and new password repeat cannot be empty</source>
+        <target>Neues Passwort und Wiederholung duerfen nicht leer sein, Digga</target>
+      </trans-unit>
+      <trans-unit id="password_must_match_repeated">
+        <source>New Password must match repeated password.</source>
+        <target>Neues Passwort muss mit der Wiederholung uebereinstimmen, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="forgot_validate_reset_password_html" xml:space="preserve">
+        <source>&lt;p&gt;Dear %s,&lt;/p&gt;</source>
+        <target>&lt;p&gt;Hey %s,&lt;/p&gt;
+&lt;p&gt;Diese Mail wurde geschickt weil du dein Passwort zuruecksetzen willst. Klick auf den Link unten.&lt;/p&gt;
+&lt;p&gt;%s&lt;/p&gt;
+&lt;p&gt;Aus Sicherheitsgruenden ist der Link nur bis %s aktiv. Wenn du ihn vorher nicht nutzt, musst du den Prozess nochmal starten.&lt;/p&gt;</target>
+      </trans-unit>
+      <trans-unit id="forgot_validate_reset_password_plaintext" xml:space="preserve">
+        <source>Dear %s,
+
+This email was sent in response to your request to reset your password. Please click on the link below.
+%s
+
+For security reasons, this link is only active until %s. If you do not visit the link before then, you will need to repeat the password reset steps.</source>
+        <target>Hey %s,
+
+Diese Mail wurde geschickt weil du dein Passwort zuruecksetzen willst. Klick auf den Link unten.
+%s
+
+Aus Sicherheitsgruenden ist der Link nur bis %s aktiv. Wenn du ihn vorher nicht nutzt, musst du den Prozess nochmal starten.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

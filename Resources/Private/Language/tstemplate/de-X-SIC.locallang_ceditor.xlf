@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_ceditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title"><source>Constant Editor</source><target>Konstanten-Editor</target></trans-unit>
+      <trans-unit id="submodule.titleWithRecord"><source>Constant Editor for TypoScript record "%s"</source><target>Konstanten-Editor fuer TypoScript-Record "%s"</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Overwrite constants and save them to the selected TypoScript record on the current page. Only options that have been made available for editing in the constant editor are shown below. In addition, more constants can exist in the system.</source><target>Konstanten ueberschreiben und im ausgewaehlten TypoScript-Record der aktuellen Seite saven. Nur Optionen die fuer den Konstanten-Editor freigegeben sind werden gezeigt. Zusaetzlich koennen mehr Konstanten im System am Start sein.</target></trans-unit>
+      <trans-unit id="options.selectedCategory"><source>Selected category</source><target>Ausgewaehlte Kategorie</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Ausgewaehlter Record</target></trans-unit>
+      <trans-unit id="infobox.message.noConstants"><source>There are no editable constants available for the Constant Editor.</source><target>Nix am Start, keine editierbaren Konstanten fuer den Konstanten-Editor.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

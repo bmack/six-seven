@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:filelist/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="search">
+        <source>Search "%s" in %s</source>
+        <target>Suche "%s" in %s, Homie</target>
+      </trans-unit>
+      <trans-unit id="search.reset">
+        <source>Reset search</source>
+        <target>Suche resetten, Bestie</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.no_results">
+        <source>No results found</source>
+        <target>Nix gefunden, Digga</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.no_results.message">
+        <source>This folder does not contain any files for "%s"</source>
+        <target>In diesem Ordner gibt's keine Dateien fuer "%s", Digga</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.no_items">
+        <source>This folder is empty</source>
+        <target>Der Ordner ist leer, sheesh</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.no_items.message">
+        <source>Drag files here to upload them</source>
+        <target>Zieh Dateien hierher um sie hochzuladen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="file_upload.php.pagetitle">
+        <source>Upload files</source>
+        <target>Dateien hochladen, Alter</target>
+      </trans-unit>
+      <trans-unit id="file_upload.php.submit">
+        <source>Upload files</source>
+        <target>Dateien hochladen, Bro</target>
+      </trans-unit>
+      <trans-unit id="file_upload.php.files">
+        <source>files</source>
+        <target>Dateien, Bre</target>
+      </trans-unit>
+      <trans-unit id="file_rename.exists.title">
+        <source>File exists already</source>
+        <target>Datei gibt's schon, Brudi</target>
+      </trans-unit>
+      <trans-unit id="file_rename.exists.description">
+        <source>You want to rename the file "{0}" to "{1}", but the file "{1}" already exists. How do you want to proceed?</source>
+        <target>Du willst die Datei "{0}" in "{1}" umbenennen, aber "{1}" gibt's schon. Was willst du tun, Homie?</target>
+      </trans-unit>
+      <trans-unit id="file_rename.actions.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="file_rename.actions.rename">
+        <source>Rename with unique name</source>
+        <target>Mit einzigartigem Namen umbenennen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="file_rename.actions.override">
+        <source>Overwrite</source>
+        <target>Drueberbuegeln</target>
+      </trans-unit>
+      <trans-unit id="file_rename.php.pagetitle">
+        <source>Rename</source>
+        <target>Umbenennen, Digga</target>
+      </trans-unit>
+      <trans-unit id="file_rename.php.submit">
+        <source>Rename</source>
+        <target>Umbenennen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="file_rename.php.label.target.file">
+        <source>New file name</source>
+        <target>Neuer Dateiname, Alter</target>
+      </trans-unit>
+      <trans-unit id="file_rename.php.label.target.folder">
+        <source>New folder name</source>
+        <target>Neuer Ordnername, Bro</target>
+      </trans-unit>
+      <trans-unit id="file_replace.title">
+        <source>Replace file "%s"</source>
+        <target>Datei "%s" ersetzen, Bre</target>
+      </trans-unit>
+      <trans-unit id="file_replace.intro">
+        <source>You're about to replace the file "%s".</source>
+        <target>Du bist dabei die Datei "%s" zu ersetzen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="file_replace.new_file.label">
+        <source>Select new file</source>
+        <target>Neue Datei waehlen, Homie</target>
+      </trans-unit>
+      <trans-unit id="file_replace.keepFilename.label">
+        <source>Keep current filename "%s"?</source>
+        <target>Aktuellen Dateinamen "%s" behalten, Bestie?</target>
+      </trans-unit>
+      <trans-unit id="file_replace.button.replace">
+        <source>Replace</source>
+        <target>Ersetzen, Digga</target>
+      </trans-unit>
+      <trans-unit id="file_edit.php.pagetitle">
+        <source>Edit</source>
+        <target>Flexen</target>
+      </trans-unit>
+      <trans-unit id="file_edit.php.submit">
+        <source>Save</source>
+        <target>Speichern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="file_edit.php.saveAndClose">
+        <source>Save and Close</source>
+        <target>Speichern und Tschuess, Alter</target>
+      </trans-unit>
+      <trans-unit id="file_edit.php.coundNot">
+        <source>This filetype cannot be edited.</source>
+        <target>Dieser Dateityp kann nicht geflext werden.&lt;br /&gt;Die Datei muss eine Endung haben wie:&lt;br /&gt;&lt;br /&gt; &lt;b&gt;%s&lt;/b&gt;, Bro</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.pagetitle">
+        <source>New file or folder</source>
+        <target>Neue Datei oder Ordner, Bre</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.label_newfolder">
+        <source>Folder</source>
+        <target>Ordner, Homie</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.submit">
+        <source>Create folders</source>
+        <target>Ordner erstellen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.folders">
+        <source>folders</source>
+        <target>Ordner, Digga</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.newfile_submit">
+        <source>Create file</source>
+        <target>Datei erstellen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.newfile">
+        <source>Create new textfile</source>
+        <target>Neue Textdatei erstellen, Alter</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.label_newfile">
+        <source>File name</source>
+        <target>Dateiname, Bro</target>
+      </trans-unit>
+      <trans-unit id="file_newfolder.php.number_of_folders">
+        <source>Number of folders</source>
+        <target>Anzahl der Ordner, Bre</target>
+      </trans-unit>
+      <trans-unit id="download">
+        <source>Download</source>
+        <target>Runterladen, Homie</target>
+      </trans-unit>
+      <trans-unit id="actions.new_folder">
+        <source>New Folder</source>
+        <target>Neuer Ordner, Bestie</target>
+      </trans-unit>
+      <trans-unit id="actions.new_file">
+        <source>New File</source>
+        <target>Neue Datei, Digga</target>
+      </trans-unit>
+      <trans-unit id="translations">
+        <source>Translations</source>
+        <target>Uebersetzungen, Brudi</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

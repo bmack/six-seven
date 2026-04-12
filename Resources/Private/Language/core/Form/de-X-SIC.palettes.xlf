@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/Form/palettes.xlf">
+    <header/>
+    <body>
+      <trans-unit id="general">
+        <source>General</source>
+        <target>General Vibes</target>
+      </trans-unit>
+      <trans-unit id="account">
+        <source>Account</source>
+        <target>Account</target>
+      </trans-unit>
+      <trans-unit id="authentication">
+        <source>Authentication</source>
+        <target>Wer bist du, Bre</target>
+      </trans-unit>
+      <trans-unit id="permission_languages">
+        <source>Language Permissions</source>
+        <target>Sprach-Rechte, Bre</target>
+      </trans-unit>
+      <trans-unit id="permission_general">
+        <source>General Permissions</source>
+        <target>Allgemeine Rechte</target>
+      </trans-unit>
+      <trans-unit id="permission_specific">
+        <source>Specific Permissions</source>
+        <target>Spezifische Rechte</target>
+      </trans-unit>
+      <trans-unit id="standard">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="visibility">
+        <source>Visibility</source>
+        <target>Sichtbar oder geghostet</target>
+      </trans-unit>
+      <trans-unit id="access">
+        <source>Publish Dates and Access Rights</source>
+        <target>Wann droppen und wer darf rein</target>
+      </trans-unit>
+      <trans-unit id="abstract">
+        <source>Abstract</source>
+        <target>TL;DR</target>
+      </trans-unit>
+      <trans-unit id="metatags">
+        <source>Meta Tags</source>
+        <target>Meta-Tags</target>
+      </trans-unit>
+      <trans-unit id="editorial">
+        <source>Editorial</source>
+        <target>Redaktions-Kram</target>
+      </trans-unit>
+      <trans-unit id="layout">
+        <source>Layout</source>
+        <target>Layout</target>
+      </trans-unit>
+      <trans-unit id="page_layout">
+        <source>Page Layout</source>
+        <target>Seiten-Layout</target>
+      </trans-unit>
+      <trans-unit id="use_as_container">
+        <source>Use as Container</source>
+        <target>Als Container nutzen, Bro</target>
+      </trans-unit>
+      <trans-unit id="replace">
+        <source>Replace Content</source>
+        <target>Content swappen</target>
+      </trans-unit>
+      <trans-unit id="links">
+        <source>Links to this Page</source>
+        <target>Links zu dieser Seite</target>
+      </trans-unit>
+      <trans-unit id="caching">
+        <source>Caching</source>
+        <target>Caching</target>
+      </trans-unit>
+      <trans-unit id="language">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+      <trans-unit id="miscellaneous">
+        <source>Miscellaneous</source>
+        <target>Sonstiger Kram</target>
+      </trans-unit>
+      <trans-unit id="media">
+        <source>Files</source>
+        <target>Dateien</target>
+      </trans-unit>
+      <trans-unit id="storage">
+        <source>Storage Page</source>
+        <target>Lager-Seite</target>
+      </trans-unit>
+      <trans-unit id="config">
+        <source>Configuration</source>
+        <target>Config</target>
+      </trans-unit>
+      <trans-unit id="headers">
+        <source>Headlines</source>
+        <target>Headlines</target>
+      </trans-unit>
+      <trans-unit id="header">
+        <source>Header</source>
+        <target>Headline</target>
+      </trans-unit>
+      <trans-unit id="content_layout">
+        <source>Content Element Layout</source>
+        <target>Content-Element-Layout</target>
+      </trans-unit>
+      <trans-unit id="media_behaviour">
+        <source>Media Behavior</source>
+        <target>Medien-Verhalten</target>
+      </trans-unit>
+      <trans-unit id="accessibility">
+        <source>Accessibility</source>
+        <target>Barrierefreiheit (fuer alle Homies)</target>
+      </trans-unit>
+      <trans-unit id="downloads_layout">
+        <source>Downloads Layout</source>
+        <target>Downloads-Layout</target>
+      </trans-unit>
+      <trans-unit id="table_layout">
+        <source>Table Layout</source>
+        <target>Tabellen-Layout</target>
+      </trans-unit>
+      <trans-unit id="links_appearance">
+        <source>Links</source>
+        <target>Links</target>
+      </trans-unit>
+      <trans-unit id="settings_gallery">
+        <source>Gallery Settings</source>
+        <target>Galerie-Settings</target>
+      </trans-unit>
+      <trans-unit id="media_adjustments">
+        <source>Media Adjustments</source>
+        <target>Media tweaken</target>
+      </trans-unit>
+      <trans-unit id="metrics">
+        <source>Metrics</source>
+        <target>Stats</target>
+      </trans-unit>
+      <trans-unit id="geolocation">
+        <source>Geo Location</source>
+        <target>Location-Check</target>
+      </trans-unit>
+      <trans-unit id="contentdate">
+        <source>Content Date</source>
+        <target>Inhalts-Datum</target>
+      </trans-unit>
+      <trans-unit id="gps">
+        <source>GPS</source>
+        <target>GPS</target>
+      </trans-unit>
+      <trans-unit id="seo">
+        <source>General SEO Settings</source>
+        <target>SEO-Vibes (allgemein)</target>
+      </trans-unit>
+      <trans-unit id="robots">
+        <source>Robot instructions</source>
+        <target>Bot-Befehle</target>
+      </trans-unit>
+      <trans-unit id="opengraph">
+        <source>Open Graph (Facebook)</source>
+        <target>Open Graph (Facebook)</target>
+      </trans-unit>
+      <trans-unit id="twittercards">
+        <source>X / Twitter Cards</source>
+        <target>X / Twitter Cards</target>
+      </trans-unit>
+      <trans-unit id="canonical">
+        <source>Canonical</source>
+        <target>Canonical</target>
+      </trans-unit>
+      <trans-unit id="sitemap">
+        <source>Sitemap</source>
+        <target>Sitemap</target>
+      </trans-unit>
+      <trans-unit id="additional">
+        <source>Additional Configuration</source>
+        <target>Extra-Config</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

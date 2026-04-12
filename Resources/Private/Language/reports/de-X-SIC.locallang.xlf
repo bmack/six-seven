@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:reports/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Reports</source>
+        <target>Reports</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>Access various system reports for monitoring and analyzing your TYPO3 installation including system status checks, database statistics, and custom reports provided by extensions.</source>
+        <target>Check verschiedene System-Reports zum Monitoren und Analysieren deiner TYPO3-Installation. Hier wird der Tea serviert: System-Status-Checks, Datenbank-Statistiken und Custom-Reports von Extensions. Ong, wir snitzen alles!</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>System monitoring and analysis reports</source>
+        <target>System-Monitoring und Snitch-Reports</target>
+      </trans-unit>
+      <trans-unit id="reports_overview">
+        <source>Reports overview</source>
+        <target>Reports-Ueberblick</target>
+      </trans-unit>
+      <trans-unit id="choose_report">
+        <source>Report</source>
+        <target>Report</target>
+      </trans-unit>
+      <trans-unit id="noReportsTitle">
+        <source>No registered reports</source>
+        <target>Nix am Start, keine Reports registriert</target>
+      </trans-unit>
+      <trans-unit id="noReportsMessage">
+        <source>There are no reports registered in the system and default reports have been disabled.</source>
+        <target>Keine Reports im System registriert und Standard-Reports sind deaktiviert. Null Tea zum Servieren hier, Digga.</target>
+      </trans-unit>
+      <trans-unit id="link.openModule">
+        <source>Open</source>
+        <target>Yo, oeffnen</target>
+      </trans-unit>
+      <trans-unit id="link.openModuleWithTitle">
+        <source>Open %1s</source>
+        <target>%1s oeffnen</target>
+      </trans-unit>
+      <trans-unit id="recordStatistics.title">
+        <source>Record Statistics</source>
+        <target>Record-Statistiken</target>
+      </trans-unit>
+      <trans-unit id="recordStatistics.shortDescription">
+        <source>Shows database record statistics</source>
+        <target>Zeigt Datenbank-Record-Statistiken</target>
+      </trans-unit>
+      <trans-unit id="recordStatistics.description">
+        <source>Displays comprehensive statistics for records in the database including total pages, translated pages, hidden and deleted pages, page type distributions, and detailed table records with lost record detection. This report runs through the entire page tree.</source>
+        <target>Zeigt umfassende Statistiken fuer Records in der Datenbank inklusive Gesamtseiten, uebersetzte Seiten, versteckte und geloeschte Seiten, Seitentyp-Verteilungen und detaillierte Tabellen-Records mit Erkennung verlorener Records. Dieser Report geht den kompletten Seitenbaum durch.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.title">
+        <source>Content Statistics</source>
+        <target>Content-Statistiken</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.shortDescription">
+        <source>Shows statistics about used content elements</source>
+        <target>Zeigt Statistiken ueber verwendete Content-Elemente</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.description">
+        <source>Provides an overview of all content element types, showing how often each appears across the site. Includes summaries per type.</source>
+        <target>Gibt ne Uebersicht ueber alle Content-Element-Typen und zeigt wie oft jeder auf der Site vorkommt. Mit Zusammenfassungen pro Typ.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.statistic">
+        <source>Statistics</source>
+        <target>Stats, Bro</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.existingElements.header">
+        <source>Existing Content Element Types</source>
+        <target>Existierende Content-Element-Typen</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.existingElements.description">
+        <source>The listed content elements include both visible and hidden records.</source>
+        <target>Die gelisteten Content-Elemente beinhalten sichtbare und ge-ghostete Records.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.existingElements.explanation">
+        <source>Keep in mind that some elements may not appear on any page, and others might be rendered by alternative methods (TypoScript, ViewHelpers, etc.). As a result, it is not technically possible to determine actual usage.</source>
+        <target>Bedenke dass manche Elemente auf keiner Seite erscheinen und andere durch alternative Methoden (TypoScript, ViewHelpers etc.) gerendert werden. Deshalb ist es technisch nicht moeglich die tatsaechliche Nutzung zu bestimmen.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.existingElements.error">
+        <source>The content element database table's schema ("tt_content") could not be analyzed due to a missing or disabled schema type.</source>
+        <target>Das Schema der Content-Element-Datenbanktabelle ("tt_content") konnte wegen fehlendem oder deaktiviertem Schema-Typ nicht analysiert werden.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.unusedElements.header">
+        <source>Unused content elements</source>
+        <target>Unbenutzte Content-Elemente, lowkey nutzlos</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.unusedElements.description">
+        <source>This list includes content element types that are not used anywhere, or whose existing instances are all flagged as deleted.</source>
+        <target>Diese Liste beinhaltet Content-Element-Typen die nirgends benutzt werden oder deren Instanzen alle als geloescht markiert sind.</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.fields">
+        <source>%d fields</source>
+        <target>%d Felder</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.field.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.field.excluded">
+        <source>Excluded</source>
+        <target>Ausgeschlossen</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.field.required">
+        <source>Required</source>
+        <target>Pflicht</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.statistic.active_text">
+        <source>%d active / %d hidden</source>
+        <target>%d aktiv / %d ge-ghostet</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.statistic.deleted_text">
+        <source>%d deleted</source>
+        <target>%d ge-yeeted</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.statistic.deleted">
+        <source>Deleted</source>
+        <target>Ge-yeeted</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.records">
+        <source>Records</source>
+        <target>Records</target>
+      </trans-unit>
+      <trans-unit id="contentStatistics.noRecords">
+        <source>No records found</source>
+        <target>Nix am Start, keine Records</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

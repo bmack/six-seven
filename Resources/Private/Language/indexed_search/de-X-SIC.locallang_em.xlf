@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/locallang_em.xlf">
+    <header/>
+    <body>
+      <trans-unit id="indexedsearch.config.pdftools">
+        <source>Path to PDF parsers: Specify the directory containing the "pdftotext" and "pdfinfo" applications used to extract content from PDF files. Leave empty if not available.</source>
+        <target>Pfad zu PDF-Parsern: Gib das Folder mit "pdftotext" und "pdfinfo" an, die Content aus PDFs ziehen. Leer lassen wenn nicht vorhanden, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.pdf_mode">
+        <source>PDF Parsing Mode: Define how PDF files are split during indexing. "0" indexes the entire file at once. A positive value sets the number of pages per batch (e.g. "5" → pages 1–5, 6–10, …). A negative value sets the number of groups (e.g. "-3" → file split into 3 groups). Allowed range: -100 to 100.</source>
+        <target>PDF-Parsing-Modus: Definiert wie PDFs beim Indexieren aufgeteilt werden. "0" indexiert die ganze Datei auf einmal. Ein positiver Wert setzt die Pagesanzahl pro Batch (z.B. "5" = Pages 1-5, 6-10, ...). Ein negativer Wert setzt die Gruppenanzahl (z.B. "-3" = 3 Gruppen). Erlaubt: -100 bis 100, Homie.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.unzip">
+        <source>Path to unzip: Specify the directory containing the "unzip" application used to extract content from OpenOffice.org/Oasis OpenDocument files. Leave empty if not available.</source>
+        <target>Pfad zu unzip: Gib das Folder mit der "unzip"-App an, die Content aus OpenOffice/OpenDocument-Dateien zieht. Leer lassen wenn nicht vorhanden, Digga.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.catdoc">
+        <source>Path to WORD parser: Specify the directory containing the "catdoc" application used to extract content from MS WORD files. Leave empty if not available.</source>
+        <target>Pfad zum WORD-Parser: Gib das Folder mit "catdoc" an, das Content aus MS-Word-Dateien zieht. Leer lassen wenn nicht vorhanden, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.xlhtml">
+        <source>Path to EXCEL parser: Specify the directory containing the "xlhtml" application used to extract content from MS EXCEL files. Leave empty if not available.</source>
+        <target>Pfad zum EXCEL-Parser: Gib das Folder mit "xlhtml" an, das Content aus MS-Excel-Dateien zieht. Leer lassen wenn nicht vorhanden, no cap.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.ppthtml">
+        <source>Path to POWERPOINT parser: Specify the directory containing the "ppthtml" application used to extract content from MS POWERPOINT files. Leave empty if not available.</source>
+        <target>Pfad zum POWERPOINT-Parser: Gib das Folder mit "ppthtml" an, das Content aus MS-Powerpoint-Dateien zieht. Leer lassen wenn nicht vorhanden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.unrtf">
+        <source>Path to RTF parser: Specify the directory containing the "unrtf" application used to extract content from RTF files. Leave empty if not available.</source>
+        <target>Pfad zum RTF-Parser: Gib das Folder mit "unrtf" an, das Content aus RTF-Dateien zieht. Leer lassen wenn nicht vorhanden, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.fullTextDataLength">
+        <source>Full Text Data Length: Limit the amount of full-text data stored (in bytes). Lower values reduce database usage but also restrict sentence-level searching and the length of search result excerpts.</source>
+        <target>Volltext-Datenlänge: Begrenzt die Menge gesaveder Volltextdaten (in Bytes). Niedrigere Werte sparen DB-Platz, schränken aber die Satzsuche und Searchrgebnis-Auszüge ein.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.disableFrontendIndexing">
+        <source>Disable Indexing in Frontend: Prevent pages from being indexed during frontend access. Indexing is then performed only by the backend page crawler.</source>
+        <target>Frontend-Indexierung deaktivieren: Verhindert, dass Seiten beim Frontend-Aufruf indexiert werden. Dann indexiert nur noch der Backend-Crawler, Digga.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.minAge">
+        <source>Min TTL (hours) for Indexed Page: Set the minimum time (in hours) that must pass before an indexed page is eligible for re-indexing, regardless of page changes.</source>
+        <target>Min TTL (Stunden) für indexierte Page: Setzt die Mindestzeit (in Stunden) bis eine indexierte Page neu indexiert werden kann, egal ob sich was geändert hat, Homie.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.maxExternalFiles">
+        <source>Max External Files to Index: Limit how many external files found on a page are indexed. This helps prevent excessive server load but may leave some documents unindexed.</source>
+        <target>Max externe Dateien zum Indexieren: Begrenzt wie viele externe Dateien pro Page indexiert werden. Schont den Server, aber manche Dokumente werden vielleicht nicht indexiert, no cap.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.flagBitMask">
+        <source>Bitmask for Flags (Advanced): Define the weighting of HTML metadata during indexing (value range: 0–255). &lt;title&gt; = 128, &lt;keywords&gt; = 64, &lt;description&gt; = 32. Set to 0 to give these fields no additional weight. Default 192 prioritizes title and keywords in search results.</source>
+        <target>Bitmask für Flags (Advanced): Definiert die Gewichtung von HTML-Metadaten beim Indexieren (Wertbereich: 0-255). &lt;title&gt; = 128, &lt;keywords&gt; = 64, &lt;description&gt; = 32. Auf 0 setzen für keine Extra-Gewichtung. Standard 192 priorisiert Titel und Keywords.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.ignoreExtensions">
+        <source>Ignore Extensions: Specify a comma-separated list of file extensions that the external parser should ignore, even if supported.</source>
+        <target>Zu ignorierende Endungen: Kommagetrennte Liste von Dateiendungen die der externe Parser ignorieren soll, auch wenn die supported sind, Alter.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.indexExternalURLs">
+        <source>Index External HTML URLs: Enable indexing of external links when the target content type is "text/html"..</source>
+        <target>Externe HTML-URLs indexieren: An die Indexierung externer Links wenn der Content-Typ "text/html" ist, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.useMysqlFulltext">
+        <source>Enable MySQL specific fulltext search: After toggling this flag the database schema should be updated using System → Maintenance →  Analyze Database Structure.</source>
+        <target>MySQL-Volltextsuche aktivieren: Nach dem Umschalten sollte das Datenbankschema unter System → Wartung → Datenbankstruktur aktualisiert werden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="indexedsearch.config.deleteFromIndexAfterEditing">
+        <source>Remove content from index if page or its content is edited</source>
+        <target>Content aus dem Index yeeten wenn die Seite oder ihr Content geflext wird</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/Modules/form_editor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Form Editor</source>
+        <target>Formular-Werkstatt, Bro</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Build and customize forms using the visual form editor. Add fields, configure validations, and set up finishers.</source>
+        <target>Bau und customize Formulare im visuellen Editor. Pack Felder rein, konfiguriere Validierungen und setz Finisher auf, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Edit forms</source>
+        <target>Formulare flexen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

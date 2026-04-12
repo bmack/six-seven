@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/db/sys_file_storage.xlf">
+    <header/>
+    <body>
+      <trans-unit id="is_offline">
+        <source>offline</source>
+        <target>offline, rip</target>
+      </trans-unit>
+      <trans-unit id="local_driver.base_path">
+        <source>Base path</source>
+        <target>Basis-Pfad</target>
+      </trans-unit>
+      <trans-unit id="local_driver.base_path_placeholder">
+        <source>Add storage path here. For example: myPath/folder/</source>
+        <target>Storage-Pfad hier droppen. Zum Beispiel: myPath/folder/</target>
+      </trans-unit>
+      <trans-unit id="local_driver.base_uri">
+        <source>Base URI</source>
+        <target>Basis-URI</target>
+      </trans-unit>
+      <trans-unit id="local_driver.base_uri_placeholder">
+        <source>Use this URI to build the public URL of files, instead of deriving the URI from base path</source>
+        <target>Diese URI nutzen um die oeffentliche URL der Dateien zu bauen, statt sie vom Basis-Pfad abzuleiten, Bre</target>
+      </trans-unit>
+      <trans-unit id="local_driver.path_type">
+        <source>Path type</source>
+        <target>Pfad-Typ</target>
+      </trans-unit>
+      <trans-unit id="local_driver.path_type_relative">
+        <source>relative</source>
+        <target>relativ</target>
+      </trans-unit>
+      <trans-unit id="local_driver.path_type_absolute">
+        <source>absolute</source>
+        <target>absolut</target>
+      </trans-unit>
+      <trans-unit id="local_driver.case_sensitive">
+        <source>Uses case sensitive identifiers</source>
+        <target>Nutzt case-sensitive Bezeichner</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

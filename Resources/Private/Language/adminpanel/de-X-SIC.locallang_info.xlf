@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_info.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>Info</source>
+        <target>Info</target>
+      </trans-unit>
+      <trans-unit id="module.shortinfoLoadAndMemory">
+        <source>(Load Time: %1$u ms, Memory: %2$s)</source>
+        <target>(Ladezeit: %1$u ms, Speicher: %2$s)</target>
+      </trans-unit>
+      <trans-unit id="imagesOnPage">
+        <source>Images on this page</source>
+        <target>Bilder auf dieser Page, Alter</target>
+      </trans-unit>
+      <trans-unit id="imagesSize">
+        <source>Total image file sizes</source>
+        <target>Gesamte Bilddateigrößen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="DocumentSize">
+        <source>Document size</source>
+        <target>Dokumentgröße, Homie</target>
+      </trans-unit>
+      <trans-unit id="pageUid">
+        <source>Page Uid</source>
+        <target>Pages-Uid, Bre</target>
+      </trans-unit>
+      <trans-unit id="pageType">
+        <source>Page type</source>
+        <target>Pagestyp, Alter</target>
+      </trans-unit>
+      <trans-unit id="groupList">
+        <source>Frontenduser group combination</source>
+        <target>Frontend-User-Squad-Kombination</target>
+      </trans-unit>
+      <trans-unit id="noCache">
+        <source>Page cached</source>
+        <target>Page gecacht, Bro</target>
+      </trans-unit>
+      <trans-unit id="noCache_yes">
+        <source>Yes</source>
+        <target>Safe</target>
+      </trans-unit>
+      <trans-unit id="noCache_no">
+        <source>No</source>
+        <target>Nope</target>
+      </trans-unit>
+      <trans-unit id="countUserInt">
+        <source>Count of USER_INT objects</source>
+        <target>Anzahl USER_INT-Objekte, Homie</target>
+      </trans-unit>
+      <trans-unit id="feuserName">
+        <source>Name of logged in FE-User</source>
+        <target>Name des eingeloggten FE-Users, Brudi</target>
+      </trans-unit>
+      <trans-unit id="feuserId">
+        <source>Id of logged in FE-User</source>
+        <target>ID des eingeloggten FE-Users, Brudi</target>
+      </trans-unit>
+      <trans-unit id="totalParsetime">
+        <source>Total parsetime</source>
+        <target>Gesamte Parsezeit, sheesh</target>
+      </trans-unit>
+      <trans-unit id="noUserInt">
+        <source>There are no USER_INT objects on this page.</source>
+        <target>Keine USER_INT-Objekte auf dieser Seite, Digga.</target>
+      </trans-unit>
+      <trans-unit id="key">
+        <source>Key</source>
+        <target>Schlüssel, Brudi</target>
+      </trans-unit>
+      <trans-unit id="value">
+        <source>Value</source>
+        <target>Wert</target>
+      </trans-unit>
+      <trans-unit id="sub.general.label">
+        <source>General</source>
+        <target>General, Homie</target>
+      </trans-unit>
+      <trans-unit id="sub.php.label">
+        <source>PHP</source>
+        <target>PHP</target>
+      </trans-unit>
+      <trans-unit id="sub.request.label">
+        <source>REQUEST</source>
+        <target>REQUEST, Homie</target>
+      </trans-unit>
+      <trans-unit id="sub.userint.label">
+        <source>USER_INT</source>
+        <target>USER_INT, Bre</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

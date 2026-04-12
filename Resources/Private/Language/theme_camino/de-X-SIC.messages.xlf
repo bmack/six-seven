@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:theme_camino/Resources/Private/Language/messages.xlf">
+    <header/>
+    <body>
+      <trans-unit id="menu.label"><source>Menu</source><target>Menue, Bre</target></trans-unit>
+      <trans-unit id="menu.main.label"><source>Main menu</source><target>Main-Menue, Alter</target></trans-unit>
+      <trans-unit id="menu.language.label"><source>Language menu</source><target>Language-Menue, Homie</target></trans-unit>
+    </body>
+  </file>
+</xliff>

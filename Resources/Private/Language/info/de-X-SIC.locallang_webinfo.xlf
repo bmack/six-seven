@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:info/Resources/Private/Language/locallang_webinfo.xlf">
+    <header/>
+    <body>
+      <trans-unit id="page_title">
+        <source>Pagetree overview</source>
+        <target>Seitenbaum-Überblick</target>
+      </trans-unit>
+      <trans-unit id="pages_0">
+        <source>Basic settings</source>
+        <target>Basis-Settings, Homie</target>
+      </trans-unit>
+      <trans-unit id="pages_2">
+        <source>Cache and Age</source>
+        <target>Cache und Alter, Bre</target>
+      </trans-unit>
+      <trans-unit id="pages_1">
+        <source>Record overview</source>
+        <target>Datensatz-Überblick</target>
+      </trans-unit>
+      <trans-unit id="pages_layouts">
+        <source>Layouts</source>
+        <target>Layouts, Bre</target>
+      </trans-unit>
+      <trans-unit id="actual_backend_layout">
+        <source>Actual backend layout</source>
+        <target>Currentes Backend-Layout, fr fr</target>
+      </trans-unit>
+      <trans-unit id="lang_title">
+        <source>Localization overview</source>
+        <target>Übersetzungs-Überblick</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editPage">
+        <source>Edit page content</source>
+        <target>Seiten-Content flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editTranslatedPage">
+        <source>Edit translated page content</source>
+        <target>Übersetzten Content flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_viewPage">
+        <source>View page</source>
+        <target>Seite angucken</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_viewTranslatedPage">
+        <source>View translated page</source>
+        <target>Übersetzte Seite angucken</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editPageProperties">
+        <source>Edit page properties</source>
+        <target>Seiten-Properties flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editTranslatedPageProperties">
+        <source>Edit translated page properties</source>
+        <target>Übersetzte Seiten-Properties flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editAllPageProperties">
+        <source>Edit all page properties</source>
+        <target>Alle Seiten-Properties flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editAllTranslationedPageProperties">
+        <source>Edit all translated page properties</source>
+        <target>Alle übersetzten Seiten-Properties flexen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_badThingThereAre">
+        <source>Multiple translated page records exist for this language, but only one is allowed. Please remove the extra records.</source>
+        <target>Ey, es gibt mehrere Übersetzungs-Datensätze für diese Sprache, aber nur einer ist erlaubt. Yeet die extra Datensätze, Digga!</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_default">
+        <source>Default</source>
+        <target>Standard, Digga</target>
+      </trans-unit>
+      <trans-unit id="lang_getlangsta_createNewTranslationHeaders">
+        <source>Create new translation headers</source>
+        <target>Neue Übersetzungs-Header droppen</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_CEcount">
+        <source>Content Element Count</source>
+        <target>Content-Element-Anzahl, fr fr</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.lang">
+        <source>Language</source>
+        <target>Sprache, Bro</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.title">
+        <source>No access</source>
+        <target>Kein Zugang, Brudi</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.message">
+        <source>You don't have access to this module.</source>
+        <target>Du kommst hier nicht rein, Brudi. Kein Zugang zu diesem Modul.</target>
+      </trans-unit>
+      <trans-unit id="info.noContent.message">
+        <source>There are no page information available.</source>
+        <target>Gibt keine Seiten-Infos, Digga. Nix da.</target>
+      </trans-unit>
+      <trans-unit id="info.noPageSelected.message">
+        <source>Please select a page in the page tree.</source>
+        <target>Wähl erstmal ne Page im Pagetree aus, Alter, Bro.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

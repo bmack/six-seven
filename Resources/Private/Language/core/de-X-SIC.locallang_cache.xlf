@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_cache.xlf">
+    <header/>
+    <body>
+      <trans-unit id="page.label">
+        <source>Clear cache for this page</source>
+        <target>Cache fuer diese Seite flushen</target>
+      </trans-unit>
+      <trans-unit id="group.pages.label">
+        <source>Flush frontend caches</source>
+        <target>Frontend-Caches flushen</target>
+      </trans-unit>
+      <trans-unit id="group.pages.description">
+        <source>Clear frontend and page-related caches.</source>
+        <target>Frontend- und Seiten-Caches flushen, easy.</target>
+      </trans-unit>
+      <trans-unit id="group.all.label">
+        <source>Flush all caches</source>
+        <target>Alle Caches flushen, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="group.all.description">
+        <source>Clear frontend and page-related caches, all system-related caches, including localization, extension configuration, file and opcode caches. Rebuilding these caches may take some time.</source>
+        <target>Alles flushen: Frontend-, Seiten-, System-, Lokalisierungs-, Extension-, Datei- und Opcode-Caches. Neuaufbau kann etwas dauern, chill mal.</target>
+      </trans-unit>
+      <trans-unit id="notification.success.title">
+        <source>Caches cleared</source>
+        <target>Caches geflusht, slay!</target>
+      </trans-unit>
+      <trans-unit id="notification.success.message">
+        <source>Caches have been cleared.</source>
+        <target>Caches wurden geleert, W!</target>
+      </trans-unit>
+      <trans-unit id="notification.error.title">
+        <source>An error occurred</source>
+        <target>Ein Fehler ist aufgetreten, uff</target>
+      </trans-unit>
+      <trans-unit id="notification.error.message">
+        <source>An error occurred while clearing the cache. Some caches may not have been cleared successfully.</source>
+        <target>Beim Cache-Flushen ist was schiefgegangen. Manche Caches wurden vielleicht nicht geleert.</target>
+      </trans-unit>
+      <trans-unit id="notification.page.success.title">
+        <source>Page cache cleared</source>
+        <target>Seiten-Cache geflusht</target>
+      </trans-unit>
+      <trans-unit id="notification.page.success.message">
+        <source>Page cache for '%s' has been cleared.</source>
+        <target>Seiten-Cache fuer '%s' wurde geflusht, W!</target>
+      </trans-unit>
+      <trans-unit id="notification.page.error.title">
+        <source>Page cache not cleared</source>
+        <target>Seiten-Cache nicht geflusht, L</target>
+      </trans-unit>
+      <trans-unit id="notification.page.error.message">
+        <source>Page cache could not be cleared.</source>
+        <target>Seiten-Cache konnte nicht geflusht werden, uff.</target>
+      </trans-unit>
+      <trans-unit id="notification.group.pages.success.title">
+        <source>Frontend caches cleared</source>
+        <target>Frontend-Caches geflusht</target>
+      </trans-unit>
+      <trans-unit id="notification.group.pages.success.message">
+        <source>Frontend caches have been cleared.</source>
+        <target>Frontend-Caches wurden geflusht, W!</target>
+      </trans-unit>
+      <trans-unit id="notification.group.all.success.title">
+        <source>All caches cleared</source>
+        <target>Alle Caches geflusht, lit!</target>
+      </trans-unit>
+      <trans-unit id="notification.group.all.success.message">
+        <source>All caches have been cleared.</source>
+        <target>Alle Caches wurden geleert, sheesh!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

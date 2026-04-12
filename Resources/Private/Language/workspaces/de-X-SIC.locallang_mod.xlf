@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:workspaces/Resources/Private/Language/locallang_mod.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_tabs_tab"><source>Workspaces</source><target>Workspaces</target></trans-unit>
+      <trans-unit id="mlang_labels_tabdescr"><source>This module contains the overview of all elements within the current workspace and it enables to continue the review and publishing workflow for them.</source><target>Yo, dieses Modul zeigt dir alle Elemente im aktuellen Workspace und du kannst den Review- und Publishing-Workflow weiter pushen.</target></trans-unit>
+      <trans-unit id="mlang_labels_tablabel"><source>Create and handle versioning workflows</source><target>Versionierungs-Workflows droppen und handlen, Digga</target></trans-unit>
+      <trans-unit id="stage_editing"><source>Editing</source><target>Am Flexen</target></trans-unit>
+      <trans-unit id="stage_ready_to_publish"><source>Ready to publish</source><target>Ready to publish</target></trans-unit>
+      <trans-unit id="stage_publish"><source>Publish</source><target>Publishen</target></trans-unit>
+      <trans-unit id="stage_all"><source>All stages</source><target>Alle Stages</target></trans-unit>
+      <trans-unit id="previewText"><source>Preview of workspace %s (%s)</source><target>Ey, Vorschau von Workspace %s (%s)</target></trans-unit>
+      <trans-unit id="stopPreview"><source>Stop preview</source><target>Vorschau stoppen, Bre</target></trans-unit>
+      <trans-unit id="previewLogoutSuccess"><source>You logged out from Workspace preview mode. Click this link to %1$s go back to the website%2$s</source><target>Du hast dich aus dem Workspace-Vorschaumodus ausgeloggt. Klick %1$szurueck zur Website%2$s</target></trans-unit>
+      <trans-unit id="previewLogoutError"><source>%1$sERROR:%2$sTemplate File "%3$s" configured with $TYPO3_CONF_VARS["FE"]["workspacePreviewLogoutTemplate"] not found. Please contact webmaster about this problem.</source><target>%1$sUFF:%2$sTemplate-File "%3$s" konfiguriert mit $TYPO3_CONF_VARS["FE"]["workspacePreviewLogoutTemplate"] nicht gefunden. Sag dem Webmaster Bescheid, Brudi.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

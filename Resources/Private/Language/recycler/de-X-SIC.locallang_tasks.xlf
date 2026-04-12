@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:recycler/Resources/Private/Language/locallang_tasks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="cleanerTaskTitle"><source>Remove deleted records</source><target>Ge-yeetete Records endgueltig entfernen</target></trans-unit>
+      <trans-unit id="cleanerTaskDescription"><source>Deletes rows from the database which are flagged "deleted"</source><target>Loescht Zeilen aus der Datenbank die als "deleted" markiert sind</target></trans-unit>
+      <trans-unit id="cleanerTaskPeriod"><source>Delete entries older than (in days)</source><target>Eintraege loeschen die aelter sind als (in Tagen)</target></trans-unit>
+      <trans-unit id="cleanerTaskTCA"><source>Tables</source><target>Tabellen</target></trans-unit>
+      <trans-unit id="cleanerTaskDescriptionTables"><source>Tables: %s</source><target>Tabellen: %s</target></trans-unit>
+      <trans-unit id="cleanerTaskDescriptionDays"><source>Older than %d day(s)</source><target>Aelter als %d Tag(e)</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorPeriod"><source>The period has to be an integer and greater than zero.</source><target>Der Zeitraum muss ne ganze Zahl und groesser als Null sein.</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorTCAempty"><source>You have to select at least one table.</source><target>Du musst mindestens eine Tabelle auswaehlen, Digga.</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorTCANotSet"><source>The table "%s" is not in the TCA.</source><target>Die Tabelle "%s" ist nicht im TCA.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

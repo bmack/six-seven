@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:seo/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="pages.tabs.seo"><source>SEO</source><target>SEO</target></trans-unit>
+      <trans-unit id="pages.palettes.seo"><source>General SEO settings</source><target>Allgemeine SEO-Settings, Bro</target></trans-unit>
+      <trans-unit id="pages.seo_title"><source>Title for search engines</source><target>Titel fuer Suchmaschinen</target></trans-unit>
+      <trans-unit id="pages.palettes.robots"><source>Robot instructions</source><target>Robot-Anweisungen</target></trans-unit>
+      <trans-unit id="pages.no_index"><source>No index</source><target>Yo, nicht indexieren</target></trans-unit>
+      <trans-unit id="pages.no_index_formlabel"><source>Index this page</source><target>Diese Seite indexieren</target></trans-unit>
+      <trans-unit id="pages.no_follow"><source>No follow</source><target>Nicht folgen</target></trans-unit>
+      <trans-unit id="pages.no_follow_formlabel"><source>Follow this page</source><target>Dieser Seite folgen</target></trans-unit>
+      <trans-unit id="pages.palettes.opengraph"><source>Open Graph (Facebook)</source><target>Open Graph (Facebook)</target></trans-unit>
+      <trans-unit id="pages.og_title"><source>Open Graph Title</source><target>Open-Graph-Titel</target></trans-unit>
+      <trans-unit id="pages.og_description"><source>Open Graph Description</source><target>Open-Graph-Beschreibung</target></trans-unit>
+      <trans-unit id="pages.og_image"><source>Open Graph Image</source><target>Open-Graph-Bild</target></trans-unit>
+      <trans-unit id="pages.palettes.twittercards"><source>X / Twitter Cards</source><target>X / Twitter Cards</target></trans-unit>
+      <trans-unit id="pages.twitter_title"><source>X / Twitter Title</source><target>X / Twitter Titel</target></trans-unit>
+      <trans-unit id="pages.twitter_description"><source>X / Twitter Description</source><target>X / Twitter Beschreibung</target></trans-unit>
+      <trans-unit id="pages.twitter_image"><source>X / Twitter Image</source><target>X / Twitter Bild</target></trans-unit>
+      <trans-unit id="pages.twitter_card"><source>Type of card to show</source><target>Card-Typ zum Zeig mal</target></trans-unit>
+      <trans-unit id="pages.twitter_card.summary"><source>Summary Card</source><target>Zusammenfassungs-Card</target></trans-unit>
+      <trans-unit id="pages.twitter_card.summary_large_image"><source>Summary Card with a large image</source><target>Zusammenfassungs-Card mit grossem Bild</target></trans-unit>
+      <trans-unit id="pages.palettes.canonical"><source>Canonical</source><target>Canonical</target></trans-unit>
+      <trans-unit id="pages.canonical_link"><source>Canonical link</source><target>Canonical-Link</target></trans-unit>
+      <trans-unit id="pages.canonical_link.description"><source>A canonical URL is the URL of a page that search engines are advised to choose as the most representative from a set of duplicate pages. Often called deduplication, this process helps search engines show only one version of the otherwise duplicate content in its search results. TYPO3 automatically sets this to the most likely URL of the page if not set explicitly - which is most likely the URL of the page itself. If set here, the page will be removed from the XML sitemap.</source><target>Eine Canonical-URL ist die URL einer Seite die Suchmaschinen als repraesentativste aus ner Menge von Duplikaten waehlen sollen. TYPO3 setzt das automatisch auf die wahrscheinlichste URL der Seite wenn nicht explizit gesetzt. Wenn hier gesetzt wird die Seite aus der XML-Sitemap entfernt.</target></trans-unit>
+      <trans-unit id="pages.tabs.socialmedia"><source>Social media</source><target>Social Media</target></trans-unit>
+      <trans-unit id="pages.palettes.sitemap"><source>Sitemap</source><target>Sitemap</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq"><source>Change frequency</source><target>Wie oft aendert sich was, Digga</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.none"><source>None</source><target>Keine</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.always"><source>Always</source><target>Immer</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.hourly"><source>Hourly</source><target>Stuendlich</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.daily"><source>Daily</source><target>Taeglich</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.weekly"><source>Weekly</source><target>Woechentlich</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.monthly"><source>Monthly</source><target>Monatlich</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.yearly"><source>Yearly</source><target>Jaehrlich</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.never"><source>Never</source><target>Nie</target></trans-unit>
+      <trans-unit id="pages.sitemap_priority"><source>Priority</source><target>Prioritaet</target></trans-unit>
+    </body>
+  </file>
+</xliff>

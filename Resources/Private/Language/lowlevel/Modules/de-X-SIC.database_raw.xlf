@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:lowlevel/Resources/Private/Language/Modules/database_raw.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Raw search</source>
+        <target>Raw-Search, Brudi</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Raw search in all fields</source>
+        <target>Raw-Search in allen Feldern, Bro</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Searches all database tables and fields for a given value.</source>
+        <target>Durchsucht alle Datenbank-Tabellen und -Felder nach einem bestimmten Wert, Digga.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/db/pages.xlf">
+    <header/>
+    <body>
+      <trans-unit id="abstract">
+        <source>Abstract</source>
+        <target>Kurzfassung, Digga</target>
+      </trans-unit>
+      <trans-unit id="author">
+        <source>Author Name</source>
+        <target>Wer hat's gedroppt</target>
+      </trans-unit>
+      <trans-unit id="author_email">
+        <source>Author Email</source>
+        <target>Autor-Mail, Bro</target>
+      </trans-unit>
+      <trans-unit id="backend_layout">
+        <source>Backend Layout (this page only)</source>
+        <target>Backend-Layout (nur diese Seite, Bre)</target>
+      </trans-unit>
+      <trans-unit id="backend_layout_next_level">
+        <source>Backend Layout (subpages of this page)</source>
+        <target>Backend-Layout (Unterseiten dieser Seite)</target>
+      </trans-unit>
+      <trans-unit id="cache_tags">
+        <source>Cache Tags</source>
+        <target>Cache-Tags</target>
+      </trans-unit>
+      <trans-unit id="cache_timeout">
+        <source>Cache Lifetime</source>
+        <target>Cache-Lebenszeit</target>
+      </trans-unit>
+      <trans-unit id="content_from_pid">
+        <source>Show Content from this page</source>
+        <target>Content von dieser Seite zeigen, Alter</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Description for search engines</source>
+        <target>Was geht hier (fuer Suchmaschinen)</target>
+      </trans-unit>
+      <trans-unit id="doktype">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="doktype.be_user_section">
+        <source>Backend User Section</source>
+        <target>Backend-Homie-Bereich</target>
+      </trans-unit>
+      <trans-unit id="doktype.default">
+        <source>Standard Page</source>
+        <target>Mid-Seite (Standard)</target>
+      </trans-unit>
+      <trans-unit id="doktype.link">
+        <source>Link</source>
+        <target>Link</target>
+      </trans-unit>
+      <trans-unit id="doktype.mountpoint">
+        <source>Mount Point</source>
+        <target>Mount-Point</target>
+      </trans-unit>
+      <trans-unit id="doktype.shortcut">
+        <source>Shortcut</source>
+        <target>Shortcut</target>
+      </trans-unit>
+      <trans-unit id="doktype.spacer">
+        <source>Menu Separator</source>
+        <target>Menu-Trenner</target>
+      </trans-unit>
+      <trans-unit id="doktype.sysfolder">
+        <source>Folder</source>
+        <target>Ordner</target>
+      </trans-unit>
+      <trans-unit id="doktype.group.link">
+        <source>Link</source>
+        <target>Link</target>
+      </trans-unit>
+      <trans-unit id="doktype.group.page">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="doktype.group.special">
+        <source>Special</source>
+        <target>Spezial, Bre</target>
+      </trans-unit>
+      <trans-unit id="extend_to_subpages">
+        <source>Extend to Subpages</source>
+        <target>Auf Unterseiten ausweiten</target>
+      </trans-unit>
+      <trans-unit id="hidden">
+        <source>Page visible</source>
+        <target>Seite nicht geghostet</target>
+      </trans-unit>
+      <trans-unit id="is_siteroot">
+        <source>Use as Root Page</source>
+        <target>Als Sigma-Seite (Root) nutzen</target>
+      </trans-unit>
+      <trans-unit id="keywords">
+        <source>Keywords</source>
+        <target>Hashtags</target>
+      </trans-unit>
+      <trans-unit id="link">
+        <source>Link destination</source>
+        <target>Link-Ziel</target>
+      </trans-unit>
+      <trans-unit id="link.description">
+        <source>Defines the destination this page links to — for example a page, file, or external URL. </source>
+        <target>Legt fest wohin diese Seite verlinkt — z.B. ne Seite, Datei oder externe URL, Digga.</target>
+      </trans-unit>
+      <trans-unit id="l18n_cfg">
+        <source>Localization</source>
+        <target>Lokalisierung</target>
+      </trans-unit>
+      <trans-unit id="last_updated">
+        <source>Last Update</source>
+        <target>Letztes Update</target>
+      </trans-unit>
+      <trans-unit id="layout">
+        <source>Frontend Layout</source>
+        <target>Frontend-Layout</target>
+      </trans-unit>
+      <trans-unit id="link.target">
+        <source>Link target</source>
+        <target>Link-Ziel, Bro</target>
+      </trans-unit>
+      <trans-unit id="media">
+        <source>Media</source>
+        <target>Media</target>
+      </trans-unit>
+      <trans-unit id="module">
+        <source>Contains Plugin</source>
+        <target>Hat nen Plugin drin</target>
+      </trans-unit>
+      <trans-unit id="mount_pid">
+        <source>Mounted page</source>
+        <target>Gemountete Seite</target>
+      </trans-unit>
+      <trans-unit id="mount_pid_ol">
+        <source>Mount Point Display Option</source>
+        <target>Mount-Point Anzeige-Option</target>
+      </trans-unit>
+      <trans-unit id="nav_hide">
+        <source>Page enabled in menus</source>
+        <target>Seite in Menues am Start</target>
+      </trans-unit>
+      <trans-unit id="nav_title">
+        <source>Alternative Navigation Title</source>
+        <target>Alternativer Navi-Titel</target>
+      </trans-unit>
+      <trans-unit id="new_until">
+        <source>Mark as 'New' Until</source>
+        <target>Als 'Fresh' markieren bis</target>
+      </trans-unit>
+      <trans-unit id="no_search">
+        <source>Include in Search</source>
+        <target>Beim Stalken mit einbeziehen</target>
+      </trans-unit>
+      <trans-unit id="php_tree_stop">
+        <source>Hide child pages in page tree</source>
+        <target>Unterseiten im Page-Tree ghosten</target>
+      </trans-unit>
+      <trans-unit id="shortcut">
+        <source>Shortcut to page</source>
+        <target>Shortcut zur Seite</target>
+      </trans-unit>
+      <trans-unit id="shortcut_mode">
+        <source>Shortcut Mode</source>
+        <target>Shortcut-Modus</target>
+      </trans-unit>
+      <trans-unit id="slug">
+        <source>URL Segment</source>
+        <target>URL-Segment</target>
+      </trans-unit>
+      <trans-unit id="subtitle">
+        <source>Subtitle</source>
+        <target>Untertitel</target>
+      </trans-unit>
+      <trans-unit id="target">
+        <source>Target</source>
+        <target>Ziel</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Page title</source>
+        <target>Seitentitel</target>
+      </trans-unit>
+      <trans-unit id="tsconfig">
+        <source>Page TSconfig</source>
+        <target>Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="tsconfig_includes">
+        <source>Include static Page TSconfig (from extensions)</source>
+        <target>Statisches Page TSconfig einbinden (aus Extensions)</target>
+      </trans-unit>
+      <trans-unit id="url">
+        <source>URL</source>
+        <target>URL</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

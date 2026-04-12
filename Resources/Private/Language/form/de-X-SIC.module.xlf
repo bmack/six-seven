@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Build custom forms</source>
+        <target>Custom Formulare bauen, Digga</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>This module ships a flexible and user-friendly form editor. It allows you to build and create versatile forms for your frontend. Your forms can easily be added to any page by using the content element "Form". Within this element, finishers can be overridden.</source>
+        <target>Dieses Modul hat nen flexiblen und userfreundlichen Formular-Editor am Start, sheesh. Damit baust du vielseitige Formulare fuer dein Frontend. Die koennen easy ueber das Content-Element "Formular" auf jede Seite gepackt werden. Finisher kannst du darin auch noch ueberschreiben, no cap.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Forms</source>
+        <target>Formulare, Alter</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

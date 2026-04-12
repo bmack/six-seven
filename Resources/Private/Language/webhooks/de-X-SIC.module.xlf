@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:webhooks/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Webhooks</source><target>Webhooks</target></trans-unit>
+      <trans-unit id="short_description"><source>Manage outgoing HTTP webhooks to external system</source><target>Ausgehende HTTP-Webhooks zu externen Systemen verwalten</target></trans-unit>
+      <trans-unit id="shortDescription"><source>Manage outgoing HTTP webhooks to external system</source><target>Ausgehende HTTP-Webhooks zu externen Systemen verwalten</target></trans-unit>
+      <trans-unit id="description"><source>Configure TYPO3 webhooks to notify external systems when defined system events occur. Supports integrations with platforms such as Slack, Discord, payment providers, CRM systems, and more.</source><target>TYPO3-Webhooks konfigurieren um in die DMs von externen Systemen zu sliden wenn definierte System-Events auftreten. Unterstuetzt Integrationen mit Plattformen wie Slack, Discord, Payment-Providern, CRM-Systemen und mehr. Ong, slide in die DMs!</target></trans-unit>
+      <trans-unit id="heading_text"><source>Webhooks -- Manage Outgoing HTTP Webhooks</source><target>Webhooks -- In die DMs sliden mit ausgehenden HTTP-Webhooks</target></trans-unit>
+      <trans-unit id="webhook_not_found.title"><source>No webhooks found</source><target>Keine Webhooks gefunden</target></trans-unit>
+      <trans-unit id="webhook_not_found.message"><source>There are currently no webhooks records found in the database.</source><target>Aktuell keine Webhook-Records in der Datenbank.</target></trans-unit>
+      <trans-unit id="webhook_create"><source>Create new webhook</source><target>Neuen Webhook manifesten</target></trans-unit>
+      <trans-unit id="webhook_not_found_with_filter.title"><source>No webhooks found</source><target>Keine Webhooks gefunden</target></trans-unit>
+      <trans-unit id="webhook_not_found_with_filter.message"><source>With the current set of filters applied, no webhooks could be found.</source><target>Mit den aktuellen Filtern konnten keine Webhooks gefunden werden.</target></trans-unit>
+      <trans-unit id="webhook_no_filter"><source>Remove all filter</source><target>Alle Filter yeeten</target></trans-unit>
+      <trans-unit id="webhook_no_implementation_class"><source>Implementation class for webhook type "%s" is missing.</source><target>Implementation-Class fuer Webhook-Typ "%s" fehlt.</target></trans-unit>
+      <trans-unit id="webhook_example"><source>Example</source><target>Beispiel, Homie</target></trans-unit>
+      <trans-unit id="filter.sendButton"><source>Filter</source><target>Filtern</target></trans-unit>
+      <trans-unit id="filter.resetButton"><source>Reset</source><target>Zuruecksetzen</target></trans-unit>
+      <trans-unit id="filter.name"><source>Name</source><target>Name</target></trans-unit>
+      <trans-unit id="filter.webhook_type"><source>Webhook Trigger</source><target>Webhook-Trigger</target></trans-unit>
+      <trans-unit id="filter.webhook_type.showAll"><source>Show all</source><target>Alle zeigen</target></trans-unit>
+      <trans-unit id="pagination.previous"><source>previous</source><target>zurueck</target></trans-unit>
+      <trans-unit id="pagination.next"><source>next</source><target>weiter</target></trans-unit>
+      <trans-unit id="pagination.first"><source>first</source><target>erste</target></trans-unit>
+      <trans-unit id="pagination.last"><source>last</source><target>letzte</target></trans-unit>
+      <trans-unit id="pagination.records"><source>Records</source><target>Records</target></trans-unit>
+      <trans-unit id="pagination.page"><source>Page</source><target>Seite</target></trans-unit>
+      <trans-unit id="pagination.refresh"><source>Refresh</source><target>Refreshen, Digga</target></trans-unit>
+      <trans-unit id="labels.delete.title"><source>Delete webhooks</source><target>Webhooks yeeten</target></trans-unit>
+      <trans-unit id="labels.delete.message"><source>Delete all marked webhooks? You can restore deleted webhooks from the TYPO3 recycler.</source><target>Alle markierten Webhooks yeeten? Ge-yeetete Webhooks kannst du im TYPO3 Recycler wiederherstellen.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

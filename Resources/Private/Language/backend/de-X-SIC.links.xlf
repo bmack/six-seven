@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/links.xlf">
+    <header/>
+    <body>
+      <trans-unit id="destination">
+        <source>destination</source>
+        <target>Ziel, Bre</target>
+      </trans-unit>
+      <trans-unit id="email">
+        <source>email</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="file">
+        <source>file</source>
+        <target>Datei</target>
+      </trans-unit>
+      <trans-unit id="folder">
+        <source>folder</source>
+        <target>Ordner</target>
+      </trans-unit>
+      <trans-unit id="page">
+        <source>page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="url">
+        <source>external URL</source>
+        <target>externer Link (raus aus dem Haus)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

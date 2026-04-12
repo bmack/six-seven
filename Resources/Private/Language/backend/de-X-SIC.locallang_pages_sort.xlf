@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pages_sort.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Sort sub pages</source>
+        <target>Unterseiten sortieren, Bre</target>
+      </trans-unit>
+      <trans-unit id="currentPageOrder">
+        <source>Current page order</source>
+        <target>So stehen die Seiten gerade</target>
+      </trans-unit>
+      <trans-unit id="changeOrder">
+        <source>Sort these pages by</source>
+        <target>Diese Seiten sortieren nach</target>
+      </trans-unit>
+      <trans-unit id="changeOrderConfirm">
+        <source>You're about to change the order of the above pages. Are you sure you want to continue?</source>
+        <target>Du bist dabei die Reihenfolge der obigen Seiten zu aendern. Bist du sicher, Digga?</target>
+      </trans-unit>
+      <trans-unit id="fieldTitle">
+        <source>Page title</source>
+        <target>Seitentitel</target>
+      </trans-unit>
+      <trans-unit id="fieldSubtitle">
+        <source>Subtitle</source>
+        <target>Untertitel</target>
+      </trans-unit>
+      <trans-unit id="fieldNavitle">
+        <source>Navigation title</source>
+        <target>Navi-Titel</target>
+      </trans-unit>
+      <trans-unit id="fieldCrdate">
+        <source>Create-time</source>
+        <target>Wann gedroppt</target>
+      </trans-unit>
+      <trans-unit id="fieldTstamp">
+        <source>Change-time</source>
+        <target>Letzter Flex</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByTitle">
+        <source>Page title</source>
+        <target>Seitentitel</target>
+      </trans-unit>
+      <trans-unit id="changeOrderBySubtitle">
+        <source>Subtitle</source>
+        <target>Untertitel</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByNavtitle">
+        <source>Navigation title</source>
+        <target>Navi-Titel</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByTstamp">
+        <source>Change-time</source>
+        <target>Letzter Flex</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByCreate">
+        <source>Create-time</source>
+        <target>Wann gedroppt</target>
+      </trans-unit>
+      <trans-unit id="changeOrderReverse">
+        <source>Reverse current order</source>
+        <target>Aktuelle Reihenfolge umdrehen (Uno Reverse Card)</target>
+      </trans-unit>
+      <trans-unit id="hasInvisiblePage.title">
+        <source>Invisible subpages</source>
+        <target>Unsichtbare Unterseiten (geghostete Pages)</target>
+      </trans-unit>
+      <trans-unit id="hasInvisiblePage.message">
+        <source>Some subpages are not visible because of access restrictions. These hidden pages are excluded from sorting.</source>
+        <target>Manche Unterseiten sind wegen Zugriffsrechten unsichtbar. Diese geghosteten Pages werden beim Sortieren ignoriert.</target>
+      </trans-unit>
+      <trans-unit id="noSubpages.title">
+        <source>No subpages</source>
+        <target>Keine Unterseiten, Alter</target>
+      </trans-unit>
+      <trans-unit id="noSubpages.message">
+        <source>Please select a page with subpages.</source>
+        <target>Waehl ne Seite mit Unterseiten aus, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="notAvailableInWorkspace.title">
+        <source>Not implemented</source>
+        <target>Gibt's noch nicht, Bre</target>
+      </trans-unit>
+      <trans-unit id="notAvailableInWorkspace.message">
+        <source>This function is not available in the current draft workspace; please switch back to the LIVE workspace.</source>
+        <target>Diese Funktion gibt's im Draft-Workspace nicht, Digga. Bitte zurueck zum LIVE-Workspace wechseln.</target>
+      </trans-unit>
+      <trans-unit id="noEditPermissions">
+        <source>No edit permissions on this sub page. This page can not be re-sorted among others.</source>
+        <target>Keine Bearbeitungsrechte auf dieser Unterseite. Kann nicht umsortiert werden, kein Rizz.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

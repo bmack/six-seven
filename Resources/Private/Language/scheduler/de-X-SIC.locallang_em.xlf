@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/locallang_em.xlf">
+    <header/>
+    <body>
+      <trans-unit id="scheduler.config.maxLifetime">
+        <source>Maximum lifetime: Set the maximum runtime (in minutes) for a scheduler task. Tasks still running after this time are removed from the execution list but are not stopped.</source>
+        <target>Maximale Grind-Zeit: Setz die maximale Laufzeit (in Minuten) fuer nen Side Quest. Side Quests die nach dieser Zeit noch grinden werden von der Ausfuehrungsliste ge-yeeted, aber nicht gestoppt. No front, der Grind hat Limits, Digga.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

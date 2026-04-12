@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/page.xlf">
+    <header/>
+    <body>
+      <trans-unit id="step.doktype.headline">
+        <source>Select page type</source>
+        <target>Seitentyp auswaehlen, Digga</target>
+      </trans-unit>
+      <trans-unit id="step.doktype.not_allowed_doktype.title">
+        <source>Invalid page type</source>
+        <target>Ungueltiger Seitentyp, oof</target>
+      </trans-unit>
+      <trans-unit id="step.doktype.not_allowed_doktype.message">
+        <source>The selected page type is not allowed here. Please choose a different type.</source>
+        <target>Der gewaehlte Seitentyp ist hier nicht erlaubt. Waehl nen anderen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="step.doktype.filter.noResults">
+        <source>No matching page type found.</source>
+        <target>Kein passender Seitentyp gefunden, oof.</target>
+      </trans-unit>
+      <trans-unit id="step.doktype.load_error">
+        <source>Failed to fetch available page types. This is likely due to missing permissions.</source>
+        <target>Verfuegbare Seitentypen konnten nicht geladen werden. Liegt wahrscheinlich an fehlenden Berechtigungen, kein Rizz.</target>
+      </trans-unit>
+      <trans-unit id="step.setup">
+        <source>Page Setup</source>
+        <target>Seiten-Setup</target>
+      </trans-unit>
+      <trans-unit id="step.link">
+        <source>Link Configuration</source>
+        <target>Link-Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="step.shortcut">
+        <source>Shortcut Configuration</source>
+        <target>Shortcut-Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="step.mounting">
+        <source>Mounting Configuration</source>
+        <target>Mounting-Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="page_wizard.success.title">
+        <source>Page created</source>
+        <target>Seite erstellt, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="page_wizard.success.description">
+        <source>The page has been successfully created. Click "Finish" to be redirected to the newly created page.</source>
+        <target>Die Seite wurde erfolgreich erstellt. Klick "Fertig" um zur neu erstellten Seite weitergeleitet zu werden.</target>
+      </trans-unit>
+      <trans-unit id="page_wizard.button.create_another_page">
+        <source>Create another page</source>
+        <target>Noch ne Seite erstellen (Nochmal!)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

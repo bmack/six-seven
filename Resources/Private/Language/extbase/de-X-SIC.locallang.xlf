@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:extbase/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="converter.datetime.notrecognized">
+        <source>The date "%s" was not recognized (for format "%s").</source>
+        <target>Das Datum "%s" wurde nicht erkannt (fuer Format "%s"), cringe.</target>
+      </trans-unit>
+      <trans-unit id="property.error">
+        <source>Validation errors for property "%s"</source>
+        <target>Validierungs-Fails bei Eigenschaft "%s", Homie</target>
+      </trans-unit>
+      <trans-unit id="validator.emailaddress.notvalid">
+        <source>The given subject was not a valid email address.</source>
+        <target>Das war keine gueltige E-Mail-Adresse, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validator.stringlength.between">
+        <source>The length of the given string was not between %s and %s characters.</source>
+        <target>Die Laenge des Strings war nicht zwischen %s und %s Zeichen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validator.stringlength.less">
+        <source>The length of the given string is less than %s characters.</source>
+        <target>Der String hat weniger als %s Zeichen, zu kurz Alter.</target>
+      </trans-unit>
+      <trans-unit id="validator.string.notvalid">
+        <source>A valid string is expected.</source>
+        <target>Ein gueltiger String wird erwartet, no cap.</target>
+      </trans-unit>
+      <trans-unit id="validator.stringlength.exceed">
+        <source>The length of the given string exceeded %s characters.</source>
+        <target>Der String hat mehr als %s Zeichen, zu lang Digga.</target>
+      </trans-unit>
+      <trans-unit id="validator.alphanumeric.notvalid">
+        <source>The given subject was not a valid alphanumeric string.</source>
+        <target>Das war kein gueltiger alphanumerischer String, Bestie.</target>
+      </trans-unit>
+      <trans-unit id="validator.datetime.notvalid">
+        <source>The given subject was not a valid DateTime. Got: '%s'</source>
+        <target>Das war kein gueltiges DateTime. Bekommen: '%s', Digga</target>
+      </trans-unit>
+      <trans-unit id="validator.float.notvalid">
+        <source>The given subject was not a valid float.</source>
+        <target>Das war kein gueltiger Float-Wert, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validator.text.notvalid">
+        <source>The given subject was not a valid text (e.g. contained XML tags).</source>
+        <target>Das war kein gueltiger Text (z.B. XML-Tags drin), Alter.</target>
+      </trans-unit>
+      <trans-unit id="validator.regularexpression.nomatch">
+        <source>The given subject did not match the pattern.</source>
+        <target>Das passt nicht zum Pattern, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validator.numberrange.notvalid">
+        <source>The given subject was not a valid number.</source>
+        <target>Das war keine gueltige Zahl, Bro.</target>
+      </trans-unit>
+      <trans-unit id="validator.numberrange.range">
+        <source>The given subject was not in the valid range (%s - %s).</source>
+        <target>Der Wert war nicht im gueltigen Bereich (%s - %s), Bre.</target>
+      </trans-unit>
+      <trans-unit id="validator.notempty.null">
+        <source>The given subject was NULL.</source>
+        <target>Der Wert war NULL, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="validator.notempty.empty">
+        <source>The given subject was empty.</source>
+        <target>Der Wert war leer, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validator.number.notvalid">
+        <source>The given subject was not a valid number.</source>
+        <target>Das war keine gueltige Zahl, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validator.integer.notvalid">
+        <source>The given subject was not a valid integer.</source>
+        <target>Das war kein gueltiger Integer, Homie.</target>
+      </trans-unit>
+      <trans-unit id="validator.boolean.nottrue">
+        <source>The given subject was not true.</source>
+        <target>Der Wert war nicht true, sus.</target>
+      </trans-unit>
+      <trans-unit id="validator.boolean.notfalse">
+        <source>The given subject was not false.</source>
+        <target>Der Wert war nicht false, Bestie.</target>
+      </trans-unit>
+      <trans-unit id="validator.url.notvalid">
+        <source>The given subject is no valid URL.</source>
+        <target>Das ist keine gueltige URL, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.fileextension.notallowed">
+        <source>The file extension '%s' is not allowed.</source>
+        <target>Die Dateiendung '%s' ist nicht erlaubt, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.fileextensionmimetypeconsistency.notallowed">
+        <source>The resolved media type "%s" is not allowed for file extension "%s".</source>
+        <target>Der erkannte Medientyp "%s" ist nicht erlaubt fuer die Dateiendung "%s", Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.mimetype.notallowed">
+        <source>The mime type '%s' is not allowed.</source>
+        <target>Der MIME-Typ '%s' ist nicht erlaubt, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.mimetype.invalidextension">
+        <source>The file extension provided "%s" does not match to expected media types.</source>
+        <target>Die Dateiendung "%s" passt nicht zu den erwarteten Medientypen, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.denyphpupload.notallowed">
+        <source>Uploading of files with PHP executable file extensions is not allowed.</source>
+        <target>Hochladen von Dateien mit ausfuehrbaren PHP-Dateiendungen ist nicht erlaubt, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="validation.filesize.less">
+        <source>The file must be larger than %s in size.</source>
+        <target>Die Datei muss groesser als %s sein, Bro.</target>
+      </trans-unit>
+      <trans-unit id="validation.filesize.exceed">
+        <source>The file must be smaller than %s in size.</source>
+        <target>Die Datei muss kleiner als %s sein, Bre.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.width.notvalid">
+        <source>The image must be exactly %s pixels in width.</source>
+        <target>Das Bild muss exakt %s Pixel breit sein, Homie.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.height.notvalid">
+        <source>The image must be exactly %s pixels in height.</source>
+        <target>Das Bild muss exakt %s Pixel hoch sein, Bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.minwidth.notvalid">
+        <source>The image must at least have a width of %s pixels.</source>
+        <target>Das Bild muss mindestens %s Pixel breit sein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.minheight.notvalid">
+        <source>The image must at least have a height of %s pixels.</source>
+        <target>Das Bild muss mindestens %s Pixel hoch sein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.maxwidth.notvalid">
+        <source>The image is too wide. The maximum width is %s pixels.</source>
+        <target>Das Bild ist zu breit, Digga. Maximum ist %s Pixel.</target>
+      </trans-unit>
+      <trans-unit id="validation.imagedimensions.maxheight.notvalid">
+        <source>The image is too high. The maximum height is %s pixels.</source>
+        <target>Das Bild ist zu hoch. Maximum ist %s Pixel, Alter.</target>
+      </trans-unit>
+      <trans-unit id="filehandlingserviceconfiguration.minfiles.notvalid">
+        <source>You must at least upload %s file(s).</source>
+        <target>Du musst mindestens %s Datei(en) hochladen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="filehandlingserviceconfiguration.minfiles.delete.notvalid">
+        <source>The file could not be deleted, because the minimum file upload amount would not be fulfilled after deletion.</source>
+        <target>Die Datei kann nicht geyeetet werden, weil sonst die Mindestanzahl nicht mehr erreicht wird.</target>
+      </trans-unit>
+      <trans-unit id="filehandlingserviceconfiguration.maxfiles.notvalid">
+        <source>The maximum amount of %s file(s) is exceeded.</source>
+        <target>Die maximale Anzahl von %s Datei(en) ist ueberschritten, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="class_configuration">
+        <source>Extbase: Class Configuration</source>
+        <target>Extbase: Klassen-Konfiguration, Bro</target>
+      </trans-unit>
+      <trans-unit id="ratelimit.action.defaultmessage">
+        <source>Too many requests. Please try again later.</source>
+        <target>Zu viele Anfragen, Digga. Chill mal und versuch's spaeter nochmal.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

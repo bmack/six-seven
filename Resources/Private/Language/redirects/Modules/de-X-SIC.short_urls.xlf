@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/Modules/short_urls.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Short URLs</source>
+        <target>Kurz-URLs</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Short URLs Administration</source>
+        <target>Kurz-URL-Verwaltung</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Create and manage Short URLs that redirect to longer links for easier sharing and tracking.</source>
+        <target>Kurz-URLs droppen und verwalten die auf laengere Links weiterleiten. Einfacher zum Teilen und Tracken, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="heading_text">
+        <source>Short URL Management</source>
+        <target>Kurz-URL-Management</target>
+      </trans-unit>
+      <trans-unit id="add_text">
+        <source>Add Short URL</source>
+        <target>Kurz-URL dazu packen, Alter</target>
+      </trans-unit>
+      <trans-unit id="not_found_with_filter.message">
+        <source>No Short URL could be found with the current set of filters applied.</source>
+        <target>Keine Kurz-URL mit den aktuellen Filtern gefunden.</target>
+      </trans-unit>
+      <trans-unit id="not_found.title">
+        <source>No Short URLs found</source>
+        <target>Nix am Start, keine Kurz-URLs</target>
+      </trans-unit>
+      <trans-unit id="not_found.message">
+        <source>There are currently no Short URLs found in the database.</source>
+        <target>Aktuell keine Kurz-URLs in der Datenbank.</target>
+      </trans-unit>
+      <trans-unit id="create">
+        <source>Create new Short URL</source>
+        <target>Neue Kurz-URL droppen</target>
+      </trans-unit>
+      <trans-unit id="delete.title">
+        <source>Delete Short URLs</source>
+        <target>Kurz-URLs yeeten</target>
+      </trans-unit>
+      <trans-unit id="delete.message">
+        <source>Delete all marked Short URLs permanently? You cannot undo this action.</source>
+        <target>Alle markierten Kurz-URLs permanent yeeten? Nicht rueckgaengig machbar!</target>
+      </trans-unit>
+      <trans-unit id="show">
+        <source>Show Short URL</source>
+        <target>Kurz-URL zeig mal</target>
+      </trans-unit>
+      <trans-unit id="generate_short_url">
+        <source>Generate Short URL</source>
+        <target>Kurz-URL generieren</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicate_short_url">
+        <source>This Short URL already exists. Please choose a different source host or source path.</source>
+        <target>Diese Kurz-URL existiert schon. Waehle nen anderen Quell-Host oder Quell-Pfad, Digga.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

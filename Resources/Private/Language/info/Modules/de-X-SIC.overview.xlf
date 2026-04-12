@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:info/Resources/Private/Language/Modules/overview.xlf">
+    <header/>
+    <body>
+      <trans-unit id="description">
+        <source>View page records and settings in a tree structure with detailed metadata.</source>
+        <target>Check Pages-Records und Settings im Baumformat mit krassen Metadaten, Homie.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Pagetree Overview</source>
+        <target>Seitenbaum-Überblick</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source/>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

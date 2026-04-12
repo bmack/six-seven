@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:frontend/Resources/Private/Language/locallang_ttc.xlf">
+    <header/>
+    <body>
+      <trans-unit id="CType_formlabel" x-unused-since="14.0">
+        <source>Type</source>
+        <target>Typ, Bestie</target>
+      </trans-unit>
+      <trans-unit id="layout.I.1">
+        <source>Layout 1</source>
+        <target>Layout 1</target>
+      </trans-unit>
+      <trans-unit id="layout.I.2">
+        <source>Layout 2</source>
+        <target>Layout 2</target>
+      </trans-unit>
+      <trans-unit id="layout.I.3">
+        <source>Layout 3</source>
+        <target>Layout 3</target>
+      </trans-unit>
+      <trans-unit id="colPos" x-unused-since="14.0">
+        <source>Columns</source>
+        <target>Spalten, Digga</target>
+      </trans-unit>
+      <trans-unit id="colPos_formlabel" x-unused-since="14.0">
+        <source>Column</source>
+        <target>Spalte, Brudi</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.0">
+        <source>Left</source>
+        <target>Links, Alter</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.1">
+        <source>Normal</source>
+        <target>Normal, Bro</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.2">
+        <source>Right</source>
+        <target>Rechts, Bre</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.3">
+        <source>Border</source>
+        <target>Rand, Homie</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.unused">
+        <source>Unused</source>
+        <target>Nicht benutzt, Bestie</target>
+      </trans-unit>
+      <trans-unit id="date" x-unused-since="14.0">
+        <source>Date</source>
+        <target>Datum, Digga</target>
+      </trans-unit>
+      <trans-unit id="date_formlabel" x-unused-since="14.0">
+        <source>Date</source>
+        <target>Datum, Brudi</target>
+      </trans-unit>
+      <trans-unit id="header" x-unused-since="14.0">
+        <source>Header</source>
+        <target>Ueberschrift, Alter</target>
+      </trans-unit>
+      <trans-unit id="header_formlabel" x-unused-since="14.0">
+        <source>Header</source>
+        <target>Ueberschrift, Bro</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.shortcut_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (im Frontend geghostet, Digga)</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.script_formlabel" x-unused-since="14.0">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (im Frontend geghostet), Bre</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.div_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (im Frontend geghostet), Homie</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.html_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (im Frontend geghostet), Bestie</target>
+      </trans-unit>
+      <trans-unit id="header.description.ALT">
+        <source>The name won't be displayed as header above the element, but will be used as reference in menus.</source>
+        <target>Der Name wird nicht als Ueberschrift angezeigt, sondern als Referenz in Menues benutzt, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="header_position" x-unused-since="14.0">
+        <source>Align</source>
+        <target>Ausrichtung, Digga</target>
+      </trans-unit>
+      <trans-unit id="header_position_formlabel" x-unused-since="14.0">
+        <source>Alignment</source>
+        <target>Ausrichtung, Brudi</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.1">
+        <source>Center</source>
+        <target>Mitte, Alter</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.2">
+        <source>Right</source>
+        <target>Rechts, Bro</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.3">
+        <source>Left</source>
+        <target>Links, Bre</target>
+      </trans-unit>
+      <trans-unit id="header_link" x-unused-since="14.0">
+        <source>Link</source>
+        <target>Link, Homie</target>
+      </trans-unit>
+      <trans-unit id="header_link_formlabel" x-unused-since="14.0">
+        <source>Link</source>
+        <target>Link, Bestie</target>
+      </trans-unit>
+      <trans-unit id="header_layout_formlabel" x-unused-since="14.0">
+        <source>Type</source>
+        <target>Typ, Digga</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.1">
+        <source>Layout 1</source>
+        <target>Layout 1</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.2">
+        <source>Layout 2</source>
+        <target>Layout 2</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.3">
+        <source>Layout 3</source>
+        <target>Layout 3</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.4">
+        <source>Layout 4</source>
+        <target>Layout 4</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.5">
+        <source>Layout 5</source>
+        <target>Layout 5</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.6">
+        <source>Hidden</source>
+        <target>Geghostet</target>
+      </trans-unit>
+      <trans-unit id="bullets_type">
+        <source>Type of bullets</source>
+        <target>Aufzaehlungstyp, Brudi</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.0">
+        <source>Unordered list (bullets)</source>
+        <target>Unsortierte Liste (Punkte), Alter</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.1">
+        <source>Ordered list (numbers)</source>
+        <target>Sortierte Liste (Nummern), Bro</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.2">
+        <source>Definition list</source>
+        <target>Definitionsliste, Bre</target>
+      </trans-unit>
+      <trans-unit id="imagewidth" x-unused-since="14.0">
+        <source>Width (pixels)</source>
+        <target>Breite (Pixel)</target>
+      </trans-unit>
+      <trans-unit id="imagewidth_formlabel" x-unused-since="14.0">
+        <source>Width (px)</source>
+        <target>Breite (px)</target>
+      </trans-unit>
+      <trans-unit id="imageheight" x-unused-since="14.0">
+        <source>Height (pixels)</source>
+        <target>Hoehe (Pixel), Homie</target>
+      </trans-unit>
+      <trans-unit id="imageheight_formlabel" x-unused-since="14.0">
+        <source>Height (px)</source>
+        <target>Hoehe (px), Bestie</target>
+      </trans-unit>
+      <trans-unit id="imageorient" x-unused-since="14.0">
+        <source>Position</source>
+        <target>Position, Digga</target>
+      </trans-unit>
+      <trans-unit id="imageorient_formlabel" x-unused-since="14.0">
+        <source>Position and Alignment</source>
+        <target>Position und Ausrichtung, Brudi</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.0">
+        <source>Above, center</source>
+        <target>Drueber, mittig, Alter</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.1">
+        <source>Above, right</source>
+        <target>Drueber, rechts, Bro</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.2">
+        <source>Above, left</source>
+        <target>Drueber, links, Bre</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.3">
+        <source>Below, center</source>
+        <target>Drunter, mittig, Homie</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.4">
+        <source>Below, right</source>
+        <target>Drunter, rechts, Bestie</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.5">
+        <source>Below, left</source>
+        <target>Drunter, links, Digga</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.6">
+        <source>In text, right</source>
+        <target>Im Text, rechts, Brudi</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.7">
+        <source>In text, left</source>
+        <target>Im Text, links, Alter</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.9">
+        <source>Beside Text, Right</source>
+        <target>Neben dem Text, rechts, Bro</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.10">
+        <source>Beside Text, Left</source>
+        <target>Neben dem Text, links, Bre</target>
+      </trans-unit>
+      <trans-unit id="imageborder" x-unused-since="14.0">
+        <source>Border</source>
+        <target>Rand, Homie</target>
+      </trans-unit>
+      <trans-unit id="imageborder_formlabel" x-unused-since="14.0">
+        <source>Border</source>
+        <target>Rand, Bestie</target>
+      </trans-unit>
+      <trans-unit id="image_zoom" x-unused-since="14.0">
+        <source>Click-enlarge</source>
+        <target>Klick-Vergroesserung, Digga</target>
+      </trans-unit>
+      <trans-unit id="image_zoom_formlabel" x-unused-since="14.0">
+        <source>Enlarge on Click</source>
+        <target>Bei Klick vergroessern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="imagecols" x-unused-since="14.0">
+        <source>Columns</source>
+        <target>Spalten, Alter</target>
+      </trans-unit>
+      <trans-unit id="imagecols_formlabel" x-unused-since="14.0">
+        <source>Number of Columns</source>
+        <target>Anzahl Spalten, Bro</target>
+      </trans-unit>
+      <trans-unit id="images.addFileReference">
+        <source>Add image</source>
+        <target>Bild hinzufuegen, Bre</target>
+      </trans-unit>
+      <trans-unit id="cols">
+        <source>Columns</source>
+        <target>Spalten, Homie</target>
+      </trans-unit>
+      <trans-unit id="cols.I.0">
+        <source>Auto</source>
+        <target>Autopilot</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.0">
+        <source>0 levels (only selected page)</source>
+        <target>0 Ebenen (nur die ausgewaehlte Seite), Bestie</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.1">
+        <source>1 level</source>
+        <target>1 Ebene</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.2">
+        <source>2 levels</source>
+        <target>2 Ebenen</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.3">
+        <source>3 levels</source>
+        <target>3 Ebenen</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.4">
+        <source>4 levels</source>
+        <target>4 Ebenen</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.5">
+        <source>Infinite</source>
+        <target>Unendlich, Digga</target>
+      </trans-unit>
+      <trans-unit id="media">
+        <source>Files</source>
+        <target>Dateien, Digga</target>
+      </trans-unit>
+      <trans-unit id="media.ALT.uploads_formlabel">
+        <source>Select single files</source>
+        <target>Einzelne Dateien auswaehlen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="media.addFileReference">
+        <source>Add file</source>
+        <target>Datei hinzufuegen, Alter</target>
+      </trans-unit>
+      <trans-unit id="multimedia">
+        <source>File</source>
+        <target>Datei, Bro</target>
+      </trans-unit>
+      <trans-unit id="multimedia_formlabel">
+        <source>Selected Media File</source>
+        <target>Ausgewaehlte Medien-Datei, Bre</target>
+      </trans-unit>
+      <trans-unit id="file_collections">
+        <source>File collections</source>
+        <target>Datei-Sammlungen, Homie</target>
+      </trans-unit>
+      <trans-unit id="file_collections.ALT.uploads_formlabel" x-unused-since="14.0">
+        <source>Select file collections</source>
+        <target>Datei-Sammlungen auswaehlen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="filelink_size" x-unused-since="14.0">
+        <source>Show File Size</source>
+        <target>Dateigroesse anzeigen, Digga</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting">
+        <source>Sort file list</source>
+        <target>Dateiliste sortieren, Brudi</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.none">
+        <source>no sorting</source>
+        <target>keine Sortierung, Alter</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.extension">
+        <source>by file extension</source>
+        <target>nach Dateiendung, Bro</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.name">
+        <source>by filename</source>
+        <target>nach Dateiname, Bre</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.type">
+        <source>by file type</source>
+        <target>nach Dateityp, Homie</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.size">
+        <source>by file size</source>
+        <target>nach Dateigroesse, Bestie</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.creation_date">
+        <source>by file creation date</source>
+        <target>nach Erstellungsdatum, Digga</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.modification_date">
+        <source>by file modification date</source>
+        <target>nach Aenderungsdatum, Brudi</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.title">
+        <source>by file metadata title</source>
+        <target>nach Metadaten-Titel, Alter</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction">
+        <source>Sorting direction</source>
+        <target>Sortierrichtung, Bro</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction.ascending">
+        <source>Ascending (default)</source>
+        <target>Aufsteigend (Standard), Bre</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction.descending">
+        <source>Descending</source>
+        <target>Absteigend, Homie</target>
+      </trans-unit>
+      <trans-unit id="filelink_size_formlabel" x-unused-since="14.0">
+        <source>Display File Size Information</source>
+        <target>Dateigroessen-Info anzeigen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="target">
+        <source>Target</source>
+        <target>Ziel, Digga</target>
+      </trans-unit>
+      <trans-unit id="target.I.1">
+        <source>New window</source>
+        <target>Neues Fenster, Brudi</target>
+      </trans-unit>
+      <trans-unit id="records">
+        <source>Items</source>
+        <target>Eintraege, Alter</target>
+      </trans-unit>
+      <trans-unit id="records_formlabel">
+        <source>Records</source>
+        <target>Datensaetze, Bro</target>
+      </trans-unit>
+      <trans-unit id="space_before_class" x-unused-since="14.0">
+        <source>Space Before</source>
+        <target>Abstand davor, Bre</target>
+      </trans-unit>
+      <trans-unit id="space_before_class_formlabel" x-unused-since="14.0">
+        <source>Space Before</source>
+        <target>Abstand davor, Homie</target>
+      </trans-unit>
+      <trans-unit id="space_after_class" x-unused-since="14.0">
+        <source>Space After</source>
+        <target>Abstand danach, Bestie</target>
+      </trans-unit>
+      <trans-unit id="space_after_class_formlabel" x-unused-since="14.0">
+        <source>Space After</source>
+        <target>Abstand danach, Digga</target>
+      </trans-unit>
+      <trans-unit id="space_class_none">
+        <source>None</source>
+        <target>Nix, Brudi</target>
+      </trans-unit>
+      <trans-unit id="space_class_extra_small">
+        <source>Extra Small</source>
+        <target>Richtig klein, Alter</target>
+      </trans-unit>
+      <trans-unit id="space_class_small">
+        <source>Small</source>
+        <target>Klein, Bro</target>
+      </trans-unit>
+      <trans-unit id="space_class_medium">
+        <source>Medium</source>
+        <target>Medium, Bre</target>
+      </trans-unit>
+      <trans-unit id="space_class_large">
+        <source>Large</source>
+        <target>Gross, Homie</target>
+      </trans-unit>
+      <trans-unit id="space_class_extra_large">
+        <source>Extra Large</source>
+        <target>Richtig gross, Bestie</target>
+      </trans-unit>
+      <trans-unit id="frame_class" x-unused-since="14.0">
+        <source>Frame</source>
+        <target>Rahmen, Digga</target>
+      </trans-unit>
+      <trans-unit id="frame_class_formlabel" x-unused-since="14.0">
+        <source>Frame</source>
+        <target>Rahmen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="frame_class.default">
+        <source>Default</source>
+        <target>Standard, Alter</target>
+      </trans-unit>
+      <trans-unit id="frame_class.ruler_before">
+        <source>Ruler Before</source>
+        <target>Linie davor, Bro</target>
+      </trans-unit>
+      <trans-unit id="frame_class.ruler_after">
+        <source>Ruler After</source>
+        <target>Linie danach, Bre</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent">
+        <source>Indent</source>
+        <target>Einrueckung, Homie</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent_left">
+        <source>Indent, 33/66%</source>
+        <target>Einrueckung, 33/66%, Bestie</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent_right">
+        <source>Indent, 66/33%</source>
+        <target>Einrueckung, 66/33%, Digga</target>
+      </trans-unit>
+      <trans-unit id="frame_class.none">
+        <source>No Frame</source>
+        <target>Kein Rahmen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="sectionIndex" x-unused-since="14.0">
+        <source>Index</source>
+        <target>Index, Alter</target>
+      </trans-unit>
+      <trans-unit id="sectionIndex_formlabel" x-unused-since="14.0">
+        <source>Show in Section Menus</source>
+        <target>In Bereichs-Menues anzeigen, Bro</target>
+      </trans-unit>
+      <trans-unit id="linkToTop" x-unused-since="14.0">
+        <source>To top</source>
+        <target>Nach oben, Bre</target>
+      </trans-unit>
+      <trans-unit id="linkToTop_formlabel" x-unused-since="14.0">
+        <source>Append with Link to Top of Page</source>
+        <target>Mit Link nach oben anhaengen, Homie</target>
+      </trans-unit>
+      <trans-unit id="pi_flexform">
+        <source>Plugin Options</source>
+        <target>Plugin-Optionen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="selected_categories">
+        <source>Selected categories</source>
+        <target>Ausgewaehlte Kategorien, Digga</target>
+      </trans-unit>
+      <trans-unit id="category_field">
+        <source>Category field</source>
+        <target>Kategorie-Feld, Brudi</target>
+      </trans-unit>
+      <trans-unit id="pages.ALT.menu_formlabel">
+        <source>Selected Pages</source>
+        <target>Ausgewaehlte Seiten, Alter</target>
+      </trans-unit>
+      <trans-unit id="pages.ALT.list_formlabel">
+        <source>Record Storage Page</source>
+        <target>Datensatz-Ablageseite, Bro</target>
+      </trans-unit>
+      <trans-unit id="tabs.text">
+        <source>Text</source>
+        <target>Text, Bre</target>
+      </trans-unit>
+      <trans-unit id="tabs.media">
+        <source>Media</source>
+        <target>Medien, Homie</target>
+      </trans-unit>
+      <trans-unit id="tabs.plugin">
+        <source>Plugin</source>
+        <target>Plugin, Bestie</target>
+      </trans-unit>
+      <trans-unit id="subheader_formlabel" x-unused-since="14.0">
+        <source>Subheader</source>
+        <target>Unter-Ueberschrift, Digga</target>
+      </trans-unit>
+      <trans-unit id="starttime_formlabel">
+        <source>Publish Date</source>
+        <target>Veroeffentlichungsdatum, Brudi</target>
+      </trans-unit>
+      <trans-unit id="endtime_formlabel">
+        <source>Expiration Date</source>
+        <target>Ablaufdatum, Alter</target>
+      </trans-unit>
+      <trans-unit id="fe_group_formlabel">
+        <source>Usergroup Access Rights</source>
+        <target>Benutzergruppen-Zugriffsrechte, Bro</target>
+      </trans-unit>
+      <trans-unit id="layout_formlabel" x-unused-since="14.0">
+        <source>Layout</source>
+        <target>Layout, Bre</target>
+      </trans-unit>
+      <trans-unit id="bodytext_formlabel" x-unused-since="14.0">
+        <source>Text</source>
+        <target>Text, Homie</target>
+      </trans-unit>
+      <trans-unit id="bodytext.ALT.bulletlist_formlabel">
+        <source>Bullet List</source>
+        <target>Aufzaehlungsliste, Bestie</target>
+      </trans-unit>
+      <trans-unit id="bodytext.ALT.html_formlabel">
+        <source>HTML Code</source>
+        <target>HTML-Code, Digga</target>
+      </trans-unit>
+      <trans-unit id="field.default.hidden" x-unused-since="14.0">
+        <source>Visibility of content element</source>
+        <target>Ghost-Status des Content-Elements, Brudi</target>
+      </trans-unit>
+      <trans-unit id="field.table.bodytext">
+        <source>Table content</source>
+        <target>Tabelleninhalt, Alter</target>
+      </trans-unit>
+      <trans-unit id="palette.general" x-unused-since="14.0">
+        <source>Content Element</source>
+        <target>Content-Element, Bro</target>
+      </trans-unit>
+      <trans-unit id="palette.headers" x-unused-since="14.0">
+        <source>Headlines</source>
+        <target>Ueberschriften, Bre</target>
+      </trans-unit>
+      <trans-unit id="palette.header" x-unused-since="14.0">
+        <source>Header</source>
+        <target>Ueberschrift, Homie</target>
+      </trans-unit>
+      <trans-unit id="palette.visibility" x-unused-since="14.0">
+        <source>Visibility</source>
+        <target>Ghost-Status, Bestie</target>
+      </trans-unit>
+      <trans-unit id="palette.access" x-unused-since="14.0">
+        <source>Publish Dates and Access Rights</source>
+        <target>Veroeffentlichungsdaten und Zugriffsrechte, Digga</target>
+      </trans-unit>
+      <trans-unit id="palette.frames" x-unused-since="14.0">
+        <source>Content Element Layout</source>
+        <target>Content-Element-Layout, Brudi</target>
+      </trans-unit>
+      <trans-unit id="palette.imagelinks" x-unused-since="14.0">
+        <source>Behavior</source>
+        <target>Verhalten, Alter</target>
+      </trans-unit>
+      <trans-unit id="palette.image_accessibility" x-unused-since="14.0">
+        <source>Accessibility</source>
+        <target>Barrierefreiheit, Bro</target>
+      </trans-unit>
+      <trans-unit id="palette.uploads_layout" x-unused-since="14.0">
+        <source>Filelinks Layout</source>
+        <target>Dateilinks-Layout, Bre</target>
+      </trans-unit>
+      <trans-unit id="palette.table_layout" x-unused-since="14.0">
+        <source>Table Layout</source>
+        <target>Tabellen-Layout, Homie</target>
+      </trans-unit>
+      <trans-unit id="palette.appearanceLinks" x-unused-since="14.0">
+        <source>Links</source>
+        <target>Links, Bestie</target>
+      </trans-unit>
+      <trans-unit id="tabs.access">
+        <source>Access</source>
+        <target>Zugriff, Digga</target>
+      </trans-unit>
+      <trans-unit id="tabs.appearance">
+        <source>Appearance</source>
+        <target>Aussehen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="tabs.behaviour">
+        <source>Behavior</source>
+        <target>Verhalten, Alter</target>
+      </trans-unit>
+      <trans-unit id="tabs.images">
+        <source>Images</source>
+        <target>Bilder, Bro</target>
+      </trans-unit>
+      <trans-unit id="tabs.extended">
+        <source>Extended</source>
+        <target>Erweitert, Bre</target>
+      </trans-unit>
+      <trans-unit id="tabs.accessibility">
+        <source>Accessibility</source>
+        <target>Barrierefreiheit, Homie</target>
+      </trans-unit>
+      <trans-unit id="group.default">
+        <source>Typical page content</source>
+        <target>Typischer Seiten-Content, Bestie</target>
+      </trans-unit>
+      <trans-unit id="group.lists">
+        <source>Lists</source>
+        <target>Listen, Digga</target>
+      </trans-unit>
+      <trans-unit id="group.menu">
+        <source>Menu</source>
+        <target>Menue, Brudi</target>
+      </trans-unit>
+      <trans-unit id="group.forms">
+        <source>Form elements</source>
+        <target>Formular-Elemente, Alter</target>
+      </trans-unit>
+      <trans-unit id="group.special">
+        <source>Special elements</source>
+        <target>Spezial-Elemente, Bro</target>
+      </trans-unit>
+      <trans-unit id="group.plugins">
+        <source>Plugins</source>
+        <target>Plugins, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.header">
+        <source>Header Only</source>
+        <target>Nur Ueberschrift, Homie</target>
+      </trans-unit>
+      <trans-unit id="CType.header.description">
+        <source>Adds a header only.</source>
+        <target>Fuegt nur ne Ueberschrift hinzu, Bestie.</target>
+      </trans-unit>
+      <trans-unit id="CType.text">
+        <source>Regular Text Element</source>
+        <target>Normales Text-Element, Digga</target>
+      </trans-unit>
+      <trans-unit id="CType.text.description">
+        <source>A regular text element with header and bodytext fields.</source>
+        <target>Normales Text-Element mit Ueberschrift und Textfeld, Digga.</target>
+      </trans-unit>
+      <trans-unit id="CType.textpic">
+        <source>Text &amp; Images</source>
+        <target>Text &amp; Bilder, Brudi</target>
+      </trans-unit>
+      <trans-unit id="CType.textpic.description">
+        <source>Any number of images wrapped right around a regular text element.</source>
+        <target>Beliebig viele Bilder um ein normales Text-Element drumrum, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="CType.textmedia">
+        <source>Text &amp; Media</source>
+        <target>Text &amp; Medien, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.textmedia.description">
+        <source>Any number of media wrapped right around a regular text element.</source>
+        <target>Beliebig viele Medien um ein normales Text-Element drumrum, Bro.</target>
+      </trans-unit>
+      <trans-unit id="CType.image">
+        <source>Images Only</source>
+        <target>Nur Bilder, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.image.description">
+        <source>Any number of images aligned in columns and rows with a caption.</source>
+        <target>Beliebig viele Bilder in Spalten und Zeilen mit Beschriftung, Homie.</target>
+      </trans-unit>
+      <trans-unit id="CType.bullets">
+        <source>Bullet List</source>
+        <target>Aufzaehlungsliste, Bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.bullets.description">
+        <source>A single bullet list.</source>
+        <target>Eine einzelne Aufzaehlungsliste, Digga.</target>
+      </trans-unit>
+      <trans-unit id="CType.table">
+        <source>Table</source>
+        <target>Tabelle, Brudi</target>
+      </trans-unit>
+      <trans-unit id="CType.table.description">
+        <source>A simple table.</source>
+        <target>Eine einfache Tabelle, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="CType.uploads">
+        <source>File Links</source>
+        <target>Datei-Links, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.uploads.description">
+        <source>Makes a list of files for download.</source>
+        <target>Erstellt ne Download-Liste mit Dateien, Bro.</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_abstract">
+        <source>Abstracts</source>
+        <target>Zusammenfassungen, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_abstract.description">
+        <source>Menu of subpages of selected pages including abstracts</source>
+        <target>Menue der Unterseiten mit Zusammenfassungen, Homie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_content">
+        <source>Categorized content</source>
+        <target>Kategorisierter Content, Bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_content.description">
+        <source>Content elements for selected categories</source>
+        <target>Content-Elemente fuer ausgewaehlte Kategorien, Digga</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_pages">
+        <source>Categorized pages</source>
+        <target>Kategorisierte Seiten, Brudi</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_pages.description">
+        <source>Pages for selected categories</source>
+        <target>Seiten fuer ausgewaehlte Kategorien, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_pages">
+        <source>Pages</source>
+        <target>Seiten, Bro</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_pages.description">
+        <source>Menu of selected pages</source>
+        <target>Menue der ausgewaehlten Seiten, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_subpages">
+        <source>Subpages</source>
+        <target>Unterseiten, Homie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_subpages.description">
+        <source>Menu of subpages of selected pages</source>
+        <target>Menue der Unterseiten, Bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_recently_updated">
+        <source>Recently updated pages</source>
+        <target>Kuerzlich aktualisierte Seiten, Digga</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_recently_updated.description">
+        <source>Menu of recently updated pages</source>
+        <target>Menue der kuerzlich aktualisierten Seiten, Brudi</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_related_pages">
+        <source>Related pages</source>
+        <target>Verwandte Seiten, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_related_pages.description">
+        <source>Menu of related pages based on keywords</source>
+        <target>Menue verwandter Seiten basierend auf Keywords, Bro</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section">
+        <source>Section index</source>
+        <target>Bereichs-Index, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section.description">
+        <source>Page content marked for section menus</source>
+        <target>Seiten-Content der fuer Bereichsmenues markiert ist, Homie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section_pages">
+        <source>Section index of subpages from selected pages</source>
+        <target>Bereichs-Index der Unterseiten von ausgewaehlten Seiten, Bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section_pages.description">
+        <source>Menu of subpages of selected pages including sections</source>
+        <target>Menue der Unterseiten mit Bereichen, Digga</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap">
+        <source>Sitemap</source>
+        <target>Sitemap, Brudi</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap.description">
+        <source>Expanded menu of all subpages of the current site</source>
+        <target>Aufgeklapptes Menue aller Unterseiten der aktuellen Site, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap_pages">
+        <source>Sitemaps of selected pages</source>
+        <target>Sitemaps der ausgewaehlten Seiten, Bro</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap_pages.description">
+        <source>Expanded menu of all subpages for selected pages</source>
+        <target>Aufgeklapptes Menue aller Unterseiten fuer ausgewaehlte Seiten, Bre</target>
+      </trans-unit>
+      <trans-unit id="CType.shortcut">
+        <source>Insert records</source>
+        <target>Datensaetze einfuegen, Homie</target>
+      </trans-unit>
+      <trans-unit id="CType.shortcut.description">
+        <source>With this element you can embed other content elements.</source>
+        <target>Hiermit kannst du andere Content-Elemente einbetten, Digga.</target>
+      </trans-unit>
+      <trans-unit id="CType.list">
+        <source>General Plugin</source>
+        <target>Allgemeines Plugin, Bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.list.description">
+        <source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+        <target>Waehl diesen Elementtyp um ein Plugin einzufuegen das unten nicht aufgelistet ist, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="CType.div">
+        <source>Divider</source>
+        <target>Trenner, Digga</target>
+      </trans-unit>
+      <trans-unit id="CType.div.description">
+        <source>This element inserts a visual divider, which is by default a horizontal line.</source>
+        <target>Fuegt einen visuellen Trenner ein, standardmaessig ne horizontale Linie, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="CType.html">
+        <source>Plain HTML</source>
+        <target>Purer HTML-Code, Alter</target>
+      </trans-unit>
+      <trans-unit id="CType.html.description">
+        <source>With this element you can insert raw HTML code on the page.</source>
+        <target>Hiermit kannst du rohen HTML-Code auf der Seite droppen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="asset_references">
+        <source>Media elements</source>
+        <target>Medien-Elemente, Bro</target>
+      </trans-unit>
+      <trans-unit id="asset_references.addFileReference">
+        <source>Add media file</source>
+        <target>Medien-Datei hinzufuegen, Bre</target>
+      </trans-unit>
+      <trans-unit id="palette.gallerySettings" x-unused-since="14.0">
+        <source>Gallery Settings</source>
+        <target>Galerie-Settings, Bre</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments" x-unused-since="14.0">
+        <source>Media Adjustments</source>
+        <target>Medien-Anpassungen, Homie</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imagewidth" x-unused-since="14.0">
+        <source>Width of each element (px)</source>
+        <target>Breite jedes Elements (px)</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imageheight" x-unused-since="14.0">
+        <source>Height of each element (px)</source>
+        <target>Hoehe jedes Elements (px), Bestie</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imageborder" x-unused-since="14.0">
+        <source>Border around each element</source>
+        <target>Rand um jedes Element, Digga</target>
+      </trans-unit>
+      <trans-unit id="uploads_description">
+        <source>Display description</source>
+        <target>Was geht anzeigen, Brudi</target>
+      </trans-unit>
+      <trans-unit id="uploads_type">
+        <source>Display file/icon/thumbnail</source>
+        <target>Datei/Icon/Thumbnail anzeigen, Alter</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.0">
+        <source>Only file name</source>
+        <target>Nur Dateiname, Bro</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.1">
+        <source>File name and file extension icon</source>
+        <target>Dateiname und Dateiendung-Icon, Bre</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.2">
+        <source>File name and thumbnail (if possible)</source>
+        <target>Dateiname und Thumbnail (wenn moeglich), Homie</target>
+      </trans-unit>
+      <trans-unit id="table_class">
+        <source>Table style</source>
+        <target>Tabellen-Style, Bestie</target>
+      </trans-unit>
+      <trans-unit id="table_class.default">
+        <source>Default</source>
+        <target>Standard, Digga</target>
+      </trans-unit>
+      <trans-unit id="table_class.striped">
+        <source>Striped</source>
+        <target>Gestreift, Brudi</target>
+      </trans-unit>
+      <trans-unit id="table_class.bordered">
+        <source>Bordered</source>
+        <target>Mit Rand, Alter</target>
+      </trans-unit>
+      <trans-unit id="table_caption">
+        <source>Table caption</source>
+        <target>Tabellen-Beschriftung, Bro</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter">
+        <source>Field Delimiter</source>
+        <target>Feld-Trennzeichen, Bre</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.124">
+        <source>| (Pipe)</source>
+        <target>| (Pipe), Homie</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.59">
+        <source>; (Semicolon)</source>
+        <target>; (Semikolon), Bestie</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.58">
+        <source>: (Colon)</source>
+        <target>: (Doppelpunkt), Digga</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.44">
+        <source>, (Comma)</source>
+        <target>, (Komma), Brudi</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.9">
+        <source>⇥ (Tab)</source>
+        <target>⇥ (Tab), Alter</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure">
+        <source>Text enclosure</source>
+        <target>Text-Einschluss, Bro</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.0">
+        <source>None</source>
+        <target>Nix, Bre</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.39">
+        <source>' (Single quotes)</source>
+        <target>' (Einfache Anfuehrungszeichen), Homie</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.34">
+        <source>" (Double quotes)</source>
+        <target>" (Doppelte Anfuehrungszeichen), Bestie</target>
+      </trans-unit>
+      <trans-unit id="table_header_position">
+        <source>Table header position</source>
+        <target>Tabellenkopf-Position, Digga</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.0">
+        <source>No header</source>
+        <target>Kein Header, Brudi</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.1">
+        <source>Top</source>
+        <target>Oben, Alter</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.2">
+        <source>Left</source>
+        <target>Links, Bro</target>
+      </trans-unit>
+      <trans-unit id="table_tfoot">
+        <source>Use table footer (wrap last row with &lt;tfoot&gt; tags)</source>
+        <target>Tabellen-Footer nutzen (letzte Zeile mit &lt;tfoot&gt;-Tags wrappen), Bre</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

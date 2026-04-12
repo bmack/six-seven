@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="be_dashboard">
+        <source>Dashboard</source>
+        <target>Dashboard, Digga</target>
+      </trans-unit>
+      <trans-unit id="identifier">
+        <source>Identifier</source>
+        <target>Kennung, Brudi</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

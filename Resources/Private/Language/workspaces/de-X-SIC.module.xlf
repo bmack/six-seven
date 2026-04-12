@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:workspaces/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Process content through the current publishing workflow</source><target>Content aus der Situationship raus official machen</target></trans-unit>
+      <trans-unit id="description"><source>This module contains the overview of all elements within the current workspace and it enables to continue the review and publishing workflow for them.</source><target>Dieses Modul zeigt alle Elemente im aktuellen Workspace - alles was noch Situationship ist. Hier kannst du Drafts reviewen und sie official machen. Bet!</target></trans-unit>
+      <trans-unit id="title"><source>Publish</source><target>Official machen</target></trans-unit>
+    </body>
+  </file>
+</xliff>

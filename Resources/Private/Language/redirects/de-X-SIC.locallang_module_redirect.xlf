@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_module_redirect.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Redirect Administration</source>
+        <target>Redirect-Verwaltung</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>This is the administration area for Web Redirects.</source>
+        <target>Hier verwaltest du die Web-Detours, Brudi. Bet, jeder Link findet seinen Weg!</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Redirects</source>
+        <target>Redirects</target>
+      </trans-unit>
+      <trans-unit id="source_host_global_text">
+        <source>Global redirect (any domain)</source>
+        <target>Globaler Redirect (jede Domain)</target>
+      </trans-unit>
+      <trans-unit id="heading_text">
+        <source>Redirect Management</source>
+        <target>Detour-Management</target>
+      </trans-unit>
+      <trans-unit id="redirect_add_text">
+        <source>Add redirect</source>
+        <target>Redirect dazu packen, Bre</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found.title">
+        <source>No redirects found</source>
+        <target>Keine Redirects gefunden</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found.message">
+        <source>There are currently no redirect records found in the database.</source>
+        <target>Aktuell keine Redirect-Records in der Datenbank. Voll leer hier.</target>
+      </trans-unit>
+      <trans-unit id="redirect_create">
+        <source>Create new redirect</source>
+        <target>Neuen Redirect droppen</target>
+      </trans-unit>
+      <trans-unit id="noAccessPermissions.title">
+        <source>Access denied</source>
+        <target>Ey, Zugang verweigert!</target>
+      </trans-unit>
+      <trans-unit id="noAccessPermissions.message">
+        <source>You are not allowed to list or modify redirects due to insufficient permissions.</source>
+        <target>Du darfst Redirects weder auflisten noch aendern weil dir die Rechte fehlen. Keine Aura hier.</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found_with_filter.title">
+        <source>No redirects found</source>
+        <target>Nix am Start, keine Redirects</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found_with_filter.message">
+        <source>With the current set of filters applied, no redirect could be found.</source>
+        <target>Mit den aktuellen Filtern konnte kein Redirect gefunden werden.</target>
+      </trans-unit>
+      <trans-unit id="redirect_no_filter">
+        <source>Remove all filter</source>
+        <target>Alle Filter entfernen</target>
+      </trans-unit>
+      <trans-unit id="filter.source_host.showAll">
+        <source>Show All</source>
+        <target>Alles zeigen</target>
+      </trans-unit>
+      <trans-unit id="filter.targetStatusCode">
+        <source>Status Code</source>
+        <target>Statuscode</target>
+      </trans-unit>
+      <trans-unit id="filter.creationType">
+        <source>Creation type</source>
+        <target>Wie gedroppt</target>
+      </trans-unit>
+      <trans-unit id="filter.creationType.showAll">
+        <source>Show All</source>
+        <target>Alles zeigen</target>
+      </trans-unit>
+      <trans-unit id="filter.protected">
+        <source>Protected</source>
+        <target>Geschuetzt</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.showAll">
+        <source>Show All</source>
+        <target>Alles zeigen</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.unprotected">
+        <source>unprotected</source>
+        <target>ungeschuetzt</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.protected">
+        <source>protected</source>
+        <target>geschuetzt</target>
+      </trans-unit>
+      <trans-unit id="filter.integrityStatus">
+        <source>Integrity status</source>
+        <target>Integritaetsstatus</target>
+      </trans-unit>
+      <trans-unit id="filter.integrityStatus.showAll">
+        <source>Show All</source>
+        <target>Alles zeigen</target>
+      </trans-unit>
+      <trans-unit id="filter.neverHit">
+        <source>Never hit</source>
+        <target>Nie getroffen</target>
+      </trans-unit>
+      <trans-unit id="filter.sendButton">
+        <source>Filter</source>
+        <target>Filtern</target>
+      </trans-unit>
+      <trans-unit id="filter.resetButton">
+        <source>Reset</source>
+        <target>Zuruecksetzen</target>
+      </trans-unit>
+      <trans-unit id="record_disabled">
+        <source>Disabled</source>
+        <target>Auf Eis gelegt</target>
+      </trans-unit>
+      <trans-unit id="source_path.placeholder">
+        <source>/my-path/ or #^/my-path/$# (when regex enabled)</source>
+        <target>/mein-pfad/ oder #^/mein-pfad/$# (wenn Regex an ist)</target>
+      </trans-unit>
+      <trans-unit id="short_url.source_path.placeholder">
+        <source>e.g. /AbCdEfGh</source>
+        <target>z.B. /AbCdEfGh</target>
+      </trans-unit>
+      <trans-unit id="short_url.copy">
+        <source>Copy Short URL to clipboard</source>
+        <target>Kurz-URL in die Zwischenablage kopieren</target>
+      </trans-unit>
+      <trans-unit id="pageID">
+        <source>Page ID</source>
+        <target>Seiten-ID</target>
+      </trans-unit>
+      <trans-unit id="destination_status_code">
+        <source>Status Code</source>
+        <target>Statuscode</target>
+      </trans-unit>
+      <trans-unit id="hit_reset">
+        <source>Reset hit counter</source>
+        <target>Hit-Zaehler zuruecksetzen</target>
+      </trans-unit>
+      <trans-unit id="hit_reset.confirm.title">
+        <source>Reset the hit counter of this record?</source>
+        <target>Hit-Zaehler dieses Records zuruecksetzen?</target>
+      </trans-unit>
+      <trans-unit id="hit_reset.confirm.content">
+        <source>Are you sure you want to reset the hit counter of this record?</source>
+        <target>Willst du fr fr den Hit-Zaehler dieses Records zuruecksetzen?</target>
+      </trans-unit>
+      <trans-unit id="hit_last_never">
+        <source>Never</source>
+        <target>Nie</target>
+      </trans-unit>
+      <trans-unit id="visit_destination">
+        <source>Go to</source>
+        <target>Hingehen</target>
+      </trans-unit>
+      <trans-unit id="view_redirect">
+        <source>View redirect</source>
+        <target>Redirect zeig mal</target>
+      </trans-unit>
+      <trans-unit id="overview.tableHead.protected">
+        <source>Protected</source>
+        <target>Geschuetzt</target>
+      </trans-unit>
+      <trans-unit id="overview.tableField.protected.no">
+        <source>No</source>
+        <target>Nein</target>
+      </trans-unit>
+      <trans-unit id="overview.tableField.protected.yes">
+        <source>Yes</source>
+        <target>Ja</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.title">
+        <source>Delete redirects</source>
+        <target>Redirects yeeten</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.message">
+        <source>Are you sure you want to delete all marked redirects?</source>
+        <target>Willst du fr fr alle markierten Redirects yeeten?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

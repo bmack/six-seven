@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_toolbar.xlf">
+    <header/>
+    <body>
+      <trans-unit id="toolbarItems.clearCache">
+        <source>Clear cache</source>
+        <target>Cache yeeten, bet!</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.help">
+        <source>Help</source>
+        <target>Hilfe, Brudi</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sidebarCollapse">
+        <source>Collapse sidebar</source>
+        <target>Sidebar zuklappen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sidebarExpand">
+        <source>Expand sidebar</source>
+        <target>Sidebar aufklappen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.search">
+        <source>Search</source>
+        <target>Suche, Bro</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.searchbarOpenClose">
+        <source>Open/Close searchbar</source>
+        <target>Suchleiste aufmachen/schliessen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo">
+        <source>System Information</source>
+        <target>System-Infos (Tea verschuetten)</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.intro.text">
+        <source>This is a short system overview. For advanced information please head to: </source>
+        <target>Hier ne kurze System-Uebersicht. Fuer mehr Details geh zu: </target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.intro.link">
+        <source>Environment Module</source>
+        <target>Umgebungs-Modul, Alter</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.allgood" xml:space="preserve">
+        <source>Your system is fully operational.
+Have a nice day.</source>
+        <target>Green Flag! Dein System ist snatched, Aura +100.
+Schoenen Tag noch, Digga.</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.applicationcontext">
+        <source>Application Context</source>
+        <target>Application Context</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.installationMethod">
+        <source>Installation Method</source>
+        <target>Installations-Methode</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.installationMethod.classic">
+        <source>Classic mode</source>
+        <target>Oldschool-Modus</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.installationMethod.composer">
+        <source>Composer mode</source>
+        <target>Composer-Modus</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.database">
+        <source>Database</source>
+        <target>Datenbank, Bre</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.database.offline">
+        <source>Offline</source>
+        <target>Offline (Red Flag, ghostet komplett)</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.debugger">
+        <source>Debugger</source>
+        <target>Debugger</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.gitrevision">
+        <source>GIT Revision</source>
+        <target>GIT Revision</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.operatingsystem">
+        <source>Operating System</source>
+        <target>Betriebssystem (welches OS rockt hier?)</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.phpversion">
+        <source>PHP Version</source>
+        <target>PHP-Version</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.typo3-version">
+        <source>TYPO3 Version</source>
+        <target>TYPO3-Version</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.webserver">
+        <source>Web Server</source>
+        <target>Webserver</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.toolbarOpenClose">
+        <source>Open/Close toolbar</source>
+        <target>Toolbar aufmachen/schliessen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.account.switchToUserMode.tooltip">
+        <source>Switch to User</source>
+        <target>Zum User switchen (Sigma-Undercover)</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.account.switchToUserMode.account.prefix">
+        <source>SU</source>
+        <target>SU</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.recentlySwitchedUsers">
+        <source>Recently switched to</source>
+        <target>Zuletzt geswitched zu</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.recentlySwitchedUsers.su.tooltip">
+        <source>Switch to user %s</source>
+        <target>Zu User %s switchen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.btn.exitSwitchUser">
+        <source>Exit switch user mode</source>
+        <target>User-Switch-Modus verlassen</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.btn.logout">
+        <source>Logout</source>
+        <target>Raussliden, bet!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

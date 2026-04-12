@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:theme_camino/Resources/Private/Language/backend_previews.xlf">
+    <header/>
+    <body>
+      <trans-unit id="CType.label"><source>Type</source><target>Typ</target></trans-unit>
+      <trans-unit id="link.label"><source>Link</source><target>Link</target></trans-unit>
+      <trans-unit id="link.config"><source>Type</source><target>Typ</target></trans-unit>
+      <trans-unit id="backend_previews.icon.label"><source>Icon</source><target>Icon</target></trans-unit>
+      <trans-unit id="warnings.label.warning"><source>Warning:</source><target>Achtung Bre:</target></trans-unit>
+      <trans-unit id="warnings.label.error"><source>Error:</source><target>Uff:</target></trans-unit>
+      <trans-unit id="warnings.firstItemOnly"><source>Only the first visible item will be used.</source><target>Yo, nur das erste nicht geghostete Element wird genutzt.</target></trans-unit>
+      <trans-unit id="warnings.firstImageOnly"><source>Only the first visible image will be used.</source><target>Alter, nur das erste nicht geghostete Pic wird genutzt.</target></trans-unit>
+      <trans-unit id="warnings.firstAssetOnly"><source>Only the first visible asset will be used.</source><target>Bre, nur das erste nicht geghostete Asset wird genutzt.</target></trans-unit>
+      <trans-unit id="warnings.noImage"><source>This element will not be shown without an active, visible image!</source><target>Ey, ohne aktives, nicht geghostetes Pic wird das Element nicht gedroppt!</target></trans-unit>
+      <trans-unit id="warnings.noAsset"><source>This element will not be shown without an active, visible asset!</source><target>Yo, ohne aktives, nicht geghostetes Asset wird das Element nicht gedroppt!</target></trans-unit>
+      <trans-unit id="warnings.noItem"><source>This element will not be shown without an active, visible item!</source><target>Brudi, ohne aktives, nicht geghostetes Element wird das hier nicht gedroppt!</target></trans-unit>
+      <trans-unit id="warnings.linkTargetError"><source>Invalid link</source><target>Kaputter Link, uff</target></trans-unit>
+    </body>
+  </file>
+</xliff>

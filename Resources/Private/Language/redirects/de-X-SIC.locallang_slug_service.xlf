@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_slug_service.xlf">
+    <header/>
+    <body>
+      <trans-unit id="notification.slug_and_redirects.title">
+        <source>Slugs updated and redirects created</source>
+        <target>Slugs geupdated und Redirects gedroppt</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_and_redirects.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated and redirects were created for you automatically.</source>
+        <target>Weil du nen Slug umbenannt hast, wurden alle Unterseiten-Slugs geupdated und Redirects automatisch fuer dich gedroppt. Slay!</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.title">
+        <source>Slugs updated</source>
+        <target>Slugs geupdated</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated for you automatically.</source>
+        <target>Weil du nen Slug umbenannt hast, wurden alle Unterseiten-Slugs automatisch geupdated.</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_update">
+        <source>Revert update</source>
+        <target>Update rueckgaengig machen</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_redirect">
+        <source>Revert redirects only</source>
+        <target>Nur Redirects rueckgaengig machen</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_title">
+        <source>An error occurred</source>
+        <target>Uff, ein Fehler ist aufgetreten</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_message">
+        <source>Sorry something went wrong.</source>
+        <target>Sorry Digga, da ist was schiefgelaufen.</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_title">
+        <source>Revert successful</source>
+        <target>Rueckgaengig gemacht, nice!</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_message">
+        <source>All slug changes of sub pages have been reverted.</source>
+        <target>Alle Slug-Aenderungen der Unterseiten wurden zurueckgesetzt.</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_title">
+        <source>Revert successful</source>
+        <target>Rueckgaengig gemacht, nice!</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_message">
+        <source>All created redirects have been reverted.</source>
+        <target>Alle gedropten Redirects wurden zurueckgesetzt. W!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

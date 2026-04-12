@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:frontend/Resources/Private/Language/db/tt_content.xlf">
+    <header/>
+    <body>
+      <trans-unit id="hidden">
+        <source>Visibility of content element</source>
+        <target>Ghost-Status des Content-Elements</target>
+      </trans-unit>
+      <trans-unit id="type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="column">
+        <source>Column</source>
+        <target>Spalte</target>
+      </trans-unit>
+      <trans-unit id="filelink_size">
+        <source>Display file size information</source>
+        <target>Dateigroesse anzeigen, Bre</target>
+      </trans-unit>
+      <trans-unit id="header">
+        <source>Header</source>
+        <target>Ueberschrift</target>
+      </trans-unit>
+      <trans-unit id="header_type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="header_layout">
+        <source>Layout</source>
+        <target>Layout</target>
+      </trans-unit>
+      <trans-unit id="header_position">
+        <source>Alignment</source>
+        <target>Ausrichtung</target>
+      </trans-unit>
+      <trans-unit id="header_link">
+        <source>Link</source>
+        <target>Link</target>
+      </trans-unit>
+      <trans-unit id="subheader">
+        <source>Subheader</source>
+        <target>Unter-Header</target>
+      </trans-unit>
+      <trans-unit id="date">
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit id="bodytext">
+        <source>Text</source>
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="imageorientation">
+        <source>Position and Alignment</source>
+        <target>Position und Ausrichtung</target>
+      </trans-unit>
+      <trans-unit id="imagecols">
+        <source>Number of Columns</source>
+        <target>Anzahl Spalten</target>
+      </trans-unit>
+      <trans-unit id="imagewidth">
+        <source>Width of each element (px)</source>
+        <target>Breite pro Element (px)</target>
+      </trans-unit>
+      <trans-unit id="imageheight">
+        <source>Height of each element (px)</source>
+        <target>Hoehe pro Element (px)</target>
+      </trans-unit>
+      <trans-unit id="imageborder">
+        <source>Border around each element</source>
+        <target>Rahmen um jedes Element</target>
+      </trans-unit>
+      <trans-unit id="image_zoom">
+        <source>Enlarge on Click</source>
+        <target>Beim Klicken vergroessern</target>
+      </trans-unit>
+      <trans-unit id="section_index">
+        <source>Show in Section Menus</source>
+        <target>In Section-Menues zeigen</target>
+      </trans-unit>
+      <trans-unit id="link_to_top">
+        <source>Append with Link to Top of Page</source>
+        <target>Mit Link nach oben anhaengen</target>
+      </trans-unit>
+      <trans-unit id="layout">
+        <source>Layout</source>
+        <target>Layout</target>
+      </trans-unit>
+      <trans-unit id="frame_class">
+        <source>Frame</source>
+        <target>Rahmen</target>
+      </trans-unit>
+      <trans-unit id="space_before_class">
+        <source>Space Before</source>
+        <target>Abstand davor</target>
+      </trans-unit>
+      <trans-unit id="space_after_class">
+        <source>Space After</source>
+        <target>Abstand danach</target>
+      </trans-unit>
+      <trans-unit id="uploads.media">
+        <source>Single files</source>
+        <target>Einzelne Dateien</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

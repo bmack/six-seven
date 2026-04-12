@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="#FF8700" d="M0 0h64v64H0z"/>
+  <!-- Flame outer -->
+  <path fill="#FF4500" d="M32 8c0 0-14 16-14 28 0 10 6.3 18 14 18s14-8 14-18C46 24 32 8 32 8z"/>
+  <!-- Flame middle -->
+  <path fill="#FF8C00" d="M32 18c0 0-9 11-9 20 0 7 4 12 9 12s9-5 9-12C41 29 32 18 32 18z"/>
+  <!-- Flame inner -->
+  <path fill="#FFD700" d="M32 28c0 0-5 7-5 13 0 4.5 2.2 7 5 7s5-2.5 5-7C37 35 32 28 32 28z"/>
+  <!-- Flame core -->
+  <path fill="#FFF8DC" d="M32 36c0 0-2.5 4-2.5 7 0 2.2 1.1 3.5 2.5 3.5s2.5-1.3 2.5-3.5C34.5 40 32 36 32 36z"/>
+</svg>

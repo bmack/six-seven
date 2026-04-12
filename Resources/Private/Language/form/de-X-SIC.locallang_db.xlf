@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="form_definition">
+        <source>Form definition</source>
+        <target>Formular-Blueprint</target>
+      </trans-unit>
+      <trans-unit id="form_definition.label">
+        <source>Name</source>
+        <target>Name, Digga</target>
+      </trans-unit>
+      <trans-unit id="form_definition.identifier">
+        <source>Identifier</source>
+        <target>Identifier, Bre</target>
+      </trans-unit>
+      <trans-unit id="form_definition.configuration">
+        <source>Configuration</source>
+        <target>Konfig, Brudi</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

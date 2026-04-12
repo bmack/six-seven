@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:styleguide/Resources/Private/Language/Modules/pagetrees.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Demo Page Trees</source><target>Demo-Page-Trees</target></trans-unit>
+      <trans-unit id="description"><source>Create and manage example page trees with TCA demo records or content elements for testing and demonstration purposes.</source><target>Beispiel-Page-Trees mit TCA-Demo-Records oder Content-Elementen zum Testen und Demonstrieren droppen und managen.</target></trans-unit>
+      <trans-unit id="title"><source>Manage example page trees</source><target>Beispiel-Page-Trees managen</target></trans-unit>
+    </body>
+  </file>
+</xliff>

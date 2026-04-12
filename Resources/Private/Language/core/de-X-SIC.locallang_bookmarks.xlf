@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_bookmarks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="group_default">
+        <source>Default</source>
+        <target>Mid (Standard)</target>
+      </trans-unit>
+      <trans-unit id="group_pages">
+        <source>Pages</source>
+        <target>Seiten</target>
+      </trans-unit>
+      <trans-unit id="group_records">
+        <source>Records</source>
+        <target>Datensaetze</target>
+      </trans-unit>
+      <trans-unit id="group_files">
+        <source>Files</source>
+        <target>Dateien</target>
+      </trans-unit>
+      <trans-unit id="group_tools">
+        <source>Tools</source>
+        <target>Tools</target>
+      </trans-unit>
+      <trans-unit id="group_miscellaneous">
+        <source>Miscellaneous</source>
+        <target>Sonstiger Kram</target>
+      </trans-unit>
+      <trans-unit id="global">
+        <source>Global</source>
+        <target>Global</target>
+      </trans-unit>
+      <trans-unit id="all">
+        <source>All</source>
+        <target>Alles</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Bookmarks</source>
+        <target>Favoriten</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>You have not added any bookmarks yet. Use the share icon on any backend page to create one.</source>
+        <target>Du hast noch keine Favoriten, Digga. Nutze das Teilen-Icon auf irgendeiner Backend-Seite um einen zu erstellen.</target>
+      </trans-unit>
+      <trans-unit id="notGrouped">
+        <source>Not grouped</source>
+        <target>Ohne Crew</target>
+      </trans-unit>
+      <trans-unit id="empty">
+        <source>No bookmarks yet. Add bookmarks using the share icon on pages throughout the backend.</source>
+        <target>Noch keine Favoriten am Start. Adde welche ueber das Teilen-Icon im Backend, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="manage">
+        <source>Manage bookmarks</source>
+        <target>Favoriten managen, Bro</target>
+      </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete bookmark</source>
+        <target>Favorit yeeten</target>
+      </trans-unit>
+      <trans-unit id="fieldTitle">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="fieldGroup">
+        <source>Group</source>
+        <target>Crew</target>
+      </trans-unit>
+      <trans-unit id="success.created.title">
+        <source>Bookmark created</source>
+        <target>Favorit manifested, Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="success.created.message">
+        <source>The bookmark was created.</source>
+        <target>Ong, der Favorit wurde manifested.</target>
+      </trans-unit>
+      <trans-unit id="success.updated.title">
+        <source>Bookmark updated</source>
+        <target>Favorit geflext</target>
+      </trans-unit>
+      <trans-unit id="success.updated.message">
+        <source>Bookmark updated successfully.</source>
+        <target>Favorit erfolgreich geflext, snatched!</target>
+      </trans-unit>
+      <trans-unit id="success.deleted.title">
+        <source>Bookmark deleted</source>
+        <target>Favorit geyeetet</target>
+      </trans-unit>
+      <trans-unit id="success.deleted.message">
+        <source>Bookmark deleted successfully.</source>
+        <target>Favorit erfolgreich geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="success.deletedMultiple.title">
+        <source>Bookmarks deleted</source>
+        <target>Favoriten geyeetet</target>
+      </trans-unit>
+      <trans-unit id="success.deletedMultiple.message">
+        <source>%d bookmark(s) deleted.</source>
+        <target>%d Favorit(en) geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="success.moved.title">
+        <source>Bookmarks moved</source>
+        <target>Favoriten verschoben</target>
+      </trans-unit>
+      <trans-unit id="success.moved.message">
+        <source>%d bookmark(s) moved.</source>
+        <target>%d Favorit(en) verschoben.</target>
+      </trans-unit>
+      <trans-unit id="success.groupCreated.title">
+        <source>Group created</source>
+        <target>Crew erstellt</target>
+      </trans-unit>
+      <trans-unit id="success.groupCreated.message">
+        <source>Group created successfully.</source>
+        <target>Crew erfolgreich manifested, Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="success.groupUpdated.title">
+        <source>Group updated</source>
+        <target>Crew geflext</target>
+      </trans-unit>
+      <trans-unit id="success.groupUpdated.message">
+        <source>Group updated successfully.</source>
+        <target>Crew erfolgreich geflext.</target>
+      </trans-unit>
+      <trans-unit id="success.groupDeleted.title">
+        <source>Group deleted</source>
+        <target>Crew geyeetet</target>
+      </trans-unit>
+      <trans-unit id="success.groupDeleted.message">
+        <source>Group deleted successfully.</source>
+        <target>Crew erfolgreich geyeetet.</target>
+      </trans-unit>
+      <trans-unit id="error.unknown.message">
+        <source>An unexpected error occurred.</source>
+        <target>Unhinged! Irgendwas Unerwartetes ist schiefgelaufen, Aura -500.</target>
+      </trans-unit>
+      <trans-unit id="error.notFound.message">
+        <source>Bookmark not found.</source>
+        <target>Favorit ghostet uns.</target>
+      </trans-unit>
+      <trans-unit id="error.accessDenied.message">
+        <source>You do not have permission to edit this bookmark.</source>
+        <target>Gatekeept! Du hast kein Recht diesen Favorit zu flexen, Alter.</target>
+      </trans-unit>
+      <trans-unit id="error.globalGroupNotAllowed.message">
+        <source>Only administrators can assign bookmarks to global groups.</source>
+        <target>Nur Sigma-Bosse koennen Favoriten in globale Crews packen. Gatekeept!</target>
+      </trans-unit>
+      <trans-unit id="error.createFailed.title">
+        <source>Bookmark creation failed</source>
+        <target>Favorit manifesten hat gefailt, Aura -500</target>
+      </trans-unit>
+      <trans-unit id="error.createFailed.message">
+        <source>The bookmark could not be created.</source>
+        <target>Der Favorit konnte nicht gedroppt werden.</target>
+      </trans-unit>
+      <trans-unit id="error.updateFailed.title">
+        <source>Bookmark update failed</source>
+        <target>Favorit flexen hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.updateFailed.message">
+        <source>The bookmark could not be updated.</source>
+        <target>Der Favorit konnte nicht geflext werden.</target>
+      </trans-unit>
+      <trans-unit id="error.deleteFailed.title">
+        <source>Bookmark deletion failed</source>
+        <target>Favorit yeeten hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.deleteFailed.message">
+        <source>The bookmarks could not be deleted.</source>
+        <target>Die Favoriten konnten nicht geyeetet werden.</target>
+      </trans-unit>
+      <trans-unit id="error.moveFailed.title">
+        <source>Move failed</source>
+        <target>Verschieben hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.moveFailed.message">
+        <source>The bookmarks could not be moved.</source>
+        <target>Die Favoriten konnten nicht verschoben werden.</target>
+      </trans-unit>
+      <trans-unit id="error.missingRoute.message">
+        <source>The bookmark could not be created because route information is missing.</source>
+        <target>Favorit konnte nicht erstellt werden weil die Route fehlt, Digga.</target>
+      </trans-unit>
+      <trans-unit id="error.missingBookmarkId.message">
+        <source>Missing bookmark ID.</source>
+        <target>Favorit-ID fehlt, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="error.missingBookmarkIds.message">
+        <source>Missing bookmark IDs.</source>
+        <target>Favorit-IDs fehlen, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="error.groupCreateFailed.title">
+        <source>Group creation failed</source>
+        <target>Crew erstellen hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.groupCreateFailed.message">
+        <source>The group could not be created.</source>
+        <target>Die Crew konnte nicht erstellt werden.</target>
+      </trans-unit>
+      <trans-unit id="error.groupUpdateFailed.title">
+        <source>Group update failed</source>
+        <target>Crew flexen hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.groupUpdateFailed.message">
+        <source>The group could not be updated.</source>
+        <target>Die Crew konnte nicht geflext werden.</target>
+      </trans-unit>
+      <trans-unit id="error.groupDeleteFailed.title">
+        <source>Group deletion failed</source>
+        <target>Crew yeeten hat gefailt</target>
+      </trans-unit>
+      <trans-unit id="error.groupDeleteFailed.message">
+        <source>The group could not be deleted.</source>
+        <target>Die Crew konnte nicht geyeetet werden.</target>
+      </trans-unit>
+      <trans-unit id="error.groupReorderFailed.message">
+        <source>The groups could not be reordered.</source>
+        <target>Die Crews konnten nicht umsortiert werden.</target>
+      </trans-unit>
+      <trans-unit id="error.missingGroupId.message">
+        <source>Missing group ID.</source>
+        <target>Crew-ID fehlt.</target>
+      </trans-unit>
+      <trans-unit id="error.missingGroupIds.message">
+        <source>Missing group IDs.</source>
+        <target>Crew-IDs fehlen.</target>
+      </trans-unit>
+      <trans-unit id="error.missingLabel.message">
+        <source>Group label is required.</source>
+        <target>Crew-Name ist Pflicht, no cap.</target>
+      </trans-unit>
+      <trans-unit id="action.create">
+        <source>Create bookmark</source>
+        <target>Favorit erstellen</target>
+      </trans-unit>
+      <trans-unit id="action.remove">
+        <source>Remove bookmark</source>
+        <target>Favorit entfernen</target>
+      </trans-unit>
+      <trans-unit id="action.save">
+        <source>Save</source>
+        <target>Speichern</target>
+      </trans-unit>
+      <trans-unit id="action.cancel">
+        <source>Cancel</source>
+        <target>Lass stecken</target>
+      </trans-unit>
+      <trans-unit id="action.delete">
+        <source>Delete</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="details">
+        <source>Details</source>
+        <target>Details</target>
+      </trans-unit>
+      <trans-unit id="details.route">
+        <source>Route</source>
+        <target>Route</target>
+      </trans-unit>
+      <trans-unit id="details.url">
+        <source>URL</source>
+        <target>URL</target>
+      </trans-unit>
+      <trans-unit id="details.parameters">
+        <source>Parameters</source>
+        <target>Parameter</target>
+      </trans-unit>
+      <trans-unit id="confirmDelete.title">
+        <source>Delete bookmark</source>
+        <target>Favorit yeeten</target>
+      </trans-unit>
+      <trans-unit id="confirmDelete.message">
+        <source>Delete the bookmark permanently? You cannot undo this action.</source>
+        <target>Favorit endgueltig yeeten? Kein Zurueck, Digga!</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteMultiple.title">
+        <source>Delete bookmarks</source>
+        <target>Favoriten yeeten</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteMultiple.message">
+        <source>Delete the %d bookmark(s) permanently? You cannot undo this action.</source>
+        <target>Die %d Favorit(en) endgueltig yeeten? Kein Zurueck!</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteGroup.title">
+        <source>Delete group</source>
+        <target>Crew yeeten</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteGroup.message">
+        <source>Delete the bookmark group "%s"? Bookmarks in this group will be moved to the Default group.</source>
+        <target>Die Favoriten-Crew "%s" yeeten? Favoriten wandern dann in die Standard-Crew.</target>
+      </trans-unit>
+      <trans-unit id="manager.selectAll">
+        <source>Select all</source>
+        <target>Alle markieren</target>
+      </trans-unit>
+      <trans-unit id="manager.deselectAll">
+        <source>Deselect all</source>
+        <target>Alle abwaehlen</target>
+      </trans-unit>
+      <trans-unit id="manager.moveToGroup">
+        <source>Move to group</source>
+        <target>In andere Crew schieben</target>
+      </trans-unit>
+      <trans-unit id="manager.deleteSelected">
+        <source>Delete</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="manager.manageGroups">
+        <source>Manage Groups</source>
+        <target>Crews managen</target>
+      </trans-unit>
+      <trans-unit id="manager.newGroup">
+        <source>New Group</source>
+        <target>Neue Crew</target>
+      </trans-unit>
+      <trans-unit id="manager.createGroup">
+        <source>Create Group</source>
+        <target>Crew erstellen</target>
+      </trans-unit>
+      <trans-unit id="manager.editGroup">
+        <source>Edit Group</source>
+        <target>Crew flexen</target>
+      </trans-unit>
+      <trans-unit id="manager.noGroups">
+        <source>You have not created any groups yet. Click "New Group" to create one.</source>
+        <target>Du hast noch keine Crews erstellt. Klick auf "Neue Crew" um eine zu droppen.</target>
+      </trans-unit>
+      <trans-unit id="manager.label">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="manager.back">
+        <source>Back</source>
+        <target>Zurueck</target>
+      </trans-unit>
+      <trans-unit id="manager.editBookmark">
+        <source>Edit bookmark</source>
+        <target>Favorit flexen</target>
+      </trans-unit>
+      <trans-unit id="manager.dragToReorder">
+        <source>Drag to reorder</source>
+        <target>Ziehen zum Umsortieren</target>
+      </trans-unit>
+      <trans-unit id="manager.moveUp">
+        <source>Move up</source>
+        <target>Nach oben schieben</target>
+      </trans-unit>
+      <trans-unit id="manager.moveDown">
+        <source>Move down</source>
+        <target>Nach unten schieben</target>
+      </trans-unit>
+      <trans-unit id="manager.locked">
+        <source>This bookmark cannot be edited</source>
+        <target>Dieser Favorit ist gatekeept, Digga</target>
+      </trans-unit>
+      <trans-unit id="manager.notAccessible">
+        <source>Not accessible</source>
+        <target>Gatekeept, kein Zugriff</target>
+      </trans-unit>
+      <trans-unit id="groupType.user">
+        <source>My Groups</source>
+        <target>Meine Crews</target>
+      </trans-unit>
+      <trans-unit id="groupType.system">
+        <source>System Groups</source>
+        <target>System-Crews</target>
+      </trans-unit>
+      <trans-unit id="groupType.global">
+        <source>Global Groups</source>
+        <target>Globale Crews</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

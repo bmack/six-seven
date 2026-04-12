@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:seo/Resources/Private/Language/locallang_webinfo.xlf">
+    <header/>
+    <body>
+      <trans-unit id="seo"><source>SEO</source><target>SEO</target></trans-unit>
+      <trans-unit id="social_media"><source>Social Media</source><target>Social Media</target></trans-unit>
+    </body>
+  </file>
+</xliff>

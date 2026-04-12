@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:info/Resources/Private/Language/Modules/translations.xlf">
+    <header/>
+    <body>
+      <trans-unit id="description">
+        <source>Check translation status and manage localized content for pages.</source>
+        <target>Check den Übersetzungsstatus und manage den lokalisierten Content für Pages, Bre.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Localization Overview</source>
+        <target>Übersetzungs-Überblick</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source/>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

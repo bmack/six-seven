@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="localizedOperandAnd">
+        <source>AND</source>
+        <target>UND</target>
+      </trans-unit>
+      <trans-unit id="localizedOperandOr">
+        <source>OR</source>
+        <target>ODER</target>
+      </trans-unit>
+      <trans-unit id="localizedOperandNot">
+        <source>NOT</source>
+        <target>NICHT</target>
+      </trans-unit>
+      <trans-unit id="form.legend">
+        <source>Search form</source>
+        <target>Suchformular, fr fr</target>
+      </trans-unit>
+      <trans-unit id="form.searchFor">
+        <source>Search for</source>
+        <target>Searchn nach, no cap</target>
+      </trans-unit>
+      <trans-unit id="form.extResume">
+        <source>Extended resume</source>
+        <target>Erweiterte Summary, Alter</target>
+      </trans-unit>
+      <trans-unit id="form.atATime">
+        <source>at a time</source>
+        <target>auf einmal</target>
+      </trans-unit>
+      <trans-unit id="form.orderBy">
+        <source>Order by</source>
+        <target>Sortieren nach, no cap</target>
+      </trans-unit>
+      <trans-unit id="form.fromSection">
+        <source>From section</source>
+        <target>Aus Bereich, no cap</target>
+      </trans-unit>
+      <trans-unit id="form.freeIndexUid">
+        <source>Category</source>
+        <target>Kategorie, Bre</target>
+      </trans-unit>
+      <trans-unit id="form.searchIn">
+        <source>Search in</source>
+        <target>Searchn in, Bro</target>
+      </trans-unit>
+      <trans-unit id="form.match">
+        <source>Match</source>
+        <target>Match</target>
+      </trans-unit>
+      <trans-unit id="form.style">
+        <source>Style</source>
+        <target>Style</target>
+      </trans-unit>
+      <trans-unit id="form.submit">
+        <source>Search</source>
+        <target>Los, such, Bre!</target>
+      </trans-unit>
+      <trans-unit id="form.addToSearch">
+        <source>Add to current search words</source>
+        <target>Zu currenten Suchbegriffen adden, fr fr</target>
+      </trans-unit>
+      <trans-unit id="form.linkToRegularSearch">
+        <source>Regular search</source>
+        <target>Normale Search, no cap</target>
+      </trans-unit>
+      <trans-unit id="form.linkToAdvancedSearch">
+        <source>Advanced search</source>
+        <target>Pro-Search, Bro</target>
+      </trans-unit>
+      <trans-unit id="searchTypes.0">
+        <source>Distinct word</source>
+        <target>Exaktes Wort, Bre</target>
+      </trans-unit>
+      <trans-unit id="searchTypes.1">
+        <source>Part of word</source>
+        <target>Teil eines Wortes, no cap</target>
+      </trans-unit>
+      <trans-unit id="searchTypes.2">
+        <source>First part of word</source>
+        <target>Wortanfang, Brudi</target>
+      </trans-unit>
+      <trans-unit id="searchTypes.3">
+        <source>Last part of word</source>
+        <target>Wortende, Bre</target>
+      </trans-unit>
+      <trans-unit id="searchTypes.20">
+        <source>Sentence</source>
+        <target>Ganzer Satz, Bro</target>
+      </trans-unit>
+      <trans-unit id="defaultOperands.0">
+        <source>All words (AND)</source>
+        <target>Alle Wörter (UND), Bre</target>
+      </trans-unit>
+      <trans-unit id="defaultOperands.1">
+        <source>Any words (OR)</source>
+        <target>Irgendein Wort (ODER), Homie</target>
+      </trans-unit>
+      <trans-unit id="sections.0">
+        <source>Whole site</source>
+        <target>Ganze Website, Homie</target>
+      </trans-unit>
+      <trans-unit id="sections.-1">
+        <source>Only this page</source>
+        <target>Nur diese Page, fr fr</target>
+      </trans-unit>
+      <trans-unit id="sections.-2">
+        <source>Top + level 1</source>
+        <target>Top + Level 1, Brudi</target>
+      </trans-unit>
+      <trans-unit id="sections.-3">
+        <source>Level 2 and out</source>
+        <target>Level 2 und weiter, Alter</target>
+      </trans-unit>
+      <trans-unit id="sections.rootLevel1">
+        <source>Level 1</source>
+        <target>Level 1, Alter</target>
+      </trans-unit>
+      <trans-unit id="sections.rootLevel1All">
+        <source>All pages on level 1</source>
+        <target>Alle Pages auf Level 1, Bro</target>
+      </trans-unit>
+      <trans-unit id="sections.rootLevel2">
+        <source>- Level 2</source>
+        <target>- Level 2</target>
+      </trans-unit>
+      <trans-unit id="sections.rootLevel2All">
+        <source>- All pages on level 2</source>
+        <target>- Alle Pages auf Level 2</target>
+      </trans-unit>
+      <trans-unit id="mediaTypes.0">
+        <source>Internal pages</source>
+        <target>Interne Pages, sheesh</target>
+      </trans-unit>
+      <trans-unit id="mediaTypes.-1">
+        <source>All media</source>
+        <target>Alle Medien, Alter</target>
+      </trans-unit>
+      <trans-unit id="mediaTypes.-2">
+        <source>All External</source>
+        <target>Alles Externe, Bro</target>
+      </trans-unit>
+      <trans-unit id="indexingConfigurations.-1">
+        <source>All, mixed</source>
+        <target>Alles, gemischt, Brudi</target>
+      </trans-unit>
+      <trans-unit id="indexingConfigurations.-2">
+        <source>All, categorized</source>
+        <target>Alles, kategorisiert, sheesh</target>
+      </trans-unit>
+      <trans-unit id="indexingConfigurations.0">
+        <source>Pages</source>
+        <target>Pages</target>
+      </trans-unit>
+      <trans-unit id="indexingConfigurationHeader.-1">
+        <source>Mixed categories</source>
+        <target>Gemischte Kategorien, sheesh</target>
+      </trans-unit>
+      <trans-unit id="indexingConfigurationHeader.0">
+        <source>Website Pages</source>
+        <target>Website-Pages, Homie</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.rank_flag">
+        <source>Weight/Frequency</source>
+        <target>Gewichtung/Häufigkeit, fr fr</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.rank_freq">
+        <source>Frequency</source>
+        <target>Häufigkeit, no cap</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.rank_first">
+        <source>Close to top</source>
+        <target>Nah am Anfang, sheesh</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.rank_count">
+        <source>Number of words</source>
+        <target>Anzahl Wörter, Digga</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.mtime">
+        <source>Date Modified</source>
+        <target>Änderungsdatum, Bro</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.title">
+        <source>Document title</source>
+        <target>Dokumenttitel, sheesh</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.crdate">
+        <source>Creation date</source>
+        <target>Erstellungsdatum, sheesh</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.descending">
+        <source>Highest first</source>
+        <target>Höchstes zuerst, Digga</target>
+      </trans-unit>
+      <trans-unit id="sortOrders.ascending">
+        <source>Lowest first</source>
+        <target>Niedrigstes zuerst, sheesh</target>
+      </trans-unit>
+      <trans-unit id="groupBy.sections">
+        <source>Section hierarchy</source>
+        <target>Bereichs-Hierarchie, no cap</target>
+      </trans-unit>
+      <trans-unit id="groupBy.flat">
+        <source>Flat list</source>
+        <target>Flache Liste, Digga</target>
+      </trans-unit>
+      <trans-unit id="result.page">
+        <source>page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="result.pages">
+        <source>pages</source>
+        <target>Pages</target>
+      </trans-unit>
+      <trans-unit id="result.unnamedSection">
+        <source>Other</source>
+        <target>Sonstiges, Homie</target>
+      </trans-unit>
+      <trans-unit id="result.otherMatching">
+        <source>Other matching pages in the same document</source>
+        <target>Andere passende Pages im gleichen Dokument, Bre</target>
+      </trans-unit>
+      <trans-unit id="result.otherPageAsWell">
+        <source>INFO: There was another page indexed as well. Probably indexed with another or no usergroup.</source>
+        <target>INFO: Da wurde noch ne andere Page mitindexiert. Wahrscheinlich mit ner anderen oder keiner Usergroup, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="result.path">
+        <source>Path</source>
+        <target>Pfad</target>
+      </trans-unit>
+      <trans-unit id="result.modified">
+        <source>Modified</source>
+        <target>Geändert, sheesh</target>
+      </trans-unit>
+      <trans-unit id="result.created">
+        <source>Created</source>
+        <target>Gedroppt, fr fr</target>
+      </trans-unit>
+      <trans-unit id="result.size">
+        <source>Size</source>
+        <target>Größe</target>
+      </trans-unit>
+      <trans-unit id="result.noResume">
+        <source>Note: This search hit may not accurately match the content on this page. The page resume cannot be shown.</source>
+        <target>Achtung: Dieser Suchtreffer matcht vielleicht nicht genau mit dem Content auf der Page. Die Summary kann nicht gezeigt werden, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="result.memberGroups">
+        <source>Require membership of group numbers %s</source>
+        <target>Erfordert Mitgliedschaft in Squad-Nummern %s</target>
+      </trans-unit>
+      <trans-unit id="result.ratingMatches">
+        <source>matches</source>
+        <target>Treffer, Bro</target>
+      </trans-unit>
+      <trans-unit id="result.noResult">
+        <source>No results found.</source>
+        <target>Nix gefunden, Digga.</target>
+      </trans-unit>
+      <trans-unit id="result.inSection">
+        <source>in the section</source>
+        <target>im Bereich</target>
+      </trans-unit>
+      <trans-unit id="result.inNsection">
+        <source>in %s section</source>
+        <target>in %s Bereich</target>
+      </trans-unit>
+      <trans-unit id="result.inNsections">
+        <source>in %s sections</source>
+        <target>in %s Bereichen</target>
+      </trans-unit>
+      <trans-unit id="searchFor">
+        <source>Search for</source>
+        <target>Search nach, no cap</target>
+      </trans-unit>
+      <trans-unit id="searchFor.or">
+        <source>or</source>
+        <target>oder</target>
+      </trans-unit>
+      <trans-unit id="searchFor.and">
+        <source>and</source>
+        <target>und</target>
+      </trans-unit>
+      <trans-unit id="searchFor.andnot">
+        <source>but not</source>
+        <target>aber nicht</target>
+      </trans-unit>
+      <trans-unit id="displayResults.previous">
+        <source>Previous</source>
+        <target>Zurück, Bro</target>
+      </trans-unit>
+      <trans-unit id="displayResults.page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="displayResults.next">
+        <source>Next</source>
+        <target>Weiter, Bre</target>
+      </trans-unit>
+      <trans-unit id="displayResults">
+        <source><![CDATA[Displaying results <strong>%1$s to %2$s</strong> out of <strong>%3$s</strong>]]></source>
+        <target><![CDATA[Zeige Results <strong>%1$s bis %2$s</strong> von <strong>%3$s</strong>]]></target>
+      </trans-unit>
+      <trans-unit id="administration.menu.general">
+        <source>General statistics</source>
+        <target>Generale Statistiken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.menu.pages">
+        <source>List of indexed pages</source>
+        <target>Liste indexierter Pages, no cap</target>
+      </trans-unit>
+      <trans-unit id="administration.menu.externalDocuments">
+        <source>List of indexed external documents</source>
+        <target>Liste indexierter externer Dokumente, Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.menu.searchStatistic">
+        <source>Search statistics</source>
+        <target>Such-Statistiken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.menu.statistic">
+        <source>Detailed statistics</source>
+        <target>Detaillierte Statistiken, Homie</target>
+      </trans-unit>
+      <trans-unit id="administration.externalDocuments.headline">
+        <source>List of indexed external documents</source>
+        <target>Liste indexierter externer Dokumente, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.index.headline">
+        <source>General statistics</source>
+        <target>Generale Statistiken, Alter</target>
+      </trans-unit>
+      <trans-unit id="administration.pages.headline">
+        <source>List of indexed pages</source>
+        <target>Liste indexierter Pages, no cap</target>
+      </trans-unit>
+      <trans-unit id="administration.statistic.headline">
+        <source>Detailed statistics</source>
+        <target>Detaillierte Statistiken, Alter</target>
+      </trans-unit>
+      <trans-unit id="administration.statisticDetails.headline">
+        <source>Details for a single result row</source>
+        <target>Details für eine einzelne Resultzeile, fr fr</target>
+      </trans-unit>
+      <trans-unit id="administration.statisticDetails.headlineWithItemTitle">
+        <source>Details for single result row "%s"</source>
+        <target>Details für Resultzeile "%s", Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.wordDetail.headline">
+        <source>Detail view of a single word</source>
+        <target>Detailansicht eines einzelnen Wortes, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.wordDetail.headlineWithWordTitle">
+        <source>Detail view of single word "%s"</source>
+        <target>Detailansicht von Wort "%s", Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.header">
+        <source>Row count by database table</source>
+        <target>Zeilenanzahl pro DB-Tabelle, Brudi</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.count">
+        <source>Count</source>
+        <target>Anzahl, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.headerTypes">
+        <source>Hash Header Types</source>
+        <target>Hash-Header-Typen, Alter</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.headerTypes.count">
+        <source>Count / Unique count</source>
+        <target>Anzahl / Unique-Anzahl, no cap</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.word">
+        <source>Word</source>
+        <target>Wort</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.mostSearched.title">
+        <source>List of most searched words</source>
+        <target>Meistgesuchte Wörter, Alter</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.mostSearched.description">
+        <source>Statistics for all pages. Select a page with indexed search form to see several statistics.</source>
+        <target>Statistiken für alle Seiten. Wähl ne Seite mit Suchformular aus, um mehr Stats zu sehen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.mostSearched.all">
+        <source>All</source>
+        <target>Alle</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.mostSearched.last30days">
+        <source>Last 30 days</source>
+        <target>Letzte 30 Tage, Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.mostSearched.last24hours">
+        <source>Last 24 hours</source>
+        <target>Letzte 24 Stunden, Bre</target>
+      </trans-unit>
+      <trans-unit id="field.pageTitle">
+        <source>Page title</source>
+        <target>Pagestitel, sheesh</target>
+      </trans-unit>
+      <trans-unit id="field.fileName">
+        <source>Filename</source>
+        <target>Dateiname, Homie</target>
+      </trans-unit>
+      <trans-unit id="field.fileSize">
+        <source>Filesize</source>
+        <target>Dateigröße, Bro</target>
+      </trans-unit>
+      <trans-unit id="field.wordCount">
+        <source>Word count</source>
+        <target>Wortanzahl, no cap</target>
+      </trans-unit>
+      <trans-unit id="field.words">
+        <source>Words</source>
+        <target>Wörter, Homie</target>
+      </trans-unit>
+      <trans-unit id="field.mtime">
+        <source>Modification time</source>
+        <target>Änderungszeit, Homie</target>
+      </trans-unit>
+      <trans-unit id="field.indexed">
+        <source>Indexed</source>
+        <target>Indexiert, sheesh</target>
+      </trans-unit>
+      <trans-unit id="field.updated">
+        <source>Updated</source>
+        <target>Gefresht, Bre</target>
+      </trans-unit>
+      <trans-unit id="field.parseTime">
+        <source>Parsetime [ms]</source>
+        <target>Parsezeit [ms], sheesh</target>
+      </trans-unit>
+      <trans-unit id="field.groups">
+        <source>#sec/gr/full</source>
+        <target>#sek/gr/voll</target>
+      </trans-unit>
+      <trans-unit id="field.sub">
+        <source>Sub</source>
+        <target>Sub</target>
+      </trans-unit>
+      <trans-unit id="field.staticPageArguments">
+        <source>Static Page Arguments</source>
+        <target>Statische Pages-Argumente, Bre</target>
+      </trans-unit>
+      <trans-unit id="field.count">
+        <source>Count</source>
+        <target>Anzahl, Brudi</target>
+      </trans-unit>
+      <trans-unit id="field.first">
+        <source>First</source>
+        <target>Erstes, no cap</target>
+      </trans-unit>
+      <trans-unit id="field.pHash">
+        <source>PageHash</source>
+        <target>PagesHash, Digga</target>
+      </trans-unit>
+      <trans-unit id="field.path">
+        <source>Path</source>
+        <target>Pfad</target>
+      </trans-unit>
+      <trans-unit id="field.id">
+        <source>Page Id</source>
+        <target>Pages-ID, fr fr</target>
+      </trans-unit>
+      <trans-unit id="field.uniqueId">
+        <source>Uid</source>
+        <target>Uid</target>
+      </trans-unit>
+      <trans-unit id="field.type">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="field.title">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="field.language">
+        <source>Language</source>
+        <target>Sprache, Digga</target>
+      </trans-unit>
+      <trans-unit id="field.frequency">
+        <source>Frequency</source>
+        <target>Häufigkeit, Homie</target>
+      </trans-unit>
+      <trans-unit id="field.flag">
+        <source>Flag</source>
+        <target>Flag</target>
+      </trans-unit>
+      <trans-unit id="field.content">
+        <source>Content</source>
+        <target>Content, Bro</target>
+      </trans-unit>
+      <trans-unit id="administration.notIndexed">
+        <source>Not indexed</source>
+        <target>Nicht indexiert, Brudi</target>
+      </trans-unit>
+      <trans-unit id="administration.document.words">
+        <source>Words found on this page</source>
+        <target>Wörter auf dieser Page gefunden, sheesh</target>
+      </trans-unit>
+      <trans-unit id="administration.stopWords">
+        <source>Stopwords</source>
+        <target>Stoppwörter, Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.stopWords.save">
+        <source>Save stopwords</source>
+        <target>Stoppwörter saven</target>
+      </trans-unit>
+      <trans-unit id="administration.word">
+        <source>Word</source>
+        <target>Wort</target>
+      </trans-unit>
+      <trans-unit id="administration.words">
+        <source>Words</source>
+        <target>Wörter, Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.sectionRecords">
+        <source>Section records for this phash</source>
+        <target>Bereichs-Records für diesen phash, Bro</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.view.overview">
+        <source>Overview</source>
+        <target>Überblick</target>
+      </trans-unit>
+      <trans-unit id="administration.statistics.view.content">
+        <source>Words and content</source>
+        <target>Wörter und Content, Bro</target>
+      </trans-unit>
+      <trans-unit id="administration.phash.tableHeader">
+        <source>Phash row content</source>
+        <target>Phash-Zeilen-Content, Digga</target>
+      </trans-unit>
+      <trans-unit id="administration.removeEntry">
+        <source>Remove entry</source>
+        <target>Eintrag yeeten</target>
+      </trans-unit>
+      <trans-unit id="administration.removeAllEntries">
+        <source>Remove all listed entries</source>
+        <target>Alle aufgelisteten Einträge yeeten</target>
+      </trans-unit>
+      <trans-unit id="administration.back">
+        <source>Back</source>
+        <target>Zurück, Alter</target>
+      </trans-unit>
+      <trans-unit id="administration.moduleFunctions.mode">
+        <source>Mode</source>
+        <target>Modus</target>
+      </trans-unit>
+      <trans-unit id="administration.moduleFunctions.depth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="administration.btn.details.title">
+        <source>Show details</source>
+        <target>Details zeigen, Bro</target>
+      </trans-unit>
+      <trans-unit id="administration.noPageSelected">
+        <source>Please select a page in the page tree.</source>
+        <target>Wähl erstmal ne Seite im Seitenbaum aus, Digga.</target>
+      </trans-unit>
+      <trans-unit id="administration.noRecords">
+        <source>No records found.</source>
+        <target>Keine Records gefunden, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="administration.noResult">
+        <source>No result found.</source>
+        <target>Kein Ergebnis gefunden, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="administration.noResultForPage">
+        <source>No result for the selected page found.</source>
+        <target>Kein Result für die gewählte Page, Alter, Alter.</target>
+      </trans-unit>
+      <trans-unit id="error.noTypoScript">
+        <source>Error: Please check that TypoScript for the Indexed Search plugin is included.</source>
+        <target>Uff: Check ob das TypoScript für das Indexed Search Plugin eingebunden ist, Digga!</target>
+      </trans-unit>
+      <trans-unit id="administration.flag.32">
+        <source>description</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="administration.flag.64">
+        <source>keyword</source>
+        <target>Schlüsselwort, no cap</target>
+      </trans-unit>
+      <trans-unit id="administration.flag.128">
+        <source>title</source>
+        <target>Titel</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

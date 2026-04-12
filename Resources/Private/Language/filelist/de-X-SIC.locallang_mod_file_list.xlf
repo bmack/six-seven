@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:filelist/Resources/Private/Language/locallang_mod_file_list.xlf">
+    <header/>
+    <body>
+      <trans-unit id="clipBoard">
+        <source>Show clipboard</source>
+        <target>Zwischenablage anzeigen, Alter</target>
+      </trans-unit>
+      <trans-unit id="clip_paste">
+        <source>Paste in clipboard content</source>
+        <target>Zwischenablage-Inhalt einfuegen, Bro</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteInto">
+        <source>Paste into: Clipboard content is inserted into this folder</source>
+        <target>Einfuegen: Zwischenablage-Inhalt wird in diesen Ordner gepackt, Bre</target>
+      </trans-unit>
+      <trans-unit id="editMarked">
+        <source>Edit Metadata</source>
+        <target>Metadaten flexen</target>
+      </trans-unit>
+      <trans-unit id="editColumns">
+        <source>Edit specific Metadata</source>
+        <target>Bestimmte Metadaten flexen</target>
+      </trans-unit>
+      <trans-unit id="deleteMarked">
+        <source>Delete marked items</source>
+        <target>Markierte Items yeeten</target>
+      </trans-unit>
+      <trans-unit id="clip_selectMarked">
+        <source>Transfer to clipboard</source>
+        <target>In die Zwischenablage packen, Homie</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarked">
+        <source>Remove from clipboard</source>
+        <target>Aus der Zwischenablage yeeten</target>
+      </trans-unit>
+      <trans-unit id="deleteMarkedWarning">
+        <source>Are you sure you want to delete all marked items from this folder?</source>
+        <target>Willst du wirklich alle markierten Items aus diesem Ordner yeeten, Digga?</target>
+      </trans-unit>
+      <trans-unit id="c_name">
+        <source>Name</source>
+        <target>Name, Bestie</target>
+      </trans-unit>
+      <trans-unit id="c_size">
+        <source>Size</source>
+        <target>Groesse, Digga</target>
+      </trans-unit>
+      <trans-unit id="c_record_type">
+        <source>Type</source>
+        <target>Typ, Brudi</target>
+      </trans-unit>
+      <trans-unit id="c_rw">
+        <source>RW</source>
+        <target>LS</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>files</source>
+        <target>Dateien, Alter</target>
+      </trans-unit>
+      <trans-unit id="temp">
+        <source>Temporary files</source>
+        <target>Temporaere Dateien, Bro</target>
+      </trans-unit>
+      <trans-unit id="read">
+        <source>R</source>
+        <target>L</target>
+      </trans-unit>
+      <trans-unit id="recycler">
+        <source>Recycler</source>
+        <target>Papierkorb, Bre</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tablabel" x-unused-since="14.0">
+        <source>Listing of files in the directory</source>
+        <target>Auflistung der Dateien im Verzeichnis, Homie</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" x-unused-since="14.0">
+        <source>This is the file administration system in TYPO3.</source>
+        <target>Das ist die Dateiverwaltung in TYPO3, Digga. Hier kannst du Dateien hochladen, kopieren, verschieben und yeeten.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab" x-unused-since="14.0">
+        <source>Filelist</source>
+        <target>Dateiliste, Bestie</target>
+      </trans-unit>
+      <trans-unit id="write">
+        <source>W</source>
+        <target>S</target>
+      </trans-unit>
+      <trans-unit id="storageNotBrowsableTitle">
+        <source>Access denied.</source>
+        <target>Zugang verweigert, Alter.</target>
+      </trans-unit>
+      <trans-unit id="storageNotBrowsableMessage">
+        <source>You are trying to access a folder in a storage that is not browsable.</source>
+        <target>Du versuchst auf einen Ordner in einem nicht durchsuchbaren Storage zuzugreifen, no cap.</target>
+      </trans-unit>
+      <trans-unit id="missingFolderPermissionsTitle">
+        <source>Missing folder permissions</source>
+        <target>Fehlende Ordner-Berechtigungen, Digga</target>
+      </trans-unit>
+      <trans-unit id="missingFolderPermissionsMessage">
+        <source>You have no access to the folder "%s".</source>
+        <target>Du hast keinen Zugriff auf den Ordner "%s", Brudi.</target>
+      </trans-unit>
+      <trans-unit id="localStorageOfflineTitle">
+        <source>Base folder for local storage missing or not allowed</source>
+        <target>Basis-Ordner fuer lokalen Storage fehlt oder ist nicht erlaubt, Brudi</target>
+      </trans-unit>
+      <trans-unit id="localStorageOfflineMessage">
+        <source>Verify that the base folder for the storage "%s" exists and is allowed to be accessed.</source>
+        <target>Check ob der Basis-Ordner fuer den Storage "%s" existiert und zugaenglich ist, Alter.</target>
+      </trans-unit>
+      <trans-unit id="folderNotFoundTitle">
+        <source>Folder not found.</source>
+        <target>Ordner nicht gefunden, Bro.</target>
+      </trans-unit>
+      <trans-unit id="folderNotFoundMessage">
+        <source>The folder "%s" cannot be accessed. Trying to use parent folder(s).</source>
+        <target>Auf den Ordner "%s" kann nicht zugegriffen werden. Versuche uebergeordnete(n) Ordner zu nutzen, Bre.</target>
+      </trans-unit>
+      <trans-unit id="translateMetadata">
+        <source>Translate metadata</source>
+        <target>Metadaten uebersetzen, Homie</target>
+      </trans-unit>
+      <trans-unit id="createMetadataForLanguage">
+        <source>Create metadata of this file for %s</source>
+        <target>Metadaten dieser Datei fuer %s erstellen, Bestie</target>
+      </trans-unit>
+      <trans-unit id="editMetadataForLanguage">
+        <source>Edit metadata of this file for %s</source>
+        <target>Metadaten dieser Datei fuer %s flexen</target>
+      </trans-unit>
+      <trans-unit id="paramError">
+        <source>Parameter Error</source>
+        <target>Parameter-Fail, Digga</target>
+      </trans-unit>
+      <trans-unit id="targetNoDir">
+        <source>Target was not a directory!</source>
+        <target>Ziel war kein Verzeichnis, Alter!</target>
+      </trans-unit>
+      <trans-unit id="reloadMetadata">
+        <source>Reload Metadata</source>
+        <target>Metadaten neu laden, Brudi</target>
+      </trans-unit>
+      <trans-unit id="rangeIndicator">
+        <source>Media %1$d - %2$d</source>
+        <target>Medien %1$d - %2$d, Alter</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

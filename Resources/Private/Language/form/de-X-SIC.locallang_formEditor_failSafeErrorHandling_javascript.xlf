@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_formEditor_failSafeErrorHandling_javascript.xlf">
+    <header/>
+    <body>
+      <trans-unit id="formEditor.error.headline">
+        <source>The form editor has stopped working.</source>
+        <target>Der Formular-Editor hat seinen Geist aufgegeben, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="formEditor.error.message">
+        <source>Please contact your administrator.</source>
+        <target>Kontaktier deinen Admin, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="formEditor.error.technicalReason">
+        <source>Technical Reason:</source>
+        <target>Technischer Grund, Digga:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

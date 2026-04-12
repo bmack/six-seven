@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:styleguide/Resources/Private/Language/Modules/components.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Backend UI Components</source><target>Backend-UI-Components, Bre</target></trans-unit>
+      <trans-unit id="description"><source>Browse and explore the TYPO3 backend component library including buttons, forms, cards, tables, and other UI elements.</source><target>Yo, check die TYPO3-Backend-Component-Lib mit Buttons, Forms, Cards, Tables und anderen UI-Elementen.</target></trans-unit>
+      <trans-unit id="title"><source>Component Library: Components</source><target>Component-Lib: Components</target></trans-unit>
+    </body>
+  </file>
+</xliff>

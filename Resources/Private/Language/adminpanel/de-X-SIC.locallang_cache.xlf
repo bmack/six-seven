@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_cache.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>Cache</source>
+        <target>Cache</target>
+      </trans-unit>
+      <trans-unit id="cache.no_cache">
+        <source>No caching</source>
+        <target>Kein Caching, Bro</target>
+      </trans-unit>
+      <trans-unit id="cache.clear_current">
+        <source>Clear cache of current page</source>
+        <target>Cache der aktuellen Seite wegballern</target>
+      </trans-unit>
+      <trans-unit id="cache.clear_pages">
+        <source>Clear frontend cache</source>
+        <target>Frontend-Cache wegballern</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

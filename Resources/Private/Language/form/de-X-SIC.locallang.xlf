@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="element.ImageUpload.properties.SummaryPage.altText">
+        <source>Uploaded image</source>
+        <target>Hochgeladenes Bild, Bre</target>
+      </trans-unit>
+      <trans-unit id="element.DatePicker.properties.timeSelectorHourLabel">
+        <source>Hour</source>
+        <target>Stunde, Digga</target>
+      </trans-unit>
+      <trans-unit id="element.DatePicker.properties.timeSelectorMinuteLabel">
+        <source>Minute</source>
+        <target>Minute, Alter</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560910">
+        <source>This field is mandatory.</source>
+        <target>Ey Digga, das Feld ist Pflicht!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560718">
+        <source>This field is mandatory.</source>
+        <target>Das Feld musst du ausfuellen, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1347992400">
+        <source>This field is mandatory.</source>
+        <target>Pflichtfeld, Alter! Mach mal!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1347992453">
+        <source>This field is mandatory.</source>
+        <target>Ohne das geht nix, no cap!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238087674">
+        <source>You must enter a valid date.</source>
+        <target>Gib ein gueltiges Datum ein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221551320">
+        <source>You can only enter letters or digits.</source>
+        <target>Nur Buchstaben oder Zahlen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221565786">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>Nur reiner Text ohne Markup (also ohne XML-Tags und so), Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238110957">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>Nur unformatierter Text erlaubt, ohne Tags und Gedoens, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1269883975">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>Kein Markup hier, Digga. Nur Plaintext.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1428504122">
+        <source>Your text must be a minimum of %s characters in length and no longer than %s.</source>
+        <target>Dein Text muss mindestens %s und maximal %s Zeichen lang sein, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238108068">
+        <source>You must enter text which is longer than %s characters.</source>
+        <target>Dein Text muss laenger als %s Zeichen sein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238108069">
+        <source>You must enter text which is no longer than %s characters.</source>
+        <target>Dein Text darf nicht laenger als %s Zeichen sein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221559976">
+        <source>You must enter a valid email address.</source>
+        <target>Gib ne richtige Mail-Addy ein, Digga!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560494">
+        <source>You must enter a valid number.</source>
+        <target>Das muss ne gueltige Zahl sein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560288">
+        <source>You must enter a valid floating point number.</source>
+        <target>Gib ne gueltige Kommazahl ein, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221563685">
+        <source>You must enter a valid number.</source>
+        <target>Das muss ne Zahl sein, no cap.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221561046">
+        <source>You must enter a valid number between %s and %s.</source>
+        <target>Gib ne Zahl zwischen %s und %s ein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221565130">
+        <source>You must enter a valid value. Please refer to the description of this field.</source>
+        <target>Gib nen gueltigen Wert ein. Check mal die Feldbeschreibung, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1475002976">
+        <source>You must enter a countable subject.</source>
+        <target>Gib was Zaehlbares ein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1475002994">
+        <source>You must select between %s to %s elements.</source>
+        <target>Waehl zwischen %s und %s Elementen aus, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1471708997">
+        <source>You must enter an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File.</source>
+        <target>Du musst ne Instanz von \TYPO3\CMS\Extbase\Domain\Model\FileReference oder \TYPO3\CMS\Core\Resource\File angeben, Bre.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1471708998">
+        <source>You entered an incorrect media type, "%s" is not allowed for this file. Please refer to the description of this field.</source>
+        <target>Falscher Media-Type, Digga! "%s" ist hier nicht erlaubt. Check die Feldbeschreibung.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1613126216">
+        <source>The file extension provided "%s" does not match to expected media types. Please refer to the description of this field.</source>
+        <target>Die Dateiendung "%s" passt nicht zu den erwarteten Media-Types. Check die Feldbeschreibung, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1476396435">
+        <source>You must NOT fill this field.</source>
+        <target>Finger weg von diesem Feld, Digga!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505303626">
+        <source>You must enter an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File.</source>
+        <target>Du musst ne Instanz von \TYPO3\CMS\Extbase\Domain\Model\FileReference oder \TYPO3\CMS\Core\Resource\File angeben, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505305752">
+        <source>You must select a file that is larger than %s in size.</source>
+        <target>Die Datei muss groesser als %s sein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505305753">
+        <source>You must select a file that is no larger than %s.</source>
+        <target>Die Datei darf nicht groesser als %s sein, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293685">
+        <source>You must enter an instance of \DateTime.</source>
+        <target>Du musst ne Instanz von \DateTime angeben, Bro.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293686">
+        <source>You must select a date before %s.</source>
+        <target>Waehl ein Datum vor %s, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293687">
+        <source>You must select a date after %s.</source>
+        <target>Waehl ein Datum nach %s, Digga.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1748345955">
+        <source>This field cannot be validated due to a configuration error. Please contact the website owner.</source>
+        <target>Dieses Feld kann wegen nem Konfigfehler nicht validiert werden. Kontaktier den Website-Besitzer, Alter.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1556283177">
+        <source>Password does not match confirmation</source>
+        <target>Passwort und Bestaetigung matchen nicht, Digga</target>
+      </trans-unit>
+      <trans-unit id="form_new_wizard_title">
+        <source>Form</source>
+        <target>Formular, Bre</target>
+      </trans-unit>
+      <trans-unit id="form_new_wizard_description">
+        <source>A form that allows website users to submit messages.</source>
+        <target>Ein Formular mit dem Website-User Nachrichten abschicken koennen, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530345">
+        <source>Maximum file size exceeded.</source>
+        <target>Maximale Dateigroesse ueberschritten, Digga!</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530346">
+        <source>Upload failed. The file was only partially uploaded, please try again.</source>
+        <target>Upload gefailed. Die Datei wurde nur teilweise hochgeladen, versuchs nochmal, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530347">
+        <source>No file was uploaded.</source>
+        <target>Keine Datei hochgeladen, Alter.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530348">
+        <source>Upload failed.</source>
+        <target>Upload gefailed, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="upload.remove">
+        <source>Remove</source>
+        <target>Yeeten</target>
+      </trans-unit>
+      <trans-unit id="form.configuration.module.provider">
+        <source>Form: YAML Configuration</source>
+        <target>Formular: YAML-Konfig, Brudi</target>
+      </trans-unit>
+      <trans-unit id="form.finisher.error">
+        <source>Your form could not be submitted due to a technical issue. It might be a temporary issue, but can also be related to your input.</source>
+        <target>Dein Formular konnte wegen nem technischen Problem nicht abgeschickt werden. Ist vielleicht nur temporaer, kann aber auch an deiner Eingabe liegen, Digga.</target>
+      </trans-unit>
+      <trans-unit id="pagination.previous">
+        <source>Previous</source>
+        <target>Zurueck, Bre</target>
+      </trans-unit>
+      <trans-unit id="pagination.next">
+        <source>Next</source>
+        <target>Weiter, Digga</target>
+      </trans-unit>
+      <trans-unit id="pagination.first">
+        <source>First</source>
+        <target>Erste, Bro</target>
+      </trans-unit>
+      <trans-unit id="pagination.last">
+        <source>Last</source>
+        <target>Letzte, Alter</target>
+      </trans-unit>
+      <trans-unit id="pagination.forms">
+        <source>Forms</source>
+        <target>Formulare, Bestie</target>
+      </trans-unit>
+      <trans-unit id="pagination.page">
+        <source>Page</source>
+        <target>Seite, Bre</target>
+      </trans-unit>
+      <trans-unit id="pagination.refresh">
+        <source>Refresh</source>
+        <target>Refresh, Homie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

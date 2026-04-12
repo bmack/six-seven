@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:beuser/Resources/Private/Language/Modules/user_management.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Users</source>
+        <target>Leute</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Backend users management</source>
+        <target>Backend-Leute managen</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Administers backend user accounts and groups, and defines access permissions on records, files, and modules. Page-level read and write permissions can be managed separately in the Permissions module.</source>
+        <target>Verwaltet Backend-User-Accounts und Squads, gatekeept Zugriffsrechte auf Datensaetze, Dateien und Module. Sigma-Move: Seiten-Berechtigungen kannst du separat im Gatekeeping-Modul regeln, Brudi.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

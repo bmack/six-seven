@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_codeeditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="pageIDInteger">
+        <source>Syntax error: Parameter pageID must be a valid integer.</source>
+        <target>Syntax-Fehler: Parameter pageID muss ein gueltiger Integer sein, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="noPermission">
+        <source>Access denied: No permission to template records.</source>
+        <target>Zugriff verweigert: Keine Berechtigung fuer Template-Records, kein Rizz hier.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

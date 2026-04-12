@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:belog/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="adminLog">
+        <source>Administration log</source>
+        <target>Admin-Tagebuch, Digga</target>
+      </trans-unit>
+      <trans-unit id="allUsers">
+        <source>[All users]</source>
+        <target>[Alle Brudis]</target>
+      </trans-unit>
+      <trans-unit id="any">
+        <source>[Any]</source>
+        <target>[Egal was]</target>
+      </trans-unit>
+      <trans-unit id="viaUser">
+        <source>via</source>
+        <target>durch</target>
+      </trans-unit>
+      <trans-unit id="live">
+        <source>LIVE</source>
+        <target>LIVE am Start</target>
+      </trans-unit>
+      <trans-unit id="draft">
+        <source>Draft</source>
+        <target>Entwurf (noch cringe)</target>
+      </trans-unit>
+      <trans-unit id="self">
+        <source>Self</source>
+        <target>Ich selber, Digga</target>
+      </trans-unit>
+      <trans-unit id="userGroup">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="set">
+        <source>Filter</source>
+        <target>Viben filtern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="reset">
+        <source>Reset</source>
+        <target>Nochmal von vorne, Digga</target>
+      </trans-unit>
+      <trans-unit id="all">
+        <source>[all]</source>
+        <target>[alles]</target>
+      </trans-unit>
+      <trans-unit id="actionAll">
+        <source>All</source>
+        <target>Alles</target>
+      </trans-unit>
+      <trans-unit id="actionDatabase">
+        <source>Database</source>
+        <target>DB</target>
+      </trans-unit>
+      <trans-unit id="actionFile">
+        <source>File</source>
+        <target>Datei</target>
+      </trans-unit>
+      <trans-unit id="actionCache">
+        <source>Cache</source>
+        <target>Cache</target>
+      </trans-unit>
+      <trans-unit id="actionSettings">
+        <source>Settings</source>
+        <target>Settings, Bre</target>
+      </trans-unit>
+      <trans-unit id="actionLogin">
+        <source>Login</source>
+        <target>Reinsliden</target>
+      </trans-unit>
+      <trans-unit id="actionErrors">
+        <source>Errors</source>
+        <target>Fails</target>
+      </trans-unit>
+      <trans-unit id="group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="user">
+        <source>User</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="users">
+        <source>Users</source>
+        <target>Leute</target>
+      </trans-unit>
+      <trans-unit id="time">
+        <source>Time</source>
+        <target>Uhrzeit, Bro</target>
+      </trans-unit>
+      <trans-unit id="max">
+        <source>Max</source>
+        <target>Max</target>
+      </trans-unit>
+      <trans-unit id="showHistory">
+        <source>Show History</source>
+        <target>Zeig die Story, Bre</target>
+      </trans-unit>
+      <trans-unit id="action">
+        <source>Action</source>
+        <target>Move</target>
+      </trans-unit>
+      <trans-unit id="channel">
+        <source>Channel</source>
+        <target>Kanal</target>
+      </trans-unit>
+      <trans-unit id="levels">
+        <source>Levels</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="workspace">
+        <source>Workspace</source>
+        <target>Workspace, Brudi</target>
+      </trans-unit>
+      <trans-unit id="overview">
+        <source>Overview</source>
+        <target>Vibe-Check, Bro</target>
+      </trans-unit>
+      <trans-unit id="type_1">
+        <source>DB</source>
+        <target>DB</target>
+      </trans-unit>
+      <trans-unit id="action_1_1">
+        <source>Insert</source>
+        <target>Reinballern, Brudi</target>
+      </trans-unit>
+      <trans-unit id="action_1_2">
+        <source>Update</source>
+        <target>Auffrischen, sheesh</target>
+      </trans-unit>
+      <trans-unit id="action_1_3">
+        <source>Delete</source>
+        <target>Yeeten, Bre</target>
+      </trans-unit>
+      <trans-unit id="action_1_4">
+        <source>Move</source>
+        <target>Moven</target>
+      </trans-unit>
+      <trans-unit id="action_1_5">
+        <source>Check</source>
+        <target>Checken, no cap</target>
+      </trans-unit>
+      <trans-unit id="msg_1_0_1">
+        <source>Referer host '%s' and server host '%s' did not match!</source>
+        <target>Ey, Referer-Host '%s' und Server-Host '%s' matchen nicht, lowkey sus!</target>
+      </trans-unit>
+      <trans-unit id="msg_1_1_11">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+        <target>Brudi wollte einen Datensatz auf Seite '%s' (%s) reindrücken, aber Tabelle %s ist da nicht erlaubt</target>
+      </trans-unit>
+      <trans-unit id="msg_1_1_12">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+        <target>Versuch, nen Datensatz auf Seite '%s' (%s) aus Tabelle '%s' reinzudrücken ohne Rechte. Oder die Seite gibt's gar nicht, Digga.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_1">
+        <source>Attempt to modify table '%s' without permission</source>
+        <target>Wollte Tabelle '%s' flexen ohne Permission - no cap denied</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_2">
+        <source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+        <target>Versuch, Datensatz '%s' (%s) zu flexen ohne Rechte. Oder die Seite existiert nicht, Alter.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_10">
+        <source>Record '%s' (%s) was updated.</source>
+        <target>Datensatz '%s' (%s) wurde gefresht.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_12">
+        <source>MySQL error: '%s' (%s)</source>
+        <target>MySQL hat verkackt: '%s' (%s), Homie</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_1">
+        <source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+        <target>Versuch, Record '%s' (%s) hinter einen Geist-Record zu schieben (uid=%s) - der existiert nicht, Alter!</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_2">
+        <source>Moved record '%s' (%s) to page '%s' (%s)</source>
+        <target>Datensatz '%s' (%s) auf Seite '%s' (%s) verschoben - slay!</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_3">
+        <source>Moved record '%s' (%s) from page '%s' (%s)</source>
+        <target>Record '%s' (%s) von Page '%s' (%s) weggezogen, Homie</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_4">
+        <source>Moved record '%s' (%s) on page '%s' (%s)</source>
+        <target>Record '%s' (%s) auf Page '%s' (%s) rumgeschoben, Homie</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_10">
+        <source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+        <target>Alter, du wolltest Seite '%s' (%s) in ihre eigene Rootline schieben (bei Seite '%s' (%s)) - das geht nicht, sheesh!</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_11">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+        <target>Versuch, Datensatz auf Seite '%s' (%s) zu droppen wo Tabelle %s nicht erlaubt ist</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_12">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+        <target>Wollte Record auf Page '%s' (%s) aus Tabelle '%s' reinpacken ohne Rechte. Oder die Page ist ein Geist, Bro.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_13">
+        <source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+        <target>Brudi wollte Datensatz '%s' (%s) hinter nen anderen schieben, aber die Tabelle hat keine Sortierung. L.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_14">
+        <source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+        <target>Versuch, Datensatz '%s' (%s) zu verschieben ohne Rechte - denied, Digga</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_1">
+        <source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+        <target>Du kannst den Seitentyp von '%s' nicht auf den gewünschten Wert ändern, Brudi.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_2">
+        <source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+        <target>Pagestyp von '%s' konnte nicht geändert werden, weil da Records von verbotenen Tabellen drauf sind; %s, Bre</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_3">
+        <source>Too few items in the list of values. (%s)</source>
+        <target>Zu wenig Items in der Werteliste, Digga. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_10">
+        <source>Could not delete file '%s' (does not exist). (%s)</source>
+        <target>Konnte Datei '%s' nicht yeeten (gibt's nicht). (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_11">
+        <source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+        <target>Datei '%s' kopieren ist gefailed! Kein Ziel (%s) möglich! (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_12">
+        <source>File extension '%s' is not allowed. (%s)</source>
+        <target>Dateiendung '%s' ist nicht erlaubt, Brudi. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_13">
+        <source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+        <target>Dateigröße (%s) von '%s' sprengt das Limit (%s). Zu thicc! (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_14">
+        <source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+        <target>Das Ziel (%s) oder die Quelldatei (%s) existiert nicht. Ghosted! (%s), Brudi</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_15">
+        <source>Copying to file '%s' failed! (%s)</source>
+        <target>Kopieren nach '%s' ist gefailed! (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_16">
+        <source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+        <target>Datei '%s' kopieren ist gefailed! Der Zielpfad (%s) ist wahrscheinlich schreibgeschützt. Mach den mal writable, Alter! (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_4">
+        <source>The value of the field "%s" has been changed from "%s" to "%s" as it is required to be unique.</source>
+        <target>Der Wert vom Feld "%s" wurde von "%s" auf "%s" geändert, weil der unique sein muss, no cap.</target>
+      </trans-unit>
+      <trans-unit id="type_2">
+        <source>FILE</source>
+        <target>DATEI</target>
+      </trans-unit>
+      <trans-unit id="action_2_1">
+        <source>Upload</source>
+        <target>Uploaden, Alter</target>
+      </trans-unit>
+      <trans-unit id="action_2_2">
+        <source>Copy</source>
+        <target>Copypasta, fr fr</target>
+      </trans-unit>
+      <trans-unit id="action_2_3">
+        <source>Move</source>
+        <target>Moven</target>
+      </trans-unit>
+      <trans-unit id="action_2_4">
+        <source>Delete</source>
+        <target>Yeeten, Bro</target>
+      </trans-unit>
+      <trans-unit id="action_2_5">
+        <source>Rename</source>
+        <target>Umtaufen, Alter</target>
+      </trans-unit>
+      <trans-unit id="action_2_6">
+        <source>New</source>
+        <target>Frisch, no cap</target>
+      </trans-unit>
+      <trans-unit id="action_2_7">
+        <source>Unzip</source>
+        <target>Entpacken, sheesh</target>
+      </trans-unit>
+      <trans-unit id="action_2_8">
+        <source>New file</source>
+        <target>Neue Datei, Bre</target>
+      </trans-unit>
+      <trans-unit id="action_2_9">
+        <source>Edit</source>
+        <target>Flexen, fr fr</target>
+      </trans-unit>
+      <trans-unit id="msg_2_9_1">
+        <source>File saved to '%s', bytes: %s, MD5: %s </source>
+        <target>Datei nach '%s' gesaved, Bytes: %s, MD5: %s </target>
+      </trans-unit>
+      <trans-unit id="type_3">
+        <source>CACHE</source>
+        <target>CACHE</target>
+      </trans-unit>
+      <trans-unit id="action_3_1">
+        <source>Clear Cache</source>
+        <target>Cache wegballern</target>
+      </trans-unit>
+      <trans-unit id="type_4">
+        <source>EXTENSION</source>
+        <target>EXTENSION, Bro</target>
+      </trans-unit>
+      <trans-unit id="type_5">
+        <source>ERROR</source>
+        <target>FAIL</target>
+      </trans-unit>
+      <trans-unit id="action_5_0">
+        <source>Error handler</source>
+        <target>Fail-Handler, Homie</target>
+      </trans-unit>
+      <trans-unit id="type_254">
+        <source>SETTING</source>
+        <target>SETTING, BRE, Digga</target>
+      </trans-unit>
+      <trans-unit id="action_254_1">
+        <source>Change</source>
+        <target>Ändern, Bro</target>
+      </trans-unit>
+      <trans-unit id="type_255">
+        <source>LOGIN</source>
+        <target>REINSLIDEN, Digga</target>
+      </trans-unit>
+      <trans-unit id="action_255_1">
+        <source>LOGIN</source>
+        <target>REINSLIDEN, Homie</target>
+      </trans-unit>
+      <trans-unit id="action_255_2">
+        <source>LOGOUT</source>
+        <target>RAUSSLIDEN, sheesh</target>
+      </trans-unit>
+      <trans-unit id="action_255_3">
+        <source>ATTEMPT</source>
+        <target>VERSUCH, Bre</target>
+      </trans-unit>
+      <trans-unit id="chLog_title">
+        <source>Admin Changelog</source>
+        <target>Admin-Changelog, Digga</target>
+      </trans-unit>
+      <trans-unit id="chLog_users_0">
+        <source>All users</source>
+        <target>Alle Leute</target>
+      </trans-unit>
+      <trans-unit id="chLog_users_-1">
+        <source>Self</source>
+        <target>Ich selbst, Brudi</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_0">
+        <source>This week</source>
+        <target>Diese Woche, Bro</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_1">
+        <source>Last week</source>
+        <target>Letzte Woche, Homie</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_2">
+        <source>Last 7 days</source>
+        <target>Letzte 7 Tage, Bro</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_10">
+        <source>This month</source>
+        <target>Dieser Monat, no cap</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_11">
+        <source>Last month</source>
+        <target>Letzter Monat, sheesh</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_12">
+        <source>Last 31 days</source>
+        <target>Letzte 31 Tage, no cap</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_20">
+        <source>No limit</source>
+        <target>Ohne Limit, yolo</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_time">
+        <source>Time</source>
+        <target>Uhrzeit, Alter</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_user">
+        <source>User</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_action">
+        <source>Action</source>
+        <target>Move</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_channel">
+        <source>Channel</source>
+        <target>Kanal</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_types">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_level">
+        <source>Level</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_table">
+        <source>Table</source>
+        <target>Tabelle, Bre</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_details">
+        <source>Details</source>
+        <target>Details, Alter</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuUsers">
+        <source>Users</source>
+        <target>Leute</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuPageId">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuDepth">
+        <source>Depth</source>
+        <target>Tiefe</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuTime">
+        <source>Time</source>
+        <target>Zeit</target>
+      </trans-unit>
+      <trans-unit id="systemmessage.errorsInPeriod">
+        <source><![CDATA[We have found %1$d error(s). Please check your <a href="%2$s">system log</a>.]]></source>
+        <target><![CDATA[Sheesh, %1$d Uff gefunden! Check mal dein <a href="%2$s">System-Log</a>, Digga.]]></target>
+      </trans-unit>
+      <trans-unit id="actions">
+        <source>Actions</source>
+        <target>Aktionen, Bro</target>
+      </trans-unit>
+      <trans-unit id="actions.delete">
+        <source>Delete similar errors</source>
+        <target>Ähnliche Fails yeeten</target>
+      </trans-unit>
+      <trans-unit id="actions.deleteWarnings">
+        <source>Delete similar warnings</source>
+        <target>Ähnliche Yo, Achtungen yeeten</target>
+      </trans-unit>
+      <trans-unit id="actions.delete.message">
+        <source>Total entries deleted: %1$d</source>
+        <target>Total geyeetet: %1$d Einträge</target>
+      </trans-unit>
+      <trans-unit id="actions.delete.noRowFound">
+        <source>Log entry could not be found.</source>
+        <target>Log-Eintrag ist geghostet, nicht auffindbar.</target>
+      </trans-unit>
+      <trans-unit id="info.noRecords.message">
+        <source>No records found.</source>
+        <target>Nix gefunden, Digga. Null Datensätze.</target>
+      </trans-unit>
+      <trans-unit id="info.selectPage.title">
+        <source>No page selected</source>
+        <target>Keine Page gewählt, Alter, fr fr</target>
+      </trans-unit>
+      <trans-unit id="info.selectPage.message">
+        <source>Select a page to display logs for.</source>
+        <target>Wähl erstmal ne Page aus, für die du Logs sehen willst, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.title">
+        <source>No access!</source>
+        <target>Kein Zugang, Brudi!</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.message">
+        <source>You don't have access to the selected page.</source>
+        <target>Du hast keinen Zugriff auf die gewählte Page. Lowkey gesperrt, Bre.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

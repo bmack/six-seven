@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/Modules/redirects.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Redirect Administration</source>
+        <target>Redirect-Verwaltung</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manage URL redirects to prevent broken links and route traffic to preferred destinations.</source>
+        <target>URL-Detours verwalten damit keine Links brechen und der Traffic richtig laeuft. Bet, deine URLs nehmen den Detour, Digga.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Redirects</source>
+        <target>Redirects</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

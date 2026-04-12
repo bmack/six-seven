@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_login.xlf">
+    <header/>
+    <body>
+      <trans-unit id="labels.submitLogout">
+        <source>Log Out</source>
+        <target>Tschuessi, ich bin raus</target>
+      </trans-unit>
+      <trans-unit id="labels.whatIsOpenId">
+        <source>What is OpenId?</source>
+        <target>Was ist OpenId, Brudi?</target>
+      </trans-unit>
+      <trans-unit id="availableInterfaces">
+        <source>Backend,Front End,Traditional Backend</source>
+        <target>Backend,Frontend,Klassisches Backend</target>
+      </trans-unit>
+      <trans-unit id="headline">
+        <source>Login to the TYPO3 CMS Backend on ###SITENAME###</source>
+        <target>Slide rein ins TYPO3 CMS Backend auf ###SITENAME### - ong, it's giving Produktivitaet!</target>
+      </trans-unit>
+      <trans-unit id="info.about">
+        <source>This is the backend login of TYPO3. You need username and password to access this administration interface. If you are a visitor of ###SITENAME###, please visit the public website: ###SITELINK###</source>
+        <target>Hier ist der Backend-Login von TYPO3. Du brauchst Gamertag und Geheimcode um hier reinzukommen, Digga. Wenn du nur Besucher von ###SITENAME### bist, geh zur oeffentlichen Website: ###SITELINK###</target>
+      </trans-unit>
+      <trans-unit id="info.reset">
+        <source>Reset this form</source>
+        <target>Formular resetten, bet!</target>
+      </trans-unit>
+      <trans-unit id="info.cookies_and_js">
+        <source>(Note: Cookies and JavaScript must be enabled!)</source>
+        <target>(Achtung: Cookies und JavaScript muessen an sein, no cap!)</target>
+      </trans-unit>
+      <trans-unit id="clear">
+        <source>Clear this field!</source>
+        <target>Feld leeren, Alter!</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowserHeadline">
+        <source>Unsupported Browser</source>
+        <target>Red Flag: Dein Browser ist cringe</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowser">
+        <source>You are using an unsupported browser version.</source>
+        <target>Deine Browser-Version wird nicht unterstuetzt. Update mal, Digga.</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowserInternetExplorer">
+        <source>Please install &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" rel="noreferrer" /&gt;a more modern browser version&lt;/a&gt;.</source>
+        <target>Bitte installier &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" rel="noreferrer" /&gt;einen moderneren Browser&lt;/a&gt;, Alter.</target>
+      </trans-unit>
+      <trans-unit id="newsheadline">
+        <source>Important Messages</source>
+        <target>Wichtige Nachrichten, fr fr</target>
+      </trans-unit>
+      <trans-unit id="error.login">
+        <source>Your login attempt did not succeed. Make sure to spell your username and password correctly, including upper/lowercase characters.</source>
+        <target>Aura -500! Login verkackt, Brudi. Check ob du Gamertag und Geheimcode richtig geschrieben hast, auch Gross-/Kleinschreibung.</target>
+      </trans-unit>
+      <trans-unit id="error.cookies_ignore">
+        <source>Ignore!</source>
+        <target>Ist mir egal, no cap!</target>
+      </trans-unit>
+      <trans-unit id="error.furtherInformation">
+        <source>For more information or further help click here</source>
+        <target>Fuer mehr Infos oder Hilfe hier klicken, Homie</target>
+      </trans-unit>
+      <trans-unit id="warranty.by">
+        <source>Warranty is supplied by %s; %sdetails about licenses.%s</source>
+        <target>Garantie kommt von %s; %sDetails zu Lizenzen.%s</target>
+      </trans-unit>
+      <trans-unit id="no.warranty">
+        <source>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY; %sdetails about licenses.%s</source>
+        <target>TYPO3 CMS kommt KOMPLETT OHNE GARANTIE, no cap; %sDetails zu Lizenzen.%s</target>
+      </trans-unit>
+      <trans-unit id="typo3.cms">
+        <source>TYPO3 CMS</source>
+        <target>TYPO3 CMS</target>
+      </trans-unit>
+      <trans-unit id="typo3.altText">
+        <source>TYPO3 CMS logo</source>
+        <target>TYPO3 CMS Logo</target>
+      </trans-unit>
+      <trans-unit id="version.short">
+        <source>ver.</source>
+        <target>Ver.</target>
+      </trans-unit>
+      <trans-unit id="copyright">
+        <source>Copyright</source>
+        <target>Copyright</target>
+      </trans-unit>
+      <trans-unit id="extension.copyright">
+        <source>Extensions are copyright of their respective owners.</source>
+        <target>Extensions gehoeren ihren jeweiligen Ownern. Ong, Respekt!</target>
+      </trans-unit>
+      <trans-unit id="extension.trademark">
+        <source>TYPO3 is a registered %strademark%s.</source>
+        <target>TYPO3 ist eine eingetragene %sMarke%s.</target>
+      </trans-unit>
+      <trans-unit id="details.link">
+        <source>Go to %s for details.</source>
+        <target>Geh zu %s fuer Details.</target>
+      </trans-unit>
+      <trans-unit id="free.software">
+        <source>This is free software, and you are welcome to redistribute it under certain conditions; %sdetails about licenses.%s</source>
+        <target>Das ist freie Software, und du darfst es gerne weiterverteilen unter bestimmten Bedingungen; %sDetails zu Lizenzen.%s</target>
+      </trans-unit>
+      <trans-unit id="free_software_and_warranty">
+        <source>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</source>
+        <target>TYPO3 CMS kommt KOMPLETT OHNE GARANTIE. Das ist freie Software, Brudi, und du darfst es unter bestimmten Bedingungen weiterverteilen, siehe %sDetails zu Lizenzen.%s</target>
+      </trans-unit>
+      <trans-unit id="free_software_and_custom_warranty">
+        <source>Warranty is supplied by %s. This is free software, and you are welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</source>
+        <target>Garantie wird geliefert von %s. Das ist freie Software, und du darfst es unter bestimmten Bedingungen weiterverteilen, siehe %sDetails zu Lizenzen.%s</target>
+      </trans-unit>
+      <trans-unit id="keep.notice">
+        <source>Obstructing the appearance of this notice is prohibited by law.</source>
+        <target>Diesen Hinweis zu ghosten ist gesetzlich verboten, Digga. Ist so.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
