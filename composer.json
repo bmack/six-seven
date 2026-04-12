@@ -1,5 +1,5 @@
 {
-    "name": "bmack/cms-six-seven",
+    "name": "bmack/six-seven",
     "type": "typo3-cms-extension",
     "description": "Sheesh! Registriert die Sprache 'Jugendsprache' und übersetzt alle TYPO3 Backend-Labels. No cap!",
     "license": "GPL-2.0-or-later",
