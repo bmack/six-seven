@@ -5,19 +5,19 @@
     <body>
       <trans-unit id="mod_tx_cms_webinfo_page" x-unused-since="14.0">
         <source>Pagetree Overview</source>
-        <target>Seitenbaum-Ueberblick, Digga</target>
+        <target>Seitenbaum-Überblick, Digga</target>
       </trans-unit>
       <trans-unit id="mod_tx_cms_webinfo_page.description" x-unused-since="14.0">
         <source>View page records and settings in a tree structure with detailed metadata.</source>
-        <target>Seiten-Datensaetze und Settings, Bre als Baum mit Metadaten checken.</target>
+        <target>Seiten-Datensätze und Settings, Bre als Baum mit Metadaten checken.</target>
       </trans-unit>
       <trans-unit id="mod_tx_cms_webinfo_lang" x-unused-since="14.0">
         <source>Localization Overview</source>
-        <target>Uebersetzungs-Ueberblick, Brudi</target>
+        <target>Übersetzungs-Überblick, Brudi</target>
       </trans-unit>
       <trans-unit id="mod_tx_cms_webinfo_lang.description" x-unused-since="14.0">
         <source>Check translation status and manage localized content for pages.</source>
-        <target>Uebersetzungsstatus checken und lokalisierten Content managen, Alter.</target>
+        <target>Übersetzungsstatus checken und lokalisierten Content managen, Alter.</target>
       </trans-unit>
       <trans-unit id="pages.palettes.standard" x-unused-since="14.0">
         <source>Page</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="pages.palettes.access" x-unused-since="14.0">
         <source>Publish Dates and Access Rights</source>
-        <target>Veroeffentlichungsdaten und Zugriffsrechte, Bestie</target>
+        <target>Veröffentlichungsdaten und Zugriffsrechte, Bestie</target>
       </trans-unit>
       <trans-unit id="pages.palettes.abstract" x-unused-since="14.0">
         <source>Abstract</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="pages.starttime_formlabel">
         <source>Publish Date</source>
-        <target>Veroeffentlichungsdatum, Bre</target>
+        <target>Veröffentlichungsdatum, Bre</target>
       </trans-unit>
       <trans-unit id="pages.endtime_formlabel">
         <source>Expiration Date</source>
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="pages.nav_hide_formlabel">
         <source>In Menus</source>
-        <target>In Menues, Homie</target>
+        <target>In Menüs, Homie</target>
       </trans-unit>
       <trans-unit id="pages.nav_hide_checkbox_1_formlabel">
         <source>Hide</source>
@@ -245,7 +245,7 @@
       </trans-unit>
       <trans-unit id="pages.cache_timeout">
         <source>Cache Expires</source>
-        <target>Cache laeuft ab, Alter</target>
+        <target>Cache läuft ab, Alter</target>
       </trans-unit>
       <trans-unit id="pages.cache_timeout_formlabel">
         <source>Cache Lifetime</source>
@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="pages.editlock_formlabel">
         <source>Editable for Admins Only</source>
-        <target>Nur Admins duerfen flexen</target>
+        <target>Nur Admins dürfen flexen</target>
       </trans-unit>
       <trans-unit id="pages.tabs.metadata">
         <source>Metadata</source>
@@ -365,15 +365,15 @@
       </trans-unit>
       <trans-unit id="pages.shortcut_mode.I.0">
         <source>Selected page</source>
-        <target>Ausgewaehlte Seite, Digga</target>
+        <target>Ausgewählte Seite, Digga</target>
       </trans-unit>
       <trans-unit id="pages.shortcut_mode.I.1">
         <source>First subpage of selected/current page</source>
-        <target>Erste Unterseite der gewaehlten/aktuellen Seite, Brudi</target>
+        <target>Erste Unterseite der gewählten/aktuellen Seite, Brudi</target>
       </trans-unit>
       <trans-unit id="pages.shortcut_mode.I.3">
         <source>Parent page of selected/current page</source>
-        <target>Elternseite der gewaehlten/aktuellen Seite, Alter</target>
+        <target>Elternseite der gewählten/aktuellen Seite, Alter</target>
       </trans-unit>
       <trans-unit id="pages.shortcut_formlabel">
         <source>Shortcut Target</source>
@@ -453,11 +453,11 @@
       </trans-unit>
       <trans-unit id="pages.module">
         <source>Contains Plugin</source>
-        <target>Enthaelt Plugin, Digga</target>
+        <target>Enthält Plugin, Digga</target>
       </trans-unit>
       <trans-unit id="pages.module_formlabel">
         <source>Contains Plugin</source>
-        <target>Enthaelt Plugin, Brudi</target>
+        <target>Enthält Plugin, Brudi</target>
       </trans-unit>
       <trans-unit id="pages.module.I.1">
         <source>Shop</source>
@@ -485,11 +485,11 @@
       </trans-unit>
       <trans-unit id="pages.l18n_cfg">
         <source>Localization Settings</source>
-        <target>Uebersetzungs-Settings, Bre</target>
+        <target>Übersetzungs-Settings, Bre</target>
       </trans-unit>
       <trans-unit id="pages.l18n_cfg_formlabel">
         <source>Localization</source>
-        <target>Uebersetzung, Brudi</target>
+        <target>Übersetzung, Brudi</target>
       </trans-unit>
       <trans-unit id="pages.l18n_cfg.I.1">
         <source>Hide default language of page</source>
@@ -497,11 +497,11 @@
       </trans-unit>
       <trans-unit id="pages.l18n_cfg.I.2">
         <source>Hide page if no translation for current language exists</source>
-        <target>Seite ghosten wenn keine Uebersetzung fuer aktuelle Sprache existiert</target>
+        <target>Seite ghosten wenn keine Übersetzung für aktuelle Sprache existiert</target>
       </trans-unit>
       <trans-unit id="pages.l18n_cfg.I.2a">
         <source>Show page even if no translation exists</source>
-        <target>Seite trotzdem anzeigen auch wenn keine Uebersetzung da ist, Alter</target>
+        <target>Seite trotzdem anzeigen auch wenn keine Übersetzung da ist, Alter</target>
       </trans-unit>
       <trans-unit id="pages.storage_pid_formlabel">
         <source>Page</source>
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="fe_users.tabs.personalData" x-unused-since="14.0">
         <source>Personal Data</source>
-        <target>Persoenliche Daten, Brudi</target>
+        <target>Persönliche Daten, Brudi</target>
       </trans-unit>
       <trans-unit id="fe_users.tabs.access">
         <source>Access</source>
@@ -630,7 +630,7 @@
       </trans-unit>
       <trans-unit id="sys_template.basedOn">
         <source>Include TypoScript records</source>
-        <target>TypoScript-Datensaetze einbinden, Brudi</target>
+        <target>TypoScript-Datensätze einbinden, Brudi</target>
       </trans-unit>
       <trans-unit id="sys_template.basedOnDescription">
         <source>Include additional TypoScript records located elsewhere in the page tree. This can be used to load the same TypoScript records at multiple places in a page tree.
@@ -644,11 +644,11 @@
       </trans-unit>
       <trans-unit id="sys_template.includeStaticAfterBasedOn">
         <source>Load TypoScript sets after included TypoScript records</source>
-        <target>TypoScript-Sets nach eingebundenen TypoScript-Datensaetzen laden, Alter</target>
+        <target>TypoScript-Sets nach eingebundenen TypoScript-Datensätzen laden, Alter</target>
       </trans-unit>
       <trans-unit id="sys_template.includeStaticAfterBasedOnDescription">
         <source>When using both fields "Include TypoScript sets" and "Include TypoScript records" in a TypoScript record, this flag allows swapping their load order.</source>
-        <target>Wenn du beide Felder "TypoScript-Sets einbinden" und "TypoScript-Datensaetze einbinden" nutzt, kannst du hiermit die Ladereihenfolge tauschen, Bro.</target>
+        <target>Wenn du beide Felder "TypoScript-Sets einbinden" und "TypoScript-Datensätze einbinden" nutzt, kannst du hiermit die Ladereihenfolge tauschen, Bro.</target>
       </trans-unit>
       <trans-unit id="sys_template.config">
         <source>Setup</source>
@@ -661,7 +661,7 @@
       <trans-unit id="sys_template.static_file_modeDescription">
         <source>This seldom used feature affects if and when TypoScript sets from extensions (ext_typoscript_setup.typoscript and ext_typoscript_constants.typoscript)
 					are loaded. There are very few cases where setting this to a different value than the default value "0" is useful.</source>
-        <target>Dieses selten genutzte Feature bestimmt ob und wann TypoScript-Sets von Extensions geladen werden. Es gibt kaum Faelle wo ein anderer Wert als "0" sinnvoll ist, Digga.</target>
+        <target>Dieses selten genutzte Feature bestimmt ob und wann TypoScript-Sets von Extensions geladen werden. Es gibt kaum Fälle wo ein anderer Wert als "0" sinnvoll ist, Digga.</target>
       </trans-unit>
       <trans-unit id="sys_template.static_file_mode.0">
         <source>Default (include before if root flag is set)</source>

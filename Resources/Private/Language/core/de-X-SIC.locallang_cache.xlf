@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="page.label">
         <source>Clear cache for this page</source>
-        <target>Cache fuer diese Seite flushen</target>
+        <target>Cache für diese Seite flushen</target>
       </trans-unit>
       <trans-unit id="group.pages.label">
         <source>Flush frontend caches</source>
@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="notification.page.success.message">
         <source>Page cache for '%s' has been cleared.</source>
-        <target>Seiten-Cache fuer '%s' wurde geflusht, W!</target>
+        <target>Seiten-Cache für '%s' wurde geflusht, W!</target>
       </trans-unit>
       <trans-unit id="notification.page.error.title">
         <source>Page cache not cleared</source>

@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="overview.title">
         <source>Site Settings Overview</source>
-        <target>Site-Settings Ueberblick</target>
+        <target>Site-Settings Überblick</target>
       </trans-unit>
       <trans-unit id="overview.setSummary">
         <source>Sets (%d)</source>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="overview.noSiteSettingsExists.message">
         <source>See the documentation for instructions on defining settings via site sets.</source>
-        <target>Schau in die Doku fuer Anleitungen zum Definieren von Settings ueber Site-Sets.</target>
+        <target>Schau in die Doku für Anleitungen zum Definieren von Settings über Site-Sets.</target>
       </trans-unit>
       <trans-unit id="overview.noSiteSettingsExists.button-documentation-label">
         <source>Open the documentation</source>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="edit.headline">
         <source>Site Settings for "%s"</source>
-        <target>Site-Settings fuer "%s"</target>
+        <target>Site-Settings für "%s"</target>
       </trans-unit>
       <trans-unit id="edit.noSettings.title">
         <source>No settings available</source>

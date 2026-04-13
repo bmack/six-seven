@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="validation.error.1221560718">
         <source>This field is mandatory.</source>
-        <target>Das Feld musst du ausfuellen, Brudi!</target>
+        <target>Das Feld musst du ausfüllen, Brudi!</target>
       </trans-unit>
       <trans-unit id="validation.error.1347992400">
         <source>This field is mandatory.</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="validation.error.1238087674">
         <source>You must enter a valid date.</source>
-        <target>Gib ein gueltiges Datum ein, Brudi.</target>
+        <target>Gib ein gültiges Datum ein, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1221551320">
         <source>You can only enter letters or digits.</source>
@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="validation.error.1238110957">
         <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
-        <target>Nur unformatierter Text erlaubt, ohne Tags und Gedoens, Alter.</target>
+        <target>Nur unformatierter Text erlaubt, ohne Tags und Gedöns, Alter.</target>
       </trans-unit>
       <trans-unit id="validation.error.1269883975">
         <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
@@ -57,11 +57,11 @@
       </trans-unit>
       <trans-unit id="validation.error.1238108068">
         <source>You must enter text which is longer than %s characters.</source>
-        <target>Dein Text muss laenger als %s Zeichen sein, Digga.</target>
+        <target>Dein Text muss länger als %s Zeichen sein, Digga.</target>
       </trans-unit>
       <trans-unit id="validation.error.1238108069">
         <source>You must enter text which is no longer than %s characters.</source>
-        <target>Dein Text darf nicht laenger als %s Zeichen sein, Brudi.</target>
+        <target>Dein Text darf nicht länger als %s Zeichen sein, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1221559976">
         <source>You must enter a valid email address.</source>
@@ -69,11 +69,11 @@
       </trans-unit>
       <trans-unit id="validation.error.1221560494">
         <source>You must enter a valid number.</source>
-        <target>Das muss ne gueltige Zahl sein, Brudi.</target>
+        <target>Das muss ne gültige Zahl sein, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1221560288">
         <source>You must enter a valid floating point number.</source>
-        <target>Gib ne gueltige Kommazahl ein, Alter.</target>
+        <target>Gib ne gültige Kommazahl ein, Alter.</target>
       </trans-unit>
       <trans-unit id="validation.error.1221563685">
         <source>You must enter a valid number.</source>
@@ -85,15 +85,15 @@
       </trans-unit>
       <trans-unit id="validation.error.1221565130">
         <source>You must enter a valid value. Please refer to the description of this field.</source>
-        <target>Gib nen gueltigen Wert ein. Check mal die Feldbeschreibung, Brudi.</target>
+        <target>Gib nen gültigen Wert ein. Check mal die Feldbeschreibung, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1475002976">
         <source>You must enter a countable subject.</source>
-        <target>Gib was Zaehlbares ein, Digga.</target>
+        <target>Gib was Zählbares ein, Digga.</target>
       </trans-unit>
       <trans-unit id="validation.error.1475002994">
         <source>You must select between %s to %s elements.</source>
-        <target>Waehl zwischen %s und %s Elementen aus, Brudi.</target>
+        <target>Wähl zwischen %s und %s Elementen aus, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1471708997">
         <source>You must enter an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File.</source>
@@ -117,11 +117,11 @@
       </trans-unit>
       <trans-unit id="validation.error.1505305752">
         <source>You must select a file that is larger than %s in size.</source>
-        <target>Die Datei muss groesser als %s sein, Brudi.</target>
+        <target>Die Datei muss größer als %s sein, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1505305753">
         <source>You must select a file that is no larger than %s.</source>
-        <target>Die Datei darf nicht groesser als %s sein, Digga.</target>
+        <target>Die Datei darf nicht größer als %s sein, Digga.</target>
       </trans-unit>
       <trans-unit id="validation.error.1521293685">
         <source>You must enter an instance of \DateTime.</source>
@@ -129,11 +129,11 @@
       </trans-unit>
       <trans-unit id="validation.error.1521293686">
         <source>You must select a date before %s.</source>
-        <target>Waehl ein Datum vor %s, Brudi.</target>
+        <target>Wähl ein Datum vor %s, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.error.1521293687">
         <source>You must select a date after %s.</source>
-        <target>Waehl ein Datum nach %s, Digga.</target>
+        <target>Wähl ein Datum nach %s, Digga.</target>
       </trans-unit>
       <trans-unit id="validation.error.1748345955">
         <source>This field cannot be validated due to a configuration error. Please contact the website owner.</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="validation.error.1556283177">
         <source>Password does not match confirmation</source>
-        <target>Passwort und Bestaetigung matchen nicht, Digga</target>
+        <target>Passwort und Bestätigung matchen nicht, Digga</target>
       </trans-unit>
       <trans-unit id="form_new_wizard_title">
         <source>Form</source>
@@ -149,11 +149,11 @@
       </trans-unit>
       <trans-unit id="form_new_wizard_description">
         <source>A form that allows website users to submit messages.</source>
-        <target>Ein Formular mit dem Website-User Nachrichten abschicken koennen, sheesh.</target>
+        <target>Ein Formular mit dem Website-User Nachrichten abschicken können, sheesh.</target>
       </trans-unit>
       <trans-unit id="upload.error.150530345">
         <source>Maximum file size exceeded.</source>
-        <target>Maximale Dateigroesse ueberschritten, Digga!</target>
+        <target>Maximale Dateigröße überschritten, Digga!</target>
       </trans-unit>
       <trans-unit id="upload.error.150530346">
         <source>Upload failed. The file was only partially uploaded, please try again.</source>
@@ -177,11 +177,11 @@
       </trans-unit>
       <trans-unit id="form.finisher.error">
         <source>Your form could not be submitted due to a technical issue. It might be a temporary issue, but can also be related to your input.</source>
-        <target>Dein Formular konnte wegen nem technischen Problem nicht abgeschickt werden. Ist vielleicht nur temporaer, kann aber auch an deiner Eingabe liegen, Digga.</target>
+        <target>Dein Formular konnte wegen nem technischen Problem nicht abgeschickt werden. Ist vielleicht nur temporär, kann aber auch an deiner Eingabe liegen, Digga.</target>
       </trans-unit>
       <trans-unit id="pagination.previous">
         <source>Previous</source>
-        <target>Zurueck, Bre</target>
+        <target>Zurück, Bre</target>
       </trans-unit>
       <trans-unit id="pagination.next">
         <source>Next</source>

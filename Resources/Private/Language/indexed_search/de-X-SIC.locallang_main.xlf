@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="pdfToolsNotFound">
         <source>PDF tools was not found in paths '%1$spdftotext' and/or '%1$spdfinfo'</source>
-        <target>PDF-Tools wurden nicht gefunden, sheesh unter '%1$spdftotext' und/oder '%1$spdfinfo'</target>
+        <target>PDF-Tools voll lost, sheesh unter '%1$spdftotext' und/oder '%1$spdfinfo'</target>
       </trans-unit>
       <trans-unit id="pdfToolsDisabled">
         <source>PDF tools disabled</source>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="catdocNotFound">
         <source>'catdoc' tool for reading Word-files was not found in path '%scatdoc'</source>
-        <target>'catdoc'-Tool zum Lesen von Word-Dateien nicht gefunden, sheesh unter '%scatdoc'</target>
+        <target>'catdoc'-Tool zum Lesen von Word-Dateien voll lost, sheesh unter '%scatdoc'</target>
       </trans-unit>
       <trans-unit id="catdocDisabled">
         <source>catdoc tools (Word-files) disabled</source>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="ppthtmlNotFound">
         <source>'ppthtml' tool for reading Powerpoint-files was not found in path '%sppthtml'</source>
-        <target>'ppthtml'-Tool zum Lesen von Powerpoint-Dateien nicht gefunden, sheesh unter '%sppthtml'</target>
+        <target>'ppthtml'-Tool zum Lesen von Powerpoint-Dateien voll lost, sheesh unter '%sppthtml'</target>
       </trans-unit>
       <trans-unit id="ppthtmlDisabled">
         <source>ppthtml tools (Powerpoint-files) disabled</source>
@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="xlhtmlNotFound">
         <source>'xlhtml' tool for reading Excel-files was not found in path '%sxlhtml'</source>
-        <target>'xlhtml'-Tool zum Lesen von Excel-Dateien nicht gefunden, sheesh unter '%sxlhtml'</target>
+        <target>'xlhtml'-Tool zum Lesen von Excel-Dateien voll lost, sheesh unter '%sxlhtml'</target>
       </trans-unit>
       <trans-unit id="xlhtmlDisabled">
         <source>xlhtml tools (Excel-files) disabled</source>
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="unzipNotFound">
         <source>'unzip' tool for reading OpenOffice.org-files was not found in path '%sunzip'</source>
-        <target>'unzip'-Tool zum Lesen von OpenOffice-Dateien nicht gefunden, sheesh unter '%sunzip'</target>
+        <target>'unzip'-Tool zum Lesen von OpenOffice-Dateien voll lost, sheesh unter '%sunzip'</target>
       </trans-unit>
       <trans-unit id="unzipDisabled">
         <source>unzip tool (OpenOffice.org-files) disabled</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="unrtfNotFound">
         <source>'unrtf' tool for reading RTF-files was not found in path '%sunrtf'</source>
-        <target>'unrtf'-Tool zum Lesen von RTF-Dateien nicht gefunden, sheesh unter '%sunrtf'</target>
+        <target>'unrtf'-Tool zum Lesen von RTF-Dateien voll lost, sheesh unter '%sunrtf'</target>
       </trans-unit>
       <trans-unit id="unrtfDisabled">
         <source>unrtf tool (RTF-files) disabled</source>

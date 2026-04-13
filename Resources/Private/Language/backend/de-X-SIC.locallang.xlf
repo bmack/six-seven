@@ -21,23 +21,23 @@
       </trans-unit>
       <trans-unit id="config.loginLogo">
         <source>Logo: Replace the TYPO3 logo above the login form (e.g. fileadmin/images/login-logo.png, EXT:my_theme/Resources/Public/Images/login-logo.png, or //domain.tld/login-logo.png).</source>
-        <target>Logo: Tausch das TYPO3-Logo ueber dem Login-Formular gegen dein eigenes Drip aus (z.B. fileadmin/images/login-logo.png, EXT:my_theme/Resources/Public/Images/login-logo.png, oder //domain.tld/login-logo.png).</target>
+        <target>Logo: Tausch das TYPO3-Logo über dem Login-Formular gegen dein eigenes Drip aus (z.B. fileadmin/images/login-logo.png, EXT:my_theme/Resources/Public/Images/login-logo.png, oder //domain.tld/login-logo.png).</target>
       </trans-unit>
       <trans-unit id="config.loginLogoAlt">
         <source>Logo Alt-Text: Define the alternative text used as the alt attribute for the custom login logo image.</source>
-        <target>Logo Alt-Text: Pack hier den Alternativtext fuer dein Custom-Login-Logo rein, Digga.</target>
+        <target>Logo Alt-Text: Pack hier den Alternativtext für dein Custom-Login-Logo rein, Digga.</target>
       </trans-unit>
       <trans-unit id="config.loginHighlightColor">
         <source>Highlight Color: Define the accent color used for highlights on the login screen.</source>
-        <target>Highlight-Farbe: Bestimm die Akzentfarbe fuer den Drip auf dem Loginscreen.</target>
+        <target>Highlight-Farbe: Bestimm die Akzentfarbe für den Drip auf dem Loginscreen.</target>
       </trans-unit>
       <trans-unit id="config.loginBackgroundImage">
         <source>Background Image: Set the image used as the background for the login screen (e.g. fileadmin/images/my-background.jpg, EXT:my_theme/Resources/Public/Images/my-background.jpg, or //domain.tld/my-background.png).</source>
-        <target>Hintergrundbild: Setz das Wallpaper fuer deinen Loginscreen (z.B. fileadmin/images/my-background.jpg, EXT:my_theme/Resources/Public/Images/my-background.jpg, oder //domain.tld/my-background.png).</target>
+        <target>Hintergrundbild: Setz das Wallpaper für deinen Loginscreen (z.B. fileadmin/images/my-background.jpg, EXT:my_theme/Resources/Public/Images/my-background.jpg, oder //domain.tld/my-background.png).</target>
       </trans-unit>
       <trans-unit id="config.loginFootnote">
         <source>Footnote: Enter the text displayed on the login screen, for example to provide copyright information for the background image (e.g. background image © 2017 by John Doe) or a short description.</source>
-        <target>Fussnote: Schreib hier den Text rein, der auf dem Loginscreen steht, z.B. Copyright fuers Wallpaper (Hintergrundbild © 2017 by John Doe) oder ne kurze Beschreibung.</target>
+        <target>Fußnote: Schreib hier den Text rein, der auf dem Loginscreen steht, z.B. Copyright fürs Wallpaper (Hintergrundbild © 2017 by John Doe) oder ne kurze Beschreibung.</target>
       </trans-unit>
       <trans-unit id="config.backendLogo">
         <source>Logo: Set the logo used in the top-left corner of the TYPO3 backend instead of the TYPO3 logo (e.g. fileadmin/images/backend-logo.png or EXT:my_theme/Resources/Public/Images/backend-logo.png).</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="login.region.footnote">
         <source>Footnote</source>
-        <target>Fussnote</target>
+        <target>Fußnote</target>
       </trans-unit>
       <trans-unit id="login.link">
         <source>Login with username and password</source>
@@ -101,7 +101,7 @@
       </trans-unit>
       <trans-unit id="login.news.header">
         <source>System News</source>
-        <target>System-Tea (hier wird Tea verschuettet)</target>
+        <target>System-Tea (hier wird Tea verschüttet)</target>
       </trans-unit>
       <trans-unit id="login.news.date">
         <source>Date</source>
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="login.news.previous">
         <source>Previous</source>
-        <target>Zurueck</target>
+        <target>Zurück</target>
       </trans-unit>
       <trans-unit id="login.news.next">
         <source>Next</source>
@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="login.navigation.typo3">
         <source>Further information about TYPO3</source>
-        <target>Mehr Infos ueber TYPO3, wenn du Bock hast</target>
+        <target>Mehr Infos über TYPO3, wenn du Bock hast</target>
       </trans-unit>
       <trans-unit id="login.error.message">
         <source>Your login attempt did not succeed</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="login.error.referrer">
         <source>TYPO3 relies on HTTP referrers for security reasons in the backend. It looks like your browser was not able to send this information, which may be due to privacy or security settings.</source>
-        <target>TYPO3 braucht HTTP-Referrer aus Sicherheitsgruenden im Backend. Dein Browser hat die Info lowkey nicht gesendet, vielleicht wegen deinen Privacy-Settings.</target>
+        <target>TYPO3 braucht HTTP-Referrer aus Sicherheitsgründen im Backend. Dein Browser hat die Info lowkey nicht gesendet, vielleicht wegen deinen Privacy-Settings.</target>
       </trans-unit>
       <trans-unit id="login.process">
         <source>Verifying Login Data ...</source>
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="login.copyrightLink">
         <source>More about TYPO3</source>
-        <target>Mehr ueber TYPO3</target>
+        <target>Peep mal TYPO3</target>
       </trans-unit>
       <trans-unit id="login.typo3Logo">
         <source>TYPO3 logo</source>
@@ -207,7 +207,7 @@
       </trans-unit>
       <trans-unit id="create_folder.placeholder">
         <source>Your new folder name</source>
-        <target>Name fuer deinen neuen Ordner, Brudi</target>
+        <target>Name für deinen neuen Ordner, Brudi</target>
       </trans-unit>
       <trans-unit id="create_folder.submit">
         <source>Create folder</source>
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="row.deletePlaceholder.title">
         <source>The live pendant of this record will be deleted when this workspace record is published.</source>
-        <target>Das Live-Gegenstueck von diesem Datensatz wird geyeetet, sobald der Workspace-Datensatz gepublisht wird.</target>
+        <target>Das Live-Gegenstück von diesem Datensatz wird geyeetet, sobald der Workspace-Datensatz gepublisht wird.</target>
       </trans-unit>
       <trans-unit id="shortcut.title">
         <source>%s%s on page "%s" [%d]</source>
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="liveSearch.databaseRecordProvider.filterLabel">
         <source>Database records</source>
-        <target>Datenbank-Datensaetze, Bro</target>
+        <target>Datenbank-Datensätze, Bro</target>
       </trans-unit>
       <trans-unit id="liveSearch.databaseRecordProvider.typeLabel">
         <source>Database record</source>
@@ -263,11 +263,11 @@
       </trans-unit>
       <trans-unit id="moduleMenu.dropdown.overview">
         <source>Module overview</source>
-        <target>Modul-Ueberblick, fr fr</target>
+        <target>Modul-Überblick, fr fr</target>
       </trans-unit>
       <trans-unit id="submoduleOverview.openModule">
         <source>Open module</source>
-        <target>Modul oeffnen, Digga</target>
+        <target>Modul öffnen, Digga</target>
       </trans-unit>
       <trans-unit id="submoduleOverview.openModuleWithTitle">
         <source>Open %1s module</source>
@@ -307,7 +307,7 @@
       </trans-unit>
       <trans-unit id="colorSchemeToggleDisabled">
         <source>Due to your current accessibility settings, the color scheme cannot be changed.</source>
-        <target>Wegen deiner Barrierefreiheits-Settings kann das Farbschema nicht geaendert werden, sorry Brudi.</target>
+        <target>Wegen deiner Barrierefreiheits-Settings kann das Farbschema nicht geändert werden, sorry Brudi.</target>
       </trans-unit>
       <trans-unit id="colorScheme.auto">
         <source>Auto detect</source>
@@ -339,15 +339,15 @@
       </trans-unit>
       <trans-unit id="pageTree.found_translation">
         <source>Found translation</source>
-        <target>Uebersetzung am Start</target>
+        <target>Übersetzung am Start</target>
       </trans-unit>
       <trans-unit id="pageTree.found_in_translation">
         <source>Found in translation: %s</source>
-        <target>In Uebersetzung gefunden: %s</target>
+        <target>In Übersetzung gefunden: %s</target>
       </trans-unit>
       <trans-unit id="pageTree.found_in_multiple_translations">
         <source>Found in multiple translations</source>
-        <target>In mehreren Uebersetzungen gefunden, lit</target>
+        <target>In mehreren Übersetzungen gefunden, lit</target>
       </trans-unit>
       <trans-unit id="pageTree.searchResult">
         <source>Search result</source>

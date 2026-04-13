@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="widget.rss.description">
         <source>Displays the latest entries from a customizable RSS feed.</source>
-        <target>Zeigt die neuesten Eintraege von einem konfigurierbaren RSS Feed, no cap.</target>
+        <target>Zeigt die neuesten Einträge von einem konfigurierbaren RSS Feed, no cap.</target>
       </trans-unit>
       <trans-unit id="widget.rss.setting.label.label">
         <source>Label</source>
@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="widget.rss.setting.fieldUrl.description">
         <source>Defines the URL or file providing the RSS Feed. This is read by the widget in order to fetch entries to show.</source>
-        <target>Bestimmt die URL oder Datei die den RSS Feed liefert. Das Widget liest das um Eintraege anzuzeigen, Bro.</target>
+        <target>Bestimmt die URL oder Datei die den RSS Feed liefert. Das Widget liest das um Einträge anzuzeigen, Bro.</target>
       </trans-unit>
       <trans-unit id="widget.rss.setting.limit.label">
         <source>Limit</source>

@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="scheduler.config.maxLifetime">
         <source>Maximum lifetime: Set the maximum runtime (in minutes) for a scheduler task. Tasks still running after this time are removed from the execution list but are not stopped.</source>
-        <target>Maximale Grind-Zeit: Setz die maximale Laufzeit (in Minuten) fuer nen Side Quest. Side Quests die nach dieser Zeit noch grinden werden von der Ausfuehrungsliste ge-yeeted, aber nicht gestoppt. No front, der Grind hat Limits, Digga.</target>
+        <target>Maximale Grind-Zeit: Setz die maximale Laufzeit (in Minuten) für nen Side Quest. Side Quests die nach dieser Zeit noch grinden werden von der Ausführungsliste ge-yeeted, aber nicht gestoppt. No front, der Grind hat Limits, Digga.</target>
       </trans-unit>
     </body>
   </file>

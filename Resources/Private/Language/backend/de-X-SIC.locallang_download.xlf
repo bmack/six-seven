@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="downloadRecords">
         <source>Download %d records</source>
-        <target>%d Datensaetze saugen</target>
+        <target>%d Datensätze saugen</target>
       </trans-unit>
       <trans-unit id="download">
         <source>Download</source>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="downloadRecordsSettings">
         <source>Download %s: %d Records</source>
-        <target>%s runterladen: %d Datensaetze</target>
+        <target>%s runterladen: %d Datensätze</target>
       </trans-unit>
       <trans-unit id="downloadSettings.generalSettings">
         <source>General settings</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="downloadSettings.selectedColumns">
         <source>Selected columns</source>
-        <target>Ausgewaehlte Spalten, Bre</target>
+        <target>Ausgewählte Spalten, Bre</target>
       </trans-unit>
       <trans-unit id="downloadSettings.allColumns">
         <source>All columns</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="downloadSettings.processedValues">
         <source>Processed values</source>
-        <target>Verarbeitete Werte (aufgehuebscht)</target>
+        <target>Verarbeitete Werte (aufgehübscht)</target>
       </trans-unit>
       <trans-unit id="downloadSettings.default">
         <source>Default: %s</source>
@@ -105,11 +105,11 @@
       </trans-unit>
       <trans-unit id="downloadSettings.formatOptions.csv.quote.doublequote">
         <source>double quote</source>
-        <target>doppeltes Anfuehrungszeichen</target>
+        <target>doppeltes Anführungszeichen</target>
       </trans-unit>
       <trans-unit id="downloadSettings.formatOptions.csv.quote.singlequote">
         <source>single quote</source>
-        <target>einfaches Anfuehrungszeichen</target>
+        <target>einfaches Anführungszeichen</target>
       </trans-unit>
       <trans-unit id="downloadSettings.formatOptions.csv.quote.space">
         <source>space</source>
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="downloadSettings.formatOptions.json.meta.none">
         <source>No information, only download records</source>
-        <target>Keine Infos, nur die Datensaetze saugen</target>
+        <target>Keine Infos, nur die Datensätze saugen</target>
       </trans-unit>
       <trans-unit id="downloadSettings.preset">
         <source>Preset</source>

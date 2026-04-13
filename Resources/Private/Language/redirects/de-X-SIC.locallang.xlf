@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="redirects.autoCreateRedirects">
         <source>Create redirects for pages with a new slug automatically</source>
-        <target>Redirects fuer Seiten mit neuem Slug automatisch droppen</target>
+        <target>Redirects für Seiten mit neuem Slug automatisch droppen</target>
       </trans-unit>
       <trans-unit id="redirects.redirectTTL">
         <source>Time To Live of redirect records in days</source>
@@ -21,11 +21,11 @@
       </trans-unit>
       <trans-unit id="redirects.httpStatusCode">
         <source>HTTP Status Code for the redirect, 301 is the default</source>
-        <target>HTTP-Statuscode fuer den Redirect, 301 ist Standard</target>
+        <target>HTTP-Statuscode für den Redirect, 301 ist Standard</target>
       </trans-unit>
       <trans-unit id="cleanupRedirectsCommand.label.days">
         <source>Cleanup redirects older than provided number of days</source>
-        <target>Redirects yeeten die aelter als X Tage sind</target>
+        <target>Redirects yeeten die älter als X Tage sind</target>
       </trans-unit>
       <trans-unit id="cleanupRedirectsCommand.label.domain">
         <source>Cleanup redirects matching provided domain(s)</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="cleanupRedirectsCommand.label.integrityStatus">
         <source>Cleanup redirects matching provided integrity status</source>
-        <target>Redirects yeeten die zum Integritaetsstatus passen</target>
+        <target>Redirects yeeten die zum Integritätsstatus passen</target>
       </trans-unit>
       <trans-unit id="cleanupRedirectsCommand.label.redirectType">
         <source>Cleanup redirects matching provided redirect type</source>

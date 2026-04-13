@@ -35,7 +35,7 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="success_header">
         <source>Login successful</source>
-        <target>Login erfolgreich, sheesh!</target>
+        <target>Login erfolgreich, 67! Sheesh!</target>
       </trans-unit>
       <trans-unit id="success_message">
         <source>You are now logged in as '###USER###'</source>
@@ -51,7 +51,7 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="cookie_warning" x-unused-since="12.3">
         <source>Warning: There is a possibility that cookies are not enabled in your web browser!</source>
-        <target>Achtung: Deine Cookies sind vielleicht deaktiviert im Browser, Digga! Wenn dein Login beim naechsten Klick weg ist, dann aktivier die Cookies sofort!</target>
+        <target>Achtung: Deine Cookies sind vielleicht deaktiviert im Browser, Digga! Wenn dein Login beim nächsten Klick weg ist, dann aktivier die Cookies sofort!</target>
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
@@ -71,7 +71,7 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="logout">
         <source>Logout</source>
-        <target>Tschuess, Bro</target>
+        <target>Tschüss, Bro</target>
       </trans-unit>
       <trans-unit id="send_password">
         <source>Send password</source>
@@ -83,7 +83,7 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="change_password_header">
         <source>Change your password</source>
-        <target>Aender dein Passwort, Brudi</target>
+        <target>Änder dein Passwort, Brudi</target>
       </trans-unit>
       <trans-unit id="change_password_description">
         <source>Please enter your new password twice.</source>
@@ -91,23 +91,23 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="password_requirement">
         <source>Ensure that your new password matches the following requirements:</source>
-        <target>Stell sicher, dass dein neues Passwort diese Anforderungen erfuellt, Bestie:</target>
+        <target>Stell sicher, dass dein neues Passwort diese Anforderungen erfüllt, Bestie:</target>
       </trans-unit>
       <trans-unit id="change_password_nolinkprefix_message">
         <source>Error: there is no prefix for the link.</source>
-        <target>Fail: Kein Prefix fuer den Link gesetzt. Setz eins davon in deinem TypoScript: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /, Digga</target>
+        <target>Fail: Kein Prefix für den Link gesetzt. Setz eins davon in deinem TypoScript: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /, Digga</target>
       </trans-unit>
       <trans-unit id="change_password_notvalid_message">
         <source>The link you clicked is not valid. Please repeat the forgot password procedure.</source>
-        <target>Der Link den du geklickt hast ist nicht mehr gueltig. Mach den Passwort-Vergessen Prozess nochmal, Brudi.</target>
+        <target>Der Link den du geklickt hast ist nicht mehr gültig. Mach den Passwort-Vergessen Prozess nochmal, Brudi.</target>
       </trans-unit>
       <trans-unit id="change_password_notequal_message">
         <source>The passwords are not equal, please enter your new password twice. Password needs a minimum length of %s chars.</source>
-        <target>Die Passwoerter stimmen nicht ueberein, gib dein neues Passwort nochmal zweimal ein. Mindestens %s Zeichen, Digga.</target>
+        <target>Die Passwörter stimmen nicht überein, gib dein neues Passwort nochmal zweimal ein. Mindestens %s Zeichen, Digga.</target>
       </trans-unit>
       <trans-unit id="change_password_tooshort_message">
         <source>The password length is too short. Please enter your new password twice. Password needs a minimum length of %s chars.</source>
-        <target>Das Passwort ist zu kurz, sheesh. Gib es nochmal zweimal ein. Mindestens %s Zeichen muessen es sein.</target>
+        <target>Das Passwort ist zu kurz, sheesh. Gib es nochmal zweimal ein. Mindestens %s Zeichen müssen es sein.</target>
       </trans-unit>
       <trans-unit id="change_password_done_message">
         <source>Your password has been saved. You can now login with your new password.</source>
@@ -115,7 +115,7 @@ Vielleicht sind auch deine Cookies deaktiviert im Browser, check das mal.</targe
       </trans-unit>
       <trans-unit id="change_password">
         <source>Change your password</source>
-        <target>Passwort aendern, Brudi</target>
+        <target>Passwort ändern, Brudi</target>
       </trans-unit>
       <trans-unit id="newpassword_label1">
         <source>Enter new password</source>
@@ -185,11 +185,11 @@ Aus Sicherheitsgruenden ist der Link nur bis %s aktiv. Wenn du ihn vorher nicht 
       </trans-unit>
       <trans-unit id="forgot_reset_message_emailSent">
         <source>An email has been sent to the address stored in your account and contains a link to reset your password. If you do not receive an email, your account or email address was not found.</source>
-        <target>Eine E-Mail mit einem Link zum Passwort-Reset wurde an die Adresse in deinem Account geschickt. Wenn keine Mail kommt, wurde dein Account oder deine E-Mail nicht gefunden, Alter.</target>
+        <target>Eine E-Mail mit einem Link zum Passwort-Reset wurde an die Adresse in deinem Account geschickt. Wenn keine Mail kommt, wurde dein Account oder deine E-Mail nicht gefunden, total lost, Alter.</target>
       </trans-unit>
       <trans-unit id="forgot_header_backToLogin">
         <source>Return to login form</source>
-        <target>Zurueck zum Login, Bestie</target>
+        <target>Zurück zum Login, Bestie</target>
       </trans-unit>
       <trans-unit id="enter_your_data">
         <source>Username or email address</source>
@@ -209,11 +209,11 @@ Aus Sicherheitsgruenden ist der Link nur bis %s aktiv. Wenn du ihn vorher nicht 
       </trans-unit>
       <trans-unit id="empty_password_and_password_repeat">
         <source>New password and new password repeat cannot be empty</source>
-        <target>Neues Passwort und Wiederholung duerfen nicht leer sein, Digga</target>
+        <target>Neues Passwort und Wiederholung dürfen nicht leer sein, Digga</target>
       </trans-unit>
       <trans-unit id="password_must_match_repeated">
         <source>New Password must match repeated password.</source>
-        <target>Neues Passwort muss mit der Wiederholung uebereinstimmen, fr fr.</target>
+        <target>Neues Passwort muss mit der Wiederholung übereinstimmen, fr fr.</target>
       </trans-unit>
       <trans-unit id="forgot_validate_reset_password_html" xml:space="preserve">
         <source>&lt;p&gt;Dear %s,&lt;/p&gt;</source>

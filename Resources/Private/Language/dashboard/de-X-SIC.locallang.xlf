@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="widgets.documentation.gettingStarted.title">
         <source>Getting Started with TYPO3</source>
-        <target>TYPO3 fuer Anfaenger, sheesh</target>
+        <target>TYPO3 für Anfänger, sheesh</target>
       </trans-unit>
       <trans-unit id="widgets.documentation.gettingStarted.description">
         <source>Add a shortcut to the TYPO3 Getting Started Tutorial.</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="widgets.documentation.typoscriptReference.description">
         <source>Add a shortcut to the TYPO3 TypoScript Template Reference.</source>
-        <target>Shortcut zur TYPO3 TypoScript Template Referenz hinzufuegen.</target>
+        <target>Shortcut zur TYPO3 TypoScript Template Referenz hinzufügen.</target>
       </trans-unit>
       <trans-unit id="widgets.documentation.typoscriptReference.text">
         <source>This document is a reference, used to lookup TypoScript templating.</source>
@@ -213,15 +213,15 @@
       </trans-unit>
       <trans-unit id="widgets.t3information.title">
         <source>About TYPO3</source>
-        <target>Ueber TYPO3, Bro</target>
+        <target>Über TYPO3, Bro</target>
       </trans-unit>
       <trans-unit id="widgets.t3information.description">
         <source>Some general information about TYPO3 and the version used</source>
-        <target>Generale Infos ueber TYPO3 und die verwendete Version, Bro</target>
+        <target>Generale Infos über TYPO3 und die verwendete Version, Bro</target>
       </trans-unit>
       <trans-unit id="widgets.t3information.text">
         <source><![CDATA[TYPO3 CMS is an enterprise-class, Open Source Content Management System, used internationally to build and manage websites of all types, from small sites for non-profits to multilingual enterprise solutions for large corporations.<br /><br />For further information visit <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>freely available</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You are using version %s - Copyright %s %s]]></source>
-        <target><![CDATA[TYPO3 CMS ist ein Enterprise-Level, Open Source Content Management System, das weltweit genutzt wird um Websites aller Art zu bauen - von kleinen Seiten bis zu mehrsprachigen Enterprise-Loesungen, sheesh.<br /><br />Fuer mehr Infos check <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS ist <b>kostenlos am Start</b> unter der <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-Lizenz (GNU/GPL)</a>.<br /><br />Du nutzt Version %s - Copyright %s %s]]></target>
+        <target><![CDATA[TYPO3 CMS ist ein Enterprise-Level, Open Source Content Management System, das weltweit genutzt wird um Websites aller Art zu bauen - von kleinen Seiten bis zu mehrsprachigen Enterprise-Lösungen, sheesh.<br /><br />Für mehr Infos check <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS ist <b>kostenlos am Start</b> unter der <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-Lizenz (GNU/GPL)</a>.<br /><br />Du nutzt Version %s - Copyright %s %s]]></target>
       </trans-unit>
       <trans-unit id="widgets.t3information.logo">
         <source>TYPO3 CMS logo</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="widgets.failedLogins.description">
         <source>Information about the number of failed logins during the last 24 hours.</source>
-        <target>Infos ueber die Anzahl gescheiterter Logins in den letzten 24 Stunden, Bro.</target>
+        <target>Infos über die Anzahl gescheiterter Logins in den letzten 24 Stunden, Bro.</target>
       </trans-unit>
       <trans-unit id="widgets.t3securityAdvisories.title">
         <source>TYPO3 security advisories</source>
@@ -289,15 +289,15 @@
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.title">
         <source>Latest changed pages</source>
-        <target>Zuletzt geaenderte Pages, Brudi</target>
+        <target>Zuletzt geänderte Pages, Brudi</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.title.restrictToCurrentUser">
         <source>My latest changed pages</source>
-        <target>Meine zuletzt geaenderten Pages, no cap</target>
+        <target>Meine zuletzt geänderten Pages, no cap</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.description">
         <source>Show a list of pages where the latest changes were made</source>
-        <target>Liste der Seiten mit den neuesten Aenderungen zeig mal</target>
+        <target>Liste der Seiten mit den neuesten Änderungen zeig mal</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.empty">
         <source>No history found</source>
@@ -305,11 +305,11 @@
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.settings.restrictToCurrentUser">
         <source>Only show my changes</source>
-        <target>Nur meine Aenderungen zeig mal</target>
+        <target>Nur meine Änderungen zeig mal</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.column.change">
         <source>Change</source>
-        <target>Aenderung, fr fr</target>
+        <target>Änderung, fr fr</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.column.user">
         <source>User</source>
@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.column.page.workspace">
         <source>Changes in current selected workspace</source>
-        <target>Aenderungen im current gepickten Workspace</target>
+        <target>Änderungen im current gepickten Workspace</target>
       </trans-unit>
       <trans-unit id="widgets.latestChangedPages.column.page.pagetree">
         <source>Position in pagetree</source>

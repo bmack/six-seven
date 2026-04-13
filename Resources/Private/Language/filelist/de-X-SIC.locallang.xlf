@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="flashmessage.no_results.message">
         <source>This folder does not contain any files for "%s"</source>
-        <target>In diesem Ordner gibt's keine Dateien fuer "%s", Digga</target>
+        <target>In diesem Ordner gibt's keine Dateien für "%s", Digga</target>
       </trans-unit>
       <trans-unit id="flashmessage.no_items">
         <source>This folder is empty</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="file_rename.actions.override">
         <source>Overwrite</source>
-        <target>Drueberbuegeln</target>
+        <target>Drüberbügeln</target>
       </trans-unit>
       <trans-unit id="file_rename.php.pagetitle">
         <source>Rename</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="file_replace.new_file.label">
         <source>Select new file</source>
-        <target>Neue Datei waehlen, Homie</target>
+        <target>Neue Datei wählen, Homie</target>
       </trans-unit>
       <trans-unit id="file_replace.keepFilename.label">
         <source>Keep current filename "%s"?</source>
@@ -105,7 +105,7 @@
       </trans-unit>
       <trans-unit id="file_edit.php.saveAndClose">
         <source>Save and Close</source>
-        <target>Speichern und Tschuess, Alter</target>
+        <target>Speichern und Tschüss, Alter</target>
       </trans-unit>
       <trans-unit id="file_edit.php.coundNot">
         <source>This filetype cannot be edited.</source>
@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="download">
         <source>Download</source>
-        <target>Runterladen, Homie</target>
+        <target>Gönn dir den Download, Homie</target>
       </trans-unit>
       <trans-unit id="actions.new_folder">
         <source>New Folder</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="translations">
         <source>Translations</source>
-        <target>Uebersetzungen, Brudi</target>
+        <target>Übersetzungen, Brudi</target>
       </trans-unit>
     </body>
   </file>

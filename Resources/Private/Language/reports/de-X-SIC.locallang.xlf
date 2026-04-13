@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="reports_overview">
         <source>Reports overview</source>
-        <target>Reports-Ueberblick</target>
+        <target>Reports-Überblick</target>
       </trans-unit>
       <trans-unit id="choose_report">
         <source>Report</source>
@@ -33,11 +33,11 @@
       </trans-unit>
       <trans-unit id="link.openModule">
         <source>Open</source>
-        <target>Yo, oeffnen</target>
+        <target>Yo, öffnen</target>
       </trans-unit>
       <trans-unit id="link.openModuleWithTitle">
         <source>Open %1s</source>
-        <target>%1s oeffnen</target>
+        <target>%1s öffnen</target>
       </trans-unit>
       <trans-unit id="recordStatistics.title">
         <source>Record Statistics</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="recordStatistics.description">
         <source>Displays comprehensive statistics for records in the database including total pages, translated pages, hidden and deleted pages, page type distributions, and detailed table records with lost record detection. This report runs through the entire page tree.</source>
-        <target>Zeigt umfassende Statistiken fuer Records in der Datenbank inklusive Gesamtseiten, uebersetzte Seiten, versteckte und geloeschte Seiten, Seitentyp-Verteilungen und detaillierte Tabellen-Records mit Erkennung verlorener Records. Dieser Report geht den kompletten Seitenbaum durch.</target>
+        <target>Zeigt umfassende Statistiken für Records in der Datenbank inklusive Gesamtseiten, übersetzte Seiten, versteckte und gelöschte Seiten, Seitentyp-Verteilungen und detaillierte Tabellen-Records mit Erkennung verlorener Records. Dieser Report geht den kompletten Seitenbaum durch.</target>
       </trans-unit>
       <trans-unit id="contentStatistics.title">
         <source>Content Statistics</source>
@@ -57,11 +57,11 @@
       </trans-unit>
       <trans-unit id="contentStatistics.shortDescription">
         <source>Shows statistics about used content elements</source>
-        <target>Zeigt Statistiken ueber verwendete Content-Elemente</target>
+        <target>Zeigt Statistiken über verwendete Content-Elemente</target>
       </trans-unit>
       <trans-unit id="contentStatistics.description">
         <source>Provides an overview of all content element types, showing how often each appears across the site. Includes summaries per type.</source>
-        <target>Gibt ne Uebersicht ueber alle Content-Element-Typen und zeigt wie oft jeder auf der Site vorkommt. Mit Zusammenfassungen pro Typ.</target>
+        <target>Gibt ne Übersicht über alle Content-Element-Typen und zeigt wie oft jeder auf der Site vorkommt. Mit Zusammenfassungen pro Typ.</target>
       </trans-unit>
       <trans-unit id="contentStatistics.statistic">
         <source>Statistics</source>
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="contentStatistics.existingElements.explanation">
         <source>Keep in mind that some elements may not appear on any page, and others might be rendered by alternative methods (TypoScript, ViewHelpers, etc.). As a result, it is not technically possible to determine actual usage.</source>
-        <target>Bedenke dass manche Elemente auf keiner Seite erscheinen und andere durch alternative Methoden (TypoScript, ViewHelpers etc.) gerendert werden. Deshalb ist es technisch nicht moeglich die tatsaechliche Nutzung zu bestimmen.</target>
+        <target>Bedenke dass manche Elemente auf keiner Seite erscheinen und andere durch alternative Methoden (TypoScript, ViewHelpers etc.) gerendert werden. Deshalb ist es technisch nicht möglich die tatsächliche Nutzung zu bestimmen.</target>
       </trans-unit>
       <trans-unit id="contentStatistics.existingElements.error">
         <source>The content element database table's schema ("tt_content") could not be analyzed due to a missing or disabled schema type.</source>
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="contentStatistics.unusedElements.description">
         <source>This list includes content element types that are not used anywhere, or whose existing instances are all flagged as deleted.</source>
-        <target>Diese Liste beinhaltet Content-Element-Typen die nirgends benutzt werden oder deren Instanzen alle als geloescht markiert sind.</target>
+        <target>Diese Liste beinhaltet Content-Element-Typen die nirgends benutzt werden oder deren Instanzen alle als gelöscht markiert sind.</target>
       </trans-unit>
       <trans-unit id="contentStatistics.fields">
         <source>%d fields</source>

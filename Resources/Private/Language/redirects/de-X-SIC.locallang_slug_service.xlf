@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="notification.slug_and_redirects.message">
         <source>Because you renamed a slug, the slugs of all sub-pages were updated and redirects were created for you automatically.</source>
-        <target>Weil du nen Slug umbenannt hast, wurden alle Unterseiten-Slugs geupdated und Redirects automatisch fuer dich gedroppt. Slay!</target>
+        <target>Weil du nen Slug umbenannt hast, wurden alle Unterseiten-Slugs geupdated und Redirects automatisch für dich gedroppt. Slay!</target>
       </trans-unit>
       <trans-unit id="notification.slug_only.title">
         <source>Slugs updated</source>
@@ -21,11 +21,11 @@
       </trans-unit>
       <trans-unit id="notification.redirects.button.revert_update">
         <source>Revert update</source>
-        <target>Update rueckgaengig machen</target>
+        <target>Update rückgängig machen</target>
       </trans-unit>
       <trans-unit id="notification.redirects.button.revert_redirect">
         <source>Revert redirects only</source>
-        <target>Nur Redirects rueckgaengig machen</target>
+        <target>Nur Redirects rückgängig machen</target>
       </trans-unit>
       <trans-unit id="redirects_error_title">
         <source>An error occurred</source>
@@ -37,19 +37,19 @@
       </trans-unit>
       <trans-unit id="revert_update_success_title">
         <source>Revert successful</source>
-        <target>Rueckgaengig gemacht, nice!</target>
+        <target>Rückgängig gemacht, nice!</target>
       </trans-unit>
       <trans-unit id="revert_update_success_message">
         <source>All slug changes of sub pages have been reverted.</source>
-        <target>Alle Slug-Aenderungen der Unterseiten wurden zurueckgesetzt.</target>
+        <target>Alle Slug-Änderungen der Unterseiten wurden zurückgesetzt.</target>
       </trans-unit>
       <trans-unit id="revert_redirects_success_title">
         <source>Revert successful</source>
-        <target>Rueckgaengig gemacht, nice!</target>
+        <target>Rückgängig gemacht, nice!</target>
       </trans-unit>
       <trans-unit id="revert_redirects_success_message">
         <source>All created redirects have been reverted.</source>
-        <target>Alle gedropten Redirects wurden zurueckgesetzt. W!</target>
+        <target>Alle gedropten Redirects wurden zurückgesetzt. W!</target>
       </trans-unit>
     </body>
   </file>

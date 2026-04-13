@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="status.checkIntegrityResultState">
         <source>Redirects integrity check</source>
-        <target>Redirect-Integritaetscheck</target>
+        <target>Redirect-Integritätscheck</target>
       </trans-unit>
       <trans-unit id="status.checkIntegrityResultState.title">
         <source>List of conflicting redirects may not be up to date</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="status.checkIntegrityResultState.message">
         <source>Regularly run the console command redirects:checkintegrity.</source>
-        <target>Fuehr regelmaessig den Konsolenbefehl redirects:checkintegrity aus, Brudi.</target>
+        <target>Führ regelmäßig den Konsolenbefehl redirects:checkintegrity aus, Brudi.</target>
       </trans-unit>
     </body>
   </file>

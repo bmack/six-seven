@@ -10,7 +10,7 @@
       <trans-unit id="cropVariants.xl"><source>XL (&gt; 1440px)</source><target>XL (&gt; 1440px)</target></trans-unit>
       <trans-unit id="cropVariants.xxl"><source>XXL (&gt; 1920px)</source><target>XXL (&gt; 1920px)</target></trans-unit>
       <trans-unit id="pages.tx_themecamino_logo"><source>Logo</source><target>Logo</target></trans-unit>
-      <trans-unit id="pages.tx_themecamino_logo.description"><source>The selected file is displayed both in the header next to the main menu and in the footer.</source><target>Ey, die gewaehlte Datei wird sowohl im Header neben dem Main-Menue als auch im Footer gedroppt.</target></trans-unit>
+      <trans-unit id="pages.tx_themecamino_logo.description"><source>The selected file is displayed both in the header next to the main menu and in the footer.</source><target>Ey, die gewählte Datei wird sowohl im Header neben dem Main-Menue als auch im Footer gedroppt.</target></trans-unit>
       <trans-unit id="tt_content.group.camino_hero"><source>Hero</source><target>Hero</target></trans-unit>
       <trans-unit id="tt_content.group.camino_teaser"><source>Teaser</source><target>Teaser</target></trans-unit>
       <trans-unit id="tt_content.tabs.teaser"><source>Teaser items</source><target>Teaser-Items, Bre</target></trans-unit>
@@ -18,7 +18,7 @@
       <trans-unit id="tt_content.palettes.camino_linklabelconfig"><source>Link / Call to Action (CTA)</source><target>Link / Call to Action (CTA)</target></trans-unit>
       <trans-unit id="tt_content.palettes.camino_linklabelicon"><source>Link / Call to Action (CTA)</source><target>Link / Call to Action (CTA)</target></trans-unit>
       <trans-unit id="tt_content.palettes.camino_linklabeliconconfig"><source>Link / Call to Action (CTA)</source><target>Link / Call to Action (CTA)</target></trans-unit>
-      <trans-unit id="tt_content.palettes.camino_person"><source>Personal details</source><target>Persoenliche Deets</target></trans-unit>
+      <trans-unit id="tt_content.palettes.camino_person"><source>Personal details</source><target>Persönliche Deets</target></trans-unit>
       <trans-unit id="tt_content.bodytext.types.person-palette.label"><source>Quote / Testimonial</source><target>Quote / Testimonial</target></trans-unit>
       <trans-unit id="tt_content.header.types.person-palette.label"><source>Name</source><target>Name</target></trans-unit>
       <trans-unit id="tt_content.subheader.types.person-palette.label"><source>Position / Title of the person</source><target>Position / Titel der Person, Bre</target></trans-unit>
@@ -28,7 +28,7 @@
       <trans-unit id="tt_content.frame_class.I.bg-80"><source>Dark</source><target>Dark</target></trans-unit>
       <trans-unit id="tt_content.frame_class.I.bg-100"><source>Primary color</source><target>Primary-Color</target></trans-unit>
       <trans-unit id="tt_content.header.label.ALT"><source>Name (not visible in frontend)</source><target>Name (im Frontend nicht am Start)</target></trans-unit>
-      <trans-unit id="tt_content.header.description.ALT"><source>The name won't be displayed as header above the element, but will be used as reference in menus.</source><target>Yo, der Name wird nicht als Header ueber dem Element gedroppt, sondern als Referenz in Menues genutzt.</target></trans-unit>
+      <trans-unit id="tt_content.header.description.ALT"><source>The name won't be displayed as header above the element, but will be used as reference in menus.</source><target>Yo, der Name wird nicht als Header über dem Element gedroppt, sondern als Referenz in Menüs genutzt.</target></trans-unit>
       <trans-unit id="tt_content.header_layout.label"><source>Rank / Hierarchy</source><target>Rang / Hierarchie, Bro</target></trans-unit>
       <trans-unit id="tt_content.header_layout.option.0"><source>Default (P)</source><target>Standard (P)</target></trans-unit>
       <trans-unit id="tt_content.header_layout.option.1"><source>H1</source><target>H1</target></trans-unit>
@@ -45,12 +45,12 @@
       <trans-unit id="tt_content.tx_themecamino_link"><source>Link</source><target>Link</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config"><source>Link configuration</source><target>Link-Config, Homie</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config.itemgroup.inverted"><source>Icon before text</source><target>Icon vor Text</target></trans-unit>
-      <trans-unit id="tt_content.tx_themecamino_link_config.I.0"><source>Primary button</source><target>Primaer-Button</target></trans-unit>
-      <trans-unit id="tt_content.tx_themecamino_link_config.I.secondary"><source>Secondary button</source><target>Sekundaer-Button</target></trans-unit>
+      <trans-unit id="tt_content.tx_themecamino_link_config.I.0"><source>Primary button</source><target>Primär-Button</target></trans-unit>
+      <trans-unit id="tt_content.tx_themecamino_link_config.I.secondary"><source>Secondary button</source><target>Sekundär-Button</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config.I.soft"><source>Soft button</source><target>Soft-Button</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config.I.text"><source>Text only button</source><target>Nur-Text-Button</target></trans-unit>
-      <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted"><source>Primary button, icon before text</source><target>Primaer-Button, Icon vor Text</target></trans-unit>
-      <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted-secondary"><source>Secondary button, icon before text</source><target>Sekundaer-Button, Icon vor Text</target></trans-unit>
+      <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted"><source>Primary button, icon before text</source><target>Primär-Button, Icon vor Text</target></trans-unit>
+      <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted-secondary"><source>Secondary button, icon before text</source><target>Sekundär-Button, Icon vor Text</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted-soft"><source>Soft button, icon before text</source><target>Soft-Button, Icon vor Text</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_config.I.inverted-text"><source>Text only button, icon before text</source><target>Nur-Text-Button, Icon vor Text</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_link_icon"><source>Link icon</source><target>Link-Icon</target></trans-unit>
@@ -92,11 +92,11 @@
       <trans-unit id="tt_content.CType.camino_hero_text_only.label"><source>Hero / Page header (text-only)</source><target>Hero / Seiten-Header (nur Text)</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_hero_text_only.description"><source>Insert a Hero / Page header element (text-only version).</source><target>Alter, ein Hero / Page-Header-Element (Nur-Text-Version) droppen.</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_linklist.label"><source>Link list</source><target>Linkliste</target></trans-unit>
-      <trans-unit id="tt_content.CType.camino_linklist.description"><source>Insert a list of links, used for link lists / menu in the footer.</source><target>Ey, Linkliste droppen fuer Linklisten / Menue im Footer.</target></trans-unit>
+      <trans-unit id="tt_content.CType.camino_linklist.description"><source>Insert a list of links, used for link lists / menu in the footer.</source><target>Ey, Linkliste droppen für Linklisten / Menue im Footer.</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_sociallinks.label"><source>Social media icons</source><target>Social-Media-Icons</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_sociallinks.description"><source>Insert a list of links to social media platforms.</source><target>Yo, Links zu Social-Media-Plattformen droppen.</target></trans-unit>
       <trans-unit id="tt_content.tx_themecamino_list_elements.types.camino_sociallinks.label"><source>Links</source><target>Links</target></trans-unit>
-      <trans-unit id="tt_content.tx_themecamino_list_elements.types.camino_sociallinks.description"><source>Icons are automatically set according to the link target. The following platforms are available for the link type "External URL": Facebook, Instagram, LinkedIn, X (Twitter) and YouTube. Links to other platforms are not supported and will use a generic icon.</source><target>Ey, Icons werden automatisch nach Linkziel gesetzt. Folgende Plattformen sind fuer den Linktyp "Externe URL" am Start: Facebook, Instagram, LinkedIn, X (Twitter) und YouTube. Links zu anderen Plattformen kriegen ein generic Icon.</target></trans-unit>
+      <trans-unit id="tt_content.tx_themecamino_list_elements.types.camino_sociallinks.description"><source>Icons are automatically set according to the link target. The following platforms are available for the link type "External URL": Facebook, Instagram, LinkedIn, X (Twitter) and YouTube. Links to other platforms are not supported and will use a generic icon.</source><target>Ey, Icons werden automatisch nach Linkziel gesetzt. Folgende Plattformen sind für den Linktyp "Externe URL" am Start: Facebook, Instagram, LinkedIn, X (Twitter) und YouTube. Links zu anderen Plattformen kriegen ein generic Icon.</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_testimonial.label"><source>Testimonial</source><target>Testimonial</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_testimonial.description"><source>Insert a testimonial, with a quote and an optional picture of the person.</source><target>Brudi, Testimonial droppen mit Quote und optionalem Pic der Person.</target></trans-unit>
       <trans-unit id="tt_content.CType.camino_textmedia_teaser.label"><source>Text-Media Teaser</source><target>Text-Media-Teaser</target></trans-unit>
@@ -118,7 +118,7 @@
       <trans-unit id="tx_themecamino_list_item.link"><source>Link</source><target>Link</target></trans-unit>
       <trans-unit id="tx_themecamino_list_item.link_config"><source>Link configuration</source><target>Link-Config, Homie</target></trans-unit>
       <trans-unit id="tx_themecamino_list_item.link_icon"><source>Link icon</source><target>Link-Icon</target></trans-unit>
-      <trans-unit id="tx_themecamino_list_item.link_label"><source>Label for Link</source><target>Label fuer Link, Homie</target></trans-unit>
+      <trans-unit id="tx_themecamino_list_item.link_label"><source>Label for Link</source><target>Label für Link, Homie</target></trans-unit>
       <trans-unit id="tx_themecamino_list_item.text"><source>Text</source><target>Text</target></trans-unit>
     </body>
   </file>

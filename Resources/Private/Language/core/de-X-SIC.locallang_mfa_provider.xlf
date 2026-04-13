@@ -42,7 +42,7 @@
       <trans-unit id="recoveryCodes.description">
         <source>This provider allows to authenticate with a set of single-use passcodes, in case you lost your
 					primary MFA credentials, or just have no access to them temporarily.</source>
-        <target>Mit diesem Provider kannst du dich ueber Einmal-Codes authentifizieren, falls du deine normalen MFA-Daten verloren hast oder gerade keinen Zugriff drauf hast.</target>
+        <target>Mit diesem Provider kannst du dich über Einmal-Codes authentifizieren, falls du deine normalen MFA-Daten verloren hast oder gerade keinen Zugriff drauf hast.</target>
       </trans-unit>
       <trans-unit id="recoveryCodes.setupInstructions">
         <source>Recovery codes are random eight-digit codes which can be used to authenticate, in case your lost your main authentication credentials. Each code is only valid once.
@@ -70,11 +70,11 @@
       </trans-unit>
       <trans-unit id="totpInputHelp">
         <source>This code should now be displayed on your device or in your application.</source>
-        <target>Dieser Code sollte jetzt auf deinem Geraet oder in deiner App angezeigt werden.</target>
+        <target>Dieser Code sollte jetzt auf deinem Gerät oder in deiner App angezeigt werden.</target>
       </trans-unit>
       <trans-unit id="locked">
         <source>The maximum attempts for this provider are exceeded. Please use another provider or contact your administrator.</source>
-        <target>Zu viele Versuche fuer diesen Provider, Digga. Nutz einen anderen oder kontaktiere deinen Admin.</target>
+        <target>Zu viele Versuche für diesen Provider, Digga. Nutz einen anderen oder kontaktiere deinen Admin.</target>
       </trans-unit>
       <trans-unit id="edit.table.head">
         <source>Provider information</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="setup.name.help">
         <source>Specify a custom name for this provider.</source>
-        <target>Vergib einen Custom-Namen fuer diesen Provider.</target>
+        <target>Vergib einen Custom-Namen für diesen Provider.</target>
       </trans-unit>
       <trans-unit id="setup.recoveryCodes.InputLabel">
         <source>Recovery codes</source>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="setup.recoveryCodes.noActiveProviders.title">
         <source>Setup not possible</source>
-        <target>Setup nicht moeglich, L</target>
+        <target>Setup nicht möglich, L</target>
       </trans-unit>
       <trans-unit id="setup.recoveryCodes.noActiveProviders.message">
         <source>Recovery codes are only meant as a fallback if you lose access to your main multi-factor authentication credentials. Therefore, please activate a comprehensive MFA provider first.</source>

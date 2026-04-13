@@ -12,7 +12,7 @@
       <trans-unit id="stage_all"><source>All stages</source><target>Alle Stages</target></trans-unit>
       <trans-unit id="previewText"><source>Preview of workspace %s (%s)</source><target>Ey, Vorschau von Workspace %s (%s)</target></trans-unit>
       <trans-unit id="stopPreview"><source>Stop preview</source><target>Vorschau stoppen, Bre</target></trans-unit>
-      <trans-unit id="previewLogoutSuccess"><source>You logged out from Workspace preview mode. Click this link to %1$s go back to the website%2$s</source><target>Du hast dich aus dem Workspace-Vorschaumodus ausgeloggt. Klick %1$szurueck zur Website%2$s</target></trans-unit>
+      <trans-unit id="previewLogoutSuccess"><source>You logged out from Workspace preview mode. Click this link to %1$s go back to the website%2$s</source><target>Du hast dich aus dem Workspace-Vorschaumodus ausgeloggt. Klick %1$szurück zur Website%2$s</target></trans-unit>
       <trans-unit id="previewLogoutError"><source>%1$sERROR:%2$sTemplate File "%3$s" configured with $TYPO3_CONF_VARS["FE"]["workspacePreviewLogoutTemplate"] not found. Please contact webmaster about this problem.</source><target>%1$sUFF:%2$sTemplate-File "%3$s" konfiguriert mit $TYPO3_CONF_VARS["FE"]["workspacePreviewLogoutTemplate"] nicht gefunden. Sag dem Webmaster Bescheid, Brudi.</target></trans-unit>
     </body>
   </file>

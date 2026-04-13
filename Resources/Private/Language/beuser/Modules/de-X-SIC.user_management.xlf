@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>Administers backend user accounts and groups, and defines access permissions on records, files, and modules. Page-level read and write permissions can be managed separately in the Permissions module.</source>
-        <target>Verwaltet Backend-User-Accounts und Squads, gatekeept Zugriffsrechte auf Datensaetze, Dateien und Module. Sigma-Move: Seiten-Berechtigungen kannst du separat im Gatekeeping-Modul regeln, Brudi.</target>
+        <target>Verwaltet Backend-User-Accounts und Squads, gatekeept Zugriffsrechte auf Datensätze, Dateien und Module. Sigma-Move: Seiten-Berechtigungen kannst du separat im Gatekeeping-Modul regeln, Brudi.</target>
       </trans-unit>
     </body>
   </file>

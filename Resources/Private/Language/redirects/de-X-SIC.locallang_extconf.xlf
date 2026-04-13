@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="showCheckintegrityInfoInReports.seconds">
         <source>Set validity period (seconds) for the last checkintegrity report.</source>
-        <target>Gueltigkeitszeitraum (Sekunden) fuer den letzten checkintegrity-Report setzen.</target>
+        <target>Gültigkeitszeitraum (Sekunden) für den letzten checkintegrity-Report setzen.</target>
       </trans-unit>
     </body>
   </file>

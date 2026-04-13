@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="wizard.button.prev">
         <source>Previous</source>
-        <target>Zurueck, Brudi</target>
+        <target>Zurück, Brudi</target>
       </trans-unit>
       <trans-unit id="wizard.button.cancel">
         <source>Cancel</source>

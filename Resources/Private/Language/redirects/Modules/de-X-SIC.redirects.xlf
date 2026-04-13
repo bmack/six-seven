@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>Manage URL redirects to prevent broken links and route traffic to preferred destinations.</source>
-        <target>URL-Detours verwalten damit keine Links brechen und der Traffic richtig laeuft. Bet, deine URLs nehmen den Detour, Digga.</target>
+        <target>URL-Detours verwalten damit keine Links brechen und der Traffic richtig läuft. Bet, deine URLs nehmen den Detour, Digga.</target>
       </trans-unit>
       <trans-unit id="title">
         <source>Redirects</source>

@@ -4,11 +4,11 @@
     <header/>
     <body>
       <trans-unit id="internal_note"><source>Internal notes</source><target>Interne Notizen</target></trans-unit>
-      <trans-unit id="new_internal_note"><source>Create internal note for this page</source><target>Interne Notiz fuer diese Seite droppen</target></trans-unit>
+      <trans-unit id="new_internal_note"><source>Create internal note for this page</source><target>Interne Notiz für diese Seite droppen</target></trans-unit>
       <trans-unit id="author"><source>Author</source><target>Autor</target></trans-unit>
       <trans-unit id="date"><source>Date</source><target>Datum</target></trans-unit>
       <trans-unit id="edit_note"><source>Edit note record</source><target>Notiz-Record flexen</target></trans-unit>
-      <trans-unit id="personal"><source>Personal</source><target>Persoenlich</target></trans-unit>
+      <trans-unit id="personal"><source>Personal</source><target>Persönlich</target></trans-unit>
       <trans-unit id="category.1"><source>Instructions</source><target>Anweisungen</target></trans-unit>
       <trans-unit id="category.2"><source>Template</source><target>Template</target></trans-unit>
       <trans-unit id="category.3"><source>Notes</source><target>Notizen</target></trans-unit>

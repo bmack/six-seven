@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>This module contains the full configuration interface for individual sites. You can define languages, error handling, routes, entry points, and domain behavior. It is the central place for setting up and maintaining the technical foundation of each site.</source>
-        <target>Dieses Modul hat das volle Konfig-Interface fuer einzelne Sites. Du kannst Sprachen, Error-Handling, Routen, Entry Points und Domain-Verhalten definieren. Der zentrale Ort um das technische Fundament jeder Site aufzusetzen und zu pflegen, no cap.</target>
+        <target>Dieses Modul hat das volle Konfig-Interface für einzelne Sites. Du kannst Sprachen, Error-Handling, Routen, Entry Points und Domain-Verhalten definieren. Der zentrale Ort um das technische Fundament jeder Site aufzusetzen und zu pflegen, no cap.</target>
       </trans-unit>
       <trans-unit id="title">
         <source>Setup</source>

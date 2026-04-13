@@ -17,11 +17,11 @@
       </trans-unit>
       <trans-unit id="filelink_size">
         <source>Display file size information</source>
-        <target>Dateigroesse anzeigen, Bre</target>
+        <target>Dateigröße anzeigen, Bre</target>
       </trans-unit>
       <trans-unit id="header">
         <source>Header</source>
-        <target>Ueberschrift</target>
+        <target>Überschrift</target>
       </trans-unit>
       <trans-unit id="header_type">
         <source>Type</source>
@@ -65,7 +65,7 @@
       </trans-unit>
       <trans-unit id="imageheight">
         <source>Height of each element (px)</source>
-        <target>Hoehe pro Element (px)</target>
+        <target>Höhe pro Element (px)</target>
       </trans-unit>
       <trans-unit id="imageborder">
         <source>Border around each element</source>
@@ -73,15 +73,15 @@
       </trans-unit>
       <trans-unit id="image_zoom">
         <source>Enlarge on Click</source>
-        <target>Beim Klicken vergroessern</target>
+        <target>Beim Klicken vergrößern</target>
       </trans-unit>
       <trans-unit id="section_index">
         <source>Show in Section Menus</source>
-        <target>In Section-Menues zeigen</target>
+        <target>In Section-Menüs zeigen</target>
       </trans-unit>
       <trans-unit id="link_to_top">
         <source>Append with Link to Top of Page</source>
-        <target>Mit Link nach oben anhaengen</target>
+        <target>Mit Link nach oben anhängen</target>
       </trans-unit>
       <trans-unit id="layout">
         <source>Layout</source>

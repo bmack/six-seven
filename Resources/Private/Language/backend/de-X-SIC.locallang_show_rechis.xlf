@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="title">
         <source>History/Undo</source>
-        <target>Tea verschuetten / Undo (Zeitreise, Digga)</target>
+        <target>Tea verschütten / Undo (Zeitreise, Digga)</target>
       </trans-unit>
       <trans-unit id="headline.titleOf">
         <source>of</source>
@@ -37,27 +37,27 @@
       </trans-unit>
       <trans-unit id="changes">
         <source>Changelog</source>
-        <target>Changelog (hier wird Tea verschuettet)</target>
+        <target>Changelog (hier wird Tea verschüttet)</target>
       </trans-unit>
       <trans-unit id="return">
         <source>Return</source>
-        <target>Zurueck, Digga</target>
+        <target>Zurück, Digga</target>
       </trans-unit>
       <trans-unit id="returnLink">
         <source>Click here to go back</source>
-        <target>Klick hier um zurueckzugehen, Brudi</target>
+        <target>Klick hier um zurückzugehen, Brudi</target>
       </trans-unit>
       <trans-unit id="revertAll">
         <source>Rollback all changes shown</source>
-        <target>Alle angezeigten Aenderungen zurueckrollen, yolo</target>
+        <target>Alle angezeigten Änderungen zurückrollen, yolo</target>
       </trans-unit>
       <trans-unit id="revertRecord">
         <source>Rollback single record</source>
-        <target>Einzelnen Datensatz zurueckrollen</target>
+        <target>Einzelnen Datensatz zurückrollen</target>
       </trans-unit>
       <trans-unit id="revertField">
         <source>Rollback single field</source>
-        <target>Einzelnes Feld zurueckrollen</target>
+        <target>Einzelnes Feld zurückrollen</target>
       </trans-unit>
       <trans-unit id="userNotFound">
         <source>Not found (non-existent user)</source>
@@ -69,23 +69,23 @@
       </trans-unit>
       <trans-unit id="viaUser">
         <source>via</source>
-        <target>ueber</target>
+        <target>über</target>
       </trans-unit>
       <trans-unit id="sumUpChanges">
         <source>Rollback all changes to this state (preview)</source>
-        <target>Alle Aenderungen bis zu diesem Stand zurueckrollen (Vorschau)</target>
+        <target>Alle Änderungen bis zu diesem Stand zurückrollen (Vorschau)</target>
       </trans-unit>
       <trans-unit id="markState">
         <source>mark this change</source>
-        <target>Caught in 4K: diese Aenderung markieren, Bro</target>
+        <target>Caught in 4K: diese Änderung markieren, Bro</target>
       </trans-unit>
       <trans-unit id="unmarkState">
         <source>unMark this change</source>
-        <target>Markierung dieser Aenderung aufheben, Alter</target>
+        <target>Markierung dieser Änderung aufheben, Alter</target>
       </trans-unit>
       <trans-unit id="elementHistory">
         <source>You are currently seeing the history for an element</source>
-        <target>Caught in 4K: Du siehst gerade die History fuer ein Element, Digga</target>
+        <target>Caught in 4K: Du siehst gerade die History für ein Element, Digga</target>
       </trans-unit>
       <trans-unit id="elementHistory_link">
         <source>Show the full page history</source>
@@ -93,15 +93,15 @@
       </trans-unit>
       <trans-unit id="linkRecordHistory">
         <source>Limit history to this record</source>
-        <target>History auf diesen Datensatz beschraenken</target>
+        <target>History auf diesen Datensatz beschränken</target>
       </trans-unit>
       <trans-unit id="differenceMsg">
         <source>In the Difference column you can see the changes at every modification of records. New changes are displayed in green colored text and the red colored text are the old values which were removed.</source>
-        <target>In der Unterschiede-Spalte siehst du die Aenderungen bei jeder Modifikation. Neues steht in gruen (lit!) und das rote Zeug sind die alten Werte die geflogen sind (geyeeted).</target>
+        <target>In der Unterschiede-Spalte siehst du die Änderungen bei jeder Modifikation. Neues steht in grün (lit!) und das rote Zeug sind die alten Werte die geflogen sind (geyeeted).</target>
       </trans-unit>
       <trans-unit id="fullView">
         <source>Return to full view</source>
-        <target>Zurueck zur vollen Ansicht</target>
+        <target>Zurück zur vollen Ansicht</target>
       </trans-unit>
       <trans-unit id="historyRow.actiontype.1">
         <source>created</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="historyRow.actiontype.4">
         <source>deleted</source>
-        <target>geyeetet (geloescht)</target>
+        <target>geyeetet (gelöscht)</target>
       </trans-unit>
       <trans-unit id="historyRow.actiontype.5">
         <source>undeleted</source>
@@ -125,11 +125,11 @@
       </trans-unit>
       <trans-unit id="historyRow.actiontype.6">
         <source>stage changed</source>
-        <target>Stage geaendert</target>
+        <target>Stage geändert</target>
       </trans-unit>
       <trans-unit id="historyRow.actiontype.7">
         <source>published</source>
-        <target>veroeffentlicht (live gegangen, Aura +100)</target>
+        <target>veröffentlicht (live gegangen, Aura +100)</target>
       </trans-unit>
       <trans-unit id="rollback.plannedAction.insert">
         <source>The record has been deleted and will be restored again with the rollback.</source>
@@ -145,11 +145,11 @@
       </trans-unit>
       <trans-unit id="mergedDifferences">
         <source>Preview for rollback</source>
-        <target>Vorschau fuer den Rollback, Homie</target>
+        <target>Vorschau für den Rollback, Homie</target>
       </trans-unit>
       <trans-unit id="mergedDifferences.description">
         <source>It is possible to rollback either individual fields or entire elements. Alternatively, all displayed changes can be rolled back.</source>
-        <target>Du kannst einzelne Felder oder ganze Elemente zurueckrollen. Oder einfach alles auf einmal, yolo.</target>
+        <target>Du kannst einzelne Felder oder ganze Elemente zurückrollen. Oder einfach alles auf einmal, yolo.</target>
       </trans-unit>
       <trans-unit id="settings">
         <source>Settings</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="maxSteps">
         <source>Show entries</source>
-        <target>Eintraege zeig mal</target>
+        <target>Einträge zeig mal</target>
       </trans-unit>
       <trans-unit id="maxSteps_all">
         <source>ALL</source>

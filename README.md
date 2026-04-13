@@ -85,3 +85,5 @@ GPL-2.0-or-later. Siehe [LICENSE](LICENSE).
 ## Credits
 
 Erstellt 2026 von Benni Mack auf dem TYPO3 SurfCamp.
+
+Login-Hintergrundbild: [Susanne Daubner](https://images.ard.de/image/ce23b580-f0cd-4299-b174-d878bf490566/AAABmnZYgn8/AAABnSSvdEs/16x7/susanne-daubner-112.webp?width=1920) © ARD/NDR

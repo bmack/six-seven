@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="be_users.languageItemGroups.unavailable">
         <source>Unavailable Languages</source>
-        <target>Boomer-Sprachen (nicht verfuegbar)</target>
+        <target>Boomer-Sprachen (nicht verfügbar)</target>
       </trans-unit>
       <trans-unit id="be_users.tabs.permissions">
         <source>Module Permissions</source>
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="be_users.tabs.personal_data">
         <source>Personal Data</source>
-        <target>Deine persoenlichen Deets</target>
+        <target>Deine persönlichen Deets</target>
       </trans-unit>
       <trans-unit id="be_users.tabs.permissionRecords">
         <source>Record Permissions</source>
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="be_groups.non_exclude_fields.description">
         <source>Allow fields that are excluded in forms by default for non-admin users. This option refers to the 'exclude' configuration set in TCA (Table Configuration Array).</source>
-        <target>Felder freischalten die normalerweise fuer Nicht-Admins geghostet sind. Bezieht sich auf die 'exclude' Config im TCA, no cap.</target>
+        <target>Felder freischalten die normalerweise für Nicht-Admins geghostet sind. Bezieht sich auf die 'exclude' Config im TCA, no cap.</target>
       </trans-unit>
       <trans-unit id="be_groups.explicit_allowdeny">
         <source>Explicitly allow field values</source>
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="sys_log">
         <source>System Log</source>
-        <target>System-Tea verschuetten (Log)</target>
+        <target>System-Tea verschütten (Log)</target>
       </trans-unit>
       <trans-unit id="sys_news">
         <source>System News</source>
@@ -493,11 +493,11 @@
       </trans-unit>
       <trans-unit id="sys_workspace.live_edit">
         <source>Allow "live" editing of records from tables without versioning</source>
-        <target>Live-Flexen von Datensaetzen ohne Versionierung erlauben</target>
+        <target>Live-Flexen von Datensätzen ohne Versionierung erlauben</target>
       </trans-unit>
       <trans-unit id="sys_workspace.review_stage_edit">
         <source>Allow members to edit records in "Review" stage</source>
-        <target>Crew darf Datensaetze in der "Review"-Phase flexen</target>
+        <target>Crew darf Datensätze in der "Review"-Phase flexen</target>
       </trans-unit>
       <trans-unit id="sys_workspace.disable_autocreate">
         <source>Disable auto-versioning when editing</source>
@@ -505,11 +505,11 @@
       </trans-unit>
       <trans-unit id="sys_workspace.publish_access">
         <source>Publish access</source>
-        <target>Veroeffentlichungs-Zugang</target>
+        <target>Veröffentlichungs-Zugang</target>
       </trans-unit>
       <trans-unit id="sys_workspace.stagechg_notification">
         <source>Stage change notification by email</source>
-        <target>Benachrichtigung per Mail wenn sich die Stage aendert</target>
+        <target>Benachrichtigung per Mail wenn sich die Stage ändert</target>
       </trans-unit>
       <trans-unit id="pages">
         <source>Page</source>
@@ -565,7 +565,7 @@
       </trans-unit>
       <trans-unit id="pages.description">
         <source>Description for search engines</source>
-        <target>Beschreibung fuer Suchmaschinen (den SEO-Tea servieren)</target>
+        <target>Beschreibung für Suchmaschinen (den SEO-Tea servieren)</target>
       </trans-unit>
       <trans-unit id="be_users">
         <source>Backend user</source>
@@ -609,7 +609,7 @@
       </trans-unit>
       <trans-unit id="sys_file_storage.is_public">
         <source>Is publicly available?</source>
-        <target>Oeffentlich sichtbar (nicht geghostet)?</target>
+        <target>Öffentlich sichtbar (nicht geghostet)?</target>
       </trans-unit>
       <trans-unit id="sys_file_storage.is_writable">
         <source>Is writable?</source>
@@ -625,7 +625,7 @@
       </trans-unit>
       <trans-unit id="sys_file_storage.processingfolder">
         <source>Folder for manipulated and temporary images etc.</source>
-        <target>Ordner fuer bearbeitete und temporaere Bilder etc.</target>
+        <target>Ordner für bearbeitete und temporäre Bilder etc.</target>
       </trans-unit>
       <trans-unit id="sys_file_storage.processingfolder.placeholder">
         <source>_processed_ or 1:/processed_files_storage_x</source>
@@ -701,7 +701,7 @@
       </trans-unit>
       <trans-unit id="sys_file.size">
         <source>Size</source>
-        <target>Groesse</target>
+        <target>Größe</target>
       </trans-unit>
       <trans-unit id="sys_file.usage_count">
         <source>Usage Count</source>
@@ -725,7 +725,7 @@
       </trans-unit>
       <trans-unit id="sys_file.metadata">
         <source>Metadata records</source>
-        <target>Metadaten-Datensaetze</target>
+        <target>Metadaten-Datensätze</target>
       </trans-unit>
       <trans-unit id="file.width">
         <source>Width</source>
@@ -733,7 +733,7 @@
       </trans-unit>
       <trans-unit id="file.height">
         <source>Height</source>
-        <target>Hoehe</target>
+        <target>Höhe</target>
       </trans-unit>
       <trans-unit id="sys_file_metadata">
         <source>File Metadata</source>
@@ -825,7 +825,7 @@
       </trans-unit>
       <trans-unit id="sys_file_collection.type.0">
         <source>Selection of single files</source>
-        <target>Einzelne Dateien auswaehlen</target>
+        <target>Einzelne Dateien auswählen</target>
       </trans-unit>
       <trans-unit id="sys_file_collection.type.1">
         <source>Files from a selected folder</source>
@@ -857,7 +857,7 @@
       </trans-unit>
       <trans-unit id="editlock">
         <source>Restrict editing by non-Admins</source>
-        <target>Nur Bosse duerfen flexen</target>
+        <target>Nur Bosse dürfen flexen</target>
       </trans-unit>
       <trans-unit id="sys_category">
         <source>Category</source>

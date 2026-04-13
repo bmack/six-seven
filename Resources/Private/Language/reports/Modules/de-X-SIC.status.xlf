@@ -3,7 +3,7 @@
   <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:reports/Resources/Private/Language/Modules/status.xlf">
     <header/>
     <body>
-      <trans-unit id="short_description"><source>Get a status report about your site's operation and any detected problems.</source><target>Hol dir nen Status-Report ueber deine Site und erkannte Probleme.</target></trans-unit>
+      <trans-unit id="short_description"><source>Get a status report about your site's operation and any detected problems.</source><target>Gönn dir nen Status-Report über deine Site und erkannte Probleme.</target></trans-unit>
       <trans-unit id="description"><source>Review key site parameters and installation issues. You can copy this information into TYPO3 support requests or project issue trackers.</source><target>Check die wichtigsten Site-Parameter und Installations-Issues. Kannst die Infos in TYPO3 Support-Anfragen oder Issue-Tracker kopieren.</target></trans-unit>
       <trans-unit id="title"><source>Status Report</source><target>Status-Report</target></trans-unit>
     </body>

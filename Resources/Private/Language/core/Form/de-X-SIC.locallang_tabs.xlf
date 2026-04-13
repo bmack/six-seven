@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="accessibility">
         <source>Accessibility</source>
-        <target>Barrierefreiheit (fuer alle Homies)</target>
+        <target>Barrierefreiheit (für alle Homies)</target>
       </trans-unit>
       <trans-unit id="text">
         <source>Text</source>
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="seo">
         <source>SEO</source>
-        <target>SEO (Rizz fuer Google)</target>
+        <target>SEO (Rizz für Google)</target>
       </trans-unit>
       <trans-unit id="socialmedia">
         <source>Social Media</source>
@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="personaldata">
         <source>Personal Data</source>
-        <target>Deine persoenlichen Deets</target>
+        <target>Deine persönlichen Deets</target>
       </trans-unit>
       <trans-unit id="items">
         <source>Items</source>

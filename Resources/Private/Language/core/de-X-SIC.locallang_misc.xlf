@@ -5,11 +5,11 @@
     <body>
       <trans-unit id="overwriteExistingFiles">
         <source>Overwrite existing files</source>
-        <target>Bestehende Dateien ueberschreiben, Bre</target>
+        <target>Bestehende Dateien überschreiben, Bre</target>
       </trans-unit>
       <trans-unit id="uploadMultipleFilesInfo">
         <source>Upload multiple files by holding the Shift or CTRL-file pressed while selecting your files (works on modern browsers only).</source>
-        <target>Mehrere Dateien hochladen: Halte Shift oder STRG gedrueckt waehrend du Dateien auswahlst, Digga.</target>
+        <target>Mehrere Dateien hochladen: Halte Shift oder STRG gedrückt während du Dateien auswahlst, Digga.</target>
       </trans-unit>
       <trans-unit id="fileMetaDataLocation">
         <source>Location</source>
@@ -21,11 +21,11 @@
       </trans-unit>
       <trans-unit id="selectPosition">
         <source>Select a position for the new page</source>
-        <target>Waehle einen Spawn-Punkt fuer die neue Seite</target>
+        <target>Wähle einen Spawn-Punkt für die neue Seite</target>
       </trans-unit>
       <trans-unit id="pageSelectPosition">
         <source>Page (select position)</source>
-        <target>Seite (Spawn-Punkt waehlen)</target>
+        <target>Seite (Spawn-Punkt wählen)</target>
       </trans-unit>
       <trans-unit id="pageSelectPositionError">
         <source>Failed to fetch page details. This is likely due to missing permissions.</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="goBack">
         <source>Go back</source>
-        <target>Zurueck, Alter</target>
+        <target>Zurück, Alter</target>
       </trans-unit>
       <trans-unit id="createNewPage">
         <source>Create a new page</source>
@@ -89,11 +89,11 @@
       </trans-unit>
       <trans-unit id="newContentElement.filter.userNotAllowed">
         <source>No content elements are available with your current permissions.</source>
-        <target>Du wirst gatekeept - keine Content-Elemente verfuegbar mit deinen Rechten, Aura -500.</target>
+        <target>Du wirst gatekeept - keine Content-Elemente verfügbar mit deinen Rechten, Aura -500.</target>
       </trans-unit>
       <trans-unit id="system_records">
         <source>System Records</source>
-        <target>System-Datensaetze, Bre</target>
+        <target>System-Datensätze, Bre</target>
       </trans-unit>
       <trans-unit id="recordgroup.content">
         <source>Content</source>
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="1_selectType">
         <source>First select the type of the new content element</source>
-        <target>Erstmal den Typ des neuen Content-Elements waehlen</target>
+        <target>Erstmal den Typ des neuen Content-Elements wählen</target>
       </trans-unit>
       <trans-unit id="2_selectPosition">
         <source>Now click on the position of the new content element</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="CM_history">
         <source>History/Undo</source>
-        <target>Caught in 4K / Rueckgaengig</target>
+        <target>Caught in 4K / Rückgängig</target>
       </trans-unit>
       <trans-unit id="CM_hideInMenus">
         <source>Hide in menu</source>
@@ -133,15 +133,15 @@
       </trans-unit>
       <trans-unit id="localize">
         <source>Localize</source>
-        <target>Uebersetzen, Bro</target>
+        <target>Übersetzen, Bro</target>
       </trans-unit>
       <trans-unit id="localize.isLocalizable">
         <source>Record can be localized</source>
-        <target>Datensatz kann uebersetzt werden</target>
+        <target>Datensatz kann übersetzt werden</target>
       </trans-unit>
       <trans-unit id="localizeAllRecords">
         <source>Localize all records</source>
-        <target>Alle Datensaetze uebersetzen, sheesh</target>
+        <target>Alle Datensätze übersetzen, sheesh</target>
       </trans-unit>
       <trans-unit id="synchronizeWithOriginalLanguage">
         <source>Synchronize with original language</source>
@@ -153,11 +153,11 @@
       </trans-unit>
       <trans-unit id="tree_networkErrorDescription">
         <source>Got unexpected response from the server. Please check logs for details.</source>
-        <target>Unhinged! Der Server hat was Sus zurueckgeschickt. Den Tea gibt's in den Logs.</target>
+        <target>Unhinged! Der Server hat was Sus zurückgeschickt. Den Tea gibt's in den Logs.</target>
       </trans-unit>
       <trans-unit id="synchronizeFolderRelations.afterFolderRenamed">
         <source>%d %s records referencing the renamed directory were updated.</source>
-        <target>%d %s Datensaetze die auf den umbenannten Ordner zeigten wurden aktualisiert.</target>
+        <target>%d %s Datensätze die auf den umbenannten Ordner zeigten wurden aktualisiert.</target>
       </trans-unit>
       <trans-unit id="liveSearch_listEmptyText">
         <source>No results found.</source>
@@ -181,7 +181,7 @@
       </trans-unit>
       <trans-unit id="liveSearch_help.shortcutOpen">
         <source><![CDATA[You can open the live search by pressing the <kbd><kbd>Ctrl</kbd> + <kbd>K</kbd></kbd> or <kbd><kbd>Cmd</kbd> + <kbd>K</kbd></kbd> keystroke]]></source>
-        <target><![CDATA[Oeffne die Live-Suche mit <kbd><kbd>Strg</kbd> + <kbd>K</kbd></kbd> oder <kbd><kbd>Cmd</kbd> + <kbd>K</kbd></kbd>, easy]]></target>
+        <target><![CDATA[Öffne die Live-Suche mit <kbd><kbd>Strg</kbd> + <kbd>K</kbd></kbd> oder <kbd><kbd>Cmd</kbd> + <kbd>K</kbd></kbd>, easy]]></target>
       </trans-unit>
       <trans-unit id="liveSearch_search">
         <source>Search</source>
@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit id="liveSearch_searchIn">
         <source>Search records in</source>
-        <target>Datensaetze stalken in</target>
+        <target>Datensätze stalken in</target>
       </trans-unit>
       <trans-unit id="liveSearch_activeFilters">
         <source>active filters</source>

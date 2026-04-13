@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="module.label.violation">
         <source>Violation</source>
-        <target>Caught in 4K (sus Aktivitaet)</target>
+        <target>Caught in 4K (sus Aktivität)</target>
       </trans-unit>
       <trans-unit id="module.label.uri">
         <source>URI</source>
@@ -133,15 +133,15 @@
       </trans-unit>
       <trans-unit id="module.label.suggestions">
         <source>Suggestions</source>
-        <target>Vorschlaege (was wir vorschlagen, Bro)</target>
+        <target>Vorschläge (was wir vorschlagen, Bro)</target>
       </trans-unit>
       <trans-unit id="module.label.guide.no_record_selected">
         <source>Select a row to see more information.</source>
-        <target>Waehl ne Zeile aus um mehr Infos zu sehen, Brudi.</target>
+        <target>Wähl ne Zeile aus um mehr Infos zu sehen, Brudi.</target>
       </trans-unit>
       <trans-unit id="module.label.showDetails">
         <source>Show details for "%s" violation with URI: %s</source>
-        <target>Details fuer "%s"-Verstoss mit URI anzeigen: %s</target>
+        <target>Details für "%s"-Verstoss mit URI anzeigen: %s</target>
       </trans-unit>
       <trans-unit id="module.button.apply">
         <source>Apply</source>

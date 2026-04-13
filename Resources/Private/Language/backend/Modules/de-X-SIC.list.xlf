@@ -9,11 +9,11 @@
       </trans-unit>
       <trans-unit id="description">
         <source>The records module provides low level access to records appearing on a page.</source>
-        <target>Das Records-Modul gibt dir Low-Level-Zugriff auf Datensaetze einer Seite, fr fr.</target>
+        <target>Das Records-Modul gibt dir Low-Level-Zugriff auf Datensätze einer Seite, fr fr.</target>
       </trans-unit>
       <trans-unit id="title">
         <source>Records</source>
-        <target>Datensaetze</target>
+        <target>Datensätze</target>
       </trans-unit>
     </body>
   </file>

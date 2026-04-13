@@ -10,26 +10,26 @@
       <trans-unit id="sys_reaction.identifier"><source>Identifier</source><target>Identifier</target></trans-unit>
       <trans-unit id="sys_reaction.identifier.description"><source>This is your unique reaction identifier within the TYPO3 URL</source><target>Das ist dein einzigartiger Reaction-Identifier in der TYPO3-URL</target></trans-unit>
       <trans-unit id="sys_reaction.secret"><source>Secret</source><target>Secret</target></trans-unit>
-      <trans-unit id="sys_reaction.secret.description"><source>The secret is required to call the reaction from the outside. The secret can be re-created anytime, but will only be visible once (until the record got saved).</source><target>Das Secret wird benoetigt um die Reaction von aussen aufzurufen. Das Secret kann jederzeit neu erstellt werden, ist aber nur einmal sichtbar (bis der Record gespeichert wird).</target></trans-unit>
+      <trans-unit id="sys_reaction.secret.description"><source>The secret is required to call the reaction from the outside. The secret can be re-created anytime, but will only be visible once (until the record got saved).</source><target>Das Secret wird benötigt um die Reaction von aussen aufzurufen. Das Secret kann jederzeit neu erstellt werden, ist aber nur einmal sichtbar (bis der Record gespeichert wird).</target></trans-unit>
       <trans-unit id="sys_reaction.secret.passwordGenerator"><source>Generate secret token</source><target>Secret-Token generieren</target></trans-unit>
       <trans-unit id="sys_reaction.reaction_type"><source>Reaction Type</source><target>Reaction-Typ</target></trans-unit>
-      <trans-unit id="sys_reactions.reaction_type.description"><source>Select the reaction type to be configured.</source><target>Waehle den zu konfigurierenden Reaction-Typ.</target></trans-unit>
-      <trans-unit id="sys_reaction.reaction_type.select"><source>Select a reaction</source><target>Reaction auswaehlen</target></trans-unit>
+      <trans-unit id="sys_reactions.reaction_type.description"><source>Select the reaction type to be configured.</source><target>Wähle den zu konfigurierenden Reaction-Typ.</target></trans-unit>
+      <trans-unit id="sys_reaction.reaction_type.select"><source>Select a reaction</source><target>Reaction auswählen</target></trans-unit>
       <trans-unit id="sys_reaction.reaction_type.create_record"><source>Create database record</source><target>Datenbank-Record manifesten</target></trans-unit>
       <trans-unit id="sys_reaction.impersonate_user"><source>Impersonate User</source><target>User imitieren</target></trans-unit>
-      <trans-unit id="sys_reaction.impersonate_user.description"><source>Select the user with the appropriate access rights that is allowed to add a record of this type. If in doubt, use the CLI user.</source><target>Waehle den User mit den passenden Zugriffsrechten der Records dieses Typs anlegen darf. Im Zweifelsfall den CLI-User nehmen.</target></trans-unit>
+      <trans-unit id="sys_reaction.impersonate_user.description"><source>Select the user with the appropriate access rights that is allowed to add a record of this type. If in doubt, use the CLI user.</source><target>Wähle den User mit den passenden Zugriffsrechten der Records dieses Typs anlegen darf. Im Zweifelsfall den CLI-User nehmen.</target></trans-unit>
       <trans-unit id="sys_reaction.table_name"><source>Table</source><target>Tabelle</target></trans-unit>
-      <trans-unit id="sys_reaction.table_name.description"><source>Select one tables to display the corresponding fields.</source><target>Waehle eine Tabelle um die zugehoerigen Felder anzuzeigen.</target></trans-unit>
-      <trans-unit id="sys_reaction.table_name.select"><source>Select a table</source><target>Tabelle auswaehlen</target></trans-unit>
+      <trans-unit id="sys_reaction.table_name.description"><source>Select one tables to display the corresponding fields.</source><target>Wähle eine Tabelle um die zugehörigen Felder anzuzeigen.</target></trans-unit>
+      <trans-unit id="sys_reaction.table_name.select"><source>Select a table</source><target>Tabelle auswählen</target></trans-unit>
       <trans-unit id="sys_reaction.storage_pid"><source>Storage PID</source><target>Storage-PID</target></trans-unit>
-      <trans-unit id="sys_reaction.storage_pid.description"><source>Select the page on which a new record is created on.</source><target>Waehle die Seite auf der ein neuer Record erstellt wird.</target></trans-unit>
+      <trans-unit id="sys_reaction.storage_pid.description"><source>Select the page on which a new record is created on.</source><target>Wähle die Seite auf der ein neuer Record erstellt wird.</target></trans-unit>
       <trans-unit id="sys_reaction.fields"><source>Fields</source><target>Felder</target></trans-unit>
-      <trans-unit id="sys_reaction.fields.description"><source>The available fields depend on the selected table. The usage of placeholders like ${foo.bar} is possible.</source><target>Die Felder die am Start sind haengen von der gewaehlten Tabelle ab. Platzhalter wie ${foo.bar} sind moeglich, Bro.</target></trans-unit>
+      <trans-unit id="sys_reaction.fields.description"><source>The available fields depend on the selected table. The usage of placeholders like ${foo.bar} is possible.</source><target>Die Felder die am Start sind hängen von der gewählten Tabelle ab. Platzhalter wie ${foo.bar} sind möglich, Bro.</target></trans-unit>
       <trans-unit id="palette.config"><source>Configuration</source><target>Konfiguration</target></trans-unit>
       <trans-unit id="palette.config.description"><source>General configuration of the reaction.</source><target>Allgemeine Konfiguration der Reaction.</target></trans-unit>
-      <trans-unit id="palette.additional"><source>Additional configuration</source><target>Zusaetzliche Konfiguration</target></trans-unit>
-      <trans-unit id="palette.additional.description"><source>Specific configuration for the selected reaction type</source><target>Spezifische Konfiguration fuer den gewaehlten Reaction-Typ</target></trans-unit>
-      <trans-unit id="fieldMapElement.noFields"><source>The selected table '%s' does not define any valid fields to be configured.</source><target>Die gewaehlte Tabelle '%s' definiert keine gueltigen Felder zum Konfigurieren.</target></trans-unit>
+      <trans-unit id="palette.additional"><source>Additional configuration</source><target>Zusätzliche Konfiguration</target></trans-unit>
+      <trans-unit id="palette.additional.description"><source>Specific configuration for the selected reaction type</source><target>Spezifische Konfiguration für den gewählten Reaction-Typ</target></trans-unit>
+      <trans-unit id="fieldMapElement.noFields"><source>The selected table '%s' does not define any valid fields to be configured.</source><target>Die gewählte Tabelle '%s' definiert keine gültigen Felder zum Konfigurieren.</target></trans-unit>
     </body>
   </file>
 </xliff>

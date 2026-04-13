@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="short_description">
         <source>Your personal tasks, overview and setup</source>
-        <target>Deine persoenlichen Tasks, Uebersicht und Settings</target>
+        <target>Deine persönlichen Tasks, Übersicht und Settings</target>
       </trans-unit>
       <trans-unit id="title">
         <source>User Tools</source>

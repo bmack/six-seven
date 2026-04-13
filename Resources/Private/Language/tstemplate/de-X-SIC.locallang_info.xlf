@@ -5,8 +5,8 @@
     <body>
       <trans-unit id="submodule.title"><source>Edit TypoScript record</source><target>TypoScript-Record flexen</target></trans-unit>
       <trans-unit id="submodule.titleWithRecord"><source>Edit TypoScript record "%s"</source><target>TypoScript-Record "%s" flexen</target></trans-unit>
-      <trans-unit id="submodule.description"><source>Modify the content of the selected TypoScript record of the current page. Modifications can be made either for configurations like TypoScript constants and setup or basics like the title and description of the TypoScript record itself.</source><target>Den Content des ausgewaehlten TypoScript-Records der aktuellen Seite flexen. Aenderungen koennen an Konfigurationen wie TypoScript-Konstanten und Setup oder an Basics wie Titel und Beschreibung des Records vorgenommen werden.</target></trans-unit>
-      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Ausgewaehlter Record</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Modify the content of the selected TypoScript record of the current page. Modifications can be made either for configurations like TypoScript constants and setup or basics like the title and description of the TypoScript record itself.</source><target>Den Content des ausgewählten TypoScript-Records der aktuellen Seite flexen. Änderungen können an Konfigurationen wie TypoScript-Konstanten und Setup oder an Basics wie Titel und Beschreibung des Records vorgenommen werden.</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Ausgewählter Record</target></trans-unit>
       <trans-unit id="table.column.constants"><source>Constants</source><target>Konstanten</target></trans-unit>
       <trans-unit id="table.column.description"><source>Description</source><target>Worum geht's, Bre</target></trans-unit>
       <trans-unit id="table.column.lines"><source>%s lines</source><target>%s Zeilen</target></trans-unit>
@@ -16,7 +16,7 @@
       <trans-unit id="btn.editSiteSettings"><source>Edit site settings</source><target>Site-Settings flexen</target></trans-unit>
       <trans-unit id="btn.editTypoScriptRecord"><source>Edit the whole TypoScript record</source><target>Den ganzen TypoScript-Record flexen</target></trans-unit>
       <trans-unit id="infoTypoScriptRecordFromSite.title"><source>TypoScript settings have been implicitly generated from site sets includes</source><target>TypoScript-Settings wurden implizit aus Site-Set-Includes generiert</target></trans-unit>
-      <trans-unit id="infoTypoScriptRecordFromSite.message"><source>The site configuration '%s' has one or more dependencies on site sets. The sets can be configured in the 'Sites - Setup' backend module. The TypoScript definitions can be edited on the file system.</source><target>Die Site-Konfiguration '%s' hat Abhaengigkeiten zu Site-Sets. Die Sets koennen im 'Sites - Setup'-Backend-Modul konfiguriert werden. Die TypoScript-Definitionen koennen im Dateisystem geflexed werden.</target></trans-unit>
+      <trans-unit id="infoTypoScriptRecordFromSite.message"><source>The site configuration '%s' has one or more dependencies on site sets. The sets can be configured in the 'Sites - Setup' backend module. The TypoScript definitions can be edited on the file system.</source><target>Die Site-Konfiguration '%s' hat Abhängigkeiten zu Site-Sets. Die Sets können im 'Sites - Setup'-Backend-Modul konfiguriert werden. Die TypoScript-Definitionen können im Dateisystem geflexed werden.</target></trans-unit>
       <trans-unit id="noConstantsButSiteSettings.title"><source>Site Settings available</source><target>Site-Settings am Start</target></trans-unit>
       <trans-unit id="noConstantsButSiteSettings.message"><source>Edit site settings via the 'Sites - Setup' backend module.</source><target>Site-Settings via das 'Sites - Setup'-Backend-Modul flexen.</target></trans-unit>
     </body>

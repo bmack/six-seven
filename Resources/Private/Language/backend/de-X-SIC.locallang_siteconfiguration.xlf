@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="overview.addSiteConfiguration">
         <source>Add new site configuration for this site</source>
-        <target>Neue Site-Konfig fuer diese Site droppen</target>
+        <target>Neue Site-Konfig für diese Site droppen</target>
       </trans-unit>
       <trans-unit id="overview.editSiteConfiguration">
         <source>Edit site configuration</source>
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="overview.unassignedSites.description">
         <source>The following site configurations don't belong to any page anymore and can be removed.</source>
-        <target>Die folgenden Site-Konfigurationen gehoeren zu keiner Seite mehr und koennen geyeetet werden.</target>
+        <target>Die folgenden Site-Konfigurationen gehören zu keiner Seite mehr und können geyeetet werden.</target>
       </trans-unit>
       <trans-unit id="overview.invalidSets.title">
         <source>Invalid site set configurations</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="overview.site_sets">
         <source>Dependencies to site sets</source>
-        <target>Abhaengigkeiten zu Site-Sets (das Squad)</target>
+        <target>Abhängigkeiten zu Site-Sets (das Squad)</target>
       </trans-unit>
       <trans-unit id="overview.site_sets.yes">
         <source>Yes</source>
@@ -225,15 +225,15 @@
       </trans-unit>
       <trans-unit id="detail.site_settings.active_settings.custom_site_settings">
         <source>Settings within site configuration (e.g. via 'settings.yaml')</source>
-        <target>Settings in der Site-Konfig (z.B. ueber 'settings.yaml')</target>
+        <target>Settings in der Site-Konfig (z.B. über 'settings.yaml')</target>
       </trans-unit>
       <trans-unit id="detail.site_settings.dependencies.headline">
         <source>Dependencies</source>
-        <target>Abhaengigkeiten (das Squad)</target>
+        <target>Abhängigkeiten (das Squad)</target>
       </trans-unit>
       <trans-unit id="detail.site_settings.dependencies.text">
         <source><![CDATA[Settings can be stored directly via the site configuration, or indirectly by loading them as a dependency of another site set.<br>The following dependencies are stored in the site configuration:]]></source>
-        <target><![CDATA[Settings koennen direkt in der Site-Konfig gespeichert werden oder indirekt als Abhaengigkeit eines anderen Site-Sets geladen werden.<br>Die folgenden Abhaengigkeiten sind in der Site-Konfig gespeichert:]]></target>
+        <target><![CDATA[Settings können direkt in der Site-Konfig gespeichert werden oder indirekt als Abhängigkeit eines anderen Site-Sets geladen werden.<br>Die folgenden Abhängigkeiten sind in der Site-Konfig gespeichert:]]></target>
       </trans-unit>
       <trans-unit id="detail.site_settings.headline">
         <source>Site settings</source>
@@ -241,11 +241,11 @@
       </trans-unit>
       <trans-unit id="detail.site_settings.no_settings_found.message">
         <source><![CDATA[Settings are listed here as soon as they are either present in a <code>settings.yaml</code> file in the site folder or there is one or more dependencies on site sets in the site configuration.]]></source>
-        <target><![CDATA[Settings tauchen hier auf sobald sie entweder in ner <code>settings.yaml</code> im Site-Ordner sind oder es Abhaengigkeiten zu Site-Sets in der Site-Konfig gibt.]]></target>
+        <target><![CDATA[Settings tauchen hier auf sobald sie entweder in ner <code>settings.yaml</code> im Site-Ordner sind oder es Abhängigkeiten zu Site-Sets in der Site-Konfig gibt.]]></target>
       </trans-unit>
       <trans-unit id="detail.site_settings.no_settings_found.title">
         <source>No site settings were found for this site</source>
-        <target>Null Site-Settings fuer diese Site gefunden, Brudi</target>
+        <target>Null Site-Settings für diese Site gefunden, Brudi</target>
       </trans-unit>
       <trans-unit id="edit.editSiteSettings">
         <source>Edit site settings</source>
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="validation.duplicateErrorCode.message">
         <source>Two error handler configurations for error code "%1s" found. This would be an invalid configuration, the dangling one has been removed.</source>
-        <target>Zwei Error-Handler-Konfigurationen fuer Fehler-Code "%1s" gefunden. Das waere ne ungueltige Konfig, die ueberfluessige wurde geyeetet.</target>
+        <target>Zwei Error-Handler-Konfigurationen für Fehler-Code "%1s" gefunden. Das wäre ne ungültige Konfig, die überflüssige wurde geyeetet.</target>
       </trans-unit>
       <trans-unit id="validation.duplicateLanguageId.title">
         <source>Duplicate language configuration removed</source>
@@ -301,7 +301,7 @@
       </trans-unit>
       <trans-unit id="validation.duplicateLanguageId.message">
         <source>Two language configurations for language "%1s" found. This would be an invalid configuration, the dangling one has been removed.</source>
-        <target>Zwei Sprach-Konfigurationen fuer Sprache "%1s" gefunden. Das waere ungueltig, die ueberfluessige wurde geyeetet.</target>
+        <target>Zwei Sprach-Konfigurationen für Sprache "%1s" gefunden. Das wäre ungültig, die überflüssige wurde geyeetet.</target>
       </trans-unit>
       <trans-unit id="labels.detail">
         <source>View Site Configuration "%s"</source>

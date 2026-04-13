@@ -61,11 +61,11 @@
       </trans-unit>
       <trans-unit id="FileUtility.DirectoryRenamedFromToCharReplaced">
         <source>Folder renamed from "%s" to "%s", with unsupported characters replaced.</source>
-        <target>Ordner von "%s" zu "%s" umgetauft, ungueltige Zeichen wurden ersetzt.</target>
+        <target>Ordner von "%s" zu "%s" umgetauft, ungültige Zeichen wurden ersetzt.</target>
       </trans-unit>
       <trans-unit id="FileUtility.DirectoryRenamedSameName">
         <source>Folder "%s" already has this name. No changes were made.</source>
-        <target>Ordner "%s" heisst schon so, nix geaendert.</target>
+        <target>Ordner "%s" heisst schon so, nix geändert.</target>
       </trans-unit>
       <trans-unit id="FileUtility.DirectoryWasNotCopiedTo">
         <source>Folder "%s" cannot be copied to "%s" due to insufficent write permissions.</source>
@@ -105,7 +105,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.FileNameSanitized">
         <source>File renamed from "%s" to "%s", with unsupported characters replaced.</source>
-        <target>Datei von "%s" zu "%s" umgetauft, ungueltige Zeichen wurden ersetzt.</target>
+        <target>Datei von "%s" zu "%s" umgetauft, ungültige Zeichen wurden ersetzt.</target>
       </trans-unit>
       <trans-unit id="FileUtility.FileExistedAlreadyIn">
         <source>A file with the same name already exists in "%s"</source>
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.FileExtensionIsNotATextfileFormat">
         <source>File extension "%s" is not a supported text file format. Supported formats: %s.</source>
-        <target>Dateiendung "%s" ist kein unterstuetztes Textformat. Unterstuetzte Formate: %s.</target>
+        <target>Dateiendung "%s" ist kein unterstütztes Textformat. Unterstützte Formate: %s.</target>
       </trans-unit>
       <trans-unit id="FileUtility.FileExtensionIsNotzip">
         <source>File extension is not "zip".</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.FileRenamedSameName">
         <source>File "%s" already has this name. No changes were made.</source>
-        <target>Datei "%s" heisst schon so, nix geaendert.</target>
+        <target>Datei "%s" heisst schon so, nix geändert.</target>
       </trans-unit>
       <trans-unit id="FileUtility.FileSavedTo">
         <source>File saved to "%s".</source>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.NoNameForNewFolderGiven">
         <source>No name was provided for the new folder.</source>
-        <target>Kein Name fuer den neuen Ordner angegeben, Digga.</target>
+        <target>Kein Name für den neuen Ordner angegeben, Digga.</target>
       </trans-unit>
       <trans-unit id="FileUtility.NoUniqueFilenameAvailableIn">
         <source>No unique filename could be generated in "%s".</source>
@@ -205,19 +205,19 @@
       </trans-unit>
       <trans-unit id="FileUtility.TheFunctionToCopyAFileBetweenStoragesIsNotYetImplemented">
         <source>Copying files between storages is not yet available.</source>
-        <target>Dateien zwischen Lagern kopieren geht noch nicht, kommt spaeter.</target>
+        <target>Dateien zwischen Lagern kopieren geht noch nicht, kommt später.</target>
       </trans-unit>
       <trans-unit id="FileUtility.TheFunctionToCopyAFolderBetweenStoragesIsNotYetImplemented">
         <source>Copying folders between storages is not yet available.</source>
-        <target>Ordner zwischen Lagern kopieren geht noch nicht, kommt spaeter.</target>
+        <target>Ordner zwischen Lagern kopieren geht noch nicht, kommt später.</target>
       </trans-unit>
       <trans-unit id="FileUtility.TheFunctionToMoveAFileBetweenStoragesIsNotYetImplemented">
         <source>Moving files between storages is not yet available.</source>
-        <target>Dateien zwischen Lagern verschieben geht noch nicht, kommt spaeter.</target>
+        <target>Dateien zwischen Lagern verschieben geht noch nicht, kommt später.</target>
       </trans-unit>
       <trans-unit id="FileUtility.TheFunctionToMoveAFolderBetweenStoragesIsNotYetImplemented">
         <source>Moving folders between storages is not yet available.</source>
-        <target>Ordner zwischen Lagern verschieben geht noch nicht, kommt spaeter.</target>
+        <target>Ordner zwischen Lagern verschieben geht noch nicht, kommt später.</target>
       </trans-unit>
       <trans-unit id="FileUtility.TheUploadHasFailedNoUploadedFileFound">
         <source>No file was found for the upload.</source>
@@ -225,7 +225,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.TheUploadedFileExceedsTheSize-limit">
         <source>The uploaded file "%s" exceeds the maximum allowed file size.</source>
-        <target>Die hochgeladene Datei "%s" ist zu fett (ueberschreitet die maximale Dateigroesse).</target>
+        <target>Die hochgeladene Datei "%s" ist zu fett (überschreitet die maximale Dateigröße).</target>
       </trans-unit>
       <trans-unit id="FileUtility.UnzippingFileIn">
         <source>Unzipping file "%s" in "%s".</source>
@@ -257,7 +257,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.InvalidFolderName">
         <source>The folder name "%s" is not valid.</source>
-        <target>Der Ordnername "%s" ist ungueltig.</target>
+        <target>Der Ordnername "%s" ist ungültig.</target>
       </trans-unit>
       <trans-unit id="FileUtility.YouAreNotAllowedToCreateDirectories">
         <source>Creating folders is not permitted.</source>
@@ -281,7 +281,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.YouAreNotAllowedToOverride">
         <source>Overwriting "%s" is not permitted.</source>
-        <target>"%s" ueberschreiben ist nicht erlaubt.</target>
+        <target>"%s" überschreiben ist nicht erlaubt.</target>
       </trans-unit>
       <trans-unit id="FileUtility.YouAreNotAllowedToRenameDirectories">
         <source>Renaming folders is not permitted.</source>
@@ -301,11 +301,11 @@
       </trans-unit>
       <trans-unit id="FileUtility.YouDontHaveFullAccessToTheDestinationDirectory">
         <source>Full access to the destination folder "%s" is not available.</source>
-        <target>Voller Zugriff auf den Zielordner "%s" ist nicht moeglich.</target>
+        <target>Voller Zugriff auf den Zielordner "%s" ist nicht möglich.</target>
       </trans-unit>
       <trans-unit id="FileUtility.MimeTypeNotAllowedForFileExtensionWithExpectation">
         <source>The MIME type "%s" is not allowed for files with the extension "%s". Expected: %s.</source>
-        <target>Der MIME-Typ "%s" ist fuer Dateien mit der Endung "%s" nicht erlaubt. Erwartet: %s.</target>
+        <target>Der MIME-Typ "%s" ist für Dateien mit der Endung "%s" nicht erlaubt. Erwartet: %s.</target>
       </trans-unit>
       <trans-unit id="FileUtility.FileExtensionIsNotAllowed">
         <source>File extension "%s" is not allowed here.</source>

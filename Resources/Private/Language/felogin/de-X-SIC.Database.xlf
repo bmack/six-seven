@@ -121,11 +121,11 @@
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected">
         <source>Show selected</source>
-        <target>Ausgewaehlte zeigen, Bro</target>
+        <target>Ausgewählte zeigen, Bro</target>
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected">
         <source>Don't show selected</source>
-        <target>Ausgewaehlte ghosten</target>
+        <target>Ausgewählte ghosten</target>
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS">
         <source>(from Typoscript)</source>
@@ -185,11 +185,11 @@
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.redirectMode.I.7">
         <source>Defined by Domain Entries</source>
-        <target>Definiert durch Domain-Eintraege, Bre</target>
+        <target>Definiert durch Domain-Einträge, Bre</target>
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.redirectFirstMethod">
         <source>Use First Supported Mode from Selection</source>
-        <target>Ersten unterstuetzten Modus aus der Auswahl nehmen, Homie</target>
+        <target>Ersten unterstützten Modus aus der Auswahl nehmen, Homie</target>
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.redirectDisable">
         <source>Disable Redirect</source>

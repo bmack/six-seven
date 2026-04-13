@@ -5,11 +5,11 @@
     <body>
       <trans-unit id="pageIDInteger">
         <source>Syntax error: Parameter pageID must be a valid integer.</source>
-        <target>Syntax-Fehler: Parameter pageID muss ein gueltiger Integer sein, Brudi.</target>
+        <target>Syntax-Fehler: Parameter pageID muss ein gültiger Integer sein, Brudi.</target>
       </trans-unit>
       <trans-unit id="noPermission">
         <source>Access denied: No permission to template records.</source>
-        <target>Zugriff verweigert: Keine Berechtigung fuer Template-Records, kein Rizz hier.</target>
+        <target>Zugriff verweigert: Keine Berechtigung für Template-Records, kein Rizz hier.</target>
       </trans-unit>
     </body>
   </file>

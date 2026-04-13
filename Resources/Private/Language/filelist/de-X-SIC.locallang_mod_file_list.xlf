@@ -9,11 +9,11 @@
       </trans-unit>
       <trans-unit id="clip_paste">
         <source>Paste in clipboard content</source>
-        <target>Zwischenablage-Inhalt einfuegen, Bro</target>
+        <target>Zwischenablage-Inhalt einfügen, Bro</target>
       </trans-unit>
       <trans-unit id="clip_pasteInto">
         <source>Paste into: Clipboard content is inserted into this folder</source>
-        <target>Einfuegen: Zwischenablage-Inhalt wird in diesen Ordner gepackt, Bre</target>
+        <target>Einfügen: Zwischenablage-Inhalt wird in diesen Ordner gepackt, Bre</target>
       </trans-unit>
       <trans-unit id="editMarked">
         <source>Edit Metadata</source>
@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="c_size">
         <source>Size</source>
-        <target>Groesse, Digga</target>
+        <target>Größe, Digga</target>
       </trans-unit>
       <trans-unit id="c_record_type">
         <source>Type</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="temp">
         <source>Temporary files</source>
-        <target>Temporaere Dateien, Bro</target>
+        <target>Temporäre Dateien, Bro</target>
       </trans-unit>
       <trans-unit id="read">
         <source>R</source>
@@ -105,11 +105,11 @@
       </trans-unit>
       <trans-unit id="localStorageOfflineTitle">
         <source>Base folder for local storage missing or not allowed</source>
-        <target>Basis-Ordner fuer lokalen Storage fehlt oder ist nicht erlaubt, Brudi</target>
+        <target>Basis-Ordner für lokalen Storage fehlt oder ist nicht erlaubt, Brudi</target>
       </trans-unit>
       <trans-unit id="localStorageOfflineMessage">
         <source>Verify that the base folder for the storage "%s" exists and is allowed to be accessed.</source>
-        <target>Check ob der Basis-Ordner fuer den Storage "%s" existiert und zugaenglich ist, Alter.</target>
+        <target>Check ob der Basis-Ordner für den Storage "%s" existiert und zugänglich ist, Alter.</target>
       </trans-unit>
       <trans-unit id="folderNotFoundTitle">
         <source>Folder not found.</source>
@@ -117,19 +117,19 @@
       </trans-unit>
       <trans-unit id="folderNotFoundMessage">
         <source>The folder "%s" cannot be accessed. Trying to use parent folder(s).</source>
-        <target>Auf den Ordner "%s" kann nicht zugegriffen werden. Versuche uebergeordnete(n) Ordner zu nutzen, Bre.</target>
+        <target>Auf den Ordner "%s" kann nicht zugegriffen werden. Versuche übergeordnete(n) Ordner zu nutzen, Bre.</target>
       </trans-unit>
       <trans-unit id="translateMetadata">
         <source>Translate metadata</source>
-        <target>Metadaten uebersetzen, Homie</target>
+        <target>Metadaten übersetzen, Homie</target>
       </trans-unit>
       <trans-unit id="createMetadataForLanguage">
         <source>Create metadata of this file for %s</source>
-        <target>Metadaten dieser Datei fuer %s erstellen, Bestie</target>
+        <target>Metadaten dieser Datei für %s erstellen, Bestie</target>
       </trans-unit>
       <trans-unit id="editMetadataForLanguage">
         <source>Edit metadata of this file for %s</source>
-        <target>Metadaten dieser Datei fuer %s flexen</target>
+        <target>Metadaten dieser Datei für %s flexen</target>
       </trans-unit>
       <trans-unit id="paramError">
         <source>Parameter Error</source>

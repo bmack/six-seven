@@ -29,11 +29,11 @@
       </trans-unit>
       <trans-unit id="toolbarItems.sysinfo">
         <source>System Information</source>
-        <target>System-Infos (Tea verschuetten)</target>
+        <target>System-Infos (Tea verschütten)</target>
       </trans-unit>
       <trans-unit id="toolbarItems.sysinfo.intro.text">
         <source>This is a short system overview. For advanced information please head to: </source>
-        <target>Hier ne kurze System-Uebersicht. Fuer mehr Details geh zu: </target>
+        <target>Hier ne kurze System-Übersicht. Für mehr Details geh zu: </target>
       </trans-unit>
       <trans-unit id="toolbarItems.sysinfo.intro.link">
         <source>Environment Module</source>

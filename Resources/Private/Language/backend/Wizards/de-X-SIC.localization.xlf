@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="localization_wizard.no_steps_available.message">
         <source>No localization steps are available for this record type.</source>
-        <target>Keine Lokalisierungsschritte fuer diesen Datensatztyp verfuegbar.</target>
+        <target>Keine Lokalisierungsschritte für diesen Datensatztyp verfügbar.</target>
       </trans-unit>
       <trans-unit id="localization_wizard.no_steps_available.title">
         <source>Warning</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="localization_wizard.finisher.noop.success.description">
         <source>No records were selected that need processing. Click "Finish" to reload the page.</source>
-        <target>Keine Datensaetze ausgewaehlt die verarbeitet werden muessen. Klick "Fertig" um die Seite neu zu laden.</target>
+        <target>Keine Datensätze ausgewählt die verarbeitet werden müssen. Klick "Fertig" um die Seite neu zu laden.</target>
       </trans-unit>
       <trans-unit id="step.content_selection.title">
         <source>Content selection</source>
@@ -65,11 +65,11 @@
       </trans-unit>
       <trans-unit id="step.content_selection.headline">
         <source>Select records to localize</source>
-        <target>Datensaetze zum Lokalisieren auswaehlen</target>
+        <target>Datensätze zum Lokalisieren auswählen</target>
       </trans-unit>
       <trans-unit id="step.content_selection.description">
         <source>Choose which content elements you would like to translate:</source>
-        <target>Waehle welche Content-Elemente du uebersetzen willst, Brudi:</target>
+        <target>Wähle welche Content-Elemente du übersetzen willst, Brudi:</target>
       </trans-unit>
       <trans-unit id="step.content_selection.summary.title">
         <source>Content Element(s)</source>
@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="step.content_selection.error.message">
         <source>Failed to load records for selection</source>
-        <target>Datensaetze fuer die Auswahl konnten nicht geladen werden, oof</target>
+        <target>Datensätze für die Auswahl konnten nicht geladen werden, oof</target>
       </trans-unit>
       <trans-unit id="step.content_selection.button.select_all">
         <source>Select all</source>
@@ -101,11 +101,11 @@
       </trans-unit>
       <trans-unit id="step.handler_selection.headline">
         <source>Select localization handler</source>
-        <target>Lokalisierungs-Handler auswaehlen</target>
+        <target>Lokalisierungs-Handler auswählen</target>
       </trans-unit>
       <trans-unit id="step.handler_selection.description">
         <source>Choose how you would like to localize this record:</source>
-        <target>Waehle wie du diesen Datensatz lokalisieren willst:</target>
+        <target>Wähle wie du diesen Datensatz lokalisieren willst:</target>
       </trans-unit>
       <trans-unit id="step.handler_selection.summary_label">
         <source>Handler</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="step.handler_selection.no_handlers">
         <source>No localization handlers available.</source>
-        <target>Keine Lokalisierungs-Handler verfuegbar.</target>
+        <target>Keine Lokalisierungs-Handler verfügbar.</target>
       </trans-unit>
       <trans-unit id="step.modes.title">
         <source>Mode</source>
@@ -125,11 +125,11 @@
       </trans-unit>
       <trans-unit id="step.modes.headline">
         <source>Select localization mode</source>
-        <target>Lokalisierungsmodus auswaehlen</target>
+        <target>Lokalisierungsmodus auswählen</target>
       </trans-unit>
       <trans-unit id="step.modes.description">
         <source>Choose how content should be localized:</source>
-        <target>Waehle wie der Content lokalisiert werden soll:</target>
+        <target>Wähle wie der Content lokalisiert werden soll:</target>
       </trans-unit>
       <trans-unit id="step.modes.summary.title">
         <source>Mode</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="step.modes.none_available">
         <source>No localization modes available.</source>
-        <target>Keine Lokalisierungsmodi verfuegbar.</target>
+        <target>Keine Lokalisierungsmodi verfügbar.</target>
       </trans-unit>
       <trans-unit id="step.source_language.title">
         <source>Source language</source>
@@ -149,11 +149,11 @@
       </trans-unit>
       <trans-unit id="step.source_language.headline">
         <source>Select source language</source>
-        <target>Quellsprache auswaehlen</target>
+        <target>Quellsprache auswählen</target>
       </trans-unit>
       <trans-unit id="step.source_language.description">
         <source>Choose the language from which you would like to translate content:</source>
-        <target>Waehle die Sprache aus der du Content uebersetzen willst:</target>
+        <target>Wähle die Sprache aus der du Content übersetzen willst:</target>
       </trans-unit>
       <trans-unit id="step.source_language.summary.title">
         <source>Source language</source>
@@ -165,7 +165,7 @@
       </trans-unit>
       <trans-unit id="step.source_language.none_available">
         <source>No source languages available.</source>
-        <target>Keine Quellsprachen verfuegbar.</target>
+        <target>Keine Quellsprachen verfügbar.</target>
       </trans-unit>
       <trans-unit id="step.target_language.title">
         <source>Target language</source>
@@ -173,11 +173,11 @@
       </trans-unit>
       <trans-unit id="step.target_language.headline">
         <source>Select target language</source>
-        <target>Zielsprache auswaehlen</target>
+        <target>Zielsprache auswählen</target>
       </trans-unit>
       <trans-unit id="step.target_language.description">
         <source>Select the language into which you would like to translate the content:</source>
-        <target>Waehle die Sprache in die du den Content uebersetzen willst:</target>
+        <target>Wähle die Sprache in die du den Content übersetzen willst:</target>
       </trans-unit>
       <trans-unit id="step.target_language.summary.title">
         <source>Target language</source>
@@ -189,19 +189,19 @@
       </trans-unit>
       <trans-unit id="step.target_language.none_available">
         <source>No target languages available.</source>
-        <target>Keine Zielsprachen verfuegbar.</target>
+        <target>Keine Zielsprachen verfügbar.</target>
       </trans-unit>
       <trans-unit id="handler.manual.label">
         <source>Manual Translation</source>
-        <target>Manuelle Uebersetzung (DIY-Style)</target>
+        <target>Manuelle Übersetzung (DIY-Style)</target>
       </trans-unit>
       <trans-unit id="handler.manual.description">
         <source>Prepares the language version. Edit and translate the content yourself afterwards.</source>
-        <target>Bereitet die Sprachversion vor. Danach flexst du den Content selber und uebersetzt ihn.</target>
+        <target>Bereitet die Sprachversion vor. Danach flexst du den Content selber und übersetzt ihn.</target>
       </trans-unit>
       <trans-unit id="error.recordNotFound">
         <source>Record with uid "%s" of type "%s" does not exist or is not accessible.</source>
-        <target>Datensatz mit uid "%s" vom Typ "%s" existiert nicht oder ist nicht zugaenglich, geghostet.</target>
+        <target>Datensatz mit uid "%s" vom Typ "%s" existiert nicht oder ist nicht zugänglich, geghostet.</target>
       </trans-unit>
     </body>
   </file>

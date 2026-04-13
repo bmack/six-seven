@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="table_setCountHeadline">
         <source>Change table size</source>
-        <target>Tabellengroesse aendern</target>
+        <target>Tabellengröße ändern</target>
       </trans-unit>
       <trans-unit id="table_buttonUpdate">
         <source>Update</source>
@@ -161,15 +161,15 @@
       </trans-unit>
       <trans-unit id="grid_slideModeHelp">
         <source>The slide mode defines which elements should be fetched for the column in the frontend.</source>
-        <target>Der Slide-Modus legt fest welche Elemente fuer die Spalte im Frontend geholt werden.</target>
+        <target>Der Slide-Modus legt fest welche Elemente für die Spalte im Frontend geholt werden.</target>
       </trans-unit>
       <trans-unit id="imwizard.open-editor">
         <source>Open Editor</source>
-        <target>Editor oeffnen</target>
+        <target>Editor öffnen</target>
       </trans-unit>
       <trans-unit id="imwizard.supported-types-message">
         <source>Image manipulation is only available for supported types</source>
-        <target>Bildbearbeitung gibt's nur fuer unterstuetzte Typen</target>
+        <target>Bildbearbeitung gibt's nur für unterstützte Typen</target>
       </trans-unit>
       <trans-unit id="imwizard.no-image-dimensions">
         <source>No image dimensions could be determined.</source>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="imwizard.no-image-dimensions-message">
         <source>Unable to provide image manipulation, because original dimensions of the image are unknown.</source>
-        <target>Bildbearbeitung nicht moeglich weil die Originalgroesse unbekannt ist, Brudi.</target>
+        <target>Bildbearbeitung nicht möglich weil die Originalgröße unbekannt ist, Brudi.</target>
       </trans-unit>
       <trans-unit id="imwizard.image-manipulation">
         <source>Image manipulation</source>
@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="imwizard.reset">
         <source>Reset</source>
-        <target>Zuruecksetzen</target>
+        <target>Zurücksetzen</target>
       </trans-unit>
       <trans-unit id="imwizard.accept">
         <source>Accept</source>
@@ -201,11 +201,11 @@
       </trans-unit>
       <trans-unit id="imwizard.aspect-ratio">
         <source>Aspect ratio</source>
-        <target>Seitenverhaeltnis</target>
+        <target>Seitenverhältnis</target>
       </trans-unit>
       <trans-unit id="imwizard.set-aspect-ratio">
         <source>Set Aspect Ratio</source>
-        <target>Seitenverhaeltnis setzen</target>
+        <target>Seitenverhältnis setzen</target>
       </trans-unit>
       <trans-unit id="imwizard.ratio.16_9" translate="no">
         <source>16:9</source>
@@ -241,15 +241,15 @@
       </trans-unit>
       <trans-unit id="imwizard.sync-crop-variants">
         <source>Apply changes to all crop variants</source>
-        <target>Aenderungen auf alle Crop-Varianten anwenden</target>
+        <target>Änderungen auf alle Crop-Varianten anwenden</target>
       </trans-unit>
       <trans-unit id="imwizard.selection">
         <source>Selected Size</source>
-        <target>Ausgewaehlte Groesse</target>
+        <target>Ausgewählte Größe</target>
       </trans-unit>
       <trans-unit id="localizationStateSelector.header">
         <source>Translation behavior</source>
-        <target>Uebersetzungs-Verhalten</target>
+        <target>Übersetzungs-Verhalten</target>
       </trans-unit>
       <trans-unit id="localizationStateSelector.customValue">
         <source>Custom value</source>

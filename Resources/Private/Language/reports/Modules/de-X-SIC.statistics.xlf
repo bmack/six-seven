@@ -4,15 +4,15 @@
     <header/>
     <body>
       <trans-unit id="short_description"><source>Shows database record statistics</source><target>Zeigt Datenbank-Record-Statistiken</target></trans-unit>
-      <trans-unit id="description"><source>Get statistics for database records, including total, translated, hidden, and deleted pages, page type distribution, and and detailed table records with lost record detection. The report analyzes the entire page tree.</source><target>Statistiken fuer DB-Records holen, inkl. Gesamtseiten, uebersetzte, ge-ghostete und ge-yeetete Seiten, Seitentyp-Verteilung und detaillierte Tabellen-Records mit Erkennung verlorener Records.</target></trans-unit>
+      <trans-unit id="description"><source>Get statistics for database records, including total, translated, hidden, and deleted pages, page type distribution, and and detailed table records with lost record detection. The report analyzes the entire page tree.</source><target>Statistiken für DB-Records holen, inkl. Gesamtseiten, übersetzte, ge-ghostete und ge-yeetete Seiten, Seitentyp-Verteilung und detaillierte Tabellen-Records mit Erkennung verlorener Records.</target></trans-unit>
       <trans-unit id="title"><source>Record Statistics</source><target>Record-Statistiken</target></trans-unit>
       <trans-unit id="doktype"><source>Document types</source><target>Dokumenttypen</target></trans-unit>
       <trans-unit id="doktype_value"><source>Document types (value)</source><target>Dokumenttypen (Wert)</target></trans-unit>
       <trans-unit id="count"><source>Count</source><target>Anzahl</target></trans-unit>
       <trans-unit id="pages"><source>Pages</source><target>Seiten</target></trans-unit>
       <trans-unit id="total_pages"><source>Total number of default language pages</source><target>Gesamtanzahl Seiten in Standardsprache</target></trans-unit>
-      <trans-unit id="translated_pages"><source>Total number of translated pages</source><target>Gesamtanzahl uebersetzte Seiten</target></trans-unit>
-      <trans-unit id="deleted_pages"><source>Marked-deleted pages</source><target>Als geloescht markierte Seiten</target></trans-unit>
+      <trans-unit id="translated_pages"><source>Total number of translated pages</source><target>Gesamtanzahl übersetzte Seiten</target></trans-unit>
+      <trans-unit id="deleted_pages"><source>Marked-deleted pages</source><target>Als gelöscht markierte Seiten</target></trans-unit>
       <trans-unit id="hidden_pages"><source>Hidden pages</source><target>Ge-ghostete Seiten</target></trans-unit>
       <trans-unit id="tables"><source>Tables</source><target>Tabellen</target></trans-unit>
       <trans-unit id="label"><source>Label</source><target>Label</target></trans-unit>

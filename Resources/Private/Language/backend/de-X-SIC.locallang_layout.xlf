@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="transfer_multiple">
         <source>Transfer multiple items</source>
-        <target>Mehrere Sachen rueberschieben</target>
+        <target>Mehrere Sachen rüberschieben</target>
       </trans-unit>
       <trans-unit id="mess.transfer_multiple">
         <source>Transfer %d items into "%s"?</source>
@@ -105,7 +105,7 @@
       </trans-unit>
       <trans-unit id="slideModeInfo.slide">
         <source>If this page has no content, content is automatically taken from the nearest parent page above that contains content.</source>
-        <target>Wenn diese Seite keinen Content hat, wird automatisch Content von der naechsten Eltern-Seite drueber gezogen. Lowkey praktisch.</target>
+        <target>Wenn diese Seite keinen Content hat, wird automatisch Content von der nächsten Eltern-Seite drüber gezogen. Lowkey praktisch.</target>
       </trans-unit>
       <trans-unit id="slideModeInfo.collect">
         <source>Content from this page and all parent pages is collected and shown together, starting with the topmost page and ending with this page.</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="editPageProperties_curLang">
         <source>Edit translation properties</source>
-        <target>Uebersetzungs-Properties flexen</target>
+        <target>Übersetzungs-Properties flexen</target>
       </trans-unit>
       <trans-unit id="editInRTE">
         <source>Edit in Rich Text Editor</source>
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="newPageContent_translate">
         <source>Translate</source>
-        <target>Uebersetzen, Bro</target>
+        <target>Übersetzen, Bro</target>
       </trans-unit>
       <trans-unit id="newPageContent2">
         <source>New content</source>
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="records">
         <source>records</source>
-        <target>Datensaetze</target>
+        <target>Datensätze</target>
       </trans-unit>
       <trans-unit id="pageInformation">
         <source>Page information</source>
@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="internalNotes">
         <source>Internal notes</source>
-        <target>Interne Notizen (nur fuer uns, Bre)</target>
+        <target>Interne Notizen (nur für uns, Bre)</target>
       </trans-unit>
       <trans-unit id="clearCache">
         <source>Click here to clear cache for this page.</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="new_language">
         <source>Create a new translation of this page</source>
-        <target>Neue Uebersetzung fuer diese Seite erstellen</target>
+        <target>Neue Übersetzung für diese Seite erstellen</target>
       </trans-unit>
       <trans-unit id="newLabel">
         <source>NEW</source>
@@ -253,11 +253,11 @@
       </trans-unit>
       <trans-unit id="undoLastChange">
         <source>Undo/Redo last change (%s ago)</source>
-        <target>Letzte Aenderung rueckgaengig/wiederholen (vor %s)</target>
+        <target>Letzte Änderung rückgängig/wiederholen (vor %s)</target>
       </trans-unit>
       <trans-unit id="recordHistory">
         <source>View record change history</source>
-        <target>Tea verschuetten: Datensatz-History checken</target>
+        <target>Tea verschütten: Datensatz-History checken</target>
       </trans-unit>
       <trans-unit id="viewContent">
         <source>Viewing content of</source>
@@ -305,7 +305,7 @@
       </trans-unit>
       <trans-unit id="m_tt_address_2">
         <source>Personal info</source>
-        <target>Persoenliche Infos</target>
+        <target>Persönliche Infos</target>
       </trans-unit>
       <trans-unit id="m_tt_links_1">
         <source>Whole URL</source>
@@ -401,7 +401,7 @@
       </trans-unit>
       <trans-unit id="pageIsMisconfiguredInternalLinkMessage">
         <source>Page is configured to be a link but there is actually no valid target defined.</source>
-        <target>Voll delulu: Seite soll ein Link sein, aber es ist lowkey kein gueltiges Ziel definiert.</target>
+        <target>Voll delulu: Seite soll ein Link sein, aber es ist lowkey kein gültiges Ziel definiert.</target>
       </trans-unit>
       <trans-unit id="pageIsMisconfiguredOrNotAccessibleInternalLinkMessage">
         <source>Page is configured to be a link but there is actually no target defined which is accessible in the frontend.</source>
@@ -425,11 +425,11 @@
       </trans-unit>
       <trans-unit id="goToListModuleMessage">
         <source>The current page is a folder. Folders usually don't contain content elements but are used for collecting other types of records.</source>
-        <target>Die aktuelle Seite ist ein Ordner. Ordner haben normalerweise keinen Content, sondern sammeln andere Datensaetze. Basically ein Sammler-NPC.</target>
+        <target>Die aktuelle Seite ist ein Ordner. Ordner haben normalerweise keinen Content, sondern sammeln andere Datensätze. Basically ein Sammler-NPC.</target>
       </trans-unit>
       <trans-unit id="staleTranslationWarning">
         <source>Make sure that this behavior is intended and does not pose a problem for you. We highlighted the problematic records for you.</source>
-        <target>Check ob das so gewollt ist und kein Problem darstellt. Wir haben die problematischen Datensaetze fuer dich markiert, Brudi.</target>
+        <target>Check ob das so gewollt ist und kein Problem darstellt. Wir haben die problematischen Datensätze für dich markiert, Brudi.</target>
       </trans-unit>
       <trans-unit id="staleTranslationWarningTitle">
         <source>Inconsistent content detected in language "%s"</source>
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="staleUnusedElementsWarning">
         <source>These elements don't belong to any of the available columns of this page. You should either delete them or move them to existing columns. We highlighted the problematic records for you.</source>
-        <target>Diese Elemente gehoeren zu keiner verfuegbaren Spalte auf dieser Seite. Yeet sie oder schieb sie in bestehende Spalten. Wir haben die Problemkinder fuer dich markiert.</target>
+        <target>Diese Elemente gehören zu keiner verfügbaren Spalte auf dieser Seite. Yeet sie oder schieb sie in bestehende Spalten. Wir haben die Problemkinder für dich markiert.</target>
       </trans-unit>
       <trans-unit id="staleUnusedElementsWarningTitle">
         <source>Unused elements detected on this page</source>
@@ -461,19 +461,19 @@
       </trans-unit>
       <trans-unit id="localize.chooseLanguage">
         <source>Choose your language</source>
-        <target>Waehle deine Sprache, Digga</target>
+        <target>Wähle deine Sprache, Digga</target>
       </trans-unit>
       <trans-unit id="localize.wizard.header">
         <source>Localize record "{0}" into {1}</source>
-        <target>Datensatz "{0}" in {1} uebersetzen</target>
+        <target>Datensatz "{0}" in {1} übersetzen</target>
       </trans-unit>
       <trans-unit id="localize.wizard.header_page">
         <source>Localize page "{0}" into {1}</source>
-        <target>Seite "{0}" in {1} uebersetzen</target>
+        <target>Seite "{0}" in {1} übersetzen</target>
       </trans-unit>
       <trans-unit id="localize.wizard.button.translate">
         <source>Translate</source>
-        <target>Uebersetzen</target>
+        <target>Übersetzen</target>
       </trans-unit>
       <trans-unit id="localize.wizard.button.copy">
         <source>Copy</source>
@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="localize.wizard.step.selectMode">
         <source>Localization mode</source>
-        <target>Uebersetzungs-Modus</target>
+        <target>Übersetzungs-Modus</target>
       </trans-unit>
       <trans-unit id="localize.wizard.step.chooseLanguage">
         <source>Source Language</source>
@@ -501,11 +501,11 @@
       </trans-unit>
       <trans-unit id="localize.wizard.step.selectRecords">
         <source>Records</source>
-        <target>Datensaetze</target>
+        <target>Datensätze</target>
       </trans-unit>
       <trans-unit id="localize.view.chooseLanguage">
         <source>Choose the language from which you want to localize the content</source>
-        <target>Waehle die Sprache, aus der du den Content uebersetzen willst</target>
+        <target>Wähle die Sprache, aus der du den Content übersetzen willst</target>
       </trans-unit>
       <trans-unit id="localize.view.summary">
         <source>Record summary</source>
@@ -541,7 +541,7 @@
       </trans-unit>
       <trans-unit id="window.localization.mixed_mode.title">
         <source>Localization not possible</source>
-        <target>Uebersetzung nicht moeglich, L</target>
+        <target>Übersetzung nicht möglich, L</target>
       </trans-unit>
       <trans-unit id="window.localization.mixed_mode.message">
         <source>Using the translation wizard is not possible, because either translation is disabled or the translated page is in "mixed mode". Being in "mixed mode" means that both translated records that have a source language and "free mode" records without a parent, are present.
@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="dragdrop.copy.message">
         <source>Press CTRL to copy</source>
-        <target>STRG druecken zum Kopieren, Digga</target>
+        <target>STRG drücken zum Kopieren, Digga</target>
       </trans-unit>
       <trans-unit id="progressTracker.steps">
         <source>Step %d of %d</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="showPageQrCode.modalTitle">
         <source>QR Code for Page Preview</source>
-        <target>QR-Code fuer die Seitenvorschau (Lurker-Link)</target>
+        <target>QR-Code für die Seitenvorschau (Lurker-Link)</target>
       </trans-unit>
     </body>
   </file>

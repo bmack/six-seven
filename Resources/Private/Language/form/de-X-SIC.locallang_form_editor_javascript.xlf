@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="formEditor.validation.childHasError">
         <source>Contains elements with validation errors</source>
-        <target>Enthaelt Elemente mit Validierungsfehlern, sus</target>
+        <target>Enthält Elemente mit Validierungsfehlern, sus</target>
       </trans-unit>
     </body>
   </file>

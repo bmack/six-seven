@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="group_records">
         <source>Records</source>
-        <target>Datensaetze</target>
+        <target>Datensätze</target>
       </trans-unit>
       <trans-unit id="group_files">
         <source>Files</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="empty">
         <source>No bookmarks yet. Add bookmarks using the share icon on pages throughout the backend.</source>
-        <target>Noch keine Favoriten am Start. Adde welche ueber das Teilen-Icon im Backend, Brudi.</target>
+        <target>Noch keine Favoriten am Start. Adde welche über das Teilen-Icon im Backend, Brudi.</target>
       </trans-unit>
       <trans-unit id="manage">
         <source>Manage bookmarks</source>
@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="error.globalGroupNotAllowed.message">
         <source>Only administrators can assign bookmarks to global groups.</source>
-        <target>Nur Sigma-Bosse koennen Favoriten in globale Crews packen. Gatekeept!</target>
+        <target>Nur Sigma-Bosse können Favoriten in globale Crews packen. Gatekeept!</target>
       </trans-unit>
       <trans-unit id="error.createFailed.title">
         <source>Bookmark creation failed</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="confirmDelete.message">
         <source>Delete the bookmark permanently? You cannot undo this action.</source>
-        <target>Favorit endgueltig yeeten? Kein Zurueck, Digga!</target>
+        <target>Favorit endgültig yeeten? Kein Zurück, Digga!</target>
       </trans-unit>
       <trans-unit id="confirmDeleteMultiple.title">
         <source>Delete bookmarks</source>
@@ -281,7 +281,7 @@
       </trans-unit>
       <trans-unit id="confirmDeleteMultiple.message">
         <source>Delete the %d bookmark(s) permanently? You cannot undo this action.</source>
-        <target>Die %d Favorit(en) endgueltig yeeten? Kein Zurueck!</target>
+        <target>Die %d Favorit(en) endgültig yeeten? Kein Zurück!</target>
       </trans-unit>
       <trans-unit id="confirmDeleteGroup.title">
         <source>Delete group</source>
@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="manager.deselectAll">
         <source>Deselect all</source>
-        <target>Alle abwaehlen</target>
+        <target>Alle abwählen</target>
       </trans-unit>
       <trans-unit id="manager.moveToGroup">
         <source>Move to group</source>
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="manager.back">
         <source>Back</source>
-        <target>Zurueck</target>
+        <target>Zurück</target>
       </trans-unit>
       <trans-unit id="manager.editBookmark">
         <source>Edit bookmark</source>

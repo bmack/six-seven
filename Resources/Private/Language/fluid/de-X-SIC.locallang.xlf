@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="widget.pagination.previous">
         <source>previous</source>
-        <target>zurueck, Digga</target>
+        <target>zurück, Digga</target>
       </trans-unit>
       <trans-unit id="widget.pagination.next">
         <source>next</source>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="widget.pagination.records">
         <source>Records</source>
-        <target>Datensaetze, Bre</target>
+        <target>Datensätze, Bre</target>
       </trans-unit>
       <trans-unit id="widget.pagination.page">
         <source>Page</source>

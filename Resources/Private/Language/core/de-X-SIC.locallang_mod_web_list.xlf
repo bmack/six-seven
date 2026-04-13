@@ -5,11 +5,11 @@
     <body>
       <trans-unit id="mlang_labels_tablabel">
         <source>List of database records</source>
-        <target>Liste aller Datenbank-Datensaetze</target>
+        <target>Liste aller Datenbank-Datensätze</target>
       </trans-unit>
       <trans-unit id="mlang_labels_tabdescr">
         <source>The Web&gt;List module provides low level access to records appearing on a page.</source>
-        <target>Das Web&gt;Liste-Modul gibt dir lowkey Zugriff auf alle Datensaetze einer Seite.</target>
+        <target>Das Web&gt;Liste-Modul gibt dir lowkey Zugriff auf alle Datensätze einer Seite.</target>
       </trans-unit>
       <trans-unit id="mlang_tabs_tab">
         <source>List</source>
@@ -17,15 +17,15 @@
       </trans-unit>
       <trans-unit id="clip_pasteAfter">
         <source>Paste after: Clipboard content is inserted after this record</source>
-        <target>Danach einfuegen: Clipboard-Inhalt wird nach diesem Datensatz eingefuegt</target>
+        <target>Danach einfügen: Clipboard-Inhalt wird nach diesem Datensatz eingefügt</target>
       </trans-unit>
       <trans-unit id="clip_pasteInto">
         <source>Paste into: Clipboard content is inserted on this page</source>
-        <target>Reinfuegen: Clipboard-Inhalt wird auf dieser Seite eingefuegt</target>
+        <target>Reinfügen: Clipboard-Inhalt wird auf dieser Seite eingefügt</target>
       </trans-unit>
       <trans-unit id="clip_paste">
         <source>Paste in clipboard content</source>
-        <target>Clipboard-Inhalt einfuegen</target>
+        <target>Clipboard-Inhalt einfügen</target>
       </trans-unit>
       <trans-unit id="clip_markRecords">
         <source>Mark All/Mark none</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="clip_deleteMarkedWarning">
         <source>Are you sure you want to delete all marked records from the table '%s'?</source>
-        <target>Bist du sicher dass du alle markierten Datensaetze aus der Tabelle '%s' yeeten willst?</target>
+        <target>Bist du sicher dass du alle markierten Datensätze aus der Tabelle '%s' yeeten willst?</target>
       </trans-unit>
       <trans-unit id="showInfo">
         <source>Info</source>
@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="nextLevel">
         <source>Move this page to be a subpage of the page above (Outwards)</source>
-        <target>Seite als Unterseite der Seite drueber schieben (raus)</target>
+        <target>Seite als Unterseite der Seite drüber schieben (raus)</target>
       </trans-unit>
       <trans-unit id="delete">
         <source>Delete</source>
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="history">
         <source>History/Undo</source>
-        <target>Zeitreise/Rueckgaengig</target>
+        <target>Zeitreise/Rückgängig</target>
       </trans-unit>
       <trans-unit id="displayVersions">
         <source>Display versions</source>
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="permissions">
         <source>Set permissions for page</source>
-        <target>Rechte fuer die Seite setzen</target>
+        <target>Rechte für die Seite setzen</target>
       </trans-unit>
       <trans-unit id="largeControl">
         <source>Extended view</source>
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="collapseExpandTable">
         <source>Collapse and expand records of table "%s"</source>
-        <target>Datensaetze der Tabelle "%s" ein- und ausklappen</target>
+        <target>Datensätze der Tabelle "%s" ein- und ausklappen</target>
       </trans-unit>
       <trans-unit id="showClipBoard">
         <source>Show clipboard</source>
@@ -161,11 +161,11 @@
       </trans-unit>
       <trans-unit id="editShownColumns">
         <source>Edit all shown fields of the listed records</source>
-        <target>Alle nicht geghosteten Felder der gelisteten Datensaetze flexen</target>
+        <target>Alle nicht geghosteten Felder der gelisteten Datensätze flexen</target>
       </trans-unit>
       <trans-unit id="editThisColumn">
         <source>Edit the '%s' field of the listed records</source>
-        <target>Das '%s'-Feld der gelisteten Datensaetze flexen</target>
+        <target>Das '%s'-Feld der gelisteten Datensätze flexen</target>
       </trans-unit>
       <trans-unit id="deleteWarning">
         <source>Are you sure you want to delete the record '%s'?</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="localization">
         <source>Localization view</source>
-        <target>Uebersetzungs-Ansicht</target>
+        <target>Übersetzungs-Ansicht</target>
       </trans-unit>
       <trans-unit id="defaultLanguage">
         <source>Default</source>
@@ -185,11 +185,11 @@
       </trans-unit>
       <trans-unit id="Localize">
         <source>Localize to</source>
-        <target>Uebersetzen nach</target>
+        <target>Übersetzen nach</target>
       </trans-unit>
       <trans-unit id="viewRecords">
         <source>Viewing records of</source>
-        <target>Datensaetze anschauen von</target>
+        <target>Datensätze anschauen von</target>
       </trans-unit>
       <trans-unit id="pageIndicator">
         <source>Page %1$s of %2$d</source>
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="rangeIndicator">
         <source>Records %1$d - %2$d</source>
-        <target>Datensaetze %1$d - %2$d</target>
+        <target>Datensätze %1$d - %2$d</target>
       </trans-unit>
       <trans-unit id="missingTcaColumnsMessageTitle">
         <source>Missing TCA definition</source>
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="missingTcaColumnsMessage">
         <source>No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</source>
-        <target>Keine Felder fuer Tabelle "%s" gefunden. $TCA['%s']['columns'] hat nicht die noetigen Definitionen, Brudi.</target>
+        <target>Keine Felder für Tabelle "%s" gefunden. $TCA['%s']['columns'] hat nicht die nötigen Definitionen, Brudi.</target>
       </trans-unit>
       <trans-unit id="noRecordsOnThisPage">
         <source>There are no records on this page.</source>
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="noRecordsOfTypeOnThisPage">
         <source>There are no records of type "%s" on this page.</source>
-        <target>Keine Datensaetze vom Typ "%s" auf dieser Seite.</target>
+        <target>Keine Datensätze vom Typ "%s" auf dieser Seite.</target>
       </trans-unit>
       <trans-unit id="button.cancel">
         <source>Cancel</source>
@@ -221,7 +221,7 @@
       </trans-unit>
       <trans-unit id="button.close">
         <source>Close</source>
-        <target>Tschuessikowski</target>
+        <target>Tschüssikowski</target>
       </trans-unit>
       <trans-unit id="button.ok">
         <source>OK</source>

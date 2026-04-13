@@ -5,23 +5,23 @@
     <body>
       <trans-unit id="module.typoscript.title"><source>TypoScript</source><target>TypoScript</target></trans-unit>
       <trans-unit id="module.typoscript.shortDescription"><source>TypoScript tools</source><target>TypoScript-Tools</target></trans-unit>
-      <trans-unit id="module.typoscript.description"><source>Here you manage the TypoScript records which are in charge of the look of your website on the frontend. The module provides specialized features like a TypoScript tree, a constant editor and raw editing facilities.</source><target>Hier verwaltest du die TypoScript-Records die fuer das Aussehen deiner Website im Frontend zustaendig sind. Das Modul bietet spezialisierte Features wie TypoScript-Baum, Constant-Editor und Raw-Editing.</target></trans-unit>
+      <trans-unit id="module.typoscript.description"><source>Here you manage the TypoScript records which are in charge of the look of your website on the frontend. The module provides specialized features like a TypoScript tree, a constant editor and raw editing facilities.</source><target>Hier verwaltest du die TypoScript-Records die für das Aussehen deiner Website im Frontend zuständig sind. Das Modul bietet spezialisierte Features wie TypoScript-Baum, Constant-Editor und Raw-Editing.</target></trans-unit>
       <trans-unit id="submodules.option.constantEditor"><source>Constant Editor</source><target>Konstanten-Editor</target></trans-unit>
       <trans-unit id="submodules.option.infoModify"><source>Edit TypoScript Record</source><target>TypoScript-Record flexen</target></trans-unit>
       <trans-unit id="submodules.option.active"><source>Active TypoScript</source><target>Aktives TypoScript</target></trans-unit>
       <trans-unit id="submodules.option.templateAnalyzer"><source>Included TypoScript</source><target>Eingebundenes TypoScript</target></trans-unit>
-      <trans-unit id="submodules.option.typoscriptOverview"><source>TypoScript Overview</source><target>TypoScript-Ueberblick</target></trans-unit>
+      <trans-unit id="submodules.option.typoscriptOverview"><source>TypoScript Overview</source><target>TypoScript-Überblick</target></trans-unit>
       <trans-unit id="noRecordFound.infobox.title"><source>No TypoScript record on the current page</source><target>Kein TypoScript-Record auf der aktuellen Seite</target></trans-unit>
       <trans-unit id="noRecordFound.infobox.message"><source>You need to create a TypoScript record in order to edit your configuration.</source><target>Du musst einen TypoScript-Record droppen um deine Konfiguration zu flexen, Bro.</target></trans-unit>
-      <trans-unit id="noRecordFound.goToClosestRecord.description"><source>The closest TypoScript record is located on page '%s' (uid %s).</source><target>Der naechste TypoScript-Record befindet sich auf Seite '%s' (uid %s).</target></trans-unit>
-      <trans-unit id="noRecordFound.goToClosestRecord.link.title"><source>Select this TypoScript record</source><target>Diesen TypoScript-Record auswaehlen</target></trans-unit>
+      <trans-unit id="noRecordFound.goToClosestRecord.description"><source>The closest TypoScript record is located on page '%s' (uid %s).</source><target>Der nächste TypoScript-Record befindet sich auf Seite '%s' (uid %s).</target></trans-unit>
+      <trans-unit id="noRecordFound.goToClosestRecord.link.title"><source>Select this TypoScript record</source><target>Diesen TypoScript-Record auswählen</target></trans-unit>
       <trans-unit id="noRecordFound.createRootTypoScriptRecord.headline"><source>Root TypoScript record</source><target>Root-TypoScript-Record</target></trans-unit>
-      <trans-unit id="noRecordFound.createRootTypoScriptRecord.description"><source>Choose this option if you want this page to be the root of a new site.</source><target>Waehle diese Option wenn diese Seite die Root einer neuen Site sein soll.</target></trans-unit>
+      <trans-unit id="noRecordFound.createRootTypoScriptRecord.description"><source>Choose this option if you want this page to be the root of a new site.</source><target>Wähle diese Option wenn diese Seite die Root einer neuen Site sein soll.</target></trans-unit>
       <trans-unit id="noRecordFound.createRootTypoScriptRecord.link.title"><source>Create a root TypoScript record</source><target>Root-TypoScript-Record droppen</target></trans-unit>
       <trans-unit id="noRecordFound.createRootTypoScriptRecord.title.placeholder"><source>NEW SITE</source><target>NEUE SITE</target></trans-unit>
-      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.headline"><source>Additional TypoScript record</source><target>Zusaetzlicher TypoScript-Record</target></trans-unit>
-      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.description"><source>An additional TypoScript record allows you to enter TypoScript values that will affect only this page and subpages.</source><target>Ein zusaetzlicher TypoScript-Record ermoeglicht dir TypoScript-Werte einzugeben die nur diese Seite und Unterseiten betreffen.</target></trans-unit>
-      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.link.title"><source>Create an additional TypoScript record</source><target>Zusaetzlichen TypoScript-Record droppen</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.headline"><source>Additional TypoScript record</source><target>Zusätzlicher TypoScript-Record</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.description"><source>An additional TypoScript record allows you to enter TypoScript values that will affect only this page and subpages.</source><target>Ein zusätzlicher TypoScript-Record ermöglicht dir TypoScript-Werte einzugeben die nur diese Seite und Unterseiten betreffen.</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.link.title"><source>Create an additional TypoScript record</source><target>Zusätzlichen TypoScript-Record droppen</target></trans-unit>
     </body>
   </file>
 </xliff>

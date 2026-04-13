@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="makeconfig_relationsAndExclusions">
         <source>Relations and Exclusions</source>
-        <target>Beziehungen und Ausschluesse, sheesh</target>
+        <target>Beziehungen und Ausschlüsse, sheesh</target>
       </trans-unit>
       <trans-unit id="makeconfig_includeRelationsToTables">
         <source>Include relations to tables</source>
@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="makeconfig_useStaticRelationsFor">
         <source>Use static relations for tables</source>
-        <target>Statische Beziehungen fuer Tabellen nutzen, Homie</target>
+        <target>Statische Beziehungen für Tabellen nutzen, Homie</target>
       </trans-unit>
       <trans-unit id="makeconfig_showStaticRelations">
         <source>Show static relations</source>
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="makeconfig_clearAllManualExclusions">
         <source>Clear all manual exclusions</source>
-        <target>Alle manuellen Ausschluesse yeeten</target>
+        <target>Alle manuellen Ausschlüsse yeeten</target>
       </trans-unit>
       <trans-unit id="makeconfig_noManuallyExcludedElementsYet">
         <source>No manually excluded elements yet. Exclude by setting checkboxes below in the element display.</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="makeadvanc_saveFilesOutsideExportFile_limit">
         <source>(supported for "Save to filename" only)</source>
-        <target>(nur bei "In Dateiname saven" moeglich)</target>
+        <target>(nur bei "In Dateiname saven" möglich)</target>
       </trans-unit>
       <trans-unit id="makeadvanc_siteConfigurations">
         <source>Site configurations</source>
@@ -165,15 +165,15 @@
       </trans-unit>
       <trans-unit id="makeadvanc_includeSiteConfigurations">
         <source>Include site configurations for exported root pages (admin only)</source>
-        <target>Site-Configen fuer exportierte Root-Pages einzumachen (nur Admins), sheesh</target>
+        <target>Site-Configen für exportierte Root-Pages einzumachen (nur Admins), sheesh</target>
       </trans-unit>
       <trans-unit id="makeadvanc_extensionDependencies">
         <source>Extension dependencies</source>
-        <target>Extension-Abhaengigkeiten, Homie</target>
+        <target>Extension-Abhängigkeiten, Homie</target>
       </trans-unit>
       <trans-unit id="makeadvanc_selectExtensionsThatThe">
         <source>Select extensions that the exported content depends on</source>
-        <target>Extensions picken von denen der exportierte Content abhaengt</target>
+        <target>Extensions picken von denen der exportierte Content abhängt</target>
       </trans-unit>
       <trans-unit id="makesavefo_update">
         <source>Update</source>
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="pleaseConfirm">
         <source>Please confirm</source>
-        <target>Bitte bestaetigen, Brudi</target>
+        <target>Bitte bestätigen, Brudi</target>
       </trans-unit>
       <trans-unit id="makesavefo_areYouSure">
         <source>Are you sure?</source>
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="makesavefo_merge">
         <source>Merge</source>
-        <target>Zusammenfuehren, Alter</target>
+        <target>Zusammenführen, Alter</target>
       </trans-unit>
       <trans-unit id="makesavefo_titleOfNewPreset">
         <source>Title of new preset</source>
@@ -217,7 +217,7 @@
       </trans-unit>
       <trans-unit id="makesavefo_public">
         <source>Public</source>
-        <target>Oeffentlich, sheesh</target>
+        <target>Öffentlich, sheesh</target>
       </trans-unit>
       <trans-unit id="makesavefo_outputOptions">
         <source>Output options</source>
@@ -257,7 +257,7 @@
       </trans-unit>
       <trans-unit id="makesavefo_downloadExport">
         <source>Download export</source>
-        <target>Export runterladen, Digga</target>
+        <target>Gönn dir den Export, Digga</target>
       </trans-unit>
       <trans-unit id="importdata_saveToFilename">
         <source>Save to filename</source>
@@ -265,7 +265,7 @@
       </trans-unit>
       <trans-unit id="importdata_selectFileToImport">
         <source>Select file to import</source>
-        <target>Datei zum Importieren waehlen, Bre</target>
+        <target>Datei zum Importieren wählen, Bre</target>
       </trans-unit>
       <trans-unit id="importdata_file">
         <source>File</source>
@@ -277,7 +277,7 @@
       </trans-unit>
       <trans-unit id="importdata_noteNoDecompressorAvailable">
         <source>NOTE: No decompressor available for compressed files!</source>
-        <target>ACHTUNG: Kein Decompressor fuer komprimierte Dateien am Start!</target>
+        <target>ACHTUNG: Kein Decompressor für komprimierte Dateien am Start!</target>
       </trans-unit>
       <trans-unit id="importdata_importOptions">
         <source>Import Options</source>
@@ -317,11 +317,11 @@
       </trans-unit>
       <trans-unit id="importdata_doNotShowDifferences">
         <source>Do not show differences in records</source>
-        <target>Unterschiede in Datensaetzen nicht zeig mal</target>
+        <target>Unterschiede in Datensätzen nicht zeig mal</target>
       </trans-unit>
       <trans-unit id="importdata_greenValuesAreFrom">
         <source>Hides the resulting differences for each field of every imported records in the preview table.</source>
-        <target>Ghostet die Unterschiede fuer jedes Feld aller importierten Records in der Sneak Peek-Tabelle, fr fr.</target>
+        <target>Ghostet die Unterschiede für jedes Feld aller importierten Records in der Sneak Peek-Tabelle, fr fr.</target>
       </trans-unit>
       <trans-unit id="importdata_action">
         <source>Action</source>
@@ -345,11 +345,11 @@
       </trans-unit>
       <trans-unit id="importdata_writeIndividualDbActions">
         <source>Write individual database actions during import to the log</source>
-        <target>Einzelne DB-Aktionen waehrend des Imports ins Log schreiben, Homie</target>
+        <target>Einzelne DB-Aktionen während des Imports ins Log schreiben, Homie</target>
       </trans-unit>
       <trans-unit id="importdata_thisIsDisabledBy">
         <source>This is disabled by default since there might be hundred of entries generated.</source>
-        <target>Das ist standardmaessig deaktiviert weil hunderte Eintraege entstehen koennten, sheesh.</target>
+        <target>Das ist standardmäßig deaktiviert weil hunderte Einträge entstehen könnten, sheesh.</target>
       </trans-unit>
       <trans-unit id="importdata_uploadFileFromLocal">
         <source>Upload file from local computer</source>
@@ -381,7 +381,7 @@
       </trans-unit>
       <trans-unit id="importdata_upload_nodata">
         <source>The import module hasn't received any data.</source>
-        <target>Das Import-Modul hat keine Daten bekommen. Passiert vielleicht bei zu grossen Dateien. Check die Dateigroesse gegen post_max_size und upload_max_filesize in der Server-Konfiguration, Brudi.</target>
+        <target>Das Import-Modul hat keine Daten bekommen. Passiert vielleicht bei zu grossen Dateien. Check die Dateigröße gegen post_max_size und upload_max_filesize in der Server-Konfiguration, Brudi.</target>
       </trans-unit>
       <trans-unit id="importdata_metaData">
         <source>Meta data</source>
@@ -417,7 +417,7 @@
       </trans-unit>
       <trans-unit id="importdata_siteConfigurationsAdminOnly">
         <source>This import contains site configurations that will not be imported because importing site configurations requires administrator privileges.</source>
-        <target>Dieser Import enthaelt Site-Konfigurationen die nicht importiert werden, weil dafuer Admin-Rechte noetig sind, Digga.</target>
+        <target>Dieser Import enthält Site-Konfigurationen die nicht importiert werden, weil dafür Admin-Rechte nötig sind, Digga.</target>
       </trans-unit>
       <trans-unit id="importdata_siteIdentifier">
         <source>Identifier</source>
@@ -449,7 +449,7 @@
       </trans-unit>
       <trans-unit id="importdata_siteDependencies">
         <source>Dependencies</source>
-        <target>Abhaengigkeiten, sheesh</target>
+        <target>Abhängigkeiten, sheesh</target>
       </trans-unit>
       <trans-unit id="importdata_messages">
         <source>Messages</source>
@@ -461,7 +461,7 @@
       </trans-unit>
       <trans-unit id="importdata_structureNotImported">
         <source>The Import has failed, refer to the messages tab to view errors</source>
-        <target>Der Import hat gefailt, check den Nachrichten-Tab fuer die Uff, F</target>
+        <target>Der Import hat gefailt, check den Nachrichten-Tab für die Uff, F</target>
       </trans-unit>
       <trans-unit id="importdata_no_default_upload_folder">
         <source>No default upload folder</source>
@@ -517,7 +517,7 @@
       </trans-unit>
       <trans-unit id="impexpcore_singlereco_insert">
         <source>Insert</source>
-        <target>Einfuegen, Brudi</target>
+        <target>Einfügen, Brudi</target>
       </trans-unit>
       <trans-unit id="impexpcore_singlereco_importAsNew">
         <source>Import as new</source>

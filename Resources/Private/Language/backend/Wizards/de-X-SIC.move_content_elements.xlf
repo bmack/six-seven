@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="moveElement.notification.elementPasted.action.open">
         <source>Open "%s"</source>
-        <target>"%s" oeffnen</target>
+        <target>"%s" öffnen</target>
       </trans-unit>
     </body>
   </file>

@@ -9,17 +9,17 @@
       <trans-unit id="tabletPortrait"><source>Tablet portrait</source><target>Tablet Hochformat</target></trans-unit>
       <trans-unit id="mobile"><source>Mobile</source><target>Handy</target></trans-unit>
       <trans-unit id="desktop"><source>Desktop</source><target>Desktop</target></trans-unit>
-      <trans-unit id="customWidth"><source>Custom Size</source><target>Custom-Groesse</target></trans-unit>
-      <trans-unit id="autoSize"><source>Auto Size</source><target>Auto-Groesse</target></trans-unit>
+      <trans-unit id="customWidth"><source>Custom Size</source><target>Custom-Größe</target></trans-unit>
+      <trans-unit id="autoSize"><source>Auto Size</source><target>Auto-Größe</target></trans-unit>
       <trans-unit id="refreshPage"><source>Refresh page</source><target>Seite refreshen, Bro</target></trans-unit>
       <trans-unit id="language"><source>Language</source><target>Sprache, Bre</target></trans-unit>
       <trans-unit id="automatic"><source>Automatic</source><target>Auf Autopilot</target></trans-unit>
       <trans-unit id="maximized"><source>Maximized</source><target>Maximiert</target></trans-unit>
       <trans-unit id="custom"><source>Custom</source><target>Custom</target></trans-unit>
       <trans-unit id="unidentified"><source>Unidentified</source><target>Unbekannt, sus</target></trans-unit>
-      <trans-unit id="noValidPageSelected"><source>Please select a page with a valid page type in the page tree to get a preview of it in different screen resolutions.</source><target>Bitte waehle eine Seite mit gueltigem Seitentyp im Seitenbaum um ne Vorschau in verschiedenen Bildschirmaufloesungen zu bekommen.</target></trans-unit>
-      <trans-unit id="noSiteConfiguration"><source>The requested page is missing a valid site configuration.</source><target>Der angeforderten Seite fehlt ne gueltige Site-Konfiguration. Uff.</target></trans-unit>
-      <trans-unit id="iframe.title"><source>View selected page in different screen resolutions</source><target>Ausgewaehlte Seite in verschiedenen Aufloesungen zeig mal</target></trans-unit>
+      <trans-unit id="noValidPageSelected"><source>Please select a page with a valid page type in the page tree to get a preview of it in different screen resolutions.</source><target>Bitte wähle eine Seite mit gültigem Seitentyp im Seitenbaum um ne Vorschau in verschiedenen Bildschirmauflösungen zu bekommen.</target></trans-unit>
+      <trans-unit id="noSiteConfiguration"><source>The requested page is missing a valid site configuration.</source><target>Der angeforderten Seite fehlt ne gültige Site-Konfiguration. Uff.</target></trans-unit>
+      <trans-unit id="iframe.title"><source>View selected page in different screen resolutions</source><target>Gönn dir die Seite in verschiedenen Auflösungen</target></trans-unit>
       <trans-unit id="moduleMenu.dropdown.label"><source>Page language</source><target>Seitensprache, Homie</target></trans-unit>
     </body>
   </file>

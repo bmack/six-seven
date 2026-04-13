@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="changeOrderConfirm">
         <source>You're about to change the order of the above pages. Are you sure you want to continue?</source>
-        <target>Du bist dabei die Reihenfolge der obigen Seiten zu aendern. Bist du sicher, Digga?</target>
+        <target>Du bist dabei die Reihenfolge der obigen Seiten zu ändern. Bist du sicher, Digga?</target>
       </trans-unit>
       <trans-unit id="fieldTitle">
         <source>Page title</source>
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="noSubpages.message">
         <source>Please select a page with subpages.</source>
-        <target>Waehl ne Seite mit Unterseiten aus, Brudi.</target>
+        <target>Wähl ne Seite mit Unterseiten aus, Brudi.</target>
       </trans-unit>
       <trans-unit id="notAvailableInWorkspace.title">
         <source>Not implemented</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="notAvailableInWorkspace.message">
         <source>This function is not available in the current draft workspace; please switch back to the LIVE workspace.</source>
-        <target>Diese Funktion gibt's im Draft-Workspace nicht, Digga. Bitte zurueck zum LIVE-Workspace wechseln.</target>
+        <target>Diese Funktion gibt's im Draft-Workspace nicht, Digga. Bitte zurück zum LIVE-Workspace wechseln.</target>
       </trans-unit>
       <trans-unit id="noEditPermissions">
         <source>No edit permissions on this sub page. This page can not be re-sorted among others.</source>

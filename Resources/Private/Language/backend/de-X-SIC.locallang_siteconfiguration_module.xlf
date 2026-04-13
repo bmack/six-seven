@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="mlang_labels_tabdescr">
         <source>This module allows you to configure your entrypoints (called sites).</source>
-        <target>Dieses Modul laesst dich deine Entrypoints (aka Sites) konfigurieren, Digga.</target>
+        <target>Dieses Modul lässt dich deine Entrypoints (aka Sites) konfigurieren, Digga.</target>
       </trans-unit>
       <trans-unit id="mlang_tabs_tab">
         <source>Sites</source>

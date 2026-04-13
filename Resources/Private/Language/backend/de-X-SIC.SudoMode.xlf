@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="accessGranted">
         <source>Access granted</source>
-        <target>Green Flag! Zugriff gewaehrt, Aura +100, willkommen Digga!</target>
+        <target>Green Flag! Zugriff gewährt, Aura +100, willkommen Digga!</target>
       </trans-unit>
       <trans-unit id="invalidPassword">
         <source>Invalid password</source>
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="verificationExpired">
         <source>Confirmation has expired. Please try again.</source>
-        <target>Bestaetigung ist abgelaufen. Versuch's nochmal, Alter.</target>
+        <target>Bestätigung ist abgelaufen. Versuch's nochmal, Alter.</target>
       </trans-unit>
     </body>
   </file>

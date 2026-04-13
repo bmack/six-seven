@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="LGL.height">
         <source>Height</source>
-        <target>Hoehe</target>
+        <target>Höhe</target>
       </trans-unit>
       <trans-unit id="LGL.caption">
         <source>Caption</source>
@@ -225,7 +225,7 @@
       </trans-unit>
       <trans-unit id="LGL.l18n_parent">
         <source>Transl.Orig</source>
-        <target>OG-Uebersetzung</target>
+        <target>OG-Übersetzung</target>
       </trans-unit>
       <trans-unit id="LGL.siteLanguages">
         <source>Site languages</source>

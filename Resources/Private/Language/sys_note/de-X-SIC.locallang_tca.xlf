@@ -11,7 +11,7 @@
       <trans-unit id="sys_note.category.I.4"><source>To-do</source><target>To-do</target></trans-unit>
       <trans-unit id="sys_note.subject"><source>Subject</source><target>Betreff, Digga</target></trans-unit>
       <trans-unit id="sys_note.message"><source>Message</source><target>Message, Bro</target></trans-unit>
-      <trans-unit id="sys_note.personal"><source>Personal</source><target>Persoenlich</target></trans-unit>
+      <trans-unit id="sys_note.personal"><source>Personal</source><target>Persönlich</target></trans-unit>
       <trans-unit id="sys_note.position"><source>Position</source><target>Position</target></trans-unit>
       <trans-unit id="sys_note.position.top"><source>Top</source><target>Oben</target></trans-unit>
       <trans-unit id="sys_note.position.bottom"><source>Bottom</source><target>Unten</target></trans-unit>

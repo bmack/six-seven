@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>This module ships a flexible and user-friendly form editor. It allows you to build and create versatile forms for your frontend. Your forms can easily be added to any page by using the content element "Form". Within this element, finishers can be overridden.</source>
-        <target>Dieses Modul hat nen flexiblen und userfreundlichen Formular-Editor am Start, sheesh. Damit baust du vielseitige Formulare fuer dein Frontend. Die koennen easy ueber das Content-Element "Formular" auf jede Seite gepackt werden. Finisher kannst du darin auch noch ueberschreiben, no cap.</target>
+        <target>Dieses Modul hat nen flexiblen und userfreundlichen Formular-Editor am Start, sheesh. Damit baust du vielseitige Formulare für dein Frontend. Die können easy über das Content-Element "Formular" auf jede Seite gepackt werden. Finisher kannst du darin auch noch überschreiben, no cap.</target>
       </trans-unit>
       <trans-unit id="title">
         <source>Forms</source>

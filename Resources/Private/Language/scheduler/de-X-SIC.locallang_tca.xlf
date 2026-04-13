@@ -13,11 +13,11 @@
       </trans-unit>
       <trans-unit id="tx_scheduler_task.task_group">
         <source>Belongs to task group</source>
-        <target>Gehoert zur Task-Squad</target>
+        <target>Gehört zur Task-Squad</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task.priority">
         <source>Priority</source>
-        <target>Prioritaet</target>
+        <target>Priorität</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task.priority.high">
         <source>High</source>
@@ -41,11 +41,11 @@
       </trans-unit>
       <trans-unit id="tx_scheduler_task.execution_details">
         <source>Schedule</source>
-        <target>Wann laeuft der, Digga</target>
+        <target>Wann läuft der, Digga</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task.nextexecution">
         <source>Next run planned at</source>
-        <target>Naechster Run geplant um</target>
+        <target>Nächster Run geplant um</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task.lastexecution_time">
         <source>Last run started at</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="tx_scheduler_task.number_of_days">
         <source>Handle entries older than given number of days</source>
-        <target>Eintraege aelter als X Tage handlen, Bre</target>
+        <target>Einträge älter als X Tage handlen, Bre</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task.selected_tables">
         <source>Database tables</source>
@@ -109,11 +109,11 @@
       </trans-unit>
       <trans-unit id="tx_scheduler_task_group.color.teal">
         <source>Teal</source>
-        <target>Tuerkis</target>
+        <target>Türkis</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task_group.color.green">
         <source>Green</source>
-        <target>Gruen</target>
+        <target>Grün</target>
       </trans-unit>
       <trans-unit id="tx_scheduler_task_group.color.magenta">
         <source>Magenta</source>

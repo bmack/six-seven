@@ -9,11 +9,11 @@
       </trans-unit>
       <trans-unit id="short_description">
         <source>Overview of site and page status information</source>
-        <target>Uebersicht ueber Site- und Seiten-Status-Infos</target>
+        <target>Übersicht über Site- und Seiten-Status-Infos</target>
       </trans-unit>
       <trans-unit id="description">
         <source>Review site and page information to assess the state and structure of your installation. Additional sections may be available depending on installed extensions and user permissions.</source>
-        <target>Check Site- und Seiten-Infos um den Zustand und die Struktur deiner Installation zu bewerten. Weitere Sektionen koennen je nach installierten Extensions und Berechtigungen verfuegbar sein.</target>
+        <target>Check Site- und Seiten-Infos um den Zustand und die Struktur deiner Installation zu bewerten. Weitere Sektionen können je nach installierten Extensions und Berechtigungen verfügbar sein.</target>
       </trans-unit>
     </body>
   </file>

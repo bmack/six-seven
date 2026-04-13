@@ -13,11 +13,11 @@
       </trans-unit>
       <trans-unit id="undoLastChange">
         <source>Undo/Redo last change (%s ago)</source>
-        <target>Letzten Flex rueckgaengig/wiederholen (vor %s)</target>
+        <target>Letzten Flex rückgängig/wiederholen (vor %s)</target>
       </trans-unit>
       <trans-unit id="recordHistory">
         <source>View record change history</source>
-        <target>Tea verschuetten: Datensatz-History angucken</target>
+        <target>Tea verschütten: Datensatz-History angucken</target>
       </trans-unit>
       <trans-unit id="editWholeRecord">
         <source>Edit whole record</source>
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="noDocuments_msg3">
         <source>You can select one of your most recently edited records from this list</source>
-        <target>Du kannst einen deiner zuletzt geflexten Datensaetze aus dieser Liste waehlen</target>
+        <target>Du kannst einen deiner zuletzt geflexten Datensätze aus dieser Liste wählen</target>
       </trans-unit>
       <trans-unit id="noDocuments_pagemodule">
         <source>the Web&gt;Page module</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="noEditForm.message">
         <source>The edit form could not be loaded for the requested records. This might be due to insufficient permissions.</source>
-        <target>Das Formular konnte fuer die angeforderten Datensaetze nicht geladen werden. Dir fehlen vielleicht die Rechte, Digga.</target>
+        <target>Das Formular konnte für die angeforderten Datensätze nicht geladen werden. Dir fehlen vielleicht die Rechte, Digga.</target>
       </trans-unit>
       <trans-unit id="noFieldsEditForm">
         <source>No fields to edit</source>
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="noFieldsEditForm.message">
         <source>There are no editable fields available for the requested record. This might be due to insufficient permissions or a configuration mismatch.</source>
-        <target>Keine editierbaren Felder fuer diesen Datensatz. Zugang wird gegatekeeper - liegt vielleicht an fehlenden Rechten oder falscher Konfiguration. Sus.</target>
+        <target>Keine editierbaren Felder für diesen Datensatz. Zugang wird gegatekeeper - liegt vielleicht an fehlenden Rechten oder falscher Konfiguration. Sus.</target>
       </trans-unit>
       <trans-unit id="buttons.confirm.duplicate_record_changed.cancel">
         <source>Cancel</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="buttons.confirm.close_without_save.yes">
         <source>Discard changes</source>
-        <target>Aenderungen yeeten</target>
+        <target>Änderungen yeeten</target>
       </trans-unit>
       <trans-unit id="buttons.confirm.close_without_save.no">
         <source>Keep editing</source>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="buttons.confirm.save_and_close">
         <source>Save and close</source>
-        <target>Speichern und tschuess</target>
+        <target>Speichern und tschüss</target>
       </trans-unit>
       <trans-unit id="label.confirm.duplicate_record_changed.title">
         <source>Do you want to save before duplicating this record?</source>
@@ -101,7 +101,7 @@
       </trans-unit>
       <trans-unit id="label.confirm.duplicate_record_changed.content">
         <source>You currently have unsaved changes. Do you want to save your changes before duplicating this record?</source>
-        <target>Du hast ungespeicherte Aenderungen. Willst du die speichern bevor du den Datensatz duplizierst?</target>
+        <target>Du hast ungespeicherte Änderungen. Willst du die speichern bevor du den Datensatz duplizierst?</target>
       </trans-unit>
       <trans-unit id="label.confirm.new_record_changed.title">
         <source>Do you want to save before adding?</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="buttons.confirm.new_record_changed.no">
         <source>No, just add</source>
-        <target>Nah, einfach hinzufuegen</target>
+        <target>Nah, einfach hinzufügen</target>
       </trans-unit>
       <trans-unit id="buttons.confirm.new_record_changed.yes">
         <source>Yes, save and create now</source>
@@ -129,11 +129,11 @@
       </trans-unit>
       <trans-unit id="label.confirm.view_record_changed.content">
         <source>You currently have unsaved changes. You can either discard these changes or save and view them.</source>
-        <target>Du hast ungespeicherte Aenderungen. Du kannst sie yeeten oder speichern und angucken.</target>
+        <target>Du hast ungespeicherte Änderungen. Du kannst sie yeeten oder speichern und angucken.</target>
       </trans-unit>
       <trans-unit id="label.confirm.view_record_changed.invalid_form">
         <source>The form appears to be invalid, therefore "Save changes and view" is not available.</source>
-        <target>Voll delulu, das Formular ist ungueltig, daher geht "Speichern und Ansehen" nicht. Fix das erst, Alter.</target>
+        <target>Voll delulu, das Formular ist ungültig, daher geht "Speichern und Ansehen" nicht. Fix das erst, Alter.</target>
       </trans-unit>
       <trans-unit id="label.confirm.view_record_changed.content.is-new-page">
         <source>You need to save your changes before viewing the page. Do you want to save and view them now?</source>
@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="buttons.confirm.view_record_changed.no-save">
         <source>View without changes</source>
-        <target>Ohne Aenderungen angucken</target>
+        <target>Ohne Änderungen angucken</target>
       </trans-unit>
       <trans-unit id="buttons.confirm.view_record_changed.save">
         <source>Save changes and view</source>
@@ -153,11 +153,11 @@
       </trans-unit>
       <trans-unit id="label.confirm.close_without_save.title">
         <source>Unsaved changes</source>
-        <target>Ungespeicherte Aenderungen, Alter!</target>
+        <target>Ungespeicherte Änderungen, Alter!</target>
       </trans-unit>
       <trans-unit id="label.confirm.close_without_save.content">
         <source>You currently have unsaved changes which will be discarded if you close without saving.</source>
-        <target>Du hast ungespeicherte Aenderungen die geyeetet werden wenn du ohne Speichern schliessen tust. No cap.</target>
+        <target>Du hast ungespeicherte Änderungen die geyeetet werden wenn du ohne Speichern schliessen tust. No cap.</target>
       </trans-unit>
       <trans-unit id="buttons.confirm.delete_file.no">
         <source>Cancel</source>
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="notification.mass_saving.message">
         <source>%s records have been successfully saved.</source>
-        <target>%s Datensaetze erfolgreich gespeichert. Sheesh!</target>
+        <target>%s Datensätze erfolgreich gespeichert. Sheesh!</target>
       </trans-unit>
       <trans-unit id="notification.record_updated.title">
         <source>Record updated</source>
@@ -241,11 +241,11 @@
       </trans-unit>
       <trans-unit id="openFullEditView">
         <source>Open full editing view</source>
-        <target>Volle Flex-Ansicht oeffnen</target>
+        <target>Volle Flex-Ansicht öffnen</target>
       </trans-unit>
       <trans-unit id="search.find_record">
         <source>Find records</source>
-        <target>Datensaetze finden, Homie</target>
+        <target>Datensätze finden, Homie</target>
       </trans-unit>
       <trans-unit id="search.no_records_found">
         <source>No records found</source>

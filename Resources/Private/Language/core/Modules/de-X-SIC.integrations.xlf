@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>Setup integrations between TYPO3 and external services such as webhooks, translation providers, AI platforms, and other third-party tools.</source>
-        <target>Integrationen zwischen TYPO3 und externen Services einrichten: Webhooks, Uebersetzungs-Provider, AI-Plattformen und andere Third-Party-Tools.</target>
+        <target>Integrationen zwischen TYPO3 und externen Services einrichten: Webhooks, Übersetzungs-Provider, AI-Plattformen und andere Third-Party-Tools.</target>
       </trans-unit>
     </body>
   </file>

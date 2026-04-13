@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="labels.showRecords">
         <source>Show records</source>
-        <target>Datensaetze zeigen, Bre</target>
+        <target>Datensätze zeigen, Bre</target>
       </trans-unit>
       <trans-unit id="labels.path">
         <source>Path</source>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="labels._LOCALIZATION_">
         <source>Localization</source>
-        <target>Uebersetzungs-Vibes</target>
+        <target>Übersetzungs-Vibes</target>
       </trans-unit>
       <trans-unit id="labels._REF_">
         <source>References</source>
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="labels.selectAllLanguages">
         <source>Select all available languages</source>
-        <target>Alle verfuegbaren Sprachen picken</target>
+        <target>Alle verfügbaren Sprachen picken</target>
       </trans-unit>
       <trans-unit id="labels.deselectAllLanguages">
         <source>Deselect all languages except default</source>
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="labels.generatePassword">
         <source>Generate password</source>
-        <target>Passwort wuerfeln</target>
+        <target>Passwort würfeln</target>
       </trans-unit>
       <trans-unit id="labels.generatePassword.failed">
         <source>A password could not be generated</source>
@@ -1793,7 +1793,7 @@
       </trans-unit>
       <trans-unit id="cm.history">
         <source>History/Undo</source>
-        <target>Zeitreise/Rueckgaengig</target>
+        <target>Zeitreise/Rückgängig</target>
       </trans-unit>
       <trans-unit id="cm.transferToClipboard">
         <source>Transfer to clipboard</source>

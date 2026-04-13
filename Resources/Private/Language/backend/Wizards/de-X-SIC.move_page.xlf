@@ -17,11 +17,11 @@
       </trans-unit>
       <trans-unit id="samePageConflict">
         <source>The page "%1$s" [%2$d] cannot get moved into itself.</source>
-        <target>Die Seite "%1$s" [%2$d] kann nicht in sich selbst verschoben werden, Digga. Das waere ein Paradoxon.</target>
+        <target>Die Seite "%1$s" [%2$d] kann nicht in sich selbst verschoben werden, Digga. Das wäre ein Paradoxon.</target>
       </trans-unit>
       <trans-unit id="action.pasteAbove">
         <source>Paste above</source>
-        <target>Drueber pasten</target>
+        <target>Drüber pasten</target>
       </trans-unit>
       <trans-unit id="action.pasteBelow">
         <source>Paste below</source>
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="movePage.notification.pagePasted.action.open">
         <source>Open "%s"</source>
-        <target>"%s" oeffnen</target>
+        <target>"%s" öffnen</target>
       </trans-unit>
     </body>
   </file>

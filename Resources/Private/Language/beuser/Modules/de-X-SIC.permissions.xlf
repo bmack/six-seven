@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>Administers which backend users and groups can access and edit pages in the site tree. For each page, an owner user and group can be assigned, and read, write, and edit permissions defined. These settings control who can view or modify content within the page hierarchy.</source>
-        <target>Hier gatekeepst du, welche Backend-Leute und Squads auf Seiten zugreifen und sie flexen koennen. Fuer jede Seite kannst du nen Sigma-Besitzer und Squad festlegen und Lese-, Schreib- und Bearbeitungsrechte einstellen. Das kontrolliert wer im Seitenbaum was sehen und aendern darf. No front, aber ohne Gatekeeping laeuft hier nix, Digga.</target>
+        <target>Hier gatekeepst du, welche Backend-Leute und Squads auf Seiten zugreifen und sie flexen können. Für jede Seite kannst du nen Sigma-Besitzer und Squad festlegen und Lese-, Schreib- und Bearbeitungsrechte einstellen. Das kontrolliert wer im Seitenbaum was sehen und ändern darf. No front, aber ohne Gatekeeping läuft hier nix, Digga.</target>
       </trans-unit>
     </body>
   </file>

@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="language_unavailable">
         <source>The selected language "%s" is not available before the language files are installed.</source>
-        <target>Die gewaehlte Sprache "%s" ist nicht verfuegbar bevor die Sprachdateien installiert sind.</target>
+        <target>Die gewählte Sprache "%s" ist nicht verfügbar bevor die Sprachdateien installiert sind.</target>
       </trans-unit>
       <trans-unit id="language_unavailable.admin">
         <source>You can use "Manage Language Packs" in the Maintenance module to easily download new language files.</source>
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="max_title_len">
         <source>Max. title length</source>
-        <target>Max. Titellaenge</target>
+        <target>Max. Titellänge</target>
       </trans-unit>
       <trans-unit id="edit_doc_module_upload">
         <source>File upload directly in Doc-module</source>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="contextual_record_edit">
         <source>Use quick editing for records in the page module</source>
-        <target>Quick-Edit fuer Datensaetze im Seiten-Modul nutzen</target>
+        <target>Quick-Edit für Datensätze im Seiten-Modul nutzen</target>
       </trans-unit>
       <trans-unit id="show_hidden_files_and_folders">
         <source>Show hidden files and folders in the filelist</source>
@@ -65,7 +65,7 @@
       </trans-unit>
       <trans-unit id="set_to_standard">
         <source>Reset all values to default</source>
-        <target>Alle Werte auf Standard zuruecksetzen</target>
+        <target>Alle Werte auf Standard zurücksetzen</target>
       </trans-unit>
       <trans-unit id="reset_tab">
         <source>Reset configuration</source>
@@ -73,15 +73,15 @@
       </trans-unit>
       <trans-unit id="reset_configuration">
         <source>Reset configuration and clear temporary data</source>
-        <target>Konfig resetten und temporaere Daten yeeten</target>
+        <target>Konfig resetten und temporäre Daten yeeten</target>
       </trans-unit>
       <trans-unit id="reset_configuration_button">
         <source>Reset profile settings to default state</source>
-        <target>Profil-Settings auf Werkseinstellungen zuruecksetzen</target>
+        <target>Profil-Settings auf Werkseinstellungen zurücksetzen</target>
       </trans-unit>
       <trans-unit id="set_to_standard_question">
         <source>Are you sure you want to reset all values to default?</source>
-        <target>Bist du sicher dass du alle Werte zuruecksetzen willst, Digga?</target>
+        <target>Bist du sicher dass du alle Werte zurücksetzen willst, Digga?</target>
       </trans-unit>
       <trans-unit id="functions">
         <source>Advanced functions</source>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="password_policy_failed">
         <source>The password was not updated, since it does not meet the password policy requirements.</source>
-        <target>Delulu Passwort! Wurde nicht geupdatet weil es die Passwort-Richtlinien nicht erfuellt, no cap.</target>
+        <target>Delulu Passwort! Wurde nicht geupdatet weil es die Passwort-Richtlinien nicht erfüllt, no cap.</target>
       </trans-unit>
       <trans-unit id="account_security">
         <source>Account security</source>
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="mfa_providers.not_available">
         <source>Multi-factor authentication is currently not available.</source>
-        <target>Multi-Faktor-Authentifizierung ist gerade nicht verfuegbar.</target>
+        <target>Multi-Faktor-Authentifizierung ist gerade nicht verfügbar.</target>
       </trans-unit>
       <trans-unit id="mfa_providers.description">
         <source>Use multi-factor authentication to secure your account by providing another factor next to your password.</source>
@@ -165,7 +165,7 @@
       </trans-unit>
       <trans-unit id="new_password_failed">
         <source>Password was not updated because the entered passwords do not match.</source>
-        <target>Passwort wurde nicht geupdatet weil die Passwoerter nicht matchen, Brudi.</target>
+        <target>Passwort wurde nicht geupdatet weil die Passwörter nicht matchen, Brudi.</target>
       </trans-unit>
       <trans-unit id="old_password_failed">
         <source>Password was not updated because the current password entered is incorrect.</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="settings_are_reset">
         <source>The profile settings have been reset to default values and temporary data has been cleared.</source>
-        <target>Die Profil-Settings wurden auf Standardwerte zurueckgesetzt und temporaere Daten geleert.</target>
+        <target>Die Profil-Settings wurden auf Standardwerte zurückgesetzt und temporäre Daten geleert.</target>
       </trans-unit>
       <trans-unit id="start_module.first_in_menu">
         <source>- First module in menu -</source>
@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="avatar.open_file_browser">
         <source>Open file browser to select avatar image</source>
-        <target>Dateibrowser aufmachen um Avatar-Bild auszuwaehlen</target>
+        <target>Dateibrowser aufmachen um Avatar-Bild auszuwählen</target>
       </trans-unit>
       <trans-unit id="backend_title_format">
         <source>Format of window title in backend</source>
@@ -201,7 +201,7 @@
       </trans-unit>
       <trans-unit id="warning.chinese_simplified">
         <source>Chinese Simplified (legacy) - Warning: Choose Chinese Simplified below, as this is wrong due to older versions of TYPO3 and might be removed soon.</source>
-        <target>Vereinfachtes Chinesisch (Legacy) - Achtung: Waehl unten Vereinfachtes Chinesisch, das hier ist falsch wegen alter TYPO3-Versionen und wird bald geyeetet.</target>
+        <target>Vereinfachtes Chinesisch (Legacy) - Achtung: Wähl unten Vereinfachtes Chinesisch, das hier ist falsch wegen alter TYPO3-Versionen und wird bald geyeetet.</target>
       </trans-unit>
       <trans-unit id="datetime_first_day_of_week">
         <source>First day of week in calendar popups</source>
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="datetime_first_day_of_week.inherit">
         <source>Use default based on personal backend language setting</source>
-        <target>Standard basierend auf persoenlicher Backend-Spracheinstellung verwenden</target>
+        <target>Standard basierend auf persönlicher Backend-Spracheinstellung verwenden</target>
       </trans-unit>
     </body>
   </file>

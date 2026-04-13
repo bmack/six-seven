@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="site.identifier">
         <source>This name will be used to create the configuration directory. Mind the recommendations for directory names (only a-z,0-9,_,-) and make it unique.</source>
-        <target>Dieser Name wird fuer das Konfig-Verzeichnis genutzt. Achte auf die Empfehlungen fuer Verzeichnisnamen (nur a-z,0-9,_,-) und mach ihn unique, Brudi.</target>
+        <target>Dieser Name wird für das Konfig-Verzeichnis genutzt. Achte auf die Empfehlungen für Verzeichnisnamen (nur a-z,0-9,_,-) und mach ihn unique, Brudi.</target>
       </trans-unit>
       <trans-unit id="site.base">
         <source>Main URL to call the frontend in default language. Can be https://www.example.com/ or just /, if it is just a / you cannot rely on TYPO3 creating full URLs</source>
@@ -17,35 +17,35 @@
       </trans-unit>
       <trans-unit id="site.websiteTitle">
         <source>The title of the website is used for the title tag in the frontend</source>
-        <target>Der Website-Titel wird fuer den Title-Tag im Frontend genutzt</target>
+        <target>Der Website-Titel wird für den Title-Tag im Frontend genutzt</target>
       </trans-unit>
       <trans-unit id="site.baseVariants">
         <source>This allows you to specify variants of the site's base. Can be used, for example, if you have a different domain for your staging environment.</source>
-        <target>Hier kannst du Varianten der Site-Basis angeben. Nuetzlich wenn du z.B. ne andere Domain fuer deine Staging-Umgebung hast.</target>
+        <target>Hier kannst du Varianten der Site-Basis angeben. Nützlich wenn du z.B. ne andere Domain für deine Staging-Umgebung hast.</target>
       </trans-unit>
       <trans-unit id="site.dependencies">
         <source>Site sets ship parts of site configuration as composable pieces. Sets deliver Settings, TypoScript, and Page TSConfig for the scope of this site.</source>
-        <target>Site-Sets liefern Teile der Site-Konfiguration als zusammensetzbare Teile. Sets bringen Settings, TypoScript und Page TSConfig fuer den Scope dieser Site.</target>
+        <target>Site-Sets liefern Teile der Site-Konfiguration als zusammensetzbare Teile. Sets bringen Settings, TypoScript und Page TSConfig für den Scope dieser Site.</target>
       </trans-unit>
       <trans-unit id="site_language.base">
         <source>Use a full qualified domain "https://www.mydomain.fr/" or "/fr/". Use "/" to keep the main URL for the default language. Add language specific suffixes to use those, or configure complete URLs for independent domains.</source>
-        <target>Nutz ne voll qualifizierte Domain "https://www.mydomain.fr/" oder "/fr/". Nutz "/" um die Haupt-URL fuer die Default-Sprache zu behalten. Fueg sprachspezifische Suffixe hinzu oder konfiguriere komplette URLs fuer unabhaengige Domains.</target>
+        <target>Nutz ne voll qualifizierte Domain "https://www.mydomain.fr/" oder "/fr/". Nutz "/" um die Haupt-URL für die Default-Sprache zu behalten. Füg sprachspezifische Suffixe hinzu oder konfiguriere komplette URLs für unabhängige Domains.</target>
       </trans-unit>
       <trans-unit id="site_language.locale">
         <source>Used for localized date and currency formats. E.g. "de_DE" or "en_US.UTF-8".</source>
-        <target>Wird fuer lokalisierte Datums- und Waehrungsformate genutzt. Z.B. "de_DE" oder "en_US.UTF-8".</target>
+        <target>Wird für lokalisierte Datums- und Währungsformate genutzt. Z.B. "de_DE" oder "en_US.UTF-8".</target>
       </trans-unit>
       <trans-unit id="site_language.hreflang">
         <source>Optional, used for "hreflang" attributes - if empty, the information is retrieved from the locale</source>
-        <target>Optional, wird fuer "hreflang"-Attribute genutzt - wenn leer, wird die Info aus dem Locale geholt</target>
+        <target>Optional, wird für "hreflang"-Attribute genutzt - wenn leer, wird die Info aus dem Locale geholt</target>
       </trans-unit>
       <trans-unit id="site_language.websiteTitle">
         <source>With this language based Website title, you can override the Website title for this language</source>
-        <target>Mit diesem sprachbasierten Website-Titel kannst du den Website-Titel fuer diese Sprache ueberschreiben</target>
+        <target>Mit diesem sprachbasierten Website-Titel kannst du den Website-Titel für diese Sprache überschreiben</target>
       </trans-unit>
       <trans-unit id="site_language.navigationTitle">
         <source>Used within language-related menus</source>
-        <target>Wird in sprachbezogenen Menues genutzt</target>
+        <target>Wird in sprachbezogenen Menüs genutzt</target>
       </trans-unit>
       <trans-unit id="site_errorhandling.errorCode">
         <source>Make sure to have at least 0 (not defined otherwise) configured in order to serve helpful error messages to your visitors.</source>

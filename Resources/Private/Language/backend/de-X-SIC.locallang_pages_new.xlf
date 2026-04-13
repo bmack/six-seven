@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="hidePagesInMenus">
         <source>Hide new pages in menus</source>
-        <target>Neue Seiten in Menues ghosten</target>
+        <target>Neue Seiten in Menüs ghosten</target>
       </trans-unit>
       <trans-unit id="create">
         <source>Create pages</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="availablePageTypesHaveBeenFiltered.message">
         <source>The following page types need to be created using the page creation wizard:</source>
-        <target>Die folgenden Seitentypen muessen ueber den Seiten-Wizard erstellt werden:</target>
+        <target>Die folgenden Seitentypen müssen über den Seiten-Wizard erstellt werden:</target>
       </trans-unit>
       <trans-unit id="availablePageTypesHaveBeenFiltered.buttonLabel">
         <source>Create single page</source>

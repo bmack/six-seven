@@ -5,11 +5,11 @@
     <body>
       <trans-unit id="link_missing">
         <source>The "%1$s" field is required to resolve links for pages of type "%2$s". Please provide a value in the page properties.</source>
-        <target>Das Feld "%1$s" wird benoetigt um Links fuer Seiten vom Typ "%2$s" aufzuloesen. Trag bitte nen Wert in den Seiteneigenschaften ein, Digga.</target>
+        <target>Das Feld "%1$s" wird benötigt um Links für Seiten vom Typ "%2$s" aufzulösen. Trag bitte nen Wert in den Seiteneigenschaften ein, Digga.</target>
       </trans-unit>
       <trans-unit id="link_invalid">
         <source>Invalid link in "%1$s": "%2$s" cannot be resolved. Select a valid destination in the page properties.</source>
-        <target>Ungueltiger Link in "%1$s": "%2$s" kann nicht aufgeloest werden. Waehl ein gueltiges Ziel in den Seiteneigenschaften, Brudi.</target>
+        <target>Ungültiger Link in "%1$s": "%2$s" kann nicht aufgelöst werden. Wähl ein gültiges Ziel in den Seiteneigenschaften, Brudi.</target>
       </trans-unit>
       <trans-unit id="link_destination">
         <source>Page of type "%1$s" links to the following %2$s: %3$s.</source>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="link_current_with_added_queryparameters">
         <source>Page of type "%1$s" appends %2$s to current request url, and dynamic value cannot be displayed here.</source>
-        <target>Seite vom Typ "%1$s" haengt %2$s an die aktuelle Request-URL an, der dynamische Wert kann hier nicht angezeigt werden.</target>
+        <target>Seite vom Typ "%1$s" hängt %2$s an die aktuelle Request-URL an, der dynamische Wert kann hier nicht angezeigt werden.</target>
       </trans-unit>
       <trans-unit id="link_destination_record">
         <source>Page of type "%1$s" links to the following record of type "%2$s": %3$s.</source>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="link_destination_additional_parameters">
         <source>Additional parameters: "%s".</source>
-        <target>Zusaetzliche Parameter: "%s".</target>
+        <target>Zusätzliche Parameter: "%s".</target>
       </trans-unit>
       <trans-unit id="link_destination_content_element">
         <source>Page of type "%1$s" links to content element %2$s on page %3$s.</source>

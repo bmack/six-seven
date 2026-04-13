@@ -4,10 +4,10 @@
     <header/>
     <body>
       <trans-unit id="submodule.title"><source>Included TypoScript</source><target>Eingebundenes TypoScript</target></trans-unit>
-      <trans-unit id="submodule.titleWithRecord"><source>Included TypoScript for record "%s"</source><target>Eingebundenes TypoScript fuer Record "%s"</target></trans-unit>
-      <trans-unit id="submodule.description"><source>Overview of the included TypoScript and include order for the current page.</source><target>Ueberblick ueber das eingebundene TypoScript und die Include-Reihenfolge fuer die aktuelle Seite.</target></trans-unit>
+      <trans-unit id="submodule.titleWithRecord"><source>Included TypoScript for record "%s"</source><target>Eingebundenes TypoScript für Record "%s"</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Overview of the included TypoScript and include order for the current page.</source><target>Überblick über das eingebundene TypoScript und die Include-Reihenfolge für die aktuelle Seite.</target></trans-unit>
       <trans-unit id="infobox.message.noTypoScriptFound"><source>No TypoScript found.</source><target>Kein TypoScript gefunden.</target></trans-unit>
-      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Ausgewaehlter Record</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Ausgewählter Record</target></trans-unit>
       <trans-unit id="sectionHeadline.constants"><source>Constants</source><target>Konstanten</target></trans-unit>
       <trans-unit id="sectionHeadline.setup"><source>Setup</source><target>Setup</target></trans-unit>
       <trans-unit id="panel.header.syntaxErrors"><source>Syntax scanner warnings</source><target>Yo, Achtung - Syntax-Scanner-Warnungen</target></trans-unit>
@@ -15,12 +15,12 @@
       <trans-unit id="panel.info.syntaxErrorCount.single"><source>%s syntax warning</source><target>%s Syntax-Warnung</target></trans-unit>
       <trans-unit id="panel.info.syntaxErrorCount.multiple"><source>%s syntax warnings</source><target>%s Syntax-Warnungen</target></trans-unit>
       <trans-unit id="syntaxError.sourceCode"><source>Show affected code snippet</source><target>Betroffenen Code-Schnipsel zeig mal</target></trans-unit>
-      <trans-unit id="syntaxError.type.line.invalid"><source>Invalid line in "%1$s", line number "%2$s"</source><target>Ungueltige Zeile in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
-      <trans-unit id="syntaxError.type.brace.excess"><source>Brace in excess in "%1$s", line number "%2$s"</source><target>Ueberflussige Klammer in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
+      <trans-unit id="syntaxError.type.line.invalid"><source>Invalid line in "%1$s", line number "%2$s"</source><target>Ungültige Zeile in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
+      <trans-unit id="syntaxError.type.brace.excess"><source>Brace in excess in "%1$s", line number "%2$s"</source><target>Überflussige Klammer in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
       <trans-unit id="syntaxError.type.brace.missing"><source>Brace missing in "%1$s", line number "%2$s"</source><target>Fehlende Klammer in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
       <trans-unit id="syntaxError.type.import.empty"><source>Import does not find a file in "%1$s", line number "%2$s"</source><target>Import findet keine Datei in "%1$s", Zeilennummer "%2$s"</target></trans-unit>
       <trans-unit id="tree.child.btn.sourceCode"><source>Show code</source><target>Code zeig mal</target></trans-unit>
-      <trans-unit id="tree.child.btn.sourceCodeWithResolvedIncludes"><source>Show code including possible includes/imports</source><target>Code inkl. moeglicher Includes/Imports zeig mal</target></trans-unit>
+      <trans-unit id="tree.child.btn.sourceCodeWithResolvedIncludes"><source>Show code including possible includes/imports</source><target>Code inkl. möglicher Includes/Imports zeig mal</target></trans-unit>
       <trans-unit id="tree.child.setting.clear"><source>Clear</source><target>Clear</target></trans-unit>
       <trans-unit id="tree.child.setting.root"><source>Root</source><target>Root</target></trans-unit>
       <trans-unit id="tree.child.sysTemplateRecord"><source>TypoScript record (page UID %s)</source><target>TypoScript-Record (Seiten-UID %s)</target></trans-unit>

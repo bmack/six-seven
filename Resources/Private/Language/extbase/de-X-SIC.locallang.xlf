@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="converter.datetime.notrecognized">
         <source>The date "%s" was not recognized (for format "%s").</source>
-        <target>Das Datum "%s" wurde nicht erkannt (fuer Format "%s"), cringe.</target>
+        <target>Das Datum "%s" wurde nicht erkannt (für Format "%s"), cringe.</target>
       </trans-unit>
       <trans-unit id="property.error">
         <source>Validation errors for property "%s"</source>
@@ -13,11 +13,11 @@
       </trans-unit>
       <trans-unit id="validator.emailaddress.notvalid">
         <source>The given subject was not a valid email address.</source>
-        <target>Das war keine gueltige E-Mail-Adresse, Digga.</target>
+        <target>Das war keine gültige E-Mail-Adresse, Digga.</target>
       </trans-unit>
       <trans-unit id="validator.stringlength.between">
         <source>The length of the given string was not between %s and %s characters.</source>
-        <target>Die Laenge des Strings war nicht zwischen %s und %s Zeichen, Brudi.</target>
+        <target>Die Länge des Strings war nicht zwischen %s und %s Zeichen, Brudi.</target>
       </trans-unit>
       <trans-unit id="validator.stringlength.less">
         <source>The length of the given string is less than %s characters.</source>
@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="validator.string.notvalid">
         <source>A valid string is expected.</source>
-        <target>Ein gueltiger String wird erwartet, no cap.</target>
+        <target>Ein gültiger String wird erwartet, no cap.</target>
       </trans-unit>
       <trans-unit id="validator.stringlength.exceed">
         <source>The length of the given string exceeded %s characters.</source>
@@ -33,19 +33,19 @@
       </trans-unit>
       <trans-unit id="validator.alphanumeric.notvalid">
         <source>The given subject was not a valid alphanumeric string.</source>
-        <target>Das war kein gueltiger alphanumerischer String, Bestie.</target>
+        <target>Das war kein gültiger alphanumerischer String, Bestie.</target>
       </trans-unit>
       <trans-unit id="validator.datetime.notvalid">
         <source>The given subject was not a valid DateTime. Got: '%s'</source>
-        <target>Das war kein gueltiges DateTime. Bekommen: '%s', Digga</target>
+        <target>Das war kein gültiges DateTime. Bekommen: '%s', Digga</target>
       </trans-unit>
       <trans-unit id="validator.float.notvalid">
         <source>The given subject was not a valid float.</source>
-        <target>Das war kein gueltiger Float-Wert, Brudi.</target>
+        <target>Das war kein gültiger Float-Wert, Brudi.</target>
       </trans-unit>
       <trans-unit id="validator.text.notvalid">
         <source>The given subject was not a valid text (e.g. contained XML tags).</source>
-        <target>Das war kein gueltiger Text (z.B. XML-Tags drin), Alter.</target>
+        <target>Das war kein gültiger Text (z.B. XML-Tags drin), Alter.</target>
       </trans-unit>
       <trans-unit id="validator.regularexpression.nomatch">
         <source>The given subject did not match the pattern.</source>
@@ -53,11 +53,11 @@
       </trans-unit>
       <trans-unit id="validator.numberrange.notvalid">
         <source>The given subject was not a valid number.</source>
-        <target>Das war keine gueltige Zahl, Bro.</target>
+        <target>Das war keine gültige Zahl, Bro.</target>
       </trans-unit>
       <trans-unit id="validator.numberrange.range">
         <source>The given subject was not in the valid range (%s - %s).</source>
-        <target>Der Wert war nicht im gueltigen Bereich (%s - %s), Bre.</target>
+        <target>Der Wert war nicht im gültigen Bereich (%s - %s), Bre.</target>
       </trans-unit>
       <trans-unit id="validator.notempty.null">
         <source>The given subject was NULL.</source>
@@ -69,11 +69,11 @@
       </trans-unit>
       <trans-unit id="validator.number.notvalid">
         <source>The given subject was not a valid number.</source>
-        <target>Das war keine gueltige Zahl, Alter.</target>
+        <target>Das war keine gültige Zahl, Alter.</target>
       </trans-unit>
       <trans-unit id="validator.integer.notvalid">
         <source>The given subject was not a valid integer.</source>
-        <target>Das war kein gueltiger Integer, Homie.</target>
+        <target>Das war kein gültiger Integer, Homie.</target>
       </trans-unit>
       <trans-unit id="validator.boolean.nottrue">
         <source>The given subject was not true.</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="validator.url.notvalid">
         <source>The given subject is no valid URL.</source>
-        <target>Das ist keine gueltige URL, Brudi.</target>
+        <target>Das ist keine gültige URL, Brudi.</target>
       </trans-unit>
       <trans-unit id="validation.fileextension.notallowed">
         <source>The file extension '%s' is not allowed.</source>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="validation.fileextensionmimetypeconsistency.notallowed">
         <source>The resolved media type "%s" is not allowed for file extension "%s".</source>
-        <target>Der erkannte Medientyp "%s" ist nicht erlaubt fuer die Dateiendung "%s", Digga.</target>
+        <target>Der erkannte Medientyp "%s" ist nicht erlaubt für die Dateiendung "%s", Digga.</target>
       </trans-unit>
       <trans-unit id="validation.mimetype.notallowed">
         <source>The mime type '%s' is not allowed.</source>
@@ -105,11 +105,11 @@
       </trans-unit>
       <trans-unit id="validation.denyphpupload.notallowed">
         <source>Uploading of files with PHP executable file extensions is not allowed.</source>
-        <target>Hochladen von Dateien mit ausfuehrbaren PHP-Dateiendungen ist nicht erlaubt, sheesh.</target>
+        <target>Hochladen von Dateien mit ausführbaren PHP-Dateiendungen ist nicht erlaubt, sheesh.</target>
       </trans-unit>
       <trans-unit id="validation.filesize.less">
         <source>The file must be larger than %s in size.</source>
-        <target>Die Datei muss groesser als %s sein, Bro.</target>
+        <target>Die Datei muss größer als %s sein, Bro.</target>
       </trans-unit>
       <trans-unit id="validation.filesize.exceed">
         <source>The file must be smaller than %s in size.</source>
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="filehandlingserviceconfiguration.maxfiles.notvalid">
         <source>The maximum amount of %s file(s) is exceeded.</source>
-        <target>Die maximale Anzahl von %s Datei(en) ist ueberschritten, sheesh.</target>
+        <target>Die maximale Anzahl von %s Datei(en) ist überschritten, sheesh.</target>
       </trans-unit>
       <trans-unit id="class_configuration">
         <source>Extbase: Class Configuration</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="ratelimit.action.defaultmessage">
         <source>Too many requests. Please try again later.</source>
-        <target>Zu viele Anfragen, Digga. Chill mal und versuch's spaeter nochmal.</target>
+        <target>Zu viele Anfragen, Digga. Chill mal und versuch's später nochmal.</target>
       </trans-unit>
     </body>
   </file>

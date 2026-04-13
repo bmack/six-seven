@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="labels.submitLogout">
         <source>Log Out</source>
-        <target>Tschuessi, ich bin raus</target>
+        <target>Tschüssi, ich bin raus</target>
       </trans-unit>
       <trans-unit id="labels.whatIsOpenId">
         <source>What is OpenId?</source>
@@ -17,11 +17,11 @@
       </trans-unit>
       <trans-unit id="headline">
         <source>Login to the TYPO3 CMS Backend on ###SITENAME###</source>
-        <target>Slide rein ins TYPO3 CMS Backend auf ###SITENAME### - ong, it's giving Produktivitaet!</target>
+        <target>Slide rein ins TYPO3 CMS Backend auf ###SITENAME### - ong, it's giving Produktivität!</target>
       </trans-unit>
       <trans-unit id="info.about">
         <source>This is the backend login of TYPO3. You need username and password to access this administration interface. If you are a visitor of ###SITENAME###, please visit the public website: ###SITELINK###</source>
-        <target>Hier ist der Backend-Login von TYPO3. Du brauchst Gamertag und Geheimcode um hier reinzukommen, Digga. Wenn du nur Besucher von ###SITENAME### bist, geh zur oeffentlichen Website: ###SITELINK###</target>
+        <target>Hier ist der Backend-Login von TYPO3. Du brauchst Gamertag und Geheimcode um hier reinzukommen, Digga. Wenn du nur Besucher von ###SITENAME### bist, geh zur öffentlichen Website: ###SITELINK###</target>
       </trans-unit>
       <trans-unit id="info.reset">
         <source>Reset this form</source>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="info.cookies_and_js">
         <source>(Note: Cookies and JavaScript must be enabled!)</source>
-        <target>(Achtung: Cookies und JavaScript muessen an sein, no cap!)</target>
+        <target>(Achtung: Cookies und JavaScript müssen an sein, no cap!)</target>
       </trans-unit>
       <trans-unit id="clear">
         <source>Clear this field!</source>
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="warning.incompatibleBrowser">
         <source>You are using an unsupported browser version.</source>
-        <target>Deine Browser-Version wird nicht unterstuetzt. Update mal, Digga.</target>
+        <target>Deine Browser-Version wird nicht unterstützt. Update mal, Digga.</target>
       </trans-unit>
       <trans-unit id="warning.incompatibleBrowserInternetExplorer">
         <source>Please install &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" rel="noreferrer" /&gt;a more modern browser version&lt;/a&gt;.</source>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="error.furtherInformation">
         <source>For more information or further help click here</source>
-        <target>Fuer mehr Infos oder Hilfe hier klicken, Homie</target>
+        <target>Für mehr Infos oder Hilfe hier klicken, Homie</target>
       </trans-unit>
       <trans-unit id="warranty.by">
         <source>Warranty is supplied by %s; %sdetails about licenses.%s</source>
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="extension.copyright">
         <source>Extensions are copyright of their respective owners.</source>
-        <target>Extensions gehoeren ihren jeweiligen Ownern. Ong, Respekt!</target>
+        <target>Extensions gehören ihren jeweiligen Ownern. Ong, Respekt!</target>
       </trans-unit>
       <trans-unit id="extension.trademark">
         <source>TYPO3 is a registered %strademark%s.</source>
@@ -97,7 +97,7 @@
       </trans-unit>
       <trans-unit id="details.link">
         <source>Go to %s for details.</source>
-        <target>Geh zu %s fuer Details.</target>
+        <target>Geh zu %s für Details.</target>
       </trans-unit>
       <trans-unit id="free.software">
         <source>This is free software, and you are welcome to redistribute it under certain conditions; %sdetails about licenses.%s</source>

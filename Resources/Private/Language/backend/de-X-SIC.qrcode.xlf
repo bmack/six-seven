@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="qrcode.size">
         <source>Size</source>
-        <target>Groesse</target>
+        <target>Größe</target>
       </trans-unit>
       <trans-unit id="qrcode.size.small">
         <source>small</source>

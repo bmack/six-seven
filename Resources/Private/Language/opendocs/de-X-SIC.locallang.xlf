@@ -3,9 +3,9 @@
   <file source-language="en" target-language="de-X-SIC" datatype="plaintext" original="EXT:opendocs/Resources/Private/Language/locallang.xlf">
     <header/>
     <body>
-      <trans-unit id="toolbaritem"><source>Recently opened documents</source><target>Ey, kuerzlich geoeffnete Docs</target></trans-unit>
-      <trans-unit id="toolbarItems.headline"><source>Recently opened documents</source><target>Kuerzlich geoeffnete Docs, Digga</target></trans-unit>
-      <trans-unit id="recentDocuments.emptyList"><source>No documents were opened recently.</source><target>Nix am Start, keine Docs kuerzlich geoeffnet.</target></trans-unit>
+      <trans-unit id="toolbaritem"><source>Recently opened documents</source><target>Ey, kürzlich geöffnete Docs</target></trans-unit>
+      <trans-unit id="toolbarItems.headline"><source>Recently opened documents</source><target>Kürzlich geöffnete Docs, Digga</target></trans-unit>
+      <trans-unit id="recentDocuments.emptyList"><source>No documents were opened recently.</source><target>Nix am Start, keine Docs kürzlich geöffnet.</target></trans-unit>
       <trans-unit id="recentDocuments.lastOpened"><source>Last opened</source><target>Zuletzt aufgemacht</target></trans-unit>
       <trans-unit id="recentDocuments.path"><source>Path</source><target>Pfad</target></trans-unit>
     </body>

@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="formManager.form_save_path_description" x-unused-since="14.2">
         <source>Select the storage where your form definition will be saved.</source>
-        <target>Waehl den Speicherort fuer deine Formular-Definition, Brudi.</target>
+        <target>Wähl den Speicherort für deine Formular-Definition, Brudi.</target>
       </trans-unit>
       <trans-unit id="formManager.form_storageLocation">
         <source>Location</source>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="formManager.form_storageLocation_description">
         <source>Select the location where the form will be saved.</source>
-        <target>Waehl den Ort wo das Formular gesaved wird.</target>
+        <target>Wähl den Ort wo das Formular gesaved wird.</target>
       </trans-unit>
       <trans-unit id="formManager.form_prototype">
         <source>Form prototype</source>
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="formManager.form_template_description">
         <source>Select a template for building your new form.</source>
-        <target>Such dir ein Template fuer dein neues Formular aus, Digga.</target>
+        <target>Such dir ein Template für dein neues Formular aus, Digga.</target>
       </trans-unit>
       <trans-unit id="formManager.form_headline_general">
         <source>General</source>
@@ -61,11 +61,11 @@
       </trans-unit>
       <trans-unit id="formManager.remove_form_title">
         <source>Confirm deletion</source>
-        <target>Yeet-Bestaetigung</target>
+        <target>Yeet-Bestätigung</target>
       </trans-unit>
       <trans-unit id="formManager.remove_form_message">
         <source>Permanently delete form "{0}"? You cannot undo this action.</source>
-        <target>Formular "{0}" permanent yeeten? Kein Zurueck, Digga, fr fr!</target>
+        <target>Formular "{0}" permanent yeeten? Kein Zurück, Digga, fr fr!</target>
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step1.title">
         <source>Create new form</source>
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step1.progressLabel">
         <source>Choose</source>
-        <target>Auswaehlen, Digga</target>
+        <target>Auswählen, Digga</target>
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step1.noStorages">
         <source>You do not have permission to create forms. Please contact your administrator.</source>
@@ -101,7 +101,7 @@
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step3.check">
         <source>Check and confirm</source>
-        <target>Checken und bestaetigen, Bre</target>
+        <target>Checken und bestätigen, Bre</target>
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step4.errorTitle">
         <source>Create</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step.storages.description">
         <source>Choose how the form should be saved:</source>
-        <target>Waehl aus wie das Formular gesaved werden soll:</target>
+        <target>Wähl aus wie das Formular gesaved werden soll:</target>
       </trans-unit>
       <trans-unit id="formManager.newFormWizard.step.storages.progressLabel">
         <source>Storage</source>
@@ -141,11 +141,11 @@
       </trans-unit>
       <trans-unit id="formManager.duplicateFormWizard.step2.check">
         <source>Check and confirm</source>
-        <target>Checken und bestaetigen, Bre</target>
+        <target>Checken und bestätigen, Bre</target>
       </trans-unit>
       <trans-unit id="formManager.duplicateFormWizard.step2.message">
         <source>Just check and confirm the settings you have entered. Done? Then you are ready to go.</source>
-        <target>Check nochmal deine Einstellungen. Fertig? Dann ab dafuer, Alter!</target>
+        <target>Check nochmal deine Einstellungen. Fertig? Dann ab dafür, Alter!</target>
       </trans-unit>
       <trans-unit id="formManager.duplicateFormWizard.step3.errorTitle">
         <source>Duplicate</source>
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="formManager.predefinedForm.description">
         <source>Create a new form and use an existing form template for it.</source>
-        <target>Neues Formular erstellen und ein bestehendes Template dafuer nutzen, Digga.</target>
+        <target>Neues Formular erstellen und ein bestehendes Template dafür nutzen, Digga.</target>
       </trans-unit>
       <trans-unit id="formManager.finisher.redirect.success.title">
         <source>Form created</source>

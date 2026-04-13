@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="goBack">
         <source>Go back</source>
-        <target>Zurueck, Digga</target>
+        <target>Zurück, Digga</target>
       </trans-unit>
       <trans-unit id="fullDescription">
         <source>See full description of table</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="TOC_glossary">
         <source>Glossary</source>
-        <target>Glossar (Woerterbuch fuer Nerds)</target>
+        <target>Glossar (Wörterbuch für Nerds)</target>
       </trans-unit>
       <trans-unit id="TOC_other">
         <source>Other</source>
@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you will find a general description of the TYPO3 Core modules, installation specific Backend Modules and Database Tables that are available based on your login credentials.</source>
-        <target>Das TYPO3 Inline User Manual setzt sich aus der verfuegbaren Hilfe dieser TYPO3-Installation zusammen (kontextsensitive Hilfe). Hier findest du ne allgemeine Beschreibung der TYPO3 Core-Module, installationsspezifische Backend-Module und Datenbank-Tabellen die basierend auf deinen Login-Credentials verfuegbar sind.</target>
+        <target>Das TYPO3 Inline User Manual setzt sich aus der verfügbaren Hilfe dieser TYPO3-Installation zusammen (kontextsensitive Hilfe). Hier findest du ne allgemeine Beschreibung der TYPO3 Core-Module, installationsspezifische Backend-Module und Datenbank-Tabellen die basierend auf deinen Login-Credentials verfügbar sind.</target>
       </trans-unit>
       <trans-unit id="full_manual">
         <source>Full Manual (in one page)</source>

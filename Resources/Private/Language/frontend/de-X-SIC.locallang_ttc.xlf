@@ -57,11 +57,11 @@
       </trans-unit>
       <trans-unit id="header" x-unused-since="14.0">
         <source>Header</source>
-        <target>Ueberschrift, Alter</target>
+        <target>Überschrift, Alter</target>
       </trans-unit>
       <trans-unit id="header_formlabel" x-unused-since="14.0">
         <source>Header</source>
-        <target>Ueberschrift, Bro</target>
+        <target>Überschrift, Bro</target>
       </trans-unit>
       <trans-unit id="header.ALT.shortcut_formlabel">
         <source>Name (not visible in frontend)</source>
@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="header.description.ALT">
         <source>The name won't be displayed as header above the element, but will be used as reference in menus.</source>
-        <target>Der Name wird nicht als Ueberschrift angezeigt, sondern als Referenz in Menues benutzt, Brudi.</target>
+        <target>Der Name wird nicht als Überschrift angezeigt, sondern als Referenz in Menüs benutzt, Brudi.</target>
       </trans-unit>
       <trans-unit id="header_position" x-unused-since="14.0">
         <source>Align</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="bullets_type">
         <source>Type of bullets</source>
-        <target>Aufzaehlungstyp, Brudi</target>
+        <target>Aufzählungstyp, Brudi</target>
       </trans-unit>
       <trans-unit id="bullets_type.0">
         <source>Unordered list (bullets)</source>
@@ -165,11 +165,11 @@
       </trans-unit>
       <trans-unit id="imageheight" x-unused-since="14.0">
         <source>Height (pixels)</source>
-        <target>Hoehe (Pixel), Homie</target>
+        <target>Höhe (Pixel), Homie</target>
       </trans-unit>
       <trans-unit id="imageheight_formlabel" x-unused-since="14.0">
         <source>Height (px)</source>
-        <target>Hoehe (px), Bestie</target>
+        <target>Höhe (px), Bestie</target>
       </trans-unit>
       <trans-unit id="imageorient" x-unused-since="14.0">
         <source>Position</source>
@@ -181,15 +181,15 @@
       </trans-unit>
       <trans-unit id="imageorient.I.0">
         <source>Above, center</source>
-        <target>Drueber, mittig, Alter</target>
+        <target>Drüber, mittig, Alter</target>
       </trans-unit>
       <trans-unit id="imageorient.I.1">
         <source>Above, right</source>
-        <target>Drueber, rechts, Bro</target>
+        <target>Drüber, rechts, Bro</target>
       </trans-unit>
       <trans-unit id="imageorient.I.2">
         <source>Above, left</source>
-        <target>Drueber, links, Bre</target>
+        <target>Drüber, links, Bre</target>
       </trans-unit>
       <trans-unit id="imageorient.I.3">
         <source>Below, center</source>
@@ -229,11 +229,11 @@
       </trans-unit>
       <trans-unit id="image_zoom" x-unused-since="14.0">
         <source>Click-enlarge</source>
-        <target>Klick-Vergroesserung, Digga</target>
+        <target>Klick-Vergrößerung, Digga</target>
       </trans-unit>
       <trans-unit id="image_zoom_formlabel" x-unused-since="14.0">
         <source>Enlarge on Click</source>
-        <target>Bei Klick vergroessern, Brudi</target>
+        <target>Bei Klick vergrößern, Brudi</target>
       </trans-unit>
       <trans-unit id="imagecols" x-unused-since="14.0">
         <source>Columns</source>
@@ -245,7 +245,7 @@
       </trans-unit>
       <trans-unit id="images.addFileReference">
         <source>Add image</source>
-        <target>Bild hinzufuegen, Bre</target>
+        <target>Bild hinzufügen, Bre</target>
       </trans-unit>
       <trans-unit id="cols">
         <source>Columns</source>
@@ -257,7 +257,7 @@
       </trans-unit>
       <trans-unit id="recursive.I.0">
         <source>0 levels (only selected page)</source>
-        <target>0 Ebenen (nur die ausgewaehlte Seite), Bestie</target>
+        <target>0 Ebenen (nur die ausgewählte Seite), Bestie</target>
       </trans-unit>
       <trans-unit id="recursive.I.1">
         <source>1 level</source>
@@ -285,11 +285,11 @@
       </trans-unit>
       <trans-unit id="media.ALT.uploads_formlabel">
         <source>Select single files</source>
-        <target>Einzelne Dateien auswaehlen, Brudi</target>
+        <target>Einzelne Dateien auswählen, Brudi</target>
       </trans-unit>
       <trans-unit id="media.addFileReference">
         <source>Add file</source>
-        <target>Datei hinzufuegen, Alter</target>
+        <target>Datei hinzufügen, Alter</target>
       </trans-unit>
       <trans-unit id="multimedia">
         <source>File</source>
@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="multimedia_formlabel">
         <source>Selected Media File</source>
-        <target>Ausgewaehlte Medien-Datei, Bre</target>
+        <target>Ausgewählte Medien-Datei, Bre</target>
       </trans-unit>
       <trans-unit id="file_collections">
         <source>File collections</source>
@@ -305,11 +305,11 @@
       </trans-unit>
       <trans-unit id="file_collections.ALT.uploads_formlabel" x-unused-since="14.0">
         <source>Select file collections</source>
-        <target>Datei-Sammlungen auswaehlen, Bestie</target>
+        <target>Datei-Sammlungen auswählen, Bestie</target>
       </trans-unit>
       <trans-unit id="filelink_size" x-unused-since="14.0">
         <source>Show File Size</source>
-        <target>Dateigroesse anzeigen, Digga</target>
+        <target>Dateigröße anzeigen, Digga</target>
       </trans-unit>
       <trans-unit id="filelink_sorting">
         <source>Sort file list</source>
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="filelink_sorting.size">
         <source>by file size</source>
-        <target>nach Dateigroesse, Bestie</target>
+        <target>nach Dateigröße, Bestie</target>
       </trans-unit>
       <trans-unit id="filelink_sorting.creation_date">
         <source>by file creation date</source>
@@ -341,7 +341,7 @@
       </trans-unit>
       <trans-unit id="filelink_sorting.modification_date">
         <source>by file modification date</source>
-        <target>nach Aenderungsdatum, Brudi</target>
+        <target>nach Änderungsdatum, Brudi</target>
       </trans-unit>
       <trans-unit id="filelink_sorting.title">
         <source>by file metadata title</source>
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="filelink_size_formlabel" x-unused-since="14.0">
         <source>Display File Size Information</source>
-        <target>Dateigroessen-Info anzeigen, Bestie</target>
+        <target>Dateigrößen-Info anzeigen, Bestie</target>
       </trans-unit>
       <trans-unit id="target">
         <source>Target</source>
@@ -373,11 +373,11 @@
       </trans-unit>
       <trans-unit id="records">
         <source>Items</source>
-        <target>Eintraege, Alter</target>
+        <target>Einträge, Alter</target>
       </trans-unit>
       <trans-unit id="records_formlabel">
         <source>Records</source>
-        <target>Datensaetze, Bro</target>
+        <target>Datensätze, Bro</target>
       </trans-unit>
       <trans-unit id="space_before_class" x-unused-since="14.0">
         <source>Space Before</source>
@@ -441,15 +441,15 @@
       </trans-unit>
       <trans-unit id="frame_class.indent">
         <source>Indent</source>
-        <target>Einrueckung, Homie</target>
+        <target>Einrückung, Homie</target>
       </trans-unit>
       <trans-unit id="frame_class.indent_left">
         <source>Indent, 33/66%</source>
-        <target>Einrueckung, 33/66%, Bestie</target>
+        <target>Einrückung, 33/66%, Bestie</target>
       </trans-unit>
       <trans-unit id="frame_class.indent_right">
         <source>Indent, 66/33%</source>
-        <target>Einrueckung, 66/33%, Digga</target>
+        <target>Einrückung, 66/33%, Digga</target>
       </trans-unit>
       <trans-unit id="frame_class.none">
         <source>No Frame</source>
@@ -461,7 +461,7 @@
       </trans-unit>
       <trans-unit id="sectionIndex_formlabel" x-unused-since="14.0">
         <source>Show in Section Menus</source>
-        <target>In Bereichs-Menues anzeigen, Bro</target>
+        <target>In Bereichs-Menüs anzeigen, Bro</target>
       </trans-unit>
       <trans-unit id="linkToTop" x-unused-since="14.0">
         <source>To top</source>
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="linkToTop_formlabel" x-unused-since="14.0">
         <source>Append with Link to Top of Page</source>
-        <target>Mit Link nach oben anhaengen, Homie</target>
+        <target>Mit Link nach oben anhängen, Homie</target>
       </trans-unit>
       <trans-unit id="pi_flexform">
         <source>Plugin Options</source>
@@ -477,7 +477,7 @@
       </trans-unit>
       <trans-unit id="selected_categories">
         <source>Selected categories</source>
-        <target>Ausgewaehlte Kategorien, Digga</target>
+        <target>Ausgewählte Kategorien, Digga</target>
       </trans-unit>
       <trans-unit id="category_field">
         <source>Category field</source>
@@ -485,7 +485,7 @@
       </trans-unit>
       <trans-unit id="pages.ALT.menu_formlabel">
         <source>Selected Pages</source>
-        <target>Ausgewaehlte Seiten, Alter</target>
+        <target>Ausgewählte Seiten, Alter</target>
       </trans-unit>
       <trans-unit id="pages.ALT.list_formlabel">
         <source>Record Storage Page</source>
@@ -505,11 +505,11 @@
       </trans-unit>
       <trans-unit id="subheader_formlabel" x-unused-since="14.0">
         <source>Subheader</source>
-        <target>Unter-Ueberschrift, Digga</target>
+        <target>Unter-Überschrift, Digga</target>
       </trans-unit>
       <trans-unit id="starttime_formlabel">
         <source>Publish Date</source>
-        <target>Veroeffentlichungsdatum, Brudi</target>
+        <target>Veröffentlichungsdatum, Brudi</target>
       </trans-unit>
       <trans-unit id="endtime_formlabel">
         <source>Expiration Date</source>
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="bodytext.ALT.bulletlist_formlabel">
         <source>Bullet List</source>
-        <target>Aufzaehlungsliste, Bestie</target>
+        <target>Aufzählungsliste, Bestie</target>
       </trans-unit>
       <trans-unit id="bodytext.ALT.html_formlabel">
         <source>HTML Code</source>
@@ -549,11 +549,11 @@
       </trans-unit>
       <trans-unit id="palette.headers" x-unused-since="14.0">
         <source>Headlines</source>
-        <target>Ueberschriften, Bre</target>
+        <target>Überschriften, Bre</target>
       </trans-unit>
       <trans-unit id="palette.header" x-unused-since="14.0">
         <source>Header</source>
-        <target>Ueberschrift, Homie</target>
+        <target>Überschrift, Homie</target>
       </trans-unit>
       <trans-unit id="palette.visibility" x-unused-since="14.0">
         <source>Visibility</source>
@@ -561,7 +561,7 @@
       </trans-unit>
       <trans-unit id="palette.access" x-unused-since="14.0">
         <source>Publish Dates and Access Rights</source>
-        <target>Veroeffentlichungsdaten und Zugriffsrechte, Digga</target>
+        <target>Veröffentlichungsdaten und Zugriffsrechte, Digga</target>
       </trans-unit>
       <trans-unit id="palette.frames" x-unused-since="14.0">
         <source>Content Element Layout</source>
@@ -637,11 +637,11 @@
       </trans-unit>
       <trans-unit id="CType.header">
         <source>Header Only</source>
-        <target>Nur Ueberschrift, Homie</target>
+        <target>Nur Überschrift, Homie</target>
       </trans-unit>
       <trans-unit id="CType.header.description">
         <source>Adds a header only.</source>
-        <target>Fuegt nur ne Ueberschrift hinzu, Bestie.</target>
+        <target>Fügt nur ne Überschrift hinzu, Bestie.</target>
       </trans-unit>
       <trans-unit id="CType.text">
         <source>Regular Text Element</source>
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="CType.text.description">
         <source>A regular text element with header and bodytext fields.</source>
-        <target>Normales Text-Element mit Ueberschrift und Textfeld, Digga.</target>
+        <target>Normales Text-Element mit Überschrift und Textfeld, Digga.</target>
       </trans-unit>
       <trans-unit id="CType.textpic">
         <source>Text &amp; Images</source>
@@ -677,11 +677,11 @@
       </trans-unit>
       <trans-unit id="CType.bullets">
         <source>Bullet List</source>
-        <target>Aufzaehlungsliste, Bestie</target>
+        <target>Aufzählungsliste, Bestie</target>
       </trans-unit>
       <trans-unit id="CType.bullets.description">
         <source>A single bullet list.</source>
-        <target>Eine einzelne Aufzaehlungsliste, Digga.</target>
+        <target>Eine einzelne Aufzählungsliste, Digga.</target>
       </trans-unit>
       <trans-unit id="CType.table">
         <source>Table</source>
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="CType.menu_categorized_content.description">
         <source>Content elements for selected categories</source>
-        <target>Content-Elemente fuer ausgewaehlte Kategorien, Digga</target>
+        <target>Content-Elemente für ausgewählte Kategorien, Digga</target>
       </trans-unit>
       <trans-unit id="CType.menu_categorized_pages">
         <source>Categorized pages</source>
@@ -721,7 +721,7 @@
       </trans-unit>
       <trans-unit id="CType.menu_categorized_pages.description">
         <source>Pages for selected categories</source>
-        <target>Seiten fuer ausgewaehlte Kategorien, Alter</target>
+        <target>Seiten für ausgewählte Kategorien, Alter</target>
       </trans-unit>
       <trans-unit id="CType.menu_pages">
         <source>Pages</source>
@@ -729,7 +729,7 @@
       </trans-unit>
       <trans-unit id="CType.menu_pages.description">
         <source>Menu of selected pages</source>
-        <target>Menue der ausgewaehlten Seiten, Bre</target>
+        <target>Menue der ausgewählten Seiten, Bre</target>
       </trans-unit>
       <trans-unit id="CType.menu_subpages">
         <source>Subpages</source>
@@ -741,11 +741,11 @@
       </trans-unit>
       <trans-unit id="CType.menu_recently_updated">
         <source>Recently updated pages</source>
-        <target>Kuerzlich aktualisierte Seiten, Digga</target>
+        <target>Kürzlich aktualisierte Seiten, Digga</target>
       </trans-unit>
       <trans-unit id="CType.menu_recently_updated.description">
         <source>Menu of recently updated pages</source>
-        <target>Menue der kuerzlich aktualisierten Seiten, Brudi</target>
+        <target>Menue der kürzlich aktualisierten Seiten, Brudi</target>
       </trans-unit>
       <trans-unit id="CType.menu_related_pages">
         <source>Related pages</source>
@@ -761,11 +761,11 @@
       </trans-unit>
       <trans-unit id="CType.menu_section.description">
         <source>Page content marked for section menus</source>
-        <target>Seiten-Content der fuer Bereichsmenues markiert ist, Homie</target>
+        <target>Seiten-Content der für Bereichsmenüs markiert ist, Homie</target>
       </trans-unit>
       <trans-unit id="CType.menu_section_pages">
         <source>Section index of subpages from selected pages</source>
-        <target>Bereichs-Index der Unterseiten von ausgewaehlten Seiten, Bestie</target>
+        <target>Bereichs-Index der Unterseiten von ausgewählten Seiten, Bestie</target>
       </trans-unit>
       <trans-unit id="CType.menu_section_pages.description">
         <source>Menu of subpages of selected pages including sections</source>
@@ -781,15 +781,15 @@
       </trans-unit>
       <trans-unit id="CType.menu_sitemap_pages">
         <source>Sitemaps of selected pages</source>
-        <target>Sitemaps der ausgewaehlten Seiten, Bro</target>
+        <target>Sitemaps der ausgewählten Seiten, Bro</target>
       </trans-unit>
       <trans-unit id="CType.menu_sitemap_pages.description">
         <source>Expanded menu of all subpages for selected pages</source>
-        <target>Aufgeklapptes Menue aller Unterseiten fuer ausgewaehlte Seiten, Bre</target>
+        <target>Aufgeklapptes Menue aller Unterseiten für ausgewählte Seiten, Bre</target>
       </trans-unit>
       <trans-unit id="CType.shortcut">
         <source>Insert records</source>
-        <target>Datensaetze einfuegen, Homie</target>
+        <target>Datensätze einfügen, Homie</target>
       </trans-unit>
       <trans-unit id="CType.shortcut.description">
         <source>With this element you can embed other content elements.</source>
@@ -801,7 +801,7 @@
       </trans-unit>
       <trans-unit id="CType.list.description">
         <source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
-        <target>Waehl diesen Elementtyp um ein Plugin einzufuegen das unten nicht aufgelistet ist, Brudi.</target>
+        <target>Wähl diesen Elementtyp um ein Plugin einzufügen das unten nicht aufgelistet ist, Brudi.</target>
       </trans-unit>
       <trans-unit id="CType.div">
         <source>Divider</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="CType.div.description">
         <source>This element inserts a visual divider, which is by default a horizontal line.</source>
-        <target>Fuegt einen visuellen Trenner ein, standardmaessig ne horizontale Linie, Brudi.</target>
+        <target>Fügt einen visuellen Trenner ein, standardmäßig ne horizontale Linie, Brudi.</target>
       </trans-unit>
       <trans-unit id="CType.html">
         <source>Plain HTML</source>
@@ -825,7 +825,7 @@
       </trans-unit>
       <trans-unit id="asset_references.addFileReference">
         <source>Add media file</source>
-        <target>Medien-Datei hinzufuegen, Bre</target>
+        <target>Medien-Datei hinzufügen, Bre</target>
       </trans-unit>
       <trans-unit id="palette.gallerySettings" x-unused-since="14.0">
         <source>Gallery Settings</source>
@@ -841,7 +841,7 @@
       </trans-unit>
       <trans-unit id="palette.mediaAdjustments.imageheight" x-unused-since="14.0">
         <source>Height of each element (px)</source>
-        <target>Hoehe jedes Elements (px), Bestie</target>
+        <target>Höhe jedes Elements (px), Bestie</target>
       </trans-unit>
       <trans-unit id="palette.mediaAdjustments.imageborder" x-unused-since="14.0">
         <source>Border around each element</source>
@@ -865,7 +865,7 @@
       </trans-unit>
       <trans-unit id="uploads_type.2">
         <source>File name and thumbnail (if possible)</source>
-        <target>Dateiname und Thumbnail (wenn moeglich), Homie</target>
+        <target>Dateiname und Thumbnail (wenn möglich), Homie</target>
       </trans-unit>
       <trans-unit id="table_class">
         <source>Table style</source>
@@ -921,11 +921,11 @@
       </trans-unit>
       <trans-unit id="table_enclosure.39">
         <source>' (Single quotes)</source>
-        <target>' (Einfache Anfuehrungszeichen), Homie</target>
+        <target>' (Einfache Anführungszeichen), Homie</target>
       </trans-unit>
       <trans-unit id="table_enclosure.34">
         <source>" (Double quotes)</source>
-        <target>" (Doppelte Anfuehrungszeichen), Bestie</target>
+        <target>" (Doppelte Anführungszeichen), Bestie</target>
       </trans-unit>
       <trans-unit id="table_header_position">
         <source>Table header position</source>

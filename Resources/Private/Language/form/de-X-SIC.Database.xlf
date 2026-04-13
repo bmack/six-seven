@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.formframework.overrideFinishers">
         <source>Override finisher settings</source>
-        <target>Finisher-Settings ueberschreiben, sheesh</target>
+        <target>Finisher-Settings überschreiben, sheesh</target>
       </trans-unit>
       <trans-unit id="tt_content.pi_flexform.formframework.overrideFinishers.empty">
         <source>There are no finishers or finisher options in the current form definition.</source>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="tt_content.preview.noPersistenceIdentifier">
         <source>No form selected.</source>
-        <target>Kein Formular ausgewaehlt, Alter. Mach mal!</target>
+        <target>Kein Formular ausgewählt, Alter. Mach mal!</target>
       </trans-unit>
       <trans-unit id="tt_content.preview.invalidPersistenceIdentifier">
         <source>Invalid form "%s".</source>
@@ -65,7 +65,7 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.Confirmation.label">
         <source>Confirmation</source>
-        <target>Bestaetigungsvibe, Bro</target>
+        <target>Bestätigungsvibe, Bro</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.Confirmation.message.label">
         <source>Text</source>
@@ -85,11 +85,11 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToSender.recipients.label">
         <source>Recipients</source>
-        <target>Empfaenger-Gang, Digga</target>
+        <target>Empfänger-Gang, Digga</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToSender.recipients.item.label">
         <source>Recipient</source>
-        <target>Empfaenger-Bro</target>
+        <target>Empfänger-Bro</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToSender.recipients.email.label">
         <source>Email Address</source>
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToSender.language.label">
         <source>Translation language</source>
-        <target>Uebersetzungs-Sprache, Homie</target>
+        <target>Übersetzungs-Sprache, Homie</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToSender.language.0">
         <source>Auto</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.label">
         <source>Email to receiver (you)</source>
-        <target>Mail an dich, Brudi (den Empfaenger)</target>
+        <target>Mail an dich, Brudi (den Empfänger)</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.subject.label">
         <source>Subject of the email</source>
@@ -165,7 +165,7 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.recipients.label">
         <source>Email addresses and human-readable names of the recipients</source>
-        <target>Mail-Addys und Namen der Empfaenger-Crew, Brudi</target>
+        <target>Mail-Addys und Namen der Empfänger-Crew, Brudi</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.senderAddress.label">
         <source>Email address of the sender</source>
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.language.label">
         <source>Translation language</source>
-        <target>Uebersetzungs-Sprache, Bre</target>
+        <target>Übersetzungs-Sprache, Bre</target>
       </trans-unit>
       <trans-unit id="tt_content.finishersDefinition.EmailToReceiver.language.0">
         <source>Auto</source>
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="formManager.integrity">
         <source>Integrity</source>
-        <target>Integritaets-Check, Homie</target>
+        <target>Integritäts-Check, Homie</target>
       </trans-unit>
       <trans-unit id="formManager.location">
         <source>Location</source>
@@ -333,11 +333,11 @@
       </trans-unit>
       <trans-unit id="formEditor.loading">
         <source>Loading...</source>
-        <target>Chill mal, laedt.., Bro.</target>
+        <target>Chill mal, lädt.., Bro.</target>
       </trans-unit>
       <trans-unit id="formEditor.spinner">
         <source>Loading...</source>
-        <target>Chill mal, laedt.., Bre.</target>
+        <target>Chill mal, lädt.., Bre.</target>
       </trans-unit>
       <trans-unit id="formEditor.save_button">
         <source>Save</source>
@@ -349,7 +349,7 @@
       </trans-unit>
       <trans-unit id="formEditor.undo_button">
         <source>Undo</source>
-        <target>Zurueck, Digga</target>
+        <target>Zurück, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.redo_button">
         <source>Redo</source>
@@ -381,7 +381,7 @@
       </trans-unit>
       <trans-unit id="formEditor.next_step_button">
         <source>Next step</source>
-        <target>Naechster Step, Alter</target>
+        <target>Nächster Step, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.step.name.empty">
         <source>Step name is not set</source>
@@ -421,7 +421,7 @@
       </trans-unit>
       <trans-unit id="formEditor.formElementPropertyValidatorsDefinition.FileSize.label">
         <source>Invalid file size format, valid e.g. "10B|K|M|G"</source>
-        <target>Dateigroesse-Format ist cringe, gueltig z.B. "10B|K|M|G"</target>
+        <target>Dateigröße-Format ist cringe, gültig z.B. "10B|K|M|G"</target>
       </trans-unit>
       <trans-unit id="formEditor.formElementPropertyValidatorsDefinition.RFC3339FullDate.label">
         <source>Invalid date format. Use Y-m-d (e.g. 2018-03-17) or a relative expression (e.g. today, -18 years)</source>
@@ -521,7 +521,7 @@
       </trans-unit>
       <trans-unit id="formEditor.modals.close.dialogMessage">
         <source>You currently have unsaved changes. Closing the form will discard them. Continue?</source>
-        <target>Du hast noch ungesavete Aenderungen, Digga. Wenn du jetzt zumachst, sind die weg. Fr fr, weitermachen?</target>
+        <target>Du hast noch ungesavete Änderungen, Digga. Wenn du jetzt zumachst, sind die weg. Fr fr, weitermachen?</target>
       </trans-unit>
       <trans-unit id="formEditor.modals.close.dialogTitle">
         <source>Quit without saving?</source>
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="formEditor.modals.close.confirmButton">
         <source>Discard changes</source>
-        <target>Aenderungen yeeten</target>
+        <target>Änderungen yeeten</target>
       </trans-unit>
       <trans-unit id="formEditor.modals.close.cancelButton">
         <source>Keep editing</source>
@@ -577,7 +577,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.editor.validators.EmptyValue.label">
         <source>Add validator</source>
-        <target>Validator hinzufuegen, Bro</target>
+        <target>Validator hinzufügen, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.editor.validators.Alphanumeric.label">
         <source>Alphanumeric</source>
@@ -589,7 +589,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.editor.validators.StringLength.label">
         <source>String length</source>
-        <target>Text-Laenge, Bestie</target>
+        <target>Text-Länge, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.editor.validators.EmailAddress.label">
         <source>Email</source>
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.editor.validators.RegularExpression.label">
         <source>Regular expression</source>
-        <target>Regulaerer Ausdruck, Homie</target>
+        <target>Regulärer Ausdruck, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiSelectionMixin.editor.validators.Count.label">
         <source>Number of submitted values</source>
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.StringLength.editor.header.label">
         <source>String length</source>
-        <target>Text-Laenge, Homie</target>
+        <target>Text-Länge, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.StringLength.editor.validationErrorMessage.label">
         <source>Custom error message</source>
@@ -737,19 +737,19 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.RegularExpression.editor.header.label">
         <source>Regular expression</source>
-        <target>Regulaerer Ausdruck, Homie</target>
+        <target>Regulärer Ausdruck, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.RegularExpression.editor.regex.label">
         <source>Regular expression</source>
-        <target>Regulaerer Ausdruck, Bestie</target>
+        <target>Regulärer Ausdruck, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.RegularExpression.editor.regex.description">
         <source>Enter a valid PHP PCRE regular expression here.</source>
-        <target>Pack hier nen gueltigen PHP PCRE regulaeren Ausdruck rein, Digga.</target>
+        <target>Pack hier nen gültigen PHP PCRE regulären Ausdruck rein, Digga.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.RegularExpression.editor.regex.fieldExplanationText" x-unused-since="14.2">
         <source>Enter a valid PHP PCRE regular expression here.</source>
-        <target>Pack hier nen gueltigen PHP PCRE regulaeren Ausdruck rein, Digga.</target>
+        <target>Pack hier nen gültigen PHP PCRE regulären Ausdruck rein, Digga.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.TextMixin.validators.RegularExpression.editor.validationErrorMessage.label">
         <source>Custom error message</source>
@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.SelectionMixin.editor.options.label">
         <source>Choices</source>
-        <target>Auswahlmoeglichkeiten, Bro</target>
+        <target>Auswahlmöglichkeiten, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiSelectionMixin.editor.validators.label">
         <source>Validators</source>
@@ -801,7 +801,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiSelectionMixin.editor.validators.EmptyValue.label">
         <source>Add validator</source>
-        <target>Validator hinzufuegen, Homie</target>
+        <target>Validator hinzufügen, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.editor.saveToFileMount.label">
         <source>Uploads save path</source>
@@ -813,11 +813,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.editor.validators.EmptyValue.label">
         <source>Add validator</source>
-        <target>Validator hinzufuegen, Brudi</target>
+        <target>Validator hinzufügen, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.editor.validators.FileSize.label">
         <source>File size</source>
-        <target>Dateigroesse, Alter</target>
+        <target>Dateigröße, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.editor.validators.Count.label">
         <source>Number of files</source>
@@ -825,7 +825,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.validators.FileSize.editor.header.label">
         <source>File size</source>
-        <target>Dateigroesse, Bre</target>
+        <target>Dateigröße, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FileUploadMixin.validators.Count.editor.header.label">
         <source>Number of uploaded files</source>
@@ -865,7 +865,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.editor.finishers.Confirmation.label">
         <source>Confirmation message</source>
-        <target>Bestaetigungs-Message, Bro</target>
+        <target>Bestätigungs-Message, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.header.label">
         <source>Email to sender (form submitter)</source>
@@ -881,11 +881,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.message.description">
         <source>Optional custom message. Use {formValues} as a placeholder to include the submitted form data at that position. If empty, only the form data table will be shown.</source>
-        <target>Optionale Custom-Message. Nimm {formValues} als Platzhalter fuer die Formulardaten. Wenn leer, wird nur die Datentabelle angezeigt, Digga.</target>
+        <target>Optionale Custom-Message. Nimm {formValues} als Platzhalter für die Formulardaten. Wenn leer, wird nur die Datentabelle angezeigt, Digga.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.recipients.label">
         <source>Recipients</source>
-        <target>Empfaenger, Digga</target>
+        <target>Empfänger, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.recipients.description">
         <source>The email addresses and names of the website visitors to which the email should be sent.</source>
@@ -953,11 +953,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.attachUploads.label">
         <source>Attach uploads</source>
-        <target>Uploads anhaengen, Digga</target>
+        <target>Uploads anhängen, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.language.label">
         <source>Translation language</source>
-        <target>Uebersetzungs-Sprache, Brudi</target>
+        <target>Übersetzungs-Sprache, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.language.0">
         <source>Auto</source>
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.title.description">
         <source>The title, being shown in the Email. The title is rendered in the header section right above the email body. Do not confuse this field with the subject of your email.</source>
-        <target>Der Titel der in der Mail angezeigt wird. Steht im Header-Bereich ueber dem Body. Nicht mit dem Betreff verwechseln, Digga!</target>
+        <target>Der Titel der in der Mail angezeigt wird. Steht im Header-Bereich über dem Body. Nicht mit dem Betreff verwechseln, Digga!</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToSender.editor.title.fieldExplanationText" x-unused-since="14.2">
         <source>The title, being shown in the Email. The title is rendered in the header section right above the email body. Do not confuse this field with the subject of your email.</source>
@@ -981,7 +981,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.header.label">
         <source>Email to receiver (you)</source>
-        <target>Mail an dich, Brudi (Empfaenger)</target>
+        <target>Mail an dich, Brudi (Empfänger)</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.subject.label">
         <source>Subject</source>
@@ -993,19 +993,19 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.message.description">
         <source>Optional custom message. Use {formValues} once as a placeholder to include the submitted form data at that position (only the first occurrence is replaced). If empty, only the form data table will be shown.</source>
-        <target>Optionale Custom-Message. Benutze {formValues} einmal als Platzhalter fuer die Formulardaten (nur das erste Vorkommen wird ersetzt). Wenn leer, kommt nur die Datentabelle, Bestie.</target>
+        <target>Optionale Custom-Message. Benutze {formValues} einmal als Platzhalter für die Formulardaten (nur das erste Vorkommen wird ersetzt). Wenn leer, kommt nur die Datentabelle, Bestie.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.recipients.label">
         <source>Recipients</source>
-        <target>Empfaenger, Digga</target>
+        <target>Empfänger, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.recipients.description">
         <source>The email addresses and names of the recipients to which the email should be sent (e.g. your company's email addresses).</source>
-        <target>Mail-Addys und Namen der Empfaenger-Crew an die die Mail gehen soll (z.B. eure Firmen-Mails), Brudi.</target>
+        <target>Mail-Addys und Namen der Empfänger-Crew an die die Mail gehen soll (z.B. eure Firmen-Mails), Brudi.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.recipients.fieldExplanationText" x-unused-since="14.2">
         <source>The email addresses and names of the recipients to which the email should be sent (e.g. your company's email addresses).</source>
-        <target>Mail-Addys und Namen der Empfaenger an die die Mail gehen soll, Alter.</target>
+        <target>Mail-Addys und Namen der Empfänger an die die Mail gehen soll, Alter.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderAddress.label">
         <source>Sender address</source>
@@ -1013,11 +1013,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderAddress.description">
         <source>The email address of the sender which appears in your email client. Use the "insert formelement identifier" dropdown if you need to select a form element which contains the website visitor's email address instead.</source>
-        <target>Die Mail-Addy vom Absender die in deinem Mail-Client auftaucht. Nutz das "Formularelement-Identifier einfuegen" Dropdown wenn du ein Formularelement mit der Besucher-Mail auswaehlen willst, Bre.</target>
+        <target>Die Mail-Addy vom Absender die in deinem Mail-Client auftaucht. Nutz das "Formularelement-Identifier einfügen" Dropdown wenn du ein Formularelement mit der Besucher-Mail auswählen willst, Bre.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderAddress.fieldExplanationText" x-unused-since="14.2">
         <source>The email address of the sender which appears in your email client. Use the "insert formelement identifier" dropdown if you need to select a form element which contains the website visitor's email address instead.</source>
-        <target>Absender-Addy. Nutz das Dropdown fuer Formularelemente mit der Besucher-Mail, Homie.</target>
+        <target>Absender-Addy. Nutz das Dropdown für Formularelemente mit der Besucher-Mail, Homie.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderName.label">
         <source>Sender name</source>
@@ -1025,11 +1025,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderName.description">
         <source>The name of the sender which appears in your email client. Use the "insert formelement identifier" dropdown if you need to choose one or more form elements which contain the website visitor's name</source>
-        <target>Der Name vom Absender in deinem Mail-Client. Nutz das "Formularelement-Identifier einfuegen" Dropdown fuer Felder mit dem Besuchernamen, Digga.</target>
+        <target>Der Name vom Absender in deinem Mail-Client. Nutz das "Formularelement-Identifier einfügen" Dropdown für Felder mit dem Besuchernamen, Digga.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.senderName.fieldExplanationText" x-unused-since="14.2">
         <source>The name of the sender which appears in your email client. Use the "insert formelement identifier" dropdown if you need to choose one or more form elements which contain the website visitor's name</source>
-        <target>Absender-Name im Mail-Client. Nutz das Dropdown fuer Besucher-Namenfelder, Brudi.</target>
+        <target>Absender-Name im Mail-Client. Nutz das Dropdown für Besucher-Namenfelder, Brudi.</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.replyToRecipients.label">
         <source>Reply-To Recipients</source>
@@ -1057,11 +1057,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.attachUploads.label">
         <source>Attach uploads</source>
-        <target>Uploads anhaengen, Bre</target>
+        <target>Uploads anhängen, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.language.label">
         <source>Translation language</source>
-        <target>Uebersetzungs-Sprache, Homie</target>
+        <target>Übersetzungs-Sprache, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.language.0">
         <source>Auto</source>
@@ -1077,7 +1077,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.title.description">
         <source>The title, being shown in the Email. The title is rendered in the header section right above the email body. Do not confuse this field with the subject of your email.</source>
-        <target>Der Titel in der Mail. Steht im Header ueber dem Body. Nicht mit dem Betreff verwechseln, Alter!</target>
+        <target>Der Titel in der Mail. Steht im Header über dem Body. Nicht mit dem Betreff verwechseln, Alter!</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.EmailToReceiver.editor.title.fieldExplanationText" x-unused-since="14.2">
         <source>The title, being shown in the Email. The title is rendered in the header section right above the email body. Do not confuse this field with the subject of your email.</source>
@@ -1121,7 +1121,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.Confirmation.editor.header.label">
         <source>Confirmation message</source>
-        <target>Bestaetigungs-Message, Brudi</target>
+        <target>Bestätigungs-Message, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.Confirmation.editor.contentElement.label">
         <source>Content element uid</source>
@@ -1145,7 +1145,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.Closure.editor.header.label">
         <source>Execute a closure</source>
-        <target>Closure ausfuehren, Homie</target>
+        <target>Closure ausführen, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Form.finisher.FlashMessage.editor.header.label">
         <source>Flash message</source>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country-name">
         <source>country-name</source>
-        <target>country-name - Laendername, Bestie</target>
+        <target>country-name - Ländername, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.postal-code">
         <source>postal-code - ZIP</source>
@@ -1253,11 +1253,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.impp">
         <source>impp - URL representing an instant messaging protocol endpoint</source>
-        <target>impp - URL fuer nen Instant-Messaging-Protokoll-Endpunkt, Alter</target>
+        <target>impp - URL für nen Instant-Messaging-Protokoll-Endpunkt, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.sex">
         <source>sex - Gender identity</source>
-        <target>sex - Geschlechtsidentitaet, Bro</target>
+        <target>sex - Geschlechtsidentität, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.language">
         <source>language - Preferred language</source>
@@ -1269,11 +1269,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-country-code">
         <source>tel-country-code - Country code component of the telephone number</source>
-        <target>tel-country-code - Laendervorwahl, Bestie</target>
+        <target>tel-country-code - Ländervorwahl, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-national">
         <source>tel-national - Telephone number without the county code</source>
-        <target>tel-national - Telefonnummer ohne Laendervorwahl, Digga</target>
+        <target>tel-national - Telefonnummer ohne Ländervorwahl, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-area-code">
         <source>tel-area-code - Area code component of the telephone number</source>
@@ -1293,11 +1293,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.new-password">
         <source>new-password - A new password to create / change</source>
-        <target>new-password - Neues Passwort erstellen / aendern, Homie</target>
+        <target>new-password - Neues Passwort erstellen / ändern, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.current-password">
         <source>current-password - Current password for the selected username</source>
-        <target>current-password - Aktuelles Passwort fuer den gewaehlten Username, Bestie</target>
+        <target>current-password - Aktuelles Passwort für den gewählten Username, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-day">
         <source>bday-day - Day component of birthday</source>
@@ -1325,7 +1325,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country">
         <source>country - Country code</source>
-        <target>country - Laendercode, Homie</target>
+        <target>country - Ländercode, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.requiredValidator.label">
         <source>Field required</source>
@@ -1377,15 +1377,15 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.gridColumnViewPortConfiguration.numbersOfColumnsToUse.label">
         <source>Numbers of columns for viewport "{@viewPortLabel}"</source>
-        <target>Anzahl Spalten fuer Viewport "{@viewPortLabel}", Alter</target>
+        <target>Anzahl Spalten für Viewport "{@viewPortLabel}", Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.gridColumnViewPortConfiguration.numbersOfColumnsToUse.description">
         <source>Leave empty for auto calculation</source>
-        <target>Leer lassen fuer Auto-Berechnung, Bro</target>
+        <target>Leer lassen für Auto-Berechnung, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.FormElement.editor.gridColumnViewPortConfiguration.numbersOfColumnsToUse.fieldExplanationText" x-unused-since="14.2">
         <source>Leave empty for auto calculation</source>
-        <target>Leer lassen fuer Auto-Berechnung, Bre</target>
+        <target>Leer lassen für Auto-Berechnung, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Page.label">
         <source>Step</source>
@@ -1401,7 +1401,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Page.editor.previousButtonLabel.label">
         <source>Previous button label</source>
-        <target>Zurueck-Button-Label, Brudi</target>
+        <target>Zurück-Button-Label, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Page.editor.previousButtonLabel.value">
         <source>Previous step</source>
@@ -1413,7 +1413,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Page.editor.nextButtonLabel.value">
         <source>Next step</source>
-        <target>Naechster Step, Bre</target>
+        <target>Nächster Step, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.SummaryPage.label">
         <source>Summary step</source>
@@ -1429,7 +1429,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.SummaryPage.editor.previousButtonLabel.label">
         <source>Previous button label</source>
-        <target>Zurueck-Button-Label, Digga</target>
+        <target>Zurück-Button-Label, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.SummaryPage.editor.previousButtonLabel.value">
         <source>Previous step</source>
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.SummaryPage.editor.nextButtonLabel.value">
         <source>Next step</source>
-        <target>Naechster Step, Bro</target>
+        <target>Nächster Step, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Fieldset.label">
         <source>Fieldset</source>
@@ -1449,7 +1449,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Fieldset.description">
         <source>A container used to group related form elements, improving accessibility and providing content-based structure</source>
-        <target>Ein Container um zusammengehoerige Formular-Elemente zu gruppieren, macht Barrierefreiheit besser und gibt Struktur, Homie</target>
+        <target>Ein Container um zusammengehörige Formular-Elemente zu gruppieren, macht Barrierefreiheit besser und gibt Struktur, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Fieldset.editor.label.label">
         <source>Fieldset name</source>
@@ -1493,7 +1493,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Email.description">
         <source>A text field for inputting an email address</source>
-        <target>Textfeld fuer ne Mail-Adresse, Brudi</target>
+        <target>Textfeld für ne Mail-Adresse, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Telephone.label">
         <source>Telephone number</source>
@@ -1501,7 +1501,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Telephone.description">
         <source>A text field for inputting a phone number</source>
-        <target>Textfeld fuer ne Handynummer, Bro</target>
+        <target>Textfeld für ne Handynummer, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Url.label">
         <source>URL</source>
@@ -1509,7 +1509,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Url.description">
         <source>A text field for inputting a URL</source>
-        <target>Textfeld fuer ne URL, Homie</target>
+        <target>Textfeld für ne URL, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Number.label">
         <source>Number</source>
@@ -1517,7 +1517,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Number.description">
         <source>A text field for inputting numbers, with browser controls to adjust the value in predefined steps</source>
-        <target>Textfeld fuer Zahlen, mit Browser-Controls zum Anpassen in vordefinierten Steps</target>
+        <target>Textfeld für Zahlen, mit Browser-Controls zum Anpassen in vordefinierten Steps</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Number.editor.validators.Number.label">
         <source>Number</source>
@@ -1557,11 +1557,11 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.validators.DateRange.editor.minimum">
         <source>Minimum date</source>
-        <target>Fruehestes Datum, Brudi</target>
+        <target>Frühestes Datum, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.validators.DateRange.editor.maximum">
         <source>Maximum date</source>
-        <target>Spaetestes Datum, Alter</target>
+        <target>Spätestes Datum, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.validators.DateRange.editor.minimum.placeholder">
         <source>A date in format Y-m-d (e.g 2018-03-17)</source>
@@ -1577,7 +1577,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Password.description">
         <source>A text field for entering a password</source>
-        <target>Textfeld fuer ein Passwort, no cap sicher</target>
+        <target>Textfeld für ein Passwort, no cap sicher</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.AdvancedPassword.label">
         <source>Advanced password</source>
@@ -1585,15 +1585,15 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.AdvancedPassword.description">
         <source>A text field for entering and confirming a password</source>
-        <target>Textfeld zum Eingeben und Bestaetigen eines Passworts, Bestie</target>
+        <target>Textfeld zum Eingeben und Bestätigen eines Passworts, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.AdvancedPassword.editor.confirmationLabel.label">
         <source>Confirmation label</source>
-        <target>Bestaetigungs-Label, Digga</target>
+        <target>Bestätigungs-Label, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.element.AdvancedPassword.editor.confirmationLabel.predefinedDefaults">
         <source>Confirmation</source>
-        <target>Bestaetigung, Brudi</target>
+        <target>Bestätigung, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Textarea.label">
         <source>Textarea</source>
@@ -1601,7 +1601,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Textarea.description">
         <source>A multi-line text field for entering extended or continuous text</source>
-        <target>Mehrzeiliges Textfeld fuer laengeren Text, Bro</target>
+        <target>Mehrzeiliges Textfeld für längeren Text, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.Checkbox.label">
         <source>Checkbox</source>
@@ -1609,15 +1609,15 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.Checkbox.description">
         <source>An element for creating a single checkbox</source>
-        <target>Element fuer eine einzelne Checkbox, Homie</target>
+        <target>Element für eine einzelne Checkbox, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect.label">
         <source>Country select</source>
-        <target>Laenderauswahl, Bestie</target>
+        <target>Länderauswahl, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect.description">
         <source>An element to select a country</source>
-        <target>Element zum Auswaehlen eines Landes, Digga</target>
+        <target>Element zum Auswählen eines Landes, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiCheckbox.label">
         <source>Multi checkbox</source>
@@ -1625,7 +1625,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiCheckbox.description">
         <source>An element for creating multiple checkboxes</source>
-        <target>Element fuer mehrere Checkboxen, Alter</target>
+        <target>Element für mehrere Checkboxen, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiSelect.label">
         <source>Multi select</source>
@@ -1633,7 +1633,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.MultiSelect.description">
         <source>An element for creating a field that allows multiple selections</source>
-        <target>Element fuer ein Feld mit Mehrfachauswahl, Bre</target>
+        <target>Element für ein Feld mit Mehrfachauswahl, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.RadioButton.label">
         <source>Radio button</source>
@@ -1641,7 +1641,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.RadioButton.description">
         <source>An element for displaying one or more radio buttons</source>
-        <target>Element fuer einen oder mehrere Radio-Buttons, Bestie</target>
+        <target>Element für einen oder mehrere Radio-Buttons, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.SingleSelect.label">
         <source>Single select</source>
@@ -1649,7 +1649,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.SingleSelect.description">
         <source>An element for creating a dropdown list for selecting a single option</source>
-        <target>Element fuer ein Dropdown mit Einzelauswahl, Brudi</target>
+        <target>Element für ein Dropdown mit Einzelauswahl, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.label">
         <source>Date picker (jQuery)</source>
@@ -1657,7 +1657,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.description">
         <source>A text field for selecting a date via a calendar interface</source>
-        <target>Textfeld zum Datum auswaehlen ueber nen Kalender, Bro</target>
+        <target>Textfeld zum Datum auswählen über nen Kalender, Bro</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.editor.dateFormat.label">
         <source>Date format</source>
@@ -1677,7 +1677,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.editor.validators.EmptyValue.label">
         <source>Add validator</source>
-        <target>Validator hinzufuegen, Brudi</target>
+        <target>Validator hinzufügen, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.DatePicker.editor.validators.DateTime.label">
         <source>Date/time</source>
@@ -1709,7 +1709,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.StaticText.editor.label.label">
         <source>Header</source>
-        <target>Ueberschrift, Alter</target>
+        <target>Überschrift, Alter</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.StaticText.editor.staticText.label">
         <source>Text</source>
@@ -1737,7 +1737,7 @@
       </trans-unit>
       <trans-unit id="formEditor.elements.ContentElement.selectContentElement">
         <source>No content element selected</source>
-        <target>Kein Content-Element ausgewaehlt, Brudi</target>
+        <target>Kein Content-Element ausgewählt, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.ContentElement.editor.contentElement.label">
         <source>Content element uid</source>
@@ -1831,19 +1831,19 @@ Brauchst du mehr, frag deinen Admin.
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect">
         <source>Country Select</source>
-        <target>Laenderauswahl, Homie</target>
+        <target>Länderauswahl, Homie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect.editor.prioritizedCountries.label">
         <source>Prioritized countries</source>
-        <target>Priorisierte Laender, Bestie</target>
+        <target>Priorisierte Länder, Bestie</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect.editor.onlyCountries.label">
         <source>Only countries</source>
-        <target>Nur diese Laender, Digga</target>
+        <target>Nur diese Länder, Digga</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.CountrySelect.editor.excludeCountries.label">
         <source>Exclude countries</source>
-        <target>Laender ausschliessen, Brudi</target>
+        <target>Länder ausschliessen, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.elements.UnknownElement">
         <source>Unknown element</source>
@@ -1867,7 +1867,7 @@ Brauchst du mehr, frag deinen Admin.
       </trans-unit>
       <trans-unit id="formEditor.inspector.editor.formelement_selector.title">
         <source>Insert formelement identifier</source>
-        <target>Formularelement-Identifier einfuegen, Bre</target>
+        <target>Formularelement-Identifier einfügen, Bre</target>
       </trans-unit>
       <trans-unit id="formEditor.inspector.editor.formelement.remove">
         <source>Remove this Element</source>
@@ -1895,7 +1895,7 @@ Brauchst du mehr, frag deinen Admin.
       </trans-unit>
       <trans-unit id="formEditor.inspector.editor.entry.selected">
         <source>Selected</source>
-        <target>Ausgewaehlt, Brudi</target>
+        <target>Ausgewählt, Brudi</target>
       </trans-unit>
       <trans-unit id="formEditor.modals.insertElements.filter.noResults">
         <source>Unfortunately no element type matches your query, please try a different one.</source>
@@ -1919,7 +1919,7 @@ Brauchst du mehr, frag deinen Admin.
       </trans-unit>
       <trans-unit id="formManager.storage.database.description">
         <source>Store the form as a record in the database. Recommended for most use cases, because it treats forms as user-generated content and allows integrated versioning.</source>
-        <target>Formular als Datensatz in der Datenbank speichern. Empfohlen fuer die meisten Faelle, weil es Formulare als User-Content behandelt und Versionierung drin hat, sheesh.</target>
+        <target>Formular als Datensatz in der Datenbank speichern. Empfohlen für die meisten Fälle, weil es Formulare als User-Content behandelt und Versionierung drin hat, sheesh.</target>
       </trans-unit>
       <trans-unit id="formManager.storage.fileMount.label">
         <source>File (deprecated)</source>
@@ -1927,7 +1927,7 @@ Brauchst du mehr, frag deinen Admin.
       </trans-unit>
       <trans-unit id="formManager.storage.fileMount.description">
         <source>Store the form as a YAML file. This option will be removed in a future TYPO3 version. Use "Database" instead. Files can still be provided within extensions.</source>
-        <target>Formular als YAML-Datei speichern. Wird in ner zukuenftigen TYPO3-Version geyeetet. Nimm lieber "Datenbank". Files koennen aber noch ueber Extensions kommen.</target>
+        <target>Formular als YAML-Datei speichern. Wird in ner zukünftigen TYPO3-Version geyeetet. Nimm lieber "Datenbank". Files können aber noch über Extensions kommen.</target>
       </trans-unit>
       <trans-unit id="formManager.storage.extension.label">
         <source>Extension</source>

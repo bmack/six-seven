@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="wizard.loading">
         <source>Loading...</source>
-        <target>Laedt... chill mal</target>
+        <target>Lädt... chill mal</target>
       </trans-unit>
       <trans-unit id="wizard.buttons.cancel">
         <source>Cancel</source>
@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="wizard.buttons.previous">
         <source>Previous</source>
-        <target>Zurueck, Homie</target>
+        <target>Zurück, Homie</target>
       </trans-unit>
       <trans-unit id="wizard.buttons.finish">
         <source>Finish</source>
@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit id="wizard.loading_configuration">
         <source>Loading wizard configuration...</source>
-        <target>Wizard-Konfiguration laedt... chill mal</target>
+        <target>Wizard-Konfiguration lädt... chill mal</target>
       </trans-unit>
       <trans-unit id="wizard.loading_steps">
         <source>Loading step modules...</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="wizard.loading_finisher">
         <source>Loading finisher...</source>
-        <target>Finisher laedt...</target>
+        <target>Finisher lädt...</target>
       </trans-unit>
       <trans-unit id="wizard.status.pending.message">
         <source>Processing data...</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="step.confirmation.title">
         <source>Confirmation</source>
-        <target>Bestaetigung, fr fr</target>
+        <target>Bestätigung, fr fr</target>
       </trans-unit>
       <trans-unit id="step.confirmation.headline">
         <source>Confirm</source>

@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="overview.title">
         <source>Multi-factor Authentication Overview</source>
-        <target>MFA Ueberblick (Gatekeeping-Zentrale)</target>
+        <target>MFA Überblick (Gatekeeping-Zentrale)</target>
       </trans-unit>
       <trans-unit id="overview.badge.active">
         <source>Active</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="overview.editLinkLabel">
         <source>Edit / Change</source>
-        <target>Flexen / Aendern</target>
+        <target>Flexen / Ändern</target>
       </trans-unit>
       <trans-unit id="overview.deactivateLinkTitle">
         <source>Deactivate %s</source>
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="overview.noProviders.message">
         <source>There are currently no multi-factor authentication providers available.</source>
-        <target>Gerade sind keine MFA-Provider verfuegbar. Sad.</target>
+        <target>Gerade sind keine MFA-Provider verfügbar. Sad.</target>
       </trans-unit>
       <trans-unit id="noprovider_error_message">
         <source>
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="providerNotFound">
         <source>Selected MFA provider was not found</source>
-        <target>Ausgewaehlter MFA-Provider wurde nicht gefunden, sus</target>
+        <target>Ausgewählter MFA-Provider wurde nicht gefunden, sus</target>
       </trans-unit>
       <trans-unit id="providerNotActive">
         <source>This action requires an active MFA provider.</source>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="edit.defaultProvider.description">
         <source>Select this as your default provider for login into the TYPO3 backend.</source>
-        <target>Setz das als deinen Main-Provider fuer den TYPO3-Backend-Login, Bro.</target>
+        <target>Setz das als deinen Main-Provider für den TYPO3-Backend-Login, Bro.</target>
       </trans-unit>
       <trans-unit id="edit.defaultProvider.inputLabel">
         <source>Use as default provider</source>
@@ -189,11 +189,11 @@
       </trans-unit>
       <trans-unit id="auth.cancel">
         <source>Go back</source>
-        <target>Zurueck, Brudi</target>
+        <target>Zurück, Brudi</target>
       </trans-unit>
       <trans-unit id="auth.locked">
         <source>This provider is locked. Unlocking may require administrative intervention. Recovery codes can be used to circumvent the lock.</source>
-        <target>Dieser Provider wird gegatekeeper. Entsperren braucht vielleicht Sigma-Admin-Hilfe. Recovery-Codes koennen die Sperre umgehen, no cap.</target>
+        <target>Dieser Provider wird gegatekeeper. Entsperren braucht vielleicht Sigma-Admin-Hilfe. Recovery-Codes können die Sperre umgehen, no cap.</target>
       </trans-unit>
       <trans-unit id="auth.alternativeProviders">
         <source>Alternative providers</source>
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="standalone.selection.goBack">
         <source>Go back</source>
-        <target>Zurueck, Homie</target>
+        <target>Zurück, Homie</target>
       </trans-unit>
       <trans-unit id="standalone.setup">
         <source>Setup</source>
@@ -265,7 +265,7 @@
       </trans-unit>
       <trans-unit id="ajax.insufficientPermissions">
         <source>Your are not allowed to perform this action</source>
-        <target>Zugang wird gegatekeeper, Digga. Keine Rechte fuer diese Sigma-Aktion.</target>
+        <target>Zugang wird gegatekeeper, Digga. Keine Rechte für diese Sigma-Aktion.</target>
       </trans-unit>
       <trans-unit id="ajax.deactivate.providersNotDeactivated">
         <source>No provider has been deactivated</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="ajax.deactivate.providersDeactivated">
         <source>Successfully deactivated all active providers for user %s</source>
-        <target>Alle aktiven Provider fuer User %s erfolgreich deaktiviert. Slay!</target>
+        <target>Alle aktiven Provider für User %s erfolgreich deaktiviert. Slay!</target>
       </trans-unit>
       <trans-unit id="ajax.deactivate.providerNotFound">
         <source>Provider %s could not be found</source>
@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="ajax.deactivate.providerDeactivated">
         <source>Successfully deactivated provider %s for user %s</source>
-        <target>Provider %s fuer User %s erfolgreich deaktiviert, nice!</target>
+        <target>Provider %s für User %s erfolgreich deaktiviert, nice!</target>
       </trans-unit>
     </body>
   </file>

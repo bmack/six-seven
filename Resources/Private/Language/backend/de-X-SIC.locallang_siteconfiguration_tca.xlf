@@ -25,15 +25,15 @@
       </trans-unit>
       <trans-unit id="site.baseVariants">
         <source>Variants for the Entry Point</source>
-        <target>Varianten fuer den Eingang (Alternate Skins)</target>
+        <target>Varianten für den Eingang (Alternate Skins)</target>
       </trans-unit>
       <trans-unit id="site.dependencies">
         <source>Sets for this Site</source>
-        <target>Sets fuer diese Site (das Squad)</target>
+        <target>Sets für diese Site (das Squad)</target>
       </trans-unit>
       <trans-unit id="site.languages">
         <source>Available Languages for this Site</source>
-        <target>Verfuegbare Sprachen fuer diese Site (Multilingual Flex)</target>
+        <target>Verfügbare Sprachen für diese Site (Multilingual Flex)</target>
       </trans-unit>
       <trans-unit id="site.languages.choosePreset">
         <source>Choose a preset...</source>
@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="site_language.ctrl.title">
         <source>Language Configuration for a Site</source>
-        <target>Sprach-Konfig fuer ne Site, sheesh</target>
+        <target>Sprach-Konfig für ne Site, sheesh</target>
       </trans-unit>
       <trans-unit id="site_language.language">
         <source>Language</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="site_language.hreflang">
         <source>Alternative attribute for "hreflang" tags</source>
-        <target>Alternatives Attribut fuer "hreflang" Tags (SEO-Flex)</target>
+        <target>Alternatives Attribut für "hreflang" Tags (SEO-Flex)</target>
       </trans-unit>
       <trans-unit id="site_language.enabled">
         <source>Visible in Frontend</source>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="site_language.flag">
         <source>Flag icon</source>
-        <target>Flaggen-Icon (Laender-Drip)</target>
+        <target>Flaggen-Icon (Länder-Drip)</target>
       </trans-unit>
       <trans-unit id="site_language.flag.group.colors">
         <source>Colors</source>
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="site_language.flag.group.countries">
         <source>Countries</source>
-        <target>Laender (world tour)</target>
+        <target>Länder (world tour)</target>
       </trans-unit>
       <trans-unit id="site_language.flag.group.misc">
         <source>Miscellaneous</source>
@@ -145,15 +145,15 @@
       </trans-unit>
       <trans-unit id="site_language.fallbackType.strict">
         <source>Strict: Show only translated content, based on overlays</source>
-        <target>Streng: Zeig nur uebersetzten Content, alles andere wird geghostet</target>
+        <target>Streng: Zeig nur übersetzten Content, alles andere wird geghostet</target>
       </trans-unit>
       <trans-unit id="site_language.fallbackType.fallback">
         <source>Fallback: Show default language if no translation exists</source>
-        <target>Fallback: Zeig die Default-Sprache wenn keine Uebersetzung da ist, easy</target>
+        <target>Fallback: Zeig die Default-Sprache wenn keine Übersetzung da ist, easy</target>
       </trans-unit>
       <trans-unit id="site_language.fallbackType.free">
         <source>Free mode: Ignore translation and overlay concept, only show data from selected language</source>
-        <target>Yolo-Modus: Ignorier das ganze Uebersetzungs-Ding, zeig nur Daten der gewaehlten Sprache</target>
+        <target>Yolo-Modus: Ignorier das ganze Übersetzungs-Ding, zeig nur Daten der gewählten Sprache</target>
       </trans-unit>
       <trans-unit id="site_language.fallbacks">
         <source>Fallback to other Language(s) - order is important!</source>
@@ -181,7 +181,7 @@
       </trans-unit>
       <trans-unit id="site_base_variant.condition.applicationContext">
         <source>Application Context</source>
-        <target>Application Context (wo laeuft's)</target>
+        <target>Application Context (wo läuft's)</target>
       </trans-unit>
       <trans-unit id="site_base_variant.condition.environmentVariable">
         <source>Environment Variable</source>
@@ -225,7 +225,7 @@
       </trans-unit>
       <trans-unit id="site_errorhandling.errorHandler.fluid">
         <source>Fluid Template</source>
-        <target>Fluid Template (fluessig wie Wasser)</target>
+        <target>Fluid Template (flüssig wie Wasser)</target>
       </trans-unit>
       <trans-unit id="site_errorhandling.errorHandler.page">
         <source>Show Content from Page</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="site_errorhandling.loginRedirectParameter">
         <source>URL parameter for redirect</source>
-        <target>URL-Parameter fuer die Umleitung</target>
+        <target>URL-Parameter für die Umleitung</target>
       </trans-unit>
       <trans-unit id="site_errorhandling.loginRedirectParameter.return_url">
         <source>return_url (used by e.g. ext:felogin)</source>

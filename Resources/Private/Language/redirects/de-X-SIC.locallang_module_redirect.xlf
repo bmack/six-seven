@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="noAccessPermissions.message">
         <source>You are not allowed to list or modify redirects due to insufficient permissions.</source>
-        <target>Du darfst Redirects weder auflisten noch aendern weil dir die Rechte fehlen. Keine Aura hier.</target>
+        <target>Du darfst Redirects weder auflisten noch ändern weil dir die Rechte fehlen. Keine Aura hier.</target>
       </trans-unit>
       <trans-unit id="redirect_not_found_with_filter.title">
         <source>No redirects found</source>
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="filter.protected">
         <source>Protected</source>
-        <target>Geschuetzt</target>
+        <target>Geschützt</target>
       </trans-unit>
       <trans-unit id="filter.protected.showAll">
         <source>Show All</source>
@@ -85,15 +85,15 @@
       </trans-unit>
       <trans-unit id="filter.protected.unprotected">
         <source>unprotected</source>
-        <target>ungeschuetzt</target>
+        <target>ungeschützt</target>
       </trans-unit>
       <trans-unit id="filter.protected.protected">
         <source>protected</source>
-        <target>geschuetzt</target>
+        <target>geschützt</target>
       </trans-unit>
       <trans-unit id="filter.integrityStatus">
         <source>Integrity status</source>
-        <target>Integritaetsstatus</target>
+        <target>Integritätsstatus</target>
       </trans-unit>
       <trans-unit id="filter.integrityStatus.showAll">
         <source>Show All</source>
@@ -109,7 +109,7 @@
       </trans-unit>
       <trans-unit id="filter.resetButton">
         <source>Reset</source>
-        <target>Zuruecksetzen</target>
+        <target>Zurücksetzen</target>
       </trans-unit>
       <trans-unit id="record_disabled">
         <source>Disabled</source>
@@ -137,15 +137,15 @@
       </trans-unit>
       <trans-unit id="hit_reset">
         <source>Reset hit counter</source>
-        <target>Hit-Zaehler zuruecksetzen</target>
+        <target>Hit-Zähler zurücksetzen</target>
       </trans-unit>
       <trans-unit id="hit_reset.confirm.title">
         <source>Reset the hit counter of this record?</source>
-        <target>Hit-Zaehler dieses Records zuruecksetzen?</target>
+        <target>Hit-Zähler dieses Records zurücksetzen?</target>
       </trans-unit>
       <trans-unit id="hit_reset.confirm.content">
         <source>Are you sure you want to reset the hit counter of this record?</source>
-        <target>Willst du fr fr den Hit-Zaehler dieses Records zuruecksetzen?</target>
+        <target>Willst du fr fr den Hit-Zähler dieses Records zurücksetzen?</target>
       </trans-unit>
       <trans-unit id="hit_last_never">
         <source>Never</source>
@@ -161,7 +161,7 @@
       </trans-unit>
       <trans-unit id="overview.tableHead.protected">
         <source>Protected</source>
-        <target>Geschuetzt</target>
+        <target>Geschützt</target>
       </trans-unit>
       <trans-unit id="overview.tableField.protected.no">
         <source>No</source>

@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="selectRecords">
         <source>Select Records</source>
-        <target>Datensaetze auswaehlen</target>
+        <target>Datensätze auswählen</target>
       </trans-unit>
       <trans-unit id="addToList">
         <source>Add to list...</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="clickToRedrawFullSize">
         <source>Image is larger than shown here! Click to redraw page with full sized images.</source>
-        <target>Bild ist groesser als hier gezeigt! Klick fuer Vollbild, Digga.</target>
+        <target>Bild ist größer als hier gezeigt! Klick für Vollbild, Digga.</target>
       </trans-unit>
       <trans-unit id="findDragDrop">
         <source>Find and click on your image then drag it into the editor in the main window!</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="invalidChar">
         <source>ERROR: Invalid character found in file path (%s). Cannot add the file!</source>
-        <target>FEHLER: Ungueltiges Zeichen im Dateipfad gefunden (%s). Datei kann nicht hinzugefuegt werden, oof!</target>
+        <target>FEHLER: Ungültiges Zeichen im Dateipfad gefunden (%s). Datei kann nicht hinzugefügt werden, oof!</target>
       </trans-unit>
       <trans-unit id="toggleSelection">
         <source>Toggle selection</source>
@@ -185,15 +185,15 @@
       </trans-unit>
       <trans-unit id="recordSelector">
         <source>Record selector</source>
-        <target>Datensatz-Waehler</target>
+        <target>Datensatz-Wähler</target>
       </trans-unit>
       <trans-unit id="fileSelector">
         <source>File selector</source>
-        <target>Datei-Waehler</target>
+        <target>Datei-Wähler</target>
       </trans-unit>
       <trans-unit id="folderSelector">
         <source>Folder selector</source>
-        <target>Ordner-Waehler</target>
+        <target>Ordner-Wähler</target>
       </trans-unit>
       <trans-unit id="createFolder">
         <source>Create new folder</source>
@@ -221,7 +221,7 @@
       </trans-unit>
       <trans-unit id="no_files_search">
         <source>No files found in %s for "%s"</source>
-        <target>Keine Dateien in %s fuer "%s" gefunden</target>
+        <target>Keine Dateien in %s für "%s" gefunden</target>
       </trans-unit>
       <trans-unit id="recordNotFound">
         <source>Record not found</source>

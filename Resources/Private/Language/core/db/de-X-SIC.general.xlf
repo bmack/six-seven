@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="editlock">
         <source>Editable for Admins Only</source>
-        <target>Nur fuer Sigma-Admins flexbar</target>
+        <target>Nur für Sigma-Admins flexbar</target>
       </trans-unit>
       <trans-unit id="enabled">
         <source>Enabled</source>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="l18n_parent">
         <source>Transl.Orig</source>
-        <target>Uebersetzungs-OG</target>
+        <target>Übersetzungs-OG</target>
       </trans-unit>
       <trans-unit id="language">
         <source>Language</source>

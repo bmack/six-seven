@@ -37,11 +37,11 @@
       </trans-unit>
       <trans-unit id="ajax.error.message.resourceNameNotDifferent">
         <source>The resource %s already has this name. No changes were made.</source>
-        <target>Die Ressource %s hat schon diesen Namen. Nix veraendert.</target>
+        <target>Die Ressource %s hat schon diesen Namen. Nix verändert.</target>
       </trans-unit>
       <trans-unit id="ajax.error.message.resourceNotAvailableToUpload">
         <source>No resource was selected to be uploaded.</source>
-        <target>Keine Ressource zum Hochladen ausgewaehlt, oof.</target>
+        <target>Keine Ressource zum Hochladen ausgewählt, oof.</target>
       </trans-unit>
       <trans-unit id="ajax.error.message.resourceNotRenamed">
         <source>The resource %s could not be renamed.</source>

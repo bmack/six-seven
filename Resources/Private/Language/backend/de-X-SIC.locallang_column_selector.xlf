@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="showColumnsSelection">
         <source>Show columns for %s</source>
-        <target>Spalten fuer %s zeig mal</target>
+        <target>Spalten für %s zeig mal</target>
       </trans-unit>
       <trans-unit id="updateColumnView">
         <source>Update</source>

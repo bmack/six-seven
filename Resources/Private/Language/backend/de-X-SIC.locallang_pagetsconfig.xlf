@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig.description">
         <source>The page TSconfig module lets you manage configuration overrides for editors and option display throughout the Backend.</source>
-        <target>Yo, das Page-TSconfig-Modul laesst dich Konfig-Overrides fuer Redakteure und Backend-Optionen managen, Bre.</target>
+        <target>Yo, das Page-TSconfig-Modul lässt dich Konfig-Overrides für Redakteure und Backend-Optionen managen, Bre.</target>
       </trans-unit>
       <trans-unit id="module.pagetsconfig.shortDescription">
         <source>Page TSconfig tools</source>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig_pages.description">
         <source>Global overview of all pages in the database containing page TSconfig.</source>
-        <target>Globaler Ueberblick ueber alle Seiten in der Datenbank die Page TSconfig haben, fr fr.</target>
+        <target>Globaler Überblick über alle Seiten in der Datenbank die Page TSconfig haben, fr fr.</target>
       </trans-unit>
       <trans-unit id="module.pagetsconfig_pages.noRecords">
         <source>There are no pages containing page TSconfig settings in the page configuration.</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig_active.description">
         <source>Overview of the current page TSconfig of the system. A targeted search for values and names is possible. The list of results can also be filtered according to conditions.</source>
-        <target>Ey, hier siehst du das aktuelle Page TSconfig. Du kannst gezielt nach Werten und Namen suchen. Die Ergebnisliste laesst sich auch nach Conditions filtern, easy.</target>
+        <target>Ey, hier siehst du das aktuelle Page TSconfig. Du kannst gezielt nach Werten und Namen suchen. Die Ergebnisliste lässt sich auch nach Conditions filtern, easy.</target>
       </trans-unit>
       <trans-unit id="module.pagetsconfig_active.displayConstantSubstitutions">
         <source>Substitute constants in page TSconfig</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig_includes.description">
         <source>Overview of the included TypoScript and include order for the current page.</source>
-        <target>Ueberblick ueber eingebundenes TypoScript und die Include-Reihenfolge fuer die aktuelle Seite, Homie.</target>
+        <target>Überblick über eingebundenes TypoScript und die Include-Reihenfolge für die aktuelle Seite, Homie.</target>
       </trans-unit>
       <trans-unit id="module.pagetsconfig_includes.siteSettings">
         <source>Constants from site settings</source>
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig_includes.syntaxError.type.line.invalid">
         <source>Invalid line in "%1$s", line number "%2$s"</source>
-        <target>Ey, ungueltige Zeile in "%1$s", Zeile "%2$s" - das geht so nicht</target>
+        <target>Ey, ungültige Zeile in "%1$s", Zeile "%2$s" - das geht so nicht</target>
       </trans-unit>
       <trans-unit id="module.pagetsconfig_includes.syntaxError.type.brace.excess">
         <source>Brace in excess in "%1$s", line number "%2$s"</source>
@@ -197,7 +197,7 @@
       </trans-unit>
       <trans-unit id="module.pagetsconfig_includes.tree.child.btn.sourceCodeWithResolvedIncludes">
         <source>Show code including possible includes/imports</source>
-        <target>Code mit aufgeloesten Includes/Imports zeig mal, Bre</target>
+        <target>Code mit aufgelösten Includes/Imports zeig mal, Bre</target>
       </trans-unit>
     </body>
   </file>

@@ -5,15 +5,15 @@
     <body>
       <trans-unit id="step.doktype.headline">
         <source>Select page type</source>
-        <target>Seitentyp auswaehlen, Digga</target>
+        <target>Seitentyp auswählen, Digga</target>
       </trans-unit>
       <trans-unit id="step.doktype.not_allowed_doktype.title">
         <source>Invalid page type</source>
-        <target>Ungueltiger Seitentyp, oof</target>
+        <target>Ungültiger Seitentyp, oof</target>
       </trans-unit>
       <trans-unit id="step.doktype.not_allowed_doktype.message">
         <source>The selected page type is not allowed here. Please choose a different type.</source>
-        <target>Der gewaehlte Seitentyp ist hier nicht erlaubt. Waehl nen anderen, Brudi.</target>
+        <target>Der gewählte Seitentyp ist hier nicht erlaubt. Wähl nen anderen, Brudi.</target>
       </trans-unit>
       <trans-unit id="step.doktype.filter.noResults">
         <source>No matching page type found.</source>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="step.doktype.load_error">
         <source>Failed to fetch available page types. This is likely due to missing permissions.</source>
-        <target>Verfuegbare Seitentypen konnten nicht geladen werden. Liegt wahrscheinlich an fehlenden Berechtigungen, kein Rizz.</target>
+        <target>Verfügbare Seitentypen konnten nicht geladen werden. Liegt wahrscheinlich an fehlenden Berechtigungen, kein Rizz.</target>
       </trans-unit>
       <trans-unit id="step.setup">
         <source>Page Setup</source>

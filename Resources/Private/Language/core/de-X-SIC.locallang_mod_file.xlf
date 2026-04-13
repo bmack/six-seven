@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="sys_file_storage.localDriverFlexform_baseUri_placeholder">
         <source>Use this URI to build the public URL of files, instead of deriving the URI from base path</source>
-        <target>Diese URI fuer die oeffentliche URL von Dateien nutzen, statt sie aus dem Basispfad abzuleiten</target>
+        <target>Diese URI für die öffentliche URL von Dateien nutzen, statt sie aus dem Basispfad abzuleiten</target>
       </trans-unit>
       <trans-unit id="sys_file_storage.localDriverFlexform_pathType">
         <source>Path type</source>
@@ -41,11 +41,11 @@
       </trans-unit>
       <trans-unit id="role_folder_temporary">
         <source>Temporary files</source>
-        <target>Temporaere Dateien</target>
+        <target>Temporäre Dateien</target>
       </trans-unit>
       <trans-unit id="role_folder_recycler">
         <source>Recycler</source>
-        <target>Muell-Ecke</target>
+        <target>Müll-Ecke</target>
       </trans-unit>
     </body>
   </file>

@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="description">
         <source>Description for search engines</source>
-        <target>Was geht hier (fuer Suchmaschinen)</target>
+        <target>Was geht hier (für Suchmaschinen)</target>
       </trans-unit>
       <trans-unit id="doktype">
         <source>Type</source>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="nav_hide">
         <source>Page enabled in menus</source>
-        <target>Seite in Menues am Start</target>
+        <target>Seite in Menüs am Start</target>
       </trans-unit>
       <trans-unit id="nav_title">
         <source>Alternative Navigation Title</source>

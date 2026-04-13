@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="local_driver.base_uri_placeholder">
         <source>Use this URI to build the public URL of files, instead of deriving the URI from base path</source>
-        <target>Diese URI nutzen um die oeffentliche URL der Dateien zu bauen, statt sie vom Basis-Pfad abzuleiten, Bre</target>
+        <target>Diese URI nutzen um die öffentliche URL der Dateien zu bauen, statt sie vom Basis-Pfad abzuleiten, Bre</target>
       </trans-unit>
       <trans-unit id="local_driver.path_type">
         <source>Path type</source>
