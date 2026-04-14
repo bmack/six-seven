@@ -61,14 +61,6 @@ final class LoginLanguageOverride implements MiddlewareInterface
             $request = $newRequest;
         }
 
-        if ($loginLanguage === self::TARGET_LOCALE || ($request->getCookieParams()[self::COOKIE_NAME] ?? '') === self::TARGET_LOCALE) {
-            // Login-Hintergrundbild setzen
-            // Bildquelle: https://images.ard.de/image/ce23b580-f0cd-4299-b174-d878bf490566/AAABmnZYgn8/AAABnSSvdEs/16x7/susanne-daubner-112.webp?width=1920
-            $GLOBALS['TYPO3_CONF_VARS']['EXTENSIONS']['backend']['loginBackgroundImage'] = 'EXT:six_seven/Resources/Public/Images/susanne-daubner-112-cropped.jpg';
-            $GLOBALS['TYPO3_CONF_VARS']['EXTENSIONS']['backend']['loginFootnote'] = 'Susanne Daubner, Image (c) ARD';
-            $GLOBALS['TYPO3_CONF_VARS']['EXTENSIONS']['backend']['loginLogoAlt'] = 'Susanne Daubner';
-        }
-
         $response = $handler->handle($request);
 
         if (is_string($queryLoginLanguage) && preg_match('/^[a-zA-Z0-9\-]+$/', $queryLoginLanguage)) {
