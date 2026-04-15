@@ -1057,7 +1057,7 @@
       </trans-unit>
       <trans-unit id="file_upload.actions.rename">
         <source>Rename</source>
-        <target>Umbenennen</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="file_upload.actions.override">
         <source>Overwrite</source>
@@ -1141,7 +1141,7 @@
       </trans-unit>
       <trans-unit id="file_rename.title">
         <source>Rename</source>
-        <target>Umbenennen</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="file_rename.label">
         <source>New filename</source>
@@ -1153,7 +1153,7 @@
       </trans-unit>
       <trans-unit id="file_rename.button.rename">
         <source>Rename</source>
-        <target>Umbenennen</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="folder_rename.label">
         <source>New folder name</source>
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="flushPageCachesTitle">
         <source>Flush frontend caches</source>
-        <target>Frontend-Caches flushen</target>
+        <target>Frontend-Caches yeeten</target>
       </trans-unit>
       <trans-unit id="flushPageCachesDescription">
         <source>Clear frontend and page-related caches.</source>
@@ -1689,11 +1689,11 @@
       </trans-unit>
       <trans-unit id="cm.rename">
         <source>Rename</source>
-        <target>Umbenennen</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="cm.replace">
         <source>Replace</source>
-        <target>Ersetzen</target>
+        <target>Drueberbuegeln</target>
       </trans-unit>
       <trans-unit id="cm.open">
         <source>Open</source>

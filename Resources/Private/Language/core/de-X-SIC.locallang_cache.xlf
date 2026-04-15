@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="group.pages.label">
         <source>Flush frontend caches</source>
-        <target>Frontend-Caches flushen</target>
+        <target>Frontend-Caches yeeten</target>
       </trans-unit>
       <trans-unit id="group.pages.description">
         <source>Clear frontend and page-related caches.</source>

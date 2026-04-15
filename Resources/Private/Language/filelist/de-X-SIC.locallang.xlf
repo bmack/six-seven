@@ -61,11 +61,11 @@
       </trans-unit>
       <trans-unit id="file_rename.php.pagetitle">
         <source>Rename</source>
-        <target>Umbenennen, Digga</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="file_rename.php.submit">
         <source>Rename</source>
-        <target>Umbenennen, Brudi</target>
+        <target>Umtaufen, Alter</target>
       </trans-unit>
       <trans-unit id="file_rename.php.label.target.file">
         <source>New file name</source>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="file_replace.button.replace">
         <source>Replace</source>
-        <target>Ersetzen, Digga</target>
+        <target>Drueberbuegeln</target>
       </trans-unit>
       <trans-unit id="file_edit.php.pagetitle">
         <source>Edit</source>

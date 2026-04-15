@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="FileUtility.NoFileWasUploadedForReplacing">
         <source>No file was uploaded for replacement.</source>
-        <target>Keine Datei zum Ersetzen hochgeladen.</target>
+        <target>Keine Datei zum Drueberbuegeln hochgeladen.</target>
       </trans-unit>
       <trans-unit id="FileUtility.NoNameForNewFolderGiven">
         <source>No name was provided for the new folder.</source>
