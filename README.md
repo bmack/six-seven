@@ -51,7 +51,7 @@ Diese Extension löst dieses Problem ein für alle Mal. No cap.
 ## Installation
 
 ```bash
-composer req bmack/cms-six-seven
+composer req bmack/six-seven
 ```
 
 Alternativ den Ordner `six_seven` nach `typo3conf/ext/` kopieren und im Extension Manager aktivieren.
