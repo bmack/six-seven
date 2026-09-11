@@ -50,6 +50,7 @@ final class LoginLanguageOverride implements MiddlewareInterface
                 $request->getBody(),
                 $request->getHeaders(),
                 $serverParams,
+                $request->getUploadedFiles(),
             );
             $newRequest = $newRequest
                 ->withQueryParams($request->getQueryParams())
